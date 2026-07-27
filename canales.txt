@@ -1,568 +1,447 @@
-La 1 HD,La 1 720
-La 2,La 2 720
-Antena 3 HD,Antena 3 720
-Cuatro HD,Cuatro 720
-Telecinco HD,Telecinco 720
-La Sexta HD,La Sexta 720
-M+ Estrenos HD,M+ Estrenos 720
-M+ Hits HD,M+ Hits 720
-M+ Originales HD,M+ Originales 720
-M+ Clásicos HD,M+ Clásicos 720
-M+ Acción HD,M+ Acción 720
-M+ Comedia HD,M+ Comedia 720
-M+ Drama HD,M+ Drama 720
-M+ Indie HD,M+ Indie 720
-M+ Cine Español,M+ Cine Español 720
-TCM HD,TCM 720
-Paramount Network,Paramount Network 720
-Be Mad,Be Mad 720
-STAR Channel HD,STAR Channel 720
-AXN HD,AXN 720
-Warner TV HD,Warner TV 720
-Comedy Central HD,Comedy Central 720
-Calle 13 HD,Calle 13 720
-Cosmo HD,Cosmo 720
-SyFy HD,SyFy 720
-Energy,Energy 720
-Factoría de Ficción,FDF 720
-Neox,Neox 720
-Caza y Pesca HD,Caza y Pesca 720
-Iberalia TV,Iberalia TV 720
-Iberalia pesca,Iberalia pesca 720
-Iberalia caza,Iberalia caza 720
-National Geographic HD,Natgeo 720
-Nat Geo Wild HD,Nat Geo Wild 720
-Discovery,Discovery 720
-Divinity,Divinity 720
-Nova,Nova 720
-Nickelodeon HD,Nickelodeon 720
-Dreamworks HD,Dreamworks 720
-Boing,Boing 720
-Clan,Clan 720
-HIT TV,HIT TV 720
-MTV España,MTV España 720
-MTV 80s,MTV 80s 720
-MTV 90s,MTV 90s 720
-MTV 00s,MTV 00s 720
-MTV Hits,MTV Hits 720
-Club MTV,Club MTV 720
-MTV Live,MTV Live 720
-MTV Classic,MTV Classic 720
-24 Horas,24 Horas 720
-Canal Sur Andalucía,Canal Sur Andalucía 720
-ETB1,ETB1 720
-ETB2,ETB2 720
-Canal Extremadura,Canal Extremadura 720
-Telemadrid,Telemadrid 720
-Atreseries,Atreseries 720
-Real Madrid TV,Real Madrid TV
-DMAX,DMAX 720
-Mega,Mega España 720,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png
-Ten,Ten 720
-CGTN Español,CGTN Español 720
-EWTN,EWTN 720
-M+ LaLiga HD,M+ LaLiga 720
-DAZN LaLiga HD,DAZN LaLiga 720
-DAZN LaLiga 2 HD,DAZN LaLiga 2 720
-M+ Liga de Campeones HD,M+ Liga de Campeones 720
-DAZN F1 HD,DAZN F1 720
-DAZN 1 HD,DAZN 1 720
-DAZN 2 HD,DAZN 2 720
-DAZN 3 HD,DAZN 3 720
-DAZN 4 HD,DAZN 4 720
-Eurosport 1 HD,Eurosport 1 720
-Eurosport 2,Eurosport 2 720
-GOL,GOL 720
-Teledeporte,Teledeporte 720
-Squirrel TV,Squirrel TV 720
-Cuéntame,Cuéntame 720
-AMC Break,AMC Break 720
-Odisea,Odisea 720
-AMC HD,AMC 720
-AMC Crime,AMC Crime 720
-Historia,Historia 720
-XTRM,XTRM 720
-Canal Hollywood HD,Canal Hollywood 720
-VinTV,VinTV 720
-Somos,Somos 720
-Canal Cocina,Canal Cocina 720
-Decasa,Decasa 720
-BOM Cine,BOM Cine 720
-BuenViaje,BuenViaje 720
-Cines Verdi TV,Cines Verdi TV 720
-Runtime Thriller-Terror,Runtime Thriller-Terror 720
-Runtime Comedia,Runtime Comedia 720
-Runtime Cine y Series,Runtime Cine y Series 720
-Runtime Series,Runtime Series 720
-Runtime Acción,Runtime Acción 720
-Runtime Crimen,Runtime Crimen 720
-Runtime Romance,Runtime Romance 720
-RunTime Clásicos,RunTime Clásicos 720
-RunTime Familia,RunTime Familia 720
-TR3CE,TR3CE 720
-Tennis Channel,Tennis Channel 720
-NatureTime,NatureTime 720
-Vivir con gatos,Vivir con gatos 720
-Vivir con perros,Vivir con perros 720
-Love the Planet,Love the Planet 720
-Love Wine,Love Wine 720
-8madrid TV,8madrid TV 720
-Cine Español (Rakuten TV),Rakuten Cine Español.be
-Comedias (Rakuten TV),Rakuten Comedia.be
-Crimen (Rakuten TV),Rakuten Crimen.be
-Acción (Rakuten TV),Rakuten Accion.be
-Dramas (Rakuten TV),Rakuten Drama.be
-Películas Románticas (Rakuten TV),Rakuten Romance.be
-Pelis Top (Rakuten TV),Rakuten Top.be
-ES:.En.Familia.-.Rakuten.TV.be,Rakuten Familia.be
-En Familia (Rakuten TV),En Familia (Rakuten TV) 720
-Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV) 720
-Thrillers (Rakuten TV),Thrillers (Rakuten TV) 720
-FIFA+,FIFA+ 720
-Star TVE HD,Star TVE 720
-Sky Sports 16,Sky Sports 16 720
-Atrescine,Atrescine 720
-TUDN (Estados Unidos),TUDN USA 720
-TUDN.us2,TUDN USA.us
-Canal.TUDN.(México).mx,TUDN MX.mx
-4 de Costa Rica,Repretel 4
-6 de Costa Rica,Repretel o4
-Canal.6.de.Costa.Rica.sv,Repretel 6
-Canal.7.de.Costa.Rica.(Teletica).sv,Teletica
-Canal.Multimedios.(Costa.Rica).sv,Multimedios 8
-Canal.11.de.Costa.Rica.sv,Repretel 11
-Canal.13.de.Costa.Rica.sv,Sinart canal 13
-FUTV,FUTV.ms
-Canal.FUTV.sv,Canal FUTV.sv
-Canal.Tigo.Sports.(Costa.Rica).sv,Tigo Sports.sv
-Canal.3.de.Guatemala.sv,3 de Guatemala.sv
-Canal.7.de.Guatemala.sv,7 de Guatemala.sv
-Canal.11.de.Guatemala.sv,11 de Guatemala.sv
-Canal.13.de.Guatemala.sv,13 de Guatemala.sv
-Canal.Antigua.(Guatemala).sv,Canal Antigua.sv
-Canal.Tigo.Sports.(Guatemala).sv,Tigo Sports Guate.sv
-Canal.2.de.El.Salvador.sv,2 de El Salvador.sv
-Canal.4.de.El.Salvador.sv,4 de El Salvador.sv
-Canal.6.de.El.Salvador.sv,6 de El Salvador.sv
-Canal.12.de.El.Salvador.sv,12 de El Salvador.sv
-Canal 19,Canal 19 SV.mi
-Canal.21.de.El.Salvador.(Megavisión).sv,21 El Salvador.sv
-VTV,VTV 35 SV.mi
-Canal.Tigo.Sports.(El.Salvador).sv,Tigo Sports El Salvador.sv
-Canal.5.El.Líder.(Honduras).sv,5 El Líder.sv
-Canal.9.de.Honduras.(Vica).sv,Vica TV.sv
-Canal.Telesistema.Informativo.(TSI).(Honduras).sv,TSI.sv
-Canal 11,Canal 11 HN.mi
-DTV,DTV HN.mi
-Hable Como Habla,HCH HN.mi
-Telecadena 7 y 4,Telecadena HN.mi
-Teleceiba,Teleceiba HN.mi
-Todo Deportes,Todo Deportes HN.mi
-Canal.2.de.Nicaragua.(Televicentro).sv,2 de Nicaragua.sv
-Canal.13.de.Nicaragua.(Viva.Nicaragua).sv,13 de Nicaragua.sv
-Canal.2.de.Panamá.(TVN-2).pa,2 de Panamá.pa
-Canal.4.de.Panamá.(RPC.TV).sv,4 de Panamá.sv
-Canal.9.de.Panamá.(TVMax).pa,TVMax.pa
-Canal.13.de.Panamá.(Telemetro).sv,Telemetro.pa
-Dreiko TV,Dreiko TV.ms
-Latino Kids Tv,Latino Kids.ms
-Canal.Atreseries.(Internacional).sv,Canal.A3series Int.sv
-Canal.BitMe.sv,BitMe.sv
-0324,Cartoonito.pu
-Semillitas,Semillitas.ms
-Pequeradio,Pequeradio.ms
-Canal.Cinema.sv,AzCinema.sv
-Canal.Cinemax.(Panregional).sv,Cinemax.sv
-Canal.Cine.Mexicano.sv,Cine Mexicano.sv
-Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
-Cine.Estelar.us2,Cine Estelar.us
-Antena 3 Internacional,A3 Int.ga
-Canal.Cine.Sony.sv,Cine Sony.sv
-Sony.co,Sony CH.sv
-Canal.CNN.en.Español.sv,CNN Español.sv
-Comedy Central Centro,Comedy Central.ga
-Canal.De.Película.sv,De Película.sv
-Canal.De.Película.Clásico.sv,De Película Clásico.sv
-Canal.Golden.Edge.sv,Golden Edge.sv
-Canal.DHE.sv,DHE.sv
-Canal.Cinecanal.(México).sv,Cinecanal.sv
-Canal.HBO.(Latinoamérica).sv,HBO.sv
-Canal.HBO.2.Latinoamérica.sv,HBO 2.sv
-Canal.HBO.Plus.sv,HBO Plus.sv
-HBO Plus,HBO Plus.ga
-HBO Pop,HBO Pop.ga
-HBO Xtreme,HBO Xtreme.ga
-Canal.HBO.Family.Latinoamérica.sv,HBO Family.sv
-Canal.HBO.Signature.Latinoamérica.sv,HBO Signature.sv
-Canal.TCM.(Panregional).sv,TCM.sv
-Space Panregional,Space.ga
-HITN,HITN.ga
-La Tele Paraguay,La Tele Paraguay.ga
-Unicanal,Unicanal PY.ga
-ABC TV,ABC TV PY.mi
-Paravisión,Paravisión PY.ms
-RPC,RPC PY.mi
-Telefuturo,Telefuturo PY.ms
-Meganoticias MX,Meganoticias MX.ga
-Canal.Discovery.Channel.(México).sv,Disc Channel.sv
-Canal.Discovery.Science.(Latinoamérica).sv,Disc Science.sv
-Canal.Discovery.Theater.(Latinoamérica).sv,Disc Theater.sv
-Canal.Discovery.Turbo.(Latinoamérica).sv,Disc Turbo.sv
-Canal.Discovery.World.Latinoamérica.sv,Disc World.sv
-Canal.National.Geographic.(Centro).sv,Natgeo.sv
-Canal.Animal.Planet.(Panregional).sv,Animal Planet Latam.sv
-Canal.History.(Panregional).sv,History Latam.sv
-Canal.History.2.(Panregional).sv,H2.sv
-0706,History F1.pu
-1706,History F2.pu
-0707,History 2.pu
-Cine.Nostalgia.us2,Cine Nostalgia.us
-Cinema.Dinamita.us2,Cinema Dinamita.us
-Canal.Disney.Channel.(Centro).sv,Disney Channel.sv
-Canal.Distrito.Comedia.sv,Distrito Comedia.sv
-Canal.E!.Entertainment.Television.(Panregional).sv,E!.Entertainment.sv
-Canal.Elgourmet.sv,Elgourmet.sv
-Canal.Azteca.7..(México).sv,Azteca 7.sv
-Canal.TV.Azteca.Corazón.sv,Az Corazón.sv
-0845,Univ. Comedy.pu,https://imagenes.gatotv.com/logos/canales/oscuros/universal_comedy-mediano.png,-3
-0843,Univ. Reality.pu
-Canal.Star.TVE.sv,Star TVE.sv
-Canal.Atreseries.(Internacional).sv,Atreseries Int.sv
-Canal.Univisión.(Latinoamérica).sv,Univision Latam.sv
-Canal.Telemundo.(Panregional).sv,Telemundo (Panregional).sv
-Canal.Universo.sv,NBC Universo.sv
-Canal.TVE.Internacional.(Televisión.Española).sv,TVE.sv
-Canal.Disney.Junior.(Norte).sv,Disney jr.sv
-Canal.Discovery.Kids.(Latinoamérica).sv,Disc. Kids.sv
-Canal.Nick.Jr..(Latinoamérica).sv,Nick jr.sv
-0310,Babyfirst.pu
-0316,Baby TV.pu
-Canal.DW.(Latinoamérica).mx,DW Español.mx
-0809,Canal USA.pu
-Canal.TLNovelas.(Latinoamérica).sv,TLNovelas.sv
-0835,TNT Novelas.pu
-Canal.Warner.TV.(Panregional).sv,Warner Latam.sv
-Canal.Estrella.TV.sv,Estrella TV.sv
-0812,Comedy Central.pu
-Comedy.Central.co,Comedy Central.co
-Canal.1.co,Canal 1.co
-Capital Colombia,Capital.ga
-Canal.Trece.co,Trece.co
-Canal.TRO.co,TRO.co
-Canal.Zoom.co,Zoom.co
-City TV,City TV.ga
-EUROPA.EUROPA.co,EUROPA EUROPA.co
-NTN24.co,NTN24.co
-Señal Colombia,Señal Colombia.ga
-Teleantioquia,Teleantioquia.ga
-Telecafé,Telecafé.ga
-Telecaribe,Telecaribe.ga
-Teleislas,Teleislas.ga
-0953,Telemedellin.pu
-Telepacífico,Telepacifico.ga
-Tro,Canal Tro.ga
-ZOOM Colombia,ZOOM Colombia.ga
-Win.Sports.co,Win Sports.co
-0430,Win Sports+.pu
-Caracol.co,Caracol.co
-CARACOL.INTERNATIONAL.us2,Caracol Internacional.us
-RCN.co,RCN.co
-RCN.HDTV.2.(RCNHD2).co,RCN HD 2.co
-NUESTRA.TELE.co,Nuestra Tele.co
-RCN.Novelas.co,RCN Novelas.co
-ESPN.co,ESPN.co
-ESPN.2.co,ESPN 2.co
-ESPN.3.co,ESPN 3.co
-ESPN.4.co,ESPN 4.co
-ESPN.5.co,ESPN 5.co
-ESPN.6.HD.co,ESPN 6.co
-ESPN.7.HD.co,ESPN 7.co
-3411,Espn Colom.pu
-Canal.ESPN.(Chile).cl,ESPN Chile.cl
-Canal.ESPN.(Argentina).ar,ESPN Arg.ar
-Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
-Canal.ESPN.(Norte).sv,ESPN Norte.sv
-Canal.ESPN.2.(Norte).sv,ESPN 2 Norte.sv
-4412,ESPN 2 Norte.pu
-1413,ESPN 3 Norte.pu
-Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
-Canal.ESPN.3.(República.Dominicana).dk,ESPN 3 Norte.do
-Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
-2415,ESPN 5 Norte.pu
-Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
-Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.sv
-Canal.ESPN.Premium.(Chile).sv,ESPN Premium.sv
-ESPN Premium,ESPN Premium.ms
-ESPN.Deportes.HD.us2,Espn Deportes.us
-Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
-Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
-Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx
-Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNB2l7S7C0IokqAMit3hmv5tmlfTdu7fq1Q&s
-FOX SPORTS 2 AR,Fox Sports 2 Sur.ms,https://www.lyngsat.com/logo/tv/ff/fox-sports-2-argentina-us-ar.png
-FOX SPORTS 3 AR,Fox Sports 3 Sur.ms,https://www.lyngsat.com/logo/tv/ff/fox-sports-3-argentina-us-ar.png
-Fox.Deportes.HD.us2,Fox Deportes.us
-Fox.Soccer.Plus.HD.us2,Fox Soccer+.us
-Sky.Sport.Premier.League.de,Sky Premier League.de
-0431,Dsports,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
-0432,Dsports 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
-0433,Dsports +,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
-Canal.TyC.Sports.ar,TyC Sports.ar
-Sky.Sports.24.mx,Sky Sports 24.mx
-Azteca Deportes,Azteca Deportes.ms
-beIN.Sports.En.Español.HD.us2,Bein ñ.us
-Retro Hits TV,Retro Hits TV.ms
-Mi TV Television Clasica,Mi TV Television Clasica.ms
-RetroX TV,RetroX TV.ms
-Teleclasica,Teleclasica.ms
+4 de Costa Rica,Canal4.cr
+6 de Costa Rica,Canal6.cr
+7 de Costa Rica Teletica,7_Teletica.pa
+Multimedios Costa Rica,Canal8.cr
+11 de Costa Rica,Canal11.cr
+13 de Costa Rica,Canal13.cr
+Enlace TBN,Enlace.cr
+Extra TV 42 de Costa Rica,Canal42.cr
+RetroX TV,RetroXTV.ms
 TeleRed,Telered.ms
-Telesistema,Telesistema CR.ms
-Tv Retro Palmares,Tv Retro Palmares.ms
-TVS Retro,TVS Retro.ms
-Voice Over Radio TV,Voice Over TV.ms
-Canal Punto 99,Punto 99.ms
-Chespirito,Chespirito.ms
-El Chapulin,El Chapulin.ms
-El Chavo,El Chavo.ms
-Classic Channel HD,Classic Channel.ms
-Maxima TV,Maxima TV.ms
-Tigueritos TV,Tigueritos TV.ms
-5 de República Dominicana Telemicro,Telemicro.ms
-Canal.Telesistema.11.(República.Dominicana).dk,Telesistema 11.do
-Canal.2.de.República.Dominicana.(Teleantillas).dk,Teleantillas.do
-Canal.15.(Digital.Quince.Telemicro).(República.Dominicana).dk,Digital 15.do
-Canal.29.de.TeleUniverso.(República.Dominicana).dk,Teleuniverso.do
-Canal.7.de.Antena.Latina.(República.Dominicana).dk,Antena 7.do
-Canal.9.de.Color.Visión.(República.Dominicana).dk,Color Vision.do
-Canal.Telecentro.(13.de.República.Dominicana).dk,Telecentro.do
-Canal.Teleunion.(República.Dominicana).dk,Teleunion.do
-Punto 2 Puerto Rico,Punto 2.ms
-Frecuencia Musical TV,Frecuencia Musical TV.ms
-Norte Informativo TV,Norte Informativo.ms
-Canal.Extra.TV.42.de.Costa.Rica.sv,Extra tv 42
-Exa TV,Exa TV.ms
-Sky Sports 1,Sky Sports 1.ms
-fox_sports_mas_hd,Canal Fox Sports + HD.ga
-Canal Fox Sports +,Fox Sports plus.ga
-Tigo Sports,Tigo Sports.ms
-Tigo Sports El Salvador,Tigo Sp Salvador
-Tigo Sports Guatemala,Tigo Sp Guate.ms
-Caliente TV,Fox MX.ms
-Canal.2.de.Panamá.(TVN-2).pa,TVN Panamá.pa
-Canal.4.de.Panamá.(RPC.TV).pa,RPC Panamá.pa
-Canal.9.de.Panamá.(TVMax).pa,TV Max Panamá.pa
-Canal.13.de.Panamá.(Telemetro).pa,Telemetro.pa
-Canal.Ecuador.TV.ec,Ecuador TV.ec
-Canal.Ecuavisa.(Ecuador).ec,Ecuavisa.ec
-Canal.Gamavisión.ec,Gamavisión.ec
-Canal.RTS.ec,RTS.ec
-Canal.TC.Televisión.ec,TC.Televisión.ec
-Teleamazonas,Teleamazonas.ga
-Canal.13.de.Chile.cl,13 de Chile.cl
-0201,24 Horas CL.pu
-0204,Telesur Noti.pu
-0207,CHV Noticias.pu
-0208,Meganoticias CL.pu
-0159,Puranoticia.pu
-Canal.Chilevisión.(CHV).cl,Chilevision.cl
-0202,CNN Chile.pu
-0214,T13.pu
-0215,CNN Int.pu
-Canal.La.Red.(Chile).cl,La Red CH.cl
-Canal.Mega.(Chile).cl,Mega Chile.cl
-Canal.TVN.(Chile).cl,TVN Chile.cl
-TV.Chile.cl,TV Chile.cl
-0103,TV+.cl
-0152,TV+2.pu
-0109,Mega2.pu
-0121,Mega Ficc.pu
-0117,TVN3.pu
-0301,NTV.pu
-0302,ETC TV.pu
-0122,13 Entretencion.pu
-0160,13 Realities.pu
-0161,13 Cultura.pu
-0162,13 Pop.pu
-0163,13 Festival.pu
-0164,13 Teleseries.pu
-0712,13 Viajes.pu
-0713,13 Cocina.pu
-0714,13 deportes.pu
-0127,Vision Plus.pu
-0178,Decima TV.pu
-0315,Canal Infantil.pu
-0401,TNT SP Prem.pu
-4411,Espn Norte.pu,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png
-0420,Claro Sports 2.pu
-0432,Dsports2.pu
-0442,AzDeportes.pu
-0443,ECDF.pu
-0508,Zoomback TV.pu
-0509,OLD Music.pu
-0535,VM Latino.pu
-0541,Telenostalgia Music.pu
-0605,Love Nature.pu
-0619,AMC Series.pu
-0636,TVE Int.pu
-0639,Cristovision.pu
-0644,Novelisima.pu
-0647,Telemundo PR.pu
-0838,Multipremier.pu
-0811,FX.pu
-0826,Cine Hispano.pu
-0827,Cine Premium.pu
-0831,Clover Ch.pu
-0846,Cinecanal.pu
-0853,FMH Family.pu
-0867,Dpelicula Clasico.pu
-0858,Claro Cinema.pu
-0849,Rewind.pu
-0904,LN+.pu
-0920,Encuentro.pu
-0935,America TV Arg.pu
-América Televisión Perú,America Perú.pe
-ATV,ATV.ga
-ATV+.(ATV+).pe,ATV+.pe
-CANAL.N.(Canal.N).pe,Canal N.pe
-GOL.PERU.HD.(GOL.PERU.HD).pe,GOL Peru.pe
-Canal.GolTV.Latinoamérica.ec,Gol TV Latam.ec
-9 Noticias Paraguay,9 Noti.ga
-Frecuencia Latina,Latina Perú.ga
-M.DEPORTES.(M.Deportes).pe,M Deportes.pe
-M.PLUS.(M.Plus).pe,M Plus.pe
-Canal.Panamericana.Televisión.sv,Panamericana.sv
-WILLAX.(Willax).pe,Willax.pe
-Cine.Mexicano.US.Feed.us2,Mexicano.us
-Cine.Latino.US.us2,Cine Latino.us
-Galavision.Cable.Network.HD.us2,Galavision Este.us
-Telemundo.Satellite.Feed.us2,Telemundo Este.us
-Telemundo.Satellite.Feed.Pacific.us2,Telemundo Pacif.us
-KVEA-DT.us_locals1,Telemundo LA.us
-KDFW-DT.us_locals1,Telemundo Dallas.us
-WSNS-DT.us_locals1,Telemundo Chicago.us
-WZDC-CD.us_locals1,Telemundo Wash.us
-Nat.Geo.Mundo.us2,Natgeo Mundo.us
-Discovery.en.Español.us2,Discovery Español.us
-Discovery.Familia.En.Español.us2,Discovery Familia.us
-History.Channel.En.Español.us2,History Español.us
-FS1.Fox.Sports.1.HD.us2,FS1.us
-FS2.Fox.Sports.2.HD.us2,FS2.us
-Fubo.Sports.us,Fubo Sports.us
-Canal.5.de.México.(XHGC).mx,Canal 5 MX.mx
-Canal.Azteca.Uno.mx,Azteca Uno.mx
-Canal.Azteca.Uno.-1.Hora.mx,Az Uno -1H.mx
-Canal.TV.Azteca.Mundo.mx,Az Int.mx
-Canal.Cinema.mx,Cinema.mx
-24/7 Canal de Noticias,24/7 CdN.mi
-0917,Canal 26 AR.pu
-América TV,América TV AR.mi
-0222,A24 AR.pu
-0912,Argentinísima Sat.pu
-0932,C5N AR.pu
-TV Pública,TV Pública AR.mi
-0916,El Nueve AR.pu
-0915,El Trece AR.pu
-0934,Cronica AR.pu
-0648,Garage Tv.pu
-0907,Multivision Arg.pu
-0936,Ciud Magazine.pu
-0939,Net TV.pu
-Encuentro,Encuentro AR.mi
-FOX Sports 2,FOX Sports 2 Ar.mi
-0643,Hispan TV.pu
-CineAr,CineAr.mi,https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp
-0633,IVC VE.pu
-LN+,LN+ AR.mi
-0909,Telefe.pu
-Telemax,Telemax AR.mi
-0905,TN AR.pu
-0403,TNT Sports.pu
-VOLVER,Volver AR.ms
-VTV,VTV UY.mi
-VTV +,VTV+ UY.cp
-CHARRUA TV,CHARRUA TV UY.cp
-KANAL D DRAMA,KANAL D UY.ns
-0113,13C CL.pu
-0114,REC TV CL.pu
-24 Horas,24 Horas CL.mi
-0108,UCV TV CL.pu
-0110,TVR CL.pu
-0133,Canal 2 San Ant.pu
-0138,Tevex.pu
-CaliTV,CaliTV CO.mi
-Canal.13.de.Colombia.(Trece).sv,Canal 13 CO.sv
-Telemicro,Telemicro DO.mi
-11 de República Dominicana,Telesistema RD.ga
-Teleunion,Teleunion RD.ga
-Television Dominicana,TV Dominicana.ga
-Canal 7 - Televisiete,Canal 7 GT.mi
-Televen,Televen VE.mi
-0628,Bethel PE.pu
-Canal.Pakapaka.ar,Pakapaka.ar
-CANAL.4.MONTECARLO..uy,Canal 4.uy
-CANAL.10.HD.uy,Canal 10.uy
-CANAL.11.HD.uy,Canal 11.uy
-CANAL.12.HD.uy,Canal 12.uy
-TV.CIUDAD.HD..uy,TV Ciudad.uy
-VTV.HD.uy,VTV.uy
-VTV+.HD.uy,VTV+.uy
-5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
-5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
-5e972a21ad709d00074195ba,Estrellas de Acción.mx
-5dcdde78f080d900098550e4,Pluto TV Cine Comedia.mx
-5dcddfcb229eff00091b6bdf,Pluto TV Cine Drama.mx
-5dd7ea2aeab5230009986735,Pluto TV Cine Romance.mx
-5ddc4e8bcbb9010009b4e84f,Pluto TV Cine Suspenso.mx
-624af40c004f8000079b784d,Pluto TV Cine Crimen.mx
-5dcddf1ed95e740009fef7ab,Pluto TV Cine Terror.mx
-5f2817d3d7573a00080f9175,Pluto TV Sci-Fi.mx
-5defde6d6c07b50009cf0757,Pluto TV  Nuestro Cine.mx
-609059dc63be6e0007b4eca6,Pluto TV Cine Clásico.mx
-5dd6ddb30a1d8a000908ed4c,Pluto TV Cine Familia.mx
-5dcde1317578340009b751d0,Pluto TV Series.mx
-5dd837642c6e9300098ad484,Pluto TV Series Latinas.mx
-5de802659167b10009e7deba,Pluto TV Series Retro.mx
-66a26a7846762a0008258d4e,Baywatch.mx
-5dcde0cc2efd2700090b7ff4,Pluto TV Novelas.mx
-5dcde197f6591d0009839e04,Pluto TV Reality.mx
-5f1abce155a03d0007718834,Comedia made in Spain.es
-5f28009b150b2500077766b8,Vaya semanita.es
-6385e82900ab2e000768a058,Pluto TV Western.es
-plex.tv.Grjngo.-.Películas.Del.Oeste.plex,Grjngo Mexico
-ES:.Grjngo.be,Grjngo España
-Starz.Encore.Westerns.SD.us2,Starz Westerns.us
-Cine Western,Cine Western.tf
-RCN Más,RCN Más.tf
-plex.tv.Hallmark.en.Español.plex,Hallmark Español.plex
-plex.tv.Cops.en.Español.plex,Cops Español.plex
-plex.tv.ARTFLIX.-.Movie.Classics.plex,Artflix.plex
-plex.tv.Oro.TV.plex,Oro TV.plex
-plex.tv.Cine.EstrellaTV.plex,Cine Estrella.plex
-plex.tv.Estrella.News.plex,Estrella News.plex
-plex.tv.C4.en.Alerta.plex,C4 Alerta.plex
-plex.tv.Always.Funny.en.Español.plex,Funny en Español.plex
-plex.tv.Always.Funny.plex,Always Funny.plex
-plex.tv.Naturaleza.plex,Naturaleza.plex
-plex.tv.Stingray.Naturescape.plex,Naturescape.plex
-plex.tv.FreeTV.Acción.plex,Free tv Accion.plex
-plex.tv.FreeTV.Banda.plex,Free tv Banda.plex
-plex.tv.FreeTV.Drama.plex,Free tv Drama.plex
-plex.tv.FreeTV.Estelar.plex,Free tv Estelar.plex
-plex.tv.FreeTV.Hits.plex,Free tv Hits.plex
-plex.tv.FreeTV.Familia.plex,Free tv Familia.plex
-plex.tv.FreeTV.Live.plex,Free tv Live.plex
-plex.tv.FreeTV.Sureño.plex,Free tv Sureño.plex
-plex.tv.FreeTV.Horror.plex,Free tv Horror.plex
-plex.tv.AMC.en.Español.plex,AMC Español.plex
-plex.tv.MyTime.Movie.Network.plex,My Time.plex
-plex.tv.Ideas.En.5.Minutos.plex,Ideas en 5 Minutos.plex
-608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela Clasicos.plex
-608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo Tv.plex
-608049aefa2b8ae93c2c3a63-685c78a77223639b1ac098a1,RCN+.plex
-608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7,Tastemade Español.plex
-608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f,Just For Laughs.plex
-608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,Conflicto TV.plex
-608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops Español.plex
-USBD2500022U5,Cine Retro.sam
-USBD2700005KL,Cine de Oro.sam
-ES2300005G7,Cine Western.sam
-USBD1700016X9,Zona TUDN.sam
+Telesistema,TelesistemaCR.ms
+Tv Retro Palmares,TvRetroPalmares.ms
+7 de Antena Latina,Antena7.do
+Azteca Guatemala,AztecaGuatemala.gt
+2 de El Salvador,Canal2.sv
+2 de Nicaragua Televicentro,Canal2Televicentro.ni
+3 de Guatemala,Canal3.gt
+4 de El Salvador,Canal4.sv
+5 El Líder,Canal5.hn
+6 de El Salvador,Canal6.sv
+6 Nica,Canal6.ni
+7 de Guatemala,Canal7-Televisiete.gt
+Canal.11.de.Guatemala.sv,Canal11-Teleonce.gt
+C11.Hon,Honduras,Canal11.hn
+12 de El Salvador,Canal12.sv
+Trecevision,Guatemala,Canal13.gt
+13 Nica,Canal13.ni
+21 de El Salvador Megavisión,Canal21.sv
+Antigua Guatemala,CanalAntigua.gt
+guatevision,Guatevision.gt
+15 Digital Quince Telemicro República Dominicana,Canal15.do
+2 de República Dominicana Teleantillas,TeleAntillas.dr
+Teleceiba.hn,Teleceiba
+VTV.hon,VTV.hn
+42ee7ce6165d5342be3e509f0afe5048,Canela.Clasicos
+02cdd68d6244543b83ff35d990891463,Canela.HollywoodyMas
+3bc1756db0ef525b9cab86edcd426c55,Canela.NarcoDrama
+b015fcbafb496320954672321e746f8a,Canela.TodoCine
+608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7,Cindie
+5dbf591219b15aa8bb3a7b73b59307f0,CineEstrella
+CINE FAMILIAR HD.py,CineFamiliar
+CINE HISPANO HD.py,CineHispano
+Cinelatino,Cinelatino.ni
+Cine Mexicano,CineMexicano.mx
+CINE PREMIUM HD.py,CinePremium
+770c7e1794505869b1ce94c84905ecea,CineRomantico
+Cine Sony,CineSONY.us
+Cinecanal Pacífico,Cinecanal.gt
+CineDinHD.Mx,CinemaDinamita
+Cinema Platino,CinemaPlatino.cr
+Cinemax Panregional,Cinemax.ni
+Cinemax,Cinemax.mx
+643054b1fc3be59477853717-62167144ab2095ca85353ad6,CinePride
+Clarocinema,ClaroCinema
+Clover.cl,CloverChannel
+DePeliHD,DePelicula.ni
+DHE,DHE.ni
+Film &amp; Arts,FilmAndArts.ni
+FilmandCo.es,FilmandCo
+1e2a4ec82eb65f729ad7484337c0bcd4,FILMEX
+f53e794f65b781ff1a0d37843c704827,FILMEX-Accion
+50cd4d6c632d5172834eb5b77fa395c6,FILMEX-Clasico
+8b2c97d22c7fed4d9d302a1796d5e009,FILMEX-Comedia
+Great.American.Family.HD.us2,GreatAmericanCountry.us
+77672e0655c5540095b1c492c91c37d3,GreatAmericanRomComs
+Hallmark.Channel.HD.us2,Hallmark.us
+Hallmark.Family.us2,HallmarkFamily.us
+Hallmark.Mystery.HD.us2,HallmarkMoviesMysteries.us
+Lifetime Panregional,Lifetime.ni
+Lifetime.Mx,Lifetime.mx
+MC.Mx,MC
+Multipr,Multipremier
+MyTime Movie Network (Rakuten TV),MyTimeMovieNetwork.es
+ES2800001G7,PlanetadeCine
+5cf968040ab7d8f181e6a68b,CinePremiere.pluto
+5cf96b1c4f1ca3f0629f4bf0,Cineenespañol.pluto
+64b9671cdac71b0008f371df,CineClásico.pluto
+60fb2f47c133270007327375,Cineaventura.pluto
+5d8d164d92e97a5e107638d2,Cineadrenalina.pluto
+687fea9a4fa995eff284a1c8,Másadrenalina.pluto
+686c1c873ffa5e0c91a85938,CineCrimen.pluto
+5d8d180092e97a5e107638d3,Cineterror.pluto
+5f513564e4622a0007c578c0,Cinecomedia.pluto
+5f5136317aedfb0007016f93,CineAmor.pluto
+5f1ac2591dd8880007bb7d6d,PlutoCineAccion
+645a309c5a0cd5000873f609,PlutoCatastrofes
+5f6a38eaa5b68b0007a00e7a,PlutoSciFi
+65ce480a78df2200131c597b,PlutoPsycho
+5f1ac8a87cd38d000745d7cf,PlutoThrillers
+5f1ac1f1b66c76000790ef27,PlutoCineEstelar
+5f1ac947dcd00d0007937c08,PlutoCineDrama
+5f1ac8099c49f600076579b2,PlutoCineComedia
+655b5d865812e80008843bd1,PlutoComediasRomanticas
+5f1ac9a2d3611d0007a844bb,PlutoCineRomantico
+676e7b4a4bd636000819c6a7,SensaCine
+61373bb45168fe000773eecd,PlutoCineClasico.ES
+60cc807324d60a0007708dc8,PlutoCinedeautor.ES
+6385e82900ab2e000768a058,PlutoWestern
+6267d4d1fb694f0007a6af0e,PlutoHorror
+Acción (Rakuten TV),RakutenAccion.es
+Cine Español (Rakuten TV),RakutenCineEspañol.es
+Comedias (Rakuten TV),RakutenComedia.es
+Dramas (Rakuten TV),RakutenDrama.es
+En Familia (Rakuten TV),RakutenEnFamilia.es
+Pelis Top (Rakuten TV),RakutenPelisTop.es
+Películas Románticas (Rakuten TV),RakutenRomance.es
+Thrillers (Rakuten TV),RakutenThrillers.es
+Runtime Comedia,RuntimeComedia.es
+Runtime Romance,RuntimeRomance.es
+Runtime Thriller-Terror,RuntimeTT.es
+349e0f0840cf21b888bff327b41a2413,Scares
+Space Panregional,Space.ni
+Studio Universal Panregional,StudioUniversal.ni
+Canal.Sundance.TV.(España).sv,SundanceTV (España)
+TCM,TCM.cr
+TNT Centroamérica y Caribe,TNT.ni
+TNT.Mx,TNT.mx
+AYM Sports,AYMSports.mx
+735c2b7253c551ae9f07b07ea5278b75,Canela.TVDeportes
+CDN Deportes,CDNDeportes
+ClaroSports.Co,ClaroSports
+ClaroSports2,ClaroSports2
+Combate,CombaTV
+CMElCanaldelaMusica.ar,ECDF
+DAZN 1,DAZN 1
+DirecTVSports.pe,DIRECTVSports.pe
+DIRECTV SPORTS +,DIRECTVSports+.pe
+ESPN Sur,ESPN.ar
+ESPN Norte,ESPN.ni
+ESPN 2 Sur,ESPN2.ar
+ESPN 2 Norte,ESPN2.ni
+ESPN 3 Sur,ESPN3.ar
+ESPN 3,ESPN3.ni
+ESPN 4 Centroamérica y Caribe,ESPN4.ni
+ESPN 4 Sur,ESPN4.ar
+ESPN 5,ESPN5.co
+ESPN 6 Sudamérica,ESPN6.pe
+ESPN 7 Perú,ESPN7.pe
+ESPN Deportes,ESPNDeportes.us
+ESPN Premium,ESPNPremium.pe
+eurosport 1,eurosport 1,Eurosport4K.es
+FIFA+,FIFAplus
+Fox Costa Rica,Fox.cr
+FOX+ Centroamérica,FoxPlus.cr
+Fox Nicaragua,Fox.ni
+FOX SPORTS AR,FOXSportsConoSur.ar
+FOX SPORTS 2 AR,FOXSports2.ar
+FOX SPORTS 3 AR,FOXSports3.ar
+Fox Sports Cono Norte,FOXSports.mx
+Fox Sports 2,FOXSports2.mx
+Fox Sports 3,FOXSports3.mx
+FUTV,FUTV
+GolPlay.es,GolPlay.es
+Golf Channel,GolfChannel.cr
+5c01df1759ee03633e7b272c,LuchaLibreAAA.pluto
+MLB.Network.HD.us2,MLBNetwork.us
+Motorvision TV,Motorvision TV
+M DEPORTES.pe,M-Deportes.pe
+Canal.Movistar.LaLiga.sv,Movistar Liga 1 ES
+NBA.TV.HD.us2,NBAtv.us
+a90a91570ce0536cbb22b591ad7e0da2,NBCSportsNOW.pluto
+262b9a3f6220e5c070cb0ab316ee1128,PBRRidePass.pluto
+PX Sports,PXSports.pe
+SkySp16.Mx,SkySports16.mx
+SkySpNews,SkySports24.mx
+Tigo Sports Guatemala,TigoSports.gt
+TNT Sports Premium.cl,TNTSportsPremium.cl
+TUDN Centroamérica,TUDN.cr
+TUDN,TUDNMexico.mx
+TUDN Estados Unidos,TUDN.us
+TyCSports.ar,TVC Deportes
+TyC Sp,TyCSports.cr
+A&amp;E Panregional,AAndE.ni
+Adrenalina Pura TV,Adrenalina Pura TV
+AMC Colombia,AMC
+MasChic.pe,AMCSeries
+Atreseries Internacional,Atreseries.ar
+AXN Andes,AXN.ni
+Claro TV.sv,ClaroTV.ni
+CineClick,CineClick
+Canal.Comedy.Central.(España).sv,Comedy Central (España)
+Comedy Central Centro,ComedyCentral.ni
+Distrito Comedia,DistritoComedia.cr
+d93912b4b21158fd95af2ceb8979c586,Dove
+31d5929928835b90af7bee669e6dd217,El_Rey_Rebel
+15cc44e50d8453e18f21ea37713319c5,ElectricNow
+Estrella TV,EstrellaTV.us
+Eurochannel,Eurochannel.pe
+Europa Europa,EuropaEuropa.pe
+BET.HD.us2,Fox.us
+FX Centro,FX.ni
+0852,FMH-Movies
+0853,FMH-Family
+0854,FMH-Kid
+Las Estrellas,LasEstrellas.mx
+5f6683cf9d615b5cb8b8545307bb86fb,LatinoVibes
+Mi TV Television Clasica,MiTV_Clasica
+mundoseries,MundoSeries
+Sony Centro,Sony.ni
+Sony Chile,Sony.cl
+Sony,Sony.mx
+Sony Movies,SONYMOVIES.uy
+Star Channel Centro,StarChannel.ni
+Syfy.es,Syfy.es
+Syfy.HD.us2,Syfy.us
+TBS.HD.us2,TBS.us
+Telemundo Puerto Rico,Telemundo.pr
+Telemundo Panregional,Telemundo.ni
+TNTSeries.lat,TNTSeries.ni
+Universal TV Panregional,UniversalTV.ni
+Universal TV,UniversalTV.mx
+UPtv.us2,UpTV.us
+USA Network,USANetwork.ni
+USA.Network.HD.(Pacific).us2,USANetwork.us
+Warner TV Panregional,WarnerTV.ni
+Warner TV,WarnerTV.mx
+608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f,BuenViaje
+Hola TV,HolaTV
+0635,AZClic
+673249433a61d400087a51ed,Construcciones-Asombrosas
+Discovery Home &amp; Health Colombia,DiscoveryHomeAndHealth.ni
+Discovery World,DiscoveryWorldLatinoamerica.ni
+E! Entertainment Television Panregional,E_EntertainmentTelevision.ni
+Elgourmet,ElGourmet.mx
+690dd10a37b131228d76d5b1,ElMueble
+USBA3700002JF,ETLive
+5dd7bdd7b320a81dd501cfac172db9c1,Homeful.es
+Sun Channel,SunChannel.co
+608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7,Tastemade-ES
+608049aefa2b8ae93c2c3a63-69a524507c245b3390e8a4dc,NatureMoments
+123go_es,123GO
+Canal.BabyFirst.TV.sv,BabyFirst
+canela.tv,CanelaKids
+Cartoon Network Atlántico Norte,CartoonNetwork
+Cartoonito Panregional,Cartoonito.ni
+Clan TVE,Clan
+Discovery Kids Latinoamerica,DiscoveryKids
+Disney Channel Centro,DisneyChannel
+Disney Junior Norte,DisneyJunior
+0309,Dreamworks.ar
+Dreiko TV,DreikoTV
+Gogoplay TV,GogoplayTV
+1303,NickJunior
+Nickelodeon Centro,Nickelodeon
+0308,Tooncast.cr
+Canal Antena 3,Antena3.es
+0856,Antena3.ni
+La 1,La1
+La 2,La2
+0637,StarTVE
+0636,TVEInternacional.cr
+0225,Arirang TV
+CGTN en Espanol,CGTNESPAÑOL.uy
+DW,DW.ni
+0643,HispanTV.ar
+RUSSIATODAY,RussiaToday.mx
+a mas,Mexico,Amas.mx
+Canal 5,Canal5.mx
+Multimedios Plus,Canal6CDMX.mx
+Canal 6,Canal6MultimediosMonterrey.mx
+Canal 14,Canal14.mx
+Azteca Mundo,TVAztecaMundo.ni
+Azteca 7,Azteca7.mx
+Azteca Uno,AztecaUno.mx
+Azteca Uno -1 Hora,AztecaUno-1.mx
+0931,ImagenTV.mx
+Adult Swim Panregional,ADULTSWIM.uy
+Anime Visión,AnimeVision
+Anime Visión Classics,AnimeVisionClassics
+0b92deed3dd556cf91c911a36e948fde,AnimeXHiDive
+AnimeStation,AnimeStation
+BitMe,BitMe.ni
+307b3b9ea321539b9688148fc97a8bfd,Crunchyroll.us
+Kanade Tv,Kanade
+Loco,Locomotion
+Magickids.ar,MagicKids
+Retro Magico,Retromágico
+TalTal TV,TALTAL
+Toonami Tv,Toonami
+Zaz TV,Zaz
+Mezzo,Mezzo
+3ee48530e00e0abe8eb40c71fc819aa0,AstroCiencia
+Animal Planet Panregional,AnimalPlanet.ni
+discoveringchina,DiscoveringChina
+Discovery Channel,DiscoveryChannel.ni
+Discovery.Channel.HD.us2,DiscoveryChannel.us
+Discovery en Español,DiscoveryEnEspanol.us
+Discovery Familia,DiscoveryFamiliaEnEspanol.us
+Discovery Science,DiscoveryScience.ni
+Discovery Theater,DiscoveryTheater.ni
+Discovery Turbo,DiscoveryTurbo.ni
+History 2 Panregional,History2.ni
+US2600019IC,Historia
+Historia y Vida,HistoriayVida
+History Panregional,History2.ni
+Love Nature,LOVENATURE.uy
+Love the Planet,LovethePlanet
+National Geographic Centro,NationalGeographic.ni
+NatureTime,NatureTime
+Odisea,Odisea.es
+6298bd10d88ef000073f16b7,SmithsonianChannel.ar
+Canal.Bandamax.sv,Bandamax
+ClaroMu,ClaroMu
+5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615,ClassicRockNetwork
+ESBA1500001C4,DeluxeLounge
+exatv.Mx,ExaTV.cr
+HTV,HTV.cr
+Canal.MTV.(Centro).sv,MTV
+Sol Música,SolMusica
+Telehit,TeleHit
+TelehtsMs,TeleHitMúsica
+643054b1fc3be59477853717-63226c03e67cf9cd9011fcdf,TraceLatina
+643054b1fc3be59477853717-6322658be67cf9cd9011fcda,TraceUrban
+ESBD230000289,VevoRetro
+Vevo.70s.us2,Vevo70s
+Vevo.80s.us2,Vevo80s
+Vevo.90s.us2,Vevo90s
+Vevo.2K.us2,Vevo2K
+Vevo.Country.us2,VevoCountry
+Vevo.Pop.us2,VevoPop
+Vevo.Rock.us2,VevoRock
+Vevo.R.andB.us2,VevoR&B
+Vevo.Reggaeton.and.Trap.us2,VevoReggaetonandTrap
+Vevo.Íconos.Latinos.us2,VevoÍconosLatinos.pluto
+24H.TVE,24TVE
+adn40,ADN40
+643054b1fc3be59477853717-682510ec0f741b077c360512,Actualidad 360
+5e46fba0c43b0d00096e5ac1,BlazeLive
+0216,BBCWORLD.uy
+0202,CNN.cl
+CNN en Español,CNNespanol.us
+Canal.CNN.Internacional.sv,CNNInternacional.cr
+euronews,Euronews
+ForoTV,FOROtv.mx
+Fox News,FoxNews.ni
+France 24 en Español,France24-ES
+tlformula,Teleformula
+24H.Cl,24Chile
+0631,AZCorazon
+KANAL D DRAMA HD.cl,KanalDDrama
+Pasiones,Pasiones.ec
+RCN Novelas,RCNNovelas.ni
+5cf96cc422df39f1a338d165,Telemundotelenovelasclasicas
+Canal.TLNovelas.(Latinoamérica).sv,TLNovelas
+TNTNovelas,TNTNovelas.cr
+db95a237643ea0eea113c6c024515df2,Todo-Novelas
+bdb3cb29453a137748dfaeadae2f9d2b,TV-Amor
+Univ Tlnovelas,UnivisionTLnovelas.us
+09430bcd30bf5b30a96ca22ecb87e3e1,VIX-GrandesParejas
+ab6cd6569bf6557a8c5d9798cfce202b,ViX-Novelasdeoro
+1d889b474b205fe385a2c552aa909b94,ViX-Novelasenfamilia
+7b5699f58b2b54be9da4d23fe354fb59,ViX-VillanosdeNovela
+396f57d10b5d5ec98648f810dcbe1f11,ViX-Novelasderomance
+0861,AVI-Rewind
+0870,A3Cine
+Cinemax.HD.us2,CineMAX.us
+ActionMAX.HD.us2,CinemaxAction.us
+5.StarMAX.HD.East.us2,CinemaxClassics.us
+MoreMax.HD.us2,CinemaxHits
+acf637e8292736265712e3be566c0e5a,CinepolisChannel
+400000069,ClassicCinema
+Golden Panregional,Golden.ni
+Golden Edge,GoldenEdge
+Golden Plus,GoldenPlus
+Golden Premier,GoldenPremier
+Golden Premier 2,GoldenPremier2
+HBO Chile,HBO.cl
+HBOHD.Sur,HBO.co
+HBO,HBO.ni
+HBO.East.us2,HBO.us
+HBO 2,BO2Latinoamerica.ni
+HBO.Comedy.HD.us2,HBOComedy.us
+HBO Family,HBOFamilyLatinoamerica.ni
+HBO.Hits.us2,HBOHits.us
+HBO Latino Este,HBOLatinoEste.ni
+HBO.Zone.HD.us2,HBOMovies.us
+HBO Mundi,HBOMundi.ni
+HBOPlHD.Mx,HBOPlus.ni 
+HBOPop.Lat,HBOPop.ni
+HBOSign.lat,HBOSignatureLatinoamerica.ni
+HBOXtremeHD.Lat,HBOXtreme.ni
+MGM.Presents.us2,MGMPresents.us
+MGM.Presents.Action.us2,MGMPresentsAction.us
+MGM.Presents:.Horror.us2,MGMPresentsHorror.us
+MGM.Presents:.Westerns.us2,MGMPresentsWesterns.us
+MGM+.HD.us2,MGM+.us
+MGM+.Drive-In.us2,MGM+DriveIn.us
+MGM+.Hits.HD.us2,MGM+Hits.us
+MGM+.Marquee.HD.us2,MGM+Marquee.us
+Pánico,Panico.cr
+USAJ26000054W,ParamountMovieChannel
+Universal Cinema,UniversalCinema
+Universal Comedy,UniversalComedy
+Universal Crime,UniversalCrime
+Universal Premiere,UniversalPremiere.uy
+1844,UniversalPremiere.ni
+Universal Reality,UniversalReality
+UniversalMovies.us,UniversalMovies.us
+M+ Acción HD,MovistarAccion
+M+ Comedia HD,MovistarComedia
+M+ Cine Español,MovistarCineEspanol
+M+ Clásicos HD,MovistarClasicos
+M+ Drama HD,MovsitarDrama
+M+ Hits HD,MovistarHits
+M+ Estrenos HD,MovistarEstrenos
+3ABN.Lat,3ABNLatino
+Daystar.Español.us2,DaystarES
+ESNE,ElSembrador
+EWTN,EWTN
+MariaVision,MariaVision
+America.ar,America.ar
+America TV,America.pe
+ATV.pe,ATV.pe
+13 cl,13 cl
+Caracol TV,Caracol
+Caracol Internacional,CaracolInternacional.cr
+c5c6a54fbd0328b108453e2537b7eee1,Caracol-Mix
+El Trece,13.ar
+Exitosa TV.pe,Exitosa.pe
+Folclore,Folklore TV
+Ec5HD.Ec,Teleamazonas.ec
+Telefe,Telefe.ar
+6838eef7b450735f1b8af2e3,ThemaTV
+WillaxTV,Willax.pe
+0917,Canal26.ar
+0918,Metro.ar
+6812206e1b3e3be031a5c363,Águila-Roja
+cf7c191b9f2a4207cf119fb095e965e7,American-Gladiators
+668c5cb4f01dbe0008dd4082,CBSenespañol.pluto
+632b606e12a67b0007c9e371,CSI:NYenespañol.pluto
+632b5950b515b000079e6b81,CSI:Miamienespañol.pluto
+3d0de33bcd7a9560562294ebf7603934,CirqueduSoleil
+a61227fe8ede21ffc0e223763ccbe42f,CuandoLosAngelesCaen
+65dded6966eec80008947157,LlamaalaComadrona
+6682bd9b8768aa0008f25be5,LosmisteriosdeMurdoch
+ce571f7e2262554b83d93cfc27d21e7c,POWERNATION_ES
+6304f530440dc90007f514d3,PoirotMissMarple
+63d7a8e5a9957100086bfc23,SouthParkVersiónOriginal
+EL GARAGE TV,ElGarageTv.ar
+Azteca Cinema,AzCinema.cl
+Frecuencia Musical TV,FrecuenciaMusical
+0939,NetTV
+0937,Telemax.ar
+0712,13Viajes
+0713,13Cocina
+0714,13Deportes
+0640,Unife.ar
