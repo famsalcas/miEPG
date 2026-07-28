@@ -63,7 +63,7 @@ f53e794f65b781ff1a0d37843c704827,FILMEX-Accion
 8b2c97d22c7fed4d9d302a1796d5e009,FILMEX-Comedia
 Great.American.Family.HD.us2,GreatAmericanCountry.us
 77672e0655c5540095b1c492c91c37d3,GreatAmericanRomComs
-Hallmark.Channel.HD.us2,Hallmark.us
+Hallmark.Channel.HD.us2,HallmarkChannel.us
 Hallmark.Family.us2,HallmarkFamily.us
 Hallmark.Mystery.HD.us2,HallmarkMoviesMysteries.us
 Lifetime Panregional,Lifetime.ni
