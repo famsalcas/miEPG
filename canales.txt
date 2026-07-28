@@ -40,6 +40,7 @@ b015fcbafb496320954672321e746f8a,Canela.TodoCine
 5dbf591219b15aa8bb3a7b73b59307f0,CineEstrella
 CINE FAMILIAR HD.py,CineFamiliar
 CINE HISPANO HD.py,CineHispano
+CINE PREMIUM HD.py,CinePremium
 Cinelatino,Cinelatino.ni
 Cine Mexicano,CineMexicano.mx
 CINE PREMIUM HD.py,CinePremium
