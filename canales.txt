@@ -43,7 +43,6 @@ CINE HISPANO HD.py,CineHispano
 CINE PREMIUM HD.py,CinePremium
 Cinelatino,Cinelatino.ni
 Cine Mexicano,CineMexicano.mx
-CINE PREMIUM HD.py,CinePremium
 770c7e1794505869b1ce94c84905ecea,CineRomantico
 Cine Sony,CineSONY.us
 Cinecanal Pacífico,Cinecanal.gt
@@ -54,7 +53,7 @@ Cinemax,Cinemax.mx
 643054b1fc3be59477853717-62167144ab2095ca85353ad6,CinePride
 Clarocinema,ClaroCinema
 Clover.cl,CloverChannel
-DePeliHD,DePelicula.ni
+DePeliHD,DePelicula.cr
 DHE,DHE.ni
 Film &amp; Arts,FilmAndArts.ni
 FilmandCo.es,FilmandCo
