@@ -111,7 +111,7 @@ Runtime Thriller-Terror,RuntimeTT.es
 349e0f0840cf21b888bff327b41a2413,Scares
 Space Panregional,Space.ni
 Studio Universal Panregional,StudioUniversal.ni
-Canal.Sundance.TV.(España).sv,SundanceTV (España)
+Canal.Sundance.TV.(España).sv,SundanceTV
 TCM,TCM.cr
 TNT Centroamérica y Caribe,TNT.ni
 TNT.Mx,TNT.mx
