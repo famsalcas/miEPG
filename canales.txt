@@ -73,11 +73,11 @@ Multipr,Multipremier
 MyTime Movie Network (Rakuten TV),MyTimeMovieNetwork.es
 ES2800001G7,PlanetadeCine
 5cf968040ab7d8f181e6a68b,CinePremiere.pluto
-5cf96b1c4f1ca3f0629f4bf0,Cineenespañol.pluto
-64b9671cdac71b0008f371df,CineClásico.pluto
+5cf96b1c4f1ca3f0629f4bf0,Cineenespanol.pluto
+64b9671cdac71b0008f371df,CineClasico.pluto
 60fb2f47c133270007327375,Cineaventura.pluto
 5d8d164d92e97a5e107638d2,Cineadrenalina.pluto
-687fea9a4fa995eff284a1c8,Másadrenalina.pluto
+687fea9a4fa995eff284a1c8,Masadrenalina.pluto
 686c1c873ffa5e0c91a85938,CineCrimen.pluto
 5d8d180092e97a5e107638d3,Cineterror.pluto
 5f513564e4622a0007c578c0,Cinecomedia.pluto
@@ -98,7 +98,7 @@ ES2800001G7,PlanetadeCine
 6385e82900ab2e000768a058,PlutoWestern
 6267d4d1fb694f0007a6af0e,PlutoHorror
 Acción (Rakuten TV),RakutenAccion.es
-Cine Español (Rakuten TV),RakutenCineEspañol.es
+Cine Español (Rakuten TV),RakutenCineEspanol.es
 Comedias (Rakuten TV),RakutenComedia.es
 Dramas (Rakuten TV),RakutenDrama.es
 En Familia (Rakuten TV),RakutenEnFamilia.es
@@ -178,7 +178,7 @@ Atreseries Internacional,Atreseries.ar
 AXN Andes,AXN.ni
 Claro TV.sv,ClaroTV.ni
 CineClick,CineClick
-Canal.Comedy.Central.(España).sv,Comedy Central (España)
+Canal.Comedy.Central.(España).sv,ComedyCentral.es
 Comedy Central Centro,ComedyCentral.ni
 Distrito Comedia,DistritoComedia.cr
 d93912b4b21158fd95af2ceb8979c586,Dove
@@ -319,7 +319,7 @@ Vevo.2K.us2,Vevo2K
 Vevo.Country.us2,VevoCountry
 Vevo.Pop.us2,VevoPop
 Vevo.Rock.us2,VevoRock
-Vevo.R.andB.us2,VevoR&B
+Vevo.R.andB.us2,VevoRandB
 Vevo.Reggaeton.and.Trap.us2,VevoReggaetonandTrap
 Vevo.Íconos.Latinos.us2,VevoÍconosLatinos.pluto
 24H.TVE,24TVE
