@@ -124,7 +124,7 @@ Combate,CombaTV
 CMElCanaldelaMusica.ar,ECDF
 DAZN 1,DAZN 1
 DirecTVSports.pe,DIRECTVSports.pe
-DIRECTV SPORTS +,DIRECTVSports+.pe
+DIRECTV SPORTS +,DIRECTVSportsPlus.pe
 ESPN Sur,ESPN.ar
 ESPN Norte,ESPN.ni
 ESPN 2 Sur,ESPN2.ar
@@ -156,7 +156,7 @@ Golf Channel,GolfChannel.cr
 MLB.Network.HD.us2,MLBNetwork.us
 Motorvision TV,Motorvision TV
 M DEPORTES.pe,M-Deportes.pe
-Canal.Movistar.LaLiga.sv,Movistar Liga 1 ES
+Canal.Movistar.LaLiga.sv,MovistarLiga1.es
 NBA.TV.HD.us2,NBAtv.us
 a90a91570ce0536cbb22b591ad7e0da2,NBCSportsNOW.pluto
 262b9a3f6220e5c070cb0ab316ee1128,PBRRidePass.pluto
@@ -171,7 +171,7 @@ TUDN Estados Unidos,TUDN.us
 TyCSports.ar,TVC Deportes
 TyC Sp,TyCSports.cr
 A&amp;E Panregional,AAndE.ni
-Adrenalina Pura TV,Adrenalina Pura TV
+Adrenalina Pura TV,AdrenalinaPuraTV
 AMC Colombia,AMC
 MasChic.pe,AMCSeries
 Atreseries Internacional,Atreseries.ar
@@ -249,7 +249,7 @@ La 1,La1
 La 2,La2
 0637,StarTVE
 0636,TVEInternacional.cr
-0225,Arirang TV
+0225,ArirangTV
 CGTN en Espanol,CGTNESPAÑOL.uy
 DW,DW.ni
 0643,HispanTV.ar
