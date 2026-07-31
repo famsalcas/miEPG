@@ -1,57 +1,198 @@
-# Fuente: https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz
-Canal.2.de.República.Dominicana.(Teleantillas).do,Canal 2 de República Dominicana (Teleantillas),https://imagenes.gatotv.com/logos/canales/oscuros/2_de_republica_dominicana-mediano.png
-Canal.5.de.República.Dominicana.(Telemicro).do,Canal 5 de República Dominicana (Telemicro),https://imagenes.gatotv.com/logos/canales/oscuros/5_republica_dominicana-mediano.png
-Canal.7.de.Antena.Latina.(República.Dominicana).do,Canal 7 de Antena Latina (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/7_republica_dominicana-mediano.png
-Canal.9.de.Color.Visión.(República.Dominicana).do,Canal 9 de Color Visión (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png
-Canal.Telesistema.11.(República.Dominicana).do,Canal Telesistema 11 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/telesistemas_11-mediano.png
-Canal.Telecentro.(13.de.República.Dominicana).do,Canal Telecentro (13 de República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana-mediano.png
-Canal.15.(Digital.Quince.Telemicro).(República.Dominicana).do,Canal 15 (Digital Quince Telemicro) (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/15_republica_dominicana-mediano.png
-Canal.29.de.TeleUniverso.(República.Dominicana).do,Canal 29 de TeleUniverso (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/29_republica_dominicana-mediano.png
-Canal.37.de.República.Dominicana.(CDN).do,Canal 37 de República Dominicana (CDN),https://imagenes.gatotv.com/logos/canales/oscuros/37_de_republica_dominicana-mediano.png
-Canal.A&amp;E.(República.Dominicana).do,Canal A&amp;E (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
-Canal.AMC.(República.Dominicana).do,Canal AMC (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
-Canal.Animal.Planet.(República.Dominicana).do,Canal Animal Planet (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
-Canal.AXN.(República.Dominicana).do,Canal AXN (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
-Canal.Cartoon.Network.(República.Dominicana).do,Canal Cartoon Network (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
-Canal.Cartoonito.(República.Dominicana).do,Canal Cartoonito (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
-Canal.CDN.Deportes.do,Canal CDN Deportes,https://imagenes.gatotv.com/logos/canales/oscuros/cdn_deportes-mediano.png
-Canal.Cinecanal.(República.Dominicana).do,Canal Cinecanal (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
-Canal.Cinemax.(República.Dominicana).do,Canal Cinemax (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
-Canal.Comedy.Central.(República.Dominicana).do,Canal Comedy Central (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png
-Canal.Discovery.Channel.(República.Dominicana).do,Canal Discovery Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
-Canal.Discovery.Home.&amp;.Health.(República.Dominicana).do,Canal Discovery Home &amp; Health (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
-Canal.Discovery.Kids.(República.Dominicana).do,Canal Discovery Kids (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
-Canal.Disney.Channel.(República.Dominicana).do,Canal Disney Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
-Canal.E!.Entertainment.Television.(República.Dominicana).do,Canal E! Entertainment Television (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
-Canal.ESPN.(República.Dominicana).do,Canal ESPN (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
-Canal.ESPN.2.(República.Dominicana).do,Canal ESPN 2 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
-Canal.ESPN.3.(República.Dominicana).do,Canal ESPN 3 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
-Canal.ESPN.4.(República.Dominicana).do,Canal ESPN 4 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png
-Canal.ESPN.5.(República.Dominicana).do,Canal ESPN 5 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png
-Canal.ESPN.6.(República.Dominicana).do,Canal ESPN 6 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png
-Canal.FX.(República.Dominicana).do,Canal FX (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
-Canal.Golden.(República.Dominicana).do,Canal Golden (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
-Canal.HBO.(República.Dominicana).do,Canal HBO (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
-Canal.History.(República.Dominicana).do,Canal History (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
-Canal.History.2.(República.Dominicana).do,Canal History 2 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
-Canal.Lifetime.(República.Dominicana).do,Canal Lifetime (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
-Canal.MTV.(República.Dominicana).do,Canal MTV (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
-Canal.National.Geographic.(República.Dominicana).do,Canal National Geographic (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
-Canal.Nick.Jr..(República.Dominicana).do,Canal Nick Jr. (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
-Canal.Nickelodeon.(República.Dominicana).do,Canal Nickelodeon (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
-Canal.Paramount.Channel.(República.Dominicana).do,Canal Paramount Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
-Canal.Sony.(República.Dominicana).do,Canal Sony (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
-Canal.Space.(República.Dominicana).do,Canal Space (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
-Canal.Star.Channel.(República.Dominicana).do,Canal Star Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
-Canal.TCM.(República.Dominicana).do,Canal TCM (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
-Canal.Telemundo.(República.Dominicana).do,Canal Telemundo (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
-Canal.Teleunion.(República.Dominicana).do,Canal Teleunion (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/teleunion-mediano.png
-Canal.Televisión.Dominicana.do,Canal Televisión Dominicana,https://imagenes.gatotv.com/logos/canales/oscuros/tv_dominicana-mediano.png
-Canal.TLC.(República.Dominicana).do,Canal TLC (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
-Canal.TNT.(República.Dominicana).do,Canal TNT (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
-Canal.TNT.Novelas.(República.Dominicana).do,Canal TNT Novelas (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
-Canal.TNT.Series.(República.Dominicana).do,Canal TNT Series (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png
-Canal.Universal.TV.(República.Dominicana).do,Canal Universal TV (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png
-Canal.Univisión.(República.Dominicana).do,Canal Univisión (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png
-Canal.USA.Network.(República.Dominicana).do,Canal USA Network (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
-Canal.Warner.TV.(República.Dominicana).do,Canal Warner TV (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
+# Fuente: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/mx.xml
+5dcde437229eff00091b6c30,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1769014514491.png
+5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción,https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png
+5e972a21ad709d00074195ba,Estrellas de Acción,https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png
+61b793ccf571b80007b7a610,Adrenalina Pura TV,https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png
+5dcdde78f080d900098550e4,Pluto TV Cine Comedia,https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG_1762281945243.png
+5dcddfcb229eff00091b6bdf,Pluto TV Cine Drama,https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG_1765466087404.png
+5dd7ea2aeab5230009986735,Pluto TV Cine Romance,https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png
+5ddc4e8bcbb9010009b4e84f,Pluto TV Cine Suspenso,https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG_1785345065229.png
+624af40c004f8000079b784d,Pluto TV Cine Crimen,https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png
+5dcddf1ed95e740009fef7ab,Pluto TV Cine Terror,https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG_1730472485648.png
+5f2817d3d7573a00080f9175,Pluto TV Sci-Fi,https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png
+62c5d80dc6de440007e033eb,Runtime,https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png
+5defde6d6c07b50009cf0757,Pluto TV  Nuestro Cine,https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png
+6806d519fea7414f33f57016,Pluto TV Cine Inspirador,https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png
+5dfcde52d28b09000a42d7a2,Pluto TV A La Mexicana,https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png
+609059dc63be6e0007b4eca6,Pluto TV Cine Clásico,https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png
+5dd6ddb30a1d8a000908ed4c,Pluto TV Cine Familia,https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1785345181603.png
+5dd6ed41526c77000941411c,Pluto TV Pre-Navidad,https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1781123305546.png
+655f62ff954b020008c91ec6,Pluto TV Series de Crimen,https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png
+63eb9255c111bc0008fe6ec4,CSI: Miami,https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png
+63eb947c4e83e70008ab877b,NCIS,https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png
+6764203df433320008836bc6,Los Asesinatos de Midsomer,https://images.pluto.tv/channels/6764203df433320008836bc6/colorLogoPNG.png
+67f960680072d6b187a0682e,Números,https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG_1747415112008.png
+6479ff1c17f5e10008ad2797,Pluto TV Series de Acción,https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png
+64ff270f30ab3300084e259c,Rookie Blue: Policías Novatos,https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png
+678aa0b3680721c77c5035dd,The Walking Dead by AMC,https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png
+5ec5761aabe4690007f6e047,Pluto TV Star Trek,https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png
+65662f8a2c46f300088a84cc,Pluto TV Series de Sci-Fi,https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png
+66b3af1c3a4ad200081c7d03,Z Nation,https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG_1785345339690.png
+67e5941f0812459cb682d9c6,Relic Hunter,https://images.pluto.tv/channels/67e5941f0812459cb682d9c6/colorLogoPNG_1745511571298.png
+5dcde1317578340009b751d0,Pluto TV Series,https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png
+655f626d57fe4a00085c7c3e,Pluto TV Series de Comedia,https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png
+655f636d954b020008c93299,Pluto TV Series de Drama,https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png
+6806d570c178637410ae4962,Pluto TV Series de Otros Continentes,https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1765466496602.png
+6185a9a88b2ce30007de5128,Pluto TV Dramas Coreanos,https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png
+6661d5424b10960008599fa3,Pluto TV Dramas Coreanos Teen,https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png
+639751f81a36b400072b8f5a,Vive Kanal D Drama,https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png
+5dd837642c6e9300098ad484,Pluto TV Series Latinas,https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png
+5de802659167b10009e7deba,Pluto TV Series Retro,https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png
+67f95fa76b11614ab0caaef3,Hechiceras,https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG_1747414259619.png
+631fb6be21b7440007b9f606,Hechizada,https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png
+68ffc086a530e036bc8f0305,Mi Bella Genio,https://images.pluto.tv/channels/68ffc086a530e036bc8f0305/colorLogoPNG_1762795921468.png
+63eb95baa99571000898a078,MacGyver,https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png
+677d93afe650a700081e5f18,Popeye,https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png
+68a3a97fd8f7693ae3f8575f,Los Pitufos,https://images.pluto.tv/channels/68a3a97fd8f7693ae3f8575f/colorLogoPNG_1760386874134.png
+5dcde0cc2efd2700090b7ff4,Pluto TV Novelas,https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1785345528364.png
+686eed4c677f2f98b4a1ccd4,Pluto TV Novelas de Otros Continentes,https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png
+69b32974814d27f4aed90fdd,Madre,https://images.pluto.tv/channels/69b32974814d27f4aed90fdd/colorLogoPNG_1775832484542.png
+6474a7958e3c0a0008b97cae,Pluto TV Novelas de México,https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1785345561974.png
+646ccdd0939a5900088a1980,Corazón,https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png
+699769fa19ac123965833fd3,Cuando los Ángeles Caen,https://images.pluto.tv/channels/699769fa19ac123965833fd3/colorLogoPNG_1773786938217.png
+604bdf4e6d0abc0007ba77ad,Sin Tetas No Hay Paraíso,https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG_1785345745095.png
+63211ba9cad976000794f988,La Selección,https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png
+69de4ad924a6d521f8b0a348,RCN Más,https://images.pluto.tv/channels/69de4ad924a6d521f8b0a348/colorLogoPNG_1776884271790.png
+6474a86917f5e100089a0c1c,Pluto TV Novelas de Venezuela,https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1785345794562.png
+698a45156dc3c71eb1ba6599,Pluto TV Amor y Mentiras,https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/colorLogoPNG_1771861302998.png
+5dcde197f6591d0009839e04,Pluto TV Reality,https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png
+64510d3ad3fdde00080951f2,MTV Drag,https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png
+5fab088b3279760007d4e4fd,MTV Pluto TV,https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png
+5de91b7ea86ee60009d89e75,MTV Reality,https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG_1783347553577.png
+61a52615cbef2500072876e2,Acapulco Shore Pluto TV,https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png
+638693db857364000781b471,MTV Con Mi Ex,https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png
+5e98a911c881310007d7aae2,MTV Ridiculousness,https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png
+620fd9f4afb9a80007a9c6d5,MTV Teen Mom,https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png
+625461ef01f27a0007976ad1,MTV Catfish,https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png
+6851b909954170e0128bc71d,MTV Ink Master,https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1783961514793.png
+5dd6d935d000120009bc1132,Pluto TV  Competencias,https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png
+6647c02422494d000804b13a,Sony One Shark Tank México,https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png
+5e3ddbd27091820009f86dd9,MasterChef México,https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1783712159843.png
+69fcaa88e022927e1c94c533,MasterChef Argentina,https://images.pluto.tv/channels/69fcaa88e022927e1c94c533/colorLogoPNG_1779731088552.png
+69fcaa71ea95ffff0987f555,MasterChef Colombia,https://images.pluto.tv/channels/69fcaa71ea95ffff0987f555/colorLogoPNG_1779730748951.png
+6095ad97351eb0000754c1e6,Hells Kitchen,https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png
+5e46e64dc73db400094b5f0b,Minuto Para Ganar,https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png
+662bf39756fc840008f25cb9,Sony One Escape Perfecto,https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png
+5ed6828192e8b3000743ef61,Wipe Out,https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png
+69fca9dd14a5dfae8875a3be,Survivor México,https://images.pluto.tv/channels/69fca9dd14a5dfae8875a3be/colorLogoPNG_1778516804340.png
+6495af324c014a000842e923,Desafío Super Humanos,https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png
+68b784d03e17b7676a0378f7,Shockwave,https://images.pluto.tv/channels/68b784d03e17b7676a0378f7/colorLogoPNG_1760108955019.png
+5dd85eac039bba0009e86d1d,Pluto TV Naturaleza,https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png
+66a92375cd0d31000847b219,Monstruos de Rio,https://images.pluto.tv/channels/66a92375cd0d31000847b219/colorLogoPNG.png
+681ba2729624e6275efe0044,NatureTime,https://images.pluto.tv/channels/681ba2729624e6275efe0044/colorLogoPNG_1785345896564.png
+5f4fed840a2764000720d966,Paisajes por Stingray,https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png
+61099f2b40d0640007fc5aa2,El Encantador de Perros,https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png
+5ddc266f80e3550009136843,Pluto TV Aventura,https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png
+62154548a2be360007cb02f0,Ice Pilots,https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png
+5dd6dc7480e3550009133d4a,Pluto TV Velocidad,https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png
+64025592953da40008bf9238,Obsesión por los Autos,https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png
+656e2536fbc15b00084ae29d,Mi Coche Clásico,https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png
+60e5ea9a9bb4200008376f76,Motorvision TV,https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png
+5df265697ec3510009df1ef0,Pluto TV Vida Real,https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG_1732044810230.png
+6419ab7c9189ce000865a469,COPS,https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png
+5f9992c685a2a80007fa414a,Dog el cazarrecompensas,https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png
+5f23102d5e239d00074b092a,Empeños a lo bestia,https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png
+6109ab25b84d6a0007504886,Pluto TV Mi Obsesión Favorita,https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png
+5ddc503ac7ef120009b101a2,Pluto TV Documentales,https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png
+69fcaaa1853a01a827bcd056,I Shouldn't Be Alive,https://images.pluto.tv/channels/69fcaaa1853a01a827bcd056/colorLogoPNG_1778856115341.png
+678533155e0e6a000828cd48,Untold Stories of the ER,https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png
+5f230e416b68ff00075b0139,Misterios Medicos,https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png
+63a084934734f30007457b2c,Smithsonian Channel Pluto TV,https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png
+5de5758e1a30dc00094fcd6c,Pluto TV Historia,https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png
+5dcde2f53449c50009b2b4dc,Pluto TV Misterios,https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png
+5f4d3696d938c900072679fd,Historias de Ultratumba,https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png
+645d1abbe1979c0008779d5a,Archivos Extraterrestres,https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png
+5dcde27ffae9520009c0c75a,Pluto TV Investiga,https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png
+6109a9f5531b840007a4a187,Cazador de Homicidas,https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png
+680bdaf54d7cf165c705f91e,Zona Investigación TV,https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1785345998479.png
+5e67d41b93312100076f3fca,Los archivos del FBI,https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png
+5efb8c19b2678b000780d032,Archivos Forenses,https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png
+697c9bc2a7ce9d5a3d83504a,Dr. G,https://images.pluto.tv/channels/697c9bc2a7ce9d5a3d83504a/colorLogoPNG_1771861519995.png
+5ea71d48af1d0b0007d837f4,The New Detectives,https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png
+5f610042272f68000867685b,Misterios sin Resolver,https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png
+62310d5a5dc9550007c6f580,CBS News 24/7,https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1778002301638.png
+619d59b7cbef25000728221c,Euronews Español,https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG_1781045575622.png
+67d9b0ebc290c9499046e88f,RCN Noticias,https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1785346064037.png
+646ccd3681844c000974d6f4,ADN Noticias,https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG_1785346155200.png
+63d2c140c111bc0008cb890b,TeleFórmula,https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png
+652e922db4b047000825f975,Milenio Televisión,https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG_1785346213587.png
+673f7446030a2c0008231bc3,C4 en Alerta,https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png
+63c6e37e636b7e0007ccb635,Pluto TV Fútbol,https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG_1777492822828.png
+5dcde07af1c85b0009b18651,Pluto TV Deportes,https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png
+65cf60d166eec80008724e6f,Azteca Deportes Premium,https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png
+6320d2755e54db000783fd87,Claro Sports Mexico,https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG_1770389965710.png
+63f7e3f9dff38e00082a57af,ITV Deportes,https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1785346272947.png
+5e98b0447665f200078caded,Pluto TV Peleas,https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png
+64f6163a30ab3300083d870e,PFL MMA,https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png
+67a52cd4ec91870008a62164,UFC,https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png
+66997d18a1b69e00082ee85f,FIFA+,https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png
+67a52c8397782f00081879aa,Top Barça,https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png
+67813f893886aa863497733d,Red Bull TV,https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png
+65df731cec9fda0008b7aa8d,South Park: Colección Cartman,https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png
+65df7272ec9fda0008b7a970,South Park: Colección Kenny,https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png
+65df73520d4561000817c29b,South Park: Colección Kyle,https://images.pluto.tv/channels/65df73520d4561000817c29b/colorLogoPNG.png
+65df72db18036500081a8292,South Park: Colección Stan,https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png
+609ae5cd48d3200007b0a98e,Comedy Central South Park,https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG_1764595225705.png
+62d0895ebe7a970008785244,Daria,https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png
+62d08af527ce19000731eaa0,La Familia del Barrio,https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png
+69fca9f9b9c0f0d444f631ca,Mr. Bean Animated,https://images.pluto.tv/channels/69fca9f9b9c0f0d444f631ca/colorLogoPNG_1778514521886.png
+699763d184235f26d5056002,Enchufe.TV,https://images.pluto.tv/channels/699763d184235f26d5056002/colorLogoPNG_1773231206751.png
+5e8397936791b30007ebb5a7,Pluto TV Humor,https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG_1785346351482.png
+5ffcc21a432945000762d06b,Comedy Central Pluto TV,https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1762352083476.png
+5ebaccf1734aaf0007142c86,FailArmy,https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png
+5ebacbcae43a6d000787b88e,The Pet Collective,https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png
+678029c654f43dad4b5c1ec0,Bromas Gags - Just for Laughs,https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png
+6320ddef274b1b0007b2ee88,Revive Gran Hermano,https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG_1762821719974.png
+646ccc7a2858cb0008127367,Azteca UNO -1 hora,https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png
+646cce4d1593940008a33f09,Azteca Internacional,https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png
+64e35aff6b1fdb0008ea8441,Imagen TV+,https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png
+652e91fd6208700008dcaf7b,Canal 6 CdMX,https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG_1785346412851.png
+68224482c5d53e1351aaf2f2,Canal Claro,https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png
+68ba0910e1d03fec7d5c084f,Al Ritmo del Jaripeo,https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/colorLogoPNG_1760471497704.png
+68b88712e777774982269ce9,Tastemade Viajes,https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png
+69fcdc73488e575cff213adc,Hermanos a la Obra,https://images.pluto.tv/channels/69fcdc73488e575cff213adc/colorLogoPNG_1778601459828.png
+64fb1f6e6625510008c00848,Homeful,https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png
+68b887c2e77777498226a0de,Tastemade Hogar,https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png
+5dcde0657444a40009cd2422,Pluto TV Estilo de Vida,https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1778796418782.png
+5f998c1fc54853000797bacd,Tastemade,https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png
+6894fc3f66f164e402f4fd14,Dulce by elGourmet,https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG_1756447016242.png
+6894febddbd49c964f3b66c8,Plato del Dia by elGourmet,https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png
+5dcde17bf6591d0009839e02,Pluto TV Anime,https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG_1785346475723.png
+5ee92e72fb286e0007285fec,Naruto,https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png
+64c92fea3c3344000869e8a9,Naruto Shippuden,https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png
+656f37f257fe4a000884dfee,Boruto: Naruto Next Generations,https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png
+6870072ca9d5c45c3e9466f1,Pokémon,https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/colorLogoPNG_1752173270400.png
+65d916a2f7f0af0008b6540d,Hunter x Hunter,https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png
+626c2ed933a2890007e91422,Death Note,https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png
+66c790f780a0af0008583aa4,JoJo’s Bizarre Adventure,https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png
+5fceaab478f2af00080ff51f,Yu-Gi-Oh,https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png
+64666345f3f5b1000882bfb4,Captain Tsubasa,https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png
+66b26665d512590008c507b7,Inuyasha,https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png
+5ff4b9ccf938f8000779eb99,One Piece,https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png
+5ff608e60e2996000768c366,Tokusato,https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png
+5ff3934600d4c7000733ff49,Pluto TV E-Sports,https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png
+5fab09a8749b1a00077d35d2,Nickelodeon Teen,https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png
+620ff0a01f9e8700076c6f9d,Nickelodeon iCarly,https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png
+5fcea93ffcf94500071c4b2f,Kenan y Kel,https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png
+5ddd7cb2cbb9010009b4fe32,Nick Jr. Club,https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png
+619d5e6a093e7c0007489211,Baby Shark TV,https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png
+5ebac49ce4dc8b00078b23bc,Babyfirst,https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png
+5dcde2ac4bc6c500094ab45b,Pluto TV Junior,https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png
+5f4d3d06fb60d8000781fce8,El Reino Infantil,https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png
+6824cda00101510f9eeaa011,Nickelodeon Clásico,https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG_1750110888810.png
+66c79221b1a34600087e264d,Hey Arnold!,https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png
+6759ee82bd523200083b4f0f,Avatar: La Leyenda de Aang,https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png
+5ea7215005d66d0007e8128a,Rugrats,https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png
+645952687cb4b100084ed52e,Nickelodeon Toons,https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG_1754038340046.png
+6254598f5083f800076d8563,Bob Esponja Pantalones Cuadrados,https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png
+6322099c822bbc00074857db,Los Padrinos Mágicos,https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG_1767810452010.png
+63dd5d7a4e83e700088fbca8,Las Tortugas Ninja,https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG_1768926025035.png
+5dd6dae8ce788b0009eaf77b,Pluto TV Kids,https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png
+6047fabfce6e8e00070bcc9f,MTV Biggest Pop,https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png
+66a11a21a79dea0008aa90ca,MTV Classic,https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png
+66a01b52a4ee27000808ea36,MTV Rocks,https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png
+62b218fc511d4b00070ddc0c,MTV Flow Latino,https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png
+63dac1b78795f300086d5ca6,TikTok Radio en Español,https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png
+6868152657543d1f8be4ece3,Concert Channel,https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png
+5f85ca40eda1b10007b967cd,Conciertos por Stingray,https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png
+5f85cf621d6d2200079f1de0,Karaoke por Stingray,https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png

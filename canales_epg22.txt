@@ -1,1 +1,0 @@
-# Fuente: https://github.com/iptv-org/epg/blob/master/sites/winplay.co/winplay.co.channels.xml

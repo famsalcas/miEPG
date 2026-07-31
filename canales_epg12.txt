@@ -1,165 +1,182 @@
-# Fuente: https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz
-A&amp;E.(A&amp;E).pe,A&amp;E (A&amp;E),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png
-A&amp;E.HD.(A&amp;E.HD).pe,A&amp;E HD (A&amp;E HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png
-AMERICA.TELEVISION.(America.TV).pe,AMERICA TELEVISION (America TV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/60/7603588_DDA3D54A42268071.png
-AMERICA.TELEVISION.HD.(America.HD).pe,AMERICA TELEVISION HD (America HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/60/7603588_DDA3D54A42268071.png
-ANIMAL.PLANET.HD.(Animal.Planet.HD).pe,ANIMAL PLANET HD (Animal Planet HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png
-ANTENA3.(Antena3).pe,ANTENA3 (Antena3),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518949_E921DB62227C95EB.png
-ARTV.(ARTV).pe,ARTV (ARTV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/61/5618887_E611868F7E49AB2B.png
-ATV.(ATV).pe,ATV (ATV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527587_32E6A6179D3F9DDF.png
-ATV.HD.(ATV.HD).pe,ATV HD (ATV HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527587_32E6A6179D3F9DDF.png
-ATV+.(ATV+).pe,ATV+ (ATV+),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527792_BF2E0C49C3375349.png
-AXN.(Axn).pe,AXN (Axn),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png
-AXN.HD.(AXNHD).pe,AXN HD (AXNHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png
-BOOMERANG.(Boomerang).pe,BOOMERANG (Boomerang),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523296_E2B2239234ED8894.png
-CANAL.J.(Canal.J).pe,CANAL J (Canal J),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/54/5548059_21637929BBB2E42B.png
-CANAL.N.(Canal.N).pe,CANAL N (Canal N),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718162_ED12803FCF6BD159.png
-CANAL.N.HD.(Canal.N.HD).pe,CANAL N HD (Canal N HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718162_ED12803FCF6BD159.png
-CARTOON.NETWORK.(CartoonNetwork).pe,CARTOON NETWORK (CartoonNetwork),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png
-Cartoon.Network.HD.(Cartoon.Network.HD).pe,Cartoon Network HD (Cartoon Network HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png
-CCTV.(CCTV).pe,CCTV (CCTV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532747_4841EB256F21CB65.png
-CINECANAL.(Cinecanal).pe,CINECANAL (Cinecanal),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png
-CINECANAL.HD.(Cinecanal.HD).pe,CINECANAL HD (Cinecanal HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png
-CINEMAX.(Cinemax).pe,CINEMAX (Cinemax),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512485_54EA3938DE90CEEE.png
-CINEMAX.HD.(CinemaxHD).pe,CINEMAX HD (CinemaxHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512485_54EA3938DE90CEEE.png
-CNN.ESPAÑOL.(CNNEsp).pe,CNN ESPAÑOL (CNNEsp),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6552916_2077BEC98CF63BD7.png
-CNN.INTERNACIONAL.(CNNInt).pe,CNN INTERNACIONAL (CNNInt),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6552961_24C94E4AD3ADD85A.png
-COMEDY.CENTRAL.HD.(ComedyCentralHD).pe,COMEDY CENTRAL HD (ComedyCentralHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png
-CONGRESO.(Congreso).pe,CONGRESO (Congreso),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532745_A0C177FB70CC9746.png
-DEUTSCHE.WELLE.(DW).pe,DEUTSCHE WELLE (DW),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718045_E5191A2E17B29B03.png
-DISCOVERY.CHANNEL.(Disc.Channel).pe,DISCOVERY CHANNEL (Disc.Channel),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png
-DISCOVERY.HD.(DiscoveryHD).pe,DISCOVERY HD (DiscoveryHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png
-DISCOVERY.HD.THEATER.(Disc.TheaterHD).pe,DISCOVERY HD THEATER (Disc.TheaterHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523537_4F688A020028689F.png
-DISCOVERY.HOME.&amp;.GARDEN.(HomeGarden).pe,DISCOVERY HOME &amp; GARDEN (HomeGarden),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523535_0FB6AFE15046BAE9.png
-DISCOVERY.KIDS.(DiscoveryKids).pe,DISCOVERY KIDS (DiscoveryKids),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png
-DISCOVERY.KIDS.HD.(Disc.KidsHD).pe,DISCOVERY KIDS HD (Disc.KidsHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png
-DISCOVERY.SCIENCE.(Disc.Science).pe,DISCOVERY SCIENCE (Disc.Science),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523536_DA0F564CD40D207F.png
-DISCOVERY.TURBO.(Disc.Turbo).pe,DISCOVERY TURBO (Disc.Turbo),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png
-DISCOVERY.WORLD.HD.(Disc.WorldHD).pe,DISCOVERY WORLD HD (Disc.WorldHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088309_A9A996302B4125FF.png
-DISNEY.CHANNEL.HD.(DisneyHD).pe,DISNEY CHANNEL HD (DisneyHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png
-DISNEY.JUNIOR.(DisneyJunior).pe,DISNEY JUNIOR (DisneyJunior),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523291_F6DF039E3B8E8BB1.png
-E!.ENTERTAINMENT.(E!).pe,E! ENTERTAINMENT (E!),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551426_5546C17CCDC9C9C7.png
-EL.TRECE.(ElTrece).pe,EL TRECE (ElTrece),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/16/6160802_97DB3A21A9416C13.png
-ENLACE.TBN.(Enlace).pe,ENLACE TBN (Enlace),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726444_D21DDB643F3506E9.png
-ESPN.2.(ESPN2).pe,ESPN 2 (ESPN2),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png
-ESPN.2.(ESPN2.Peru).pe,ESPN 2 (ESPN2 Peru),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png
-ESPN.3.HD.(ESPN.3.HD).pe,ESPN 3 HD (ESPN 3 HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png
-ESPN.EXTRA.HD.(ESPN.EXTRA.HD).pe,ESPN EXTRA HD (ESPN EXTRA HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/96/6968340_D2605B6C9B3501F7.png
-ESPN.HD.(ESPN.HD).pe,ESPN HD (ESPN HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png
-EUROCHANNEL.(Eurochannel).pe,EUROCHANNEL (Eurochannel),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726504_567DA819240ABA02.png
-FOOD.NETWORK.(Food.Network).pe,FOOD NETWORK (Food Network),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551512_B3F3A42DB87F57A4.png
-FOX.CHANNEL.(Fox.Channel).pe,FOX CHANNEL (Fox Channel),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512487_CFE8BCBFF8331FC4.png
-FOX.CLASSICS.(FoxClassics).pe,FOX CLASSICS (FoxClassics),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519100_79CECA5B120FA097.png
-FOX.COMEDY.(FoxComedy).pe,FOX COMEDY (FoxComedy),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519099_57B023660CDB6133.png
-FOX.COMEDY.HD.(FoxComedyHD).pe,FOX COMEDY HD (FoxComedyHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519099_57B023660CDB6133.png
-FOX.FAMILY.HD.(FoxFamilyHD).pe,FOX FAMILY HD (FoxFamilyHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519368_7083165256A40F1C.png
-FOX.LIFE.(FoxLife).pe,FOX LIFE (FoxLife),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551272_881C93483FE1FCAE.png
-FOX.PREMIUM.ACTION.HD.(FoxActionHD).pe,FOX PREMIUM ACTION HD (FoxActionHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519369_CDC467D7DD4B5E2C.png
-FOX.PREMIUM.CINEMA.HD.(Fox.Cinema.HD).pe,FOX PREMIUM CINEMA HD (Fox Cinema HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519366_28E9C14C72C6613F.png
-FOX.PREMIUM.MOVIES.HD.(FoxMoviesHD).pe,FOX PREMIUM MOVIES HD (FoxMoviesHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519367_FC3084B535482962.png
-FOX.SERIES.(Fox1).pe,FOX SERIES (Fox1),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519098_99D42C546D72E9F3.png
-FOX.SERIES.HD.(FoxSeriesHD).pe,FOX SERIES HD (FoxSeriesHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519098_99D42C546D72E9F3.png
-FOX.SPORTS.2.(FoxSports2).pe,FOX SPORTS 2 (FoxSports2),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512315_D10000FAD4D97B7A.png
-FOX.SPORTS.2.HD.(FoxSports2HD).pe,FOX SPORTS 2 HD (FoxSports2HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512315_D10000FAD4D97B7A.png
-FOX.SPORTS.3.(FoxSports3).pe,FOX SPORTS 3 (FoxSports3),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512317_5D426D156AAE9D2E.png
-FOX.SPORTS.3.HD.(FoxSports3HD).pe,FOX SPORTS 3 HD (FoxSports3HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512317_5D426D156AAE9D2E.png
-FOX.SPORTS.HD.(FoxSportsHD).pe,FOX SPORTS HD (FoxSportsHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512314_0B0C89965291A54E.png
-FOX.SPORTS.PREMIUM.(FoxSportsPrem).pe,FOX SPORTS PREMIUM (FoxSportsPrem),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512496_E2BBA15B3A9F3AC4.png
-FX.(FX).pe,FX (FX),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png
-FX.HD.(FX.HD).pe,FX HD (FX HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png
-FXM.(FX.Movie).pe,FXM (FX Movie),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512490_F36F99ED6681E4E5.png
-FXM.REGIONAL.OTT.(FX.Movies.DTH).pe,FXM REGIONAL OTT (FX Movies DTH),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512490_F36F99ED6681E4E5.png
-GLOBAL.(RED.TV).pe,GLOBAL (RED TV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527701_F4464E37646C28E3.png
-GOL.PERU.HD.(GOL.PERU.HD).pe,GOL PERU HD (GOL PERU HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553956_D7D9A30FB187AF45.png
-GOL.TV.(GolTV).pe,GOL TV (GolTV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/68/6689767_3296E2A3B5FDAA60.png
-GOL.TV.HD.(GolTV.HD).pe,GOL TV HD (GolTV HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/68/6689767_3296E2A3B5FDAA60.png
-GOLF.CHANNEL.(GolfChannel).pe,GOLF CHANNEL (GolfChannel),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718049_A4DF550FA0F31286.png
-GOLPERU.(GOLPERU).pe,GOLPERU (GOLPERU),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553956_D7D9A30FB187AF45.png
-GOLPERU.HD.(GOLPERU.HD).pe,GOLPERU HD (GOLPERU HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553956_D7D9A30FB187AF45.png
-HBO.2.HD.(HBO.2.HD).pe,HBO 2 HD (HBO 2 HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519371_95895B596B5C8566.png
-HBO.FAMILY.HD.(HBO.Family.HD).pe,HBO FAMILY HD (HBO Family HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519374_3CA482E51D2B655C.png
-HBO.HD.(HBOHD).pe,HBO HD (HBOHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png
-HBO.MUNDI.(HBO.Mundi).pe,HBO MUNDI (HBO Mundi),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576347_20E15FC6E23A0B4D.png
-HBO.PLUS.ESTE.HD.(HBO.Plus.Este.HD).pe,HBO PLUS ESTE HD (HBO Plus Este HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519375_F1446BBBF228D258.png
-HBO.POP.(HBOPOP).pe,HBO POP (HBOPOP),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576570_3A92236D263C9895.png
-HBO.SIGNATURE.HD.(HBO.Signature.HD).pe,HBO SIGNATURE HD (HBO Signature HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519376_8703C1B7518B626C.png
-HBO.XTREME.(HBO.Xtreme).pe,HBO XTREME (HBO Xtreme),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png
-HBO.XTREME.HD.(HBO.Xtreme.HD).pe,HBO XTREME HD (HBO Xtreme HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576560_4218AA0A3F2E634B.png
-HISTORY.2.HD.(H2.HD).pe,HISTORY 2 HD (H2 HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523542_993EC55E36D9221C.png
-HISTORY.CHANNEL.(History).pe,HISTORY CHANNEL (History),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523541_39FEFBD81BFBED5F.png
-HISTORY.CHANNEL.HD.(HistoryHD).pe,HISTORY CHANNEL HD (HistoryHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523541_39FEFBD81BFBED5F.png
-HOME.&amp;.HEALTH.(Home&amp;Health).pe,HOME &amp; HEALTH (Home&amp;Health),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523671_FDDA58C41643809E.png
-HOME.&amp;.HEALTH.HD.(Home&amp;HealthHD).pe,HOME &amp; HEALTH HD (Home&amp;HealthHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523671_FDDA58C41643809E.png
-HTV.(HTV).pe,HTV (HTV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png
-ID.HD.-.INVESTIGATION.DISCOVERY.HD.(Invest.DiscoveryHD).pe,ID HD - INVESTIGATION DISCOVERY HD (Invest.DiscoveryHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522973_D23BD84A0800ADB3.png
-INVESTIGATION.DISCOVERY.(Invest..Discovery).pe,INVESTIGATION DISCOVERY (Invest. Discovery),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522973_D23BD84A0800ADB3.png
-KANAL.D.DRAMA.(Kanal.D.Drama).pe,KANAL D DRAMA (Kanal D Drama),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/61/5617794_E700CDC8FD8EB018.png
-LA.TELE.PERU.(La.Tele).pe,LA TELE PERU (La Tele),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527703_16FE2580C052283D.png
-LATINA.(Latina).pe,LATINA (Latina),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png
-LATINA.HD.(Latina.HD).pe,LATINA HD (Latina HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png
-LIFETIME.(Lifetime).pe,LIFETIME (Lifetime),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/17/7174957_C8682663671689F2.png
-M.DEPORTES.(M.Deportes).pe,M DEPORTES (M Deportes),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718160_BE424D8C4C1AA0DF.png
-M.DEPORTES.HD.(M.Deportes.HD).pe,M DEPORTES HD (M Deportes HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718160_BE424D8C4C1AA0DF.png
-M.PLUS.(M.Plus).pe,M PLUS (M Plus),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718168_EF5EE18D14637ABA.png
-M.PLUS.HD.(M.Plus.HD).pe,M PLUS HD (M Plus HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718168_EF5EE18D14637ABA.png
-MOVISTAR.EVENTOS.(Movistar.Eventos).pe,MOVISTAR EVENTOS (Movistar Eventos),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/00/8005554_950265F10D883D1D.png
-MTV.(MTV).pe,MTV (MTV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png
-MTV.HD.(MTVHD).pe,MTV HD (MTVHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png
-MTV.HITS.(MTVHits).pe,MTV HITS (MTVHits),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532873_1E8DF5CC436F67D2.png
-NAT.GEO.(NatGeo).pe,NAT GEO (NatGeo),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png
-NAT.GEO.HD.(Nat.Geo.HD).pe,NAT GEO HD (Nat Geo HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png
-NAT.GEO.KIDS.(Nat.Geo.Kids).pe,NAT GEO KIDS (Nat Geo Kids),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523294_066A1EE839F5F186.png
-NAT.GEO.WILD.HD.(NatGeoWild).pe,NAT GEO WILD HD (NatGeoWild),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523539_B3C432423060C4EC.png
-NAT.GEO.WILD.HD.(NatGeoWildHD).pe,NAT GEO WILD HD (NatGeoWildHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523539_B3C432423060C4EC.png
-NHK.(NHK).pe,NHK (NHK),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532750_792CB8580A072124.png
-NICK.HD.(NickHD).pe,NICK HD (NickHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png
-NICK.JR.OTT.(Nick.Jr).pe,NICK JR OTT (Nick Jr),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523299_3D2D15D8014926D6.png
-NICKELODEON.(Nickelodeon).pe,NICKELODEON (Nickelodeon),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png
-NUESTRA.TELE.(NuestraTele).pe,NUESTRA TELE (NuestraTele),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/54/7549801_2F6095CDCB3DD442.png
-ORBE.21.(Orbe21).pe,ORBE 21 (Orbe21),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726538_D7C022C7FC53D22F.png
-PANAMERICANA.TELEVISION.(Panamericana.TV).pe,PANAMERICANA TELEVISION (Panamericana TV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847902_7F82E3F48B905CB7.png
-PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe,PANAMERICANA TELEVISION HD (Panamericana HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847902_7F82E3F48B905CB7.png
-PARAMOUNT.(Paramount).pe,PARAMOUNT (Paramount),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840721_AEB0D89DD5B9FA4C.png
-PARAMOUNT.HD.(Paramount.HD).pe,PARAMOUNT HD (Paramount HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840721_AEB0D89DD5B9FA4C.png
-PLAYBOY.(Playboy).pe,PLAYBOY (Playboy),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6552800_80D2091BB6E9CEA1.png
-PLAYBOY.HD.(PlayboyHD).pe,PLAYBOY HD (PlayboyHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6552800_80D2091BB6E9CEA1.png
-PODER.JUDICIAL.(JusticiaTV).pe,PODER JUDICIAL (JusticiaTV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532839_5E54BF3940A306D6.png
-QUALITY.CHANNEL.(Quality).pe,QUALITY CHANNEL (Quality),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527922_07A7ABD3E27852B5.png
-RAI.TV.(RAI).pe,RAI TV (RAI),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6552711_5BF2CD9219769A4C.png
-RPP.HD.(RPP.HD).pe,RPP HD (RPP HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847943_805AC3336E6752E2.png
-RPP.TV.(RPP.TV).pe,RPP TV (RPP TV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847943_805AC3336E6752E2.png
-SEXTREME.(Sextreme).pe,SEXTREME (Sextreme),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/31/7317967_6C10BD45ECBD32D9.png
-SONY.(Sony).pe,SONY (Sony),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png
-SONY.HD.(Sony.HD).pe,SONY HD (Sony HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png
-SPACE.(Space).pe,SPACE (Space),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png
-SPACE.REGIONAL.DTH.LIVE.(Space.HD).pe,SPACE REGIONAL DTH LIVE (Space HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png
-STUDIO.UNIVERSAL.(Studio.Universal).pe,STUDIO UNIVERSAL (Studio Universal),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png
-STUDIO.UNIVERSAL.HD.(StudioHD).pe,STUDIO UNIVERSAL HD (StudioHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png
-SYFY.(SyFy).pe,SYFY (SyFy),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6590544_ECEF722938480E4B.png
-TBS.VERY.FUNNY.(TBS).pe,TBS VERY FUNNY (TBS),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518953_3E6DEA309E2566B2.png
-TBS.VERY.FUNNY.HD.(TBS.Very.Funny.HD).pe,TBS VERY FUNNY HD (TBS Very Funny HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518953_3E6DEA309E2566B2.png
-TCM.(TCM).pe,TCM (TCM),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/31/6310573_FDBA1F86CF41A989.png
-TELEMUNDO.(Telemundo).pe,TELEMUNDO (Telemundo),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523670_1160A8714A70955D.png
-TELESUR.(Telesur).pe,TELESUR (Telesur),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6714296_EC83B9DCA67A40FF.png
-TLC.(TLC).pe,TLC (TLC),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png
-TNT.(TNT).pe,TNT (TNT),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png
-TNT.HD.OTT.(TNT.HD).pe,TNT HD OTT (TNT HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png
-TNT.SERIES.(TNT.Series).pe,TNT SERIES (TNT Series),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png
-TNT.SERIES.HD.(TNT.Series.HD).pe,TNT SERIES HD (TNT Series HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png
-TOROS.TV.(TorosTV).pe,TOROS TV (TorosTV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/64/7642019_D8035A87A9A619D3.png
-TRU.TV.(Tru.TV).pe,TRU TV (Tru TV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726448_E99EBCDE997DF58D.png
-TRU.TV.HD.(TruTVHD).pe,TRU TV HD (TruTVHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/68/5686010_5315EFC7BD3D51D0.png
-TV.CHILE.(TVNChile).pe,TV CHILE (TVNChile),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/70/6702214_83C7F9CAB707C9A1.png
-TV5.(TV5).pe,TV5 (TV5),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532752_53138994E52B4281.png
-TVE.(TVE).pe,TVE (TVE),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6553039_6509FCDD9F33F387.png
-UNIVERSAL.CHANNEL.(Universal).pe,UNIVERSAL CHANNEL (Universal),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png
-UNIVERSAL.CHANNEL.HD.(UniversalHD).pe,UNIVERSAL CHANNEL HD (UniversalHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png
-USMP.TV.(USMP.TV).pe,USMP TV (USMP TV),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/26/7269600_72EE309DF28FB4D3.png
-VENUS.(Venus).pe,VENUS (Venus),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/31/7317969_5D76946AB9C6418B.png
-VH1.HD.(VH1HD).pe,VH1 HD (VH1HD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693622_E2EBE53F5E6D025B.png
-VOA.(VOA).pe,VOA (VOA),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532746_A665F074DD8726E8.png
-WARNER.CHANNEL.(Warner).pe,WARNER CHANNEL (Warner),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png
-WARNER.CHANNEL.HD.(WarnerHD).pe,WARNER CHANNEL HD (WarnerHD),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png
-WILLAX.(Willax).pe,WILLAX (Willax),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527705_6B8F70044D44ECD4.png
-WOBI.(Wobi).pe,WOBI (Wobi),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718147_20BADC0EFC021E9C.png
-ZEE.MUNDO.(Zee.Mundo).pe,ZEE MUNDO (Zee Mundo),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527619_8553AE3F3FD364E6.png
+# Fuente: https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz
+ES300030ZT,Telemadrid,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300030ZT_20260721T035634SQUARE.png
+ESBC4100001NZ,La 1,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20260721T035603SQUARE.png
+ESBD3000002GP,Canal Sur Andalucía,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20260528T055720SQUARE.png
+ESBC4100002AG,La 2,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20260622T063715SQUARE.png
+ES300004C9,Sony One Shark Tank,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20260528T055651SQUARE.png
+ESAJ3800006TT,MTV Cribs,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png
+ESAJ380000226,MTV Originals,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png
+ES3300004P0,RTVE Saber y Ganar,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250819T033238SQUARE.png
+ES3800002V5,Dhar Mann TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800002V5_20251111T011933SQUARE.png
+ES7000056Z,Yu-Gi-Oh!,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png
+ES1400001T8,Beyblade,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20241106T142204SQUARE.png
+ES300029LP,Anime Visión,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png
+ES3000288I,Anime Visión Classics,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png
+ES4300001K6,Chicas Guapas TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300001K6_20251125T101421SQUARE.png
+ES26000025M,¡Hola! Play,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png
+ES4100001XD,Mark Rober TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100001XD_20251111T011941SQUARE.png
+ESBC3500002PW,Ideas en 5 Minutos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png
+ES42000022E,Xataka,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES42000022E_20251202T002550SQUARE.png
+ESBD1300004IG,Azteca Internacional,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png
+ESBA3300033PL,Encantador de Perros,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png
+ES120000498,Quantum Makers,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES120000498_20260707T051019SQUARE.png
+ESBC4700003RJ,Teen Vee,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241106T142207SQUARE.png
+ES1200005Z1,H2O &amp; Friends,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1200005Z1_20260505T085421SQUARE.png
+ES26000068D,Estilo y Vida – Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20260707T050942SQUARE.png
+ES4700001VS,2M,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20260224T030748SQUARE.png
+ES4300006I4,El Mueble,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20260609T042943SQUARE.png
+ES4400002LI,Mi Casa,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400002LI_20260707T050954SQUARE.png
+ES1700003C6,Coreano by CJ ENM,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png
+ES400002P5,Cuéntame cómo pasó,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20260707T050933SQUARE.png
+ES3300006QL,RTVE La Promesa,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260224T030712SQUARE.png
+ES33000036Q,RTVE La Moderna,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260310T031635SQUARE.png
+ES500005BP,Águila Roja,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250610T010520SQUARE.png
+ESBD1300003VN,Corazón,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png
+ES440000327,Todo Drama,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260120T031340SQUARE.png
+ES2900001DQ,BBC Series,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png
+ES300003D4,Sony One Éxitos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20260421T123722SQUARE.png
+ES300005EL,Sony One The Blacklist,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20260528T055658SQUARE.png
+ES30000145,Sony One Series Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20260421T123717SQUARE.png
+ES2900002JG,Los Gipsy Kings - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900002JG_20250923T011554SQUARE.png
+ES200040YF,Series K DRAMA,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png
+ESBD4100001DU,K-Drama+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20260707T050914SQUARE.png
+ES200041FT,Series K COMEDIA ROMÁNTICA,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png
+ES900001SH,Mr Bean Animated,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png
+ESBC4100004J1,24H,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260707T050921SQUARE.png
+ES300034BT,Actualidad 360,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260324T034819SQUARE.png
+ESBD3400001AA,Negocios TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20260407T040053SQUARE.png
+ES260000968,Euronews EN DIRECTO,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20260707T050947SQUARE.png
+ESBC39000033J,El País,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png
+ESBC1400001L8,El Confidencial,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png
+ESBD190000137,CNN Headlines International,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20260331T032325SQUARE.png
+ESBD36000026Z,CNBC,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20260317T034118SQUARE.png
+ES2300004XW,Al Jazeera,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300004XW_20251118T015346SQUARE.png
+ESBC400003YM,NBC News NOW,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20241106T142315SQUARE.png
+ES34000039I,CNN en Español,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20260622T063630SQUARE.png
+ES3400004SS,Sky News International,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400004SS_20250624T020505SQUARE.png
+ESBD1100001PQ,FRANCE 24 FAST,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20241106T142311SQUARE.png
+ES1300001QC,DW,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20250902T003627SQUARE.png
+ESBA3300024AJ,Bloomberg TV+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20260421T123714SQUARE.png
+ESBA3300029UG,El Comisario,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png
+ES2600001MC,Forensic Files,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20250722T005647SQUARE.png
+ES1600004JV,Todo Crimen,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png
+ES33000025N,Crimen &amp; Historia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20250715T004330SQUARE.png
+ESBD3700001S0,DATELINE 24/7,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png
+ES3300001MC,Crimenes Reales,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png
+ES2600005G9,Crimen - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png
+ES45000012U,Alerta Cobra,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES45000012U_20251202T002544SQUARE.png
+ESBD2600001ME,Tennis Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250923T011606SQUARE.png
+ES30000091V,MyPadel TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png
+ES20000065W,Tennis+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES20000065W_20260113T032333SQUARE.png
+ES3800001V1,Red Bull TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png
+ES4300004JP,Rugby Challenge,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300004JP_20260120T031337SQUARE.png
+ESBC410000577,Teledeporte,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260622T063739SQUARE.png
+ES3200003OC,DFB Play TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20251230T030907SQUARE.png
+ES1100001MT,Top Barça,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1100001MT_20260528T055916SQUARE.png
+ESBC2700009B4,FIFA+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251028T011349SQUARE.png
+ES31000013F,INTER 24/7,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES31000013F_20260324T034829SQUARE.png
+ESBD3200001EG,Motorvision,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png
+ES51000017V,Rally.TV FAST+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES51000017V_20260120T031334SQUARE.png
+ES3400002PY,Surf Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png
+ESBD2900001P9,World Poker Tour,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png
+ESBC4100003WE,Clan,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260622T063701SQUARE.png
+ES5000001CS,LooLoo Kids,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png
+ESBD130000205,Pitufo TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png
+ES17000065P,BABY SHARK TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png
+ES4800002OZ,Caillou,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png
+ESBC3900004ED,Pocoyó,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250211T014050SQUARE.png
+ESBC4700001GR,duckTV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png
+ES4400005EJ,Cry Babies,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400005EJ_20251209T004308SQUARE.png
+ES1600007AI,Teletubbies,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600007AI_20260721T035643SQUARE.png
+ESBD5100001G0,SuperToons TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png
+ESBD3200002V5,La Abeja Maya,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png
+ES340000152,Video Game Heroes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20250326T013206SQUARE.png
+ESBD2300003S5,Rabbids : La invasion,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20251013T053506SQUARE.png
+ESBA33000324U,Rugrats,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png
+ESBA33000262Z,Bob Esponja,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png
+ES4400001N3,Las 3 Mellizas,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400001N3_20260421T125609SQUARE.png
+ESAJ38000046O,Pluto TV Kids,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png
+ESBA3300028OE,iCarly,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png
+ESBD800004KU,Runtime Romance,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260721T035626SQUARE.png
+ES700004C8,Runtime Familia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20260127T040120SQUARE.png
+ES260001081,En Familia - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png
+ES33000058B,RTVE Somos Cine,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250729T045042SQUARE.png
+ESBC1700004PX,Trailers,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png
+ESBA2200004G5,MyTime Movie Network,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20260127T040117SQUARE.png
+ESBC2700011AZ,Cines Verdi TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png
+ESAJ3800001KT,Pluto TV Cine Estelar,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png
+ESBC400001QQ,Runtime,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png
+ES2600013H4,Películas Top - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png
+ES2600003UM,Películas de Drama - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20260707T051011SQUARE.png
+ES4200001MR,Moviesphere,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4200001MR_20260721T035610SQUARE.png
+ES2600012C9,Películas Románticas - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png
+ES900002ZD,Todo Pasión,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png
+ESBC2700012RP,Cine Feel Good – Verdi TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png
+ESBD8000033W,Runtime Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250722T005652SQUARE.png
+ES260000700,Comedia - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png
+ES300007KS,Sony One Hits Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20260421T123731SQUARE.png
+ESBC2700002LO,Grjngo - Películas Del Oeste,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260310T031628SQUARE.png
+ES2300005G7,Cine Western,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png
+ESBC2700003T8,Bigtime - Películas Gratis,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png
+ES2200003DA,Runtime Clásicos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20250916T003539SQUARE.png
+ES500008IU,FreeTV Clásico,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260224T030754SQUARE.png
+ES2800001G7,Planeta de Cine,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png
+ES3000008O8,Cine Español - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png
+ES170000433,NEW K-MOVIES,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png
+ESBC40000248,Action Movie Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png
+ES500004NO,Sci-Fi - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png
+ESBD800001RJ,Cine Friki,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20260407T040044SQUARE.png
+ES2600004BD,Acción - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20260707T050928SQUARE.png
+ES4100002WB,Thrillers - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100002WB_20251125T101442SQUARE.png
+ESBD80000288,Runtime Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20260707T051032SQUARE.png
+ES300006QJ,Sony One Hits Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20260707T051040SQUARE.png
+ESBC2100002LV,Vevo Latino,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20260707T051048SQUARE.png
+ESBD230000289,Vevo Retro,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png
+ESBC2100001IU,Vevo Pop,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png
+ESBA3300042Y6,Trace Latina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png
+ESBA3300043M0,Trace Urban,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png
+ES1200003SI,Concerto,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1200003SI_20260528T055728SQUARE.png
+ESBD2300004Y7,Sol Música,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png
+ES2500001F9,Cool Summer Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png
+ES4400004OX,Metal.Rocks,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400004OX_20260609T043006SQUARE.png
+ES700006IP,Rolling Stones Takeover,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700006IP_20260707T052836SQUARE.png
+ES32000027M,CLIPS don't lie,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250729T045050SQUARE.png
+ES1700005ME,NEW KPOP,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png
+ES3900001QG,K-POP by CJ ENM,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png
+ES1000001EF,SMTOWN,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20260727T040902SQUARE.png
+ES7000088K,Space Live,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000088K_20260609T043032SQUARE.png
+ESBA1500001C4,Deluxe Lounge HD,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png
+ES190000224,Cozy Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES190000224_20260528T055738SQUARE.png
+ES1900003JT,Storm Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1900003JT_20260528T055908SQUARE.png
+ES1800006ZS,Rainy Day Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800006ZS_20260528T055835SQUARE.png
+ES1800009VX,Spring Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800009VX_20260528T055856SQUARE.png
+ES1800007GH,Island Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800007GH_20260528T055756SQUARE.png
+ES1800008X7,Ocean Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800008X7_20260528T055815SQUARE.png
+ES2200001SF,Fireplace Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png
+ESAJ3800007PC,Pluto TV Cocina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png
+ES300033TI,Viajes &amp; Sabores,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png
+ESBC27000040I,GoUSA TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250610T010506SQUARE.png
+ES33000079W,RTVE Cocina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20260721T035618SQUARE.png
+ES3200001F1,BBC Earth,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260721T035551SQUARE.png
+ES24000028L,Ice Pilots,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png
+ES1600002QL,La Fiebre del Jade,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png
+ES2700002YP,Top Gear,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250805T005824SQUARE.png
+ES2800002MM,Mayday: Catástrofe Aérea,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png
+ES1400002CJ,CURIOSITY Now,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png
+ES12000024R,Historia y Vida,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260421T125616SQUARE.png
+ESBD1400003QN,Royalworld - Nobleza y Dinastias,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png
+ESBA22000102A,NatureTime,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png
+ESBA330004121,WildEarth,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png
+ES1600003FF,Planeta Salvaje,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20260421T125606SQUARE.png
+ESBC4700002TD,Love the Planet,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png
+ESBC170000388,WaterBear,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png
+ESBC43000013T,Todo Novelas,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241106T142336SQUARE.png
+ES3600001Y7,Rebelde,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260622T063730SQUARE.png
+ES2900003S3,Piel Salvaje,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900003S3_20251111T011943SQUARE.png
+ES1600006S8,LOL España,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600006S8_20260721T035558SQUARE.png
+ESAJ3800005C5,Comedia Made in Spain,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png
+ESAJ3800003LX,MTV Catfish,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png
+ESBA1400006NP,FailArmy,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20260210T035845SQUARE.png
+ESAJ4500023Y5,People Are Awesome,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20241022T050750SQUARE.png
+ESAJ4500016BH,The Pet Collective,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20241022T050852SQUARE.png
+ESBC2700008SK,Just For Laughs,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png
