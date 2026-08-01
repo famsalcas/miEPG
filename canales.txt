@@ -25,7 +25,7 @@ C11.Hon,Honduras,Canal11.hn
 12 de El Salvador,Canal12.sv
 Trecevision,Guatemala,Canal13.gt
 13 Nica,Canal13.ni
-21 de El Salvador Megavisión,Canal21.sv
+21 de El Salvador Megavision,Canal21.sv
 Antigua Guatemala,CanalAntigua.gt
 guatevision,Guatevision.gt
 15 Digital Quince Telemicro República Dominicana,Canal15.do
@@ -168,7 +168,7 @@ TNT Sports Premium.cl,TNTSportsPremium.cl
 TUDN Centroamérica,TUDN.cr
 TUDN,TUDNMexico.mx
 TUDN Estados Unidos,TUDN.us
-TyCSports.ar,TVC Deportes
+TyCSports.ar,TyCSports.ar
 TyC Sp,TyCSports.cr
 A&amp;E Panregional,AAndE.ni
 Adrenalina Pura TV,AdrenalinaPuraTV
@@ -250,7 +250,7 @@ La 2,La2
 0637,StarTVE
 0636,TVEInternacional.cr
 0225,ArirangTV
-CGTN en Espanol,CGTNESPAÑOL.uy
+CGTN en Espanol,CGTNESPANOL.uy
 DW,DW.ni
 0643,HispanTV.ar
 RUSSIATODAY,RussiaToday.mx
@@ -274,7 +274,7 @@ BitMe,BitMe.ni
 Kanade Tv,Kanade
 Loco,Locomotion
 Magickids.ar,MagicKids
-Retro Magico,Retromágico
+Retro Magico,Retromagico
 TalTal TV,TALTAL
 Toonami Tv,Toonami
 Zaz TV,Zaz
@@ -308,7 +308,7 @@ HTV,HTV.cr
 Canal.MTV.(Centro).sv,MTV
 Sol Música,SolMusica
 Telehit,TeleHit
-TelehtsMs,TeleHitMúsica
+TelehtsMs,TeleHitMusica
 643054b1fc3be59477853717-63226c03e67cf9cd9011fcdf,TraceLatina
 643054b1fc3be59477853717-6322658be67cf9cd9011fcda,TraceUrban
 ESBD230000289,VevoRetro
@@ -321,7 +321,7 @@ Vevo.Pop.us2,VevoPop
 Vevo.Rock.us2,VevoRock
 Vevo.R.andB.us2,VevoRandB
 Vevo.Reggaeton.and.Trap.us2,VevoReggaetonandTrap
-Vevo.Íconos.Latinos.us2,VevoÍconosLatinos.pluto
+Vevo.Íconos.Latinos.us2,VevoIconosLatinos.pluto
 24H.TVE,24TVE
 adn40,ADN40
 643054b1fc3be59477853717-682510ec0f741b077c360512,Actualidad 360
@@ -383,10 +383,10 @@ MGM.Presents.us2,MGMPresents.us
 MGM.Presents.Action.us2,MGMPresentsAction.us
 MGM.Presents:.Horror.us2,MGMPresentsHorror.us
 MGM.Presents:.Westerns.us2,MGMPresentsWesterns.us
-MGM+.HD.us2,MGM+.us
-MGM+.Drive-In.us2,MGM+DriveIn.us
-MGM+.Hits.HD.us2,MGM+Hits.us
-MGM+.Marquee.HD.us2,MGM+Marquee.us
+MGM+.HD.us2,MGM_Plus.us
+MGM+.Drive-In.us2,MGM_DriveIn.us
+MGM+.Hits.HD.us2,MGM_Hits.us
+MGM+.Marquee.HD.us2,MGM_Marquee.us
 Pánico,Panico.cr
 USAJ26000054W,ParamountMovieChannel
 Universal Cinema,UniversalCinema
@@ -424,18 +424,18 @@ Telefe,Telefe.ar
 WillaxTV,Willax.pe
 0917,Canal26.ar
 0918,Metro.ar
-6812206e1b3e3be031a5c363,Águila-Roja
+6812206e1b3e3be031a5c363,Aguila-Roja
 cf7c191b9f2a4207cf119fb095e965e7,American-Gladiators
-668c5cb4f01dbe0008dd4082,CBSenespañol.pluto
-632b606e12a67b0007c9e371,CSI:NYenespañol.pluto
-632b5950b515b000079e6b81,CSI:Miamienespañol.pluto
+668c5cb4f01dbe0008dd4082,CBSenespanol.pluto
+632b606e12a67b0007c9e371,CSI:NYenespanol.pluto
+632b5950b515b000079e6b81,CSI:Miamienespanol.pluto
 3d0de33bcd7a9560562294ebf7603934,CirqueduSoleil
 a61227fe8ede21ffc0e223763ccbe42f,CuandoLosAngelesCaen
 65dded6966eec80008947157,LlamaalaComadrona
 6682bd9b8768aa0008f25be5,LosmisteriosdeMurdoch
 ce571f7e2262554b83d93cfc27d21e7c,POWERNATION_ES
 6304f530440dc90007f514d3,PoirotMissMarple
-63d7a8e5a9957100086bfc23,SouthParkVersiónOriginal
+63d7a8e5a9957100086bfc23,SouthParkVersionOriginal
 EL GARAGE TV,ElGarageTv.ar
 Azteca Cinema,AzCinema.cl
 Frecuencia Musical TV,FrecuenciaMusical
