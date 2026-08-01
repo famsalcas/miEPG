@@ -427,8 +427,8 @@ WillaxTV,Willax.pe
 6812206e1b3e3be031a5c363,Aguila-Roja
 cf7c191b9f2a4207cf119fb095e965e7,American-Gladiators
 668c5cb4f01dbe0008dd4082,CBSenespanol.pluto
-632b606e12a67b0007c9e371,CSI:NYenespanol.pluto
-632b5950b515b000079e6b81,CSI:Miamienespanol.pluto
+632b606e12a67b0007c9e371,CSI-NYenespanol.pluto
+632b5950b515b000079e6b81,CSI-Miamienespanol.pluto
 3d0de33bcd7a9560562294ebf7603934,CirqueduSoleil
 a61227fe8ede21ffc0e223763ccbe42f,CuandoLosAngelesCaen
 65dded6966eec80008947157,LlamaalaComadrona
