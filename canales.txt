@@ -293,7 +293,7 @@ History 2 Panregional,History2.ni
 US2600019IC,Historia
 Historia y Vida,HistoriayVida
 History Panregional,History2.ni
-Love Nature,LOVENATURE.uy
+479fe0d11f3f5132a3f36b617547da3b,LOVENATURE-ES
 Love the Planet,LovethePlanet
 National Geographic Centro,NationalGeographic.ni
 NatureTime,NatureTime
