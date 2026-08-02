@@ -3,6 +3,7 @@
 5ba3fb9c4b078e0f37ad34e8,Pluto TV Spotlight,https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png
 68fbf8101d26140175db8b58,Pluto TV Franchise Favorites,https://images.pluto.tv/channels/68fbf8101d26140175db8b58/colorLogoPNG_1762383685562.png
 64b585f84ea480000838e446,Pluto TV Icons,https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG_1785343035531.png
+6675c88da1d7ad00084762cb,Star Trek: The Motion Pictures,https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png
 561d7d484dc7c8770484914a,Pluto TV Action,https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png
 617b37b361e0fd0008cfd8c5,Pluto TV Reaction,https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG_1731837948814.png
 5b64a245a202b3337f09e51d,Pluto TV Fantastic,https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG_1756834917957.png
@@ -31,6 +32,7 @@
 6a28827ef4a627f3b07df1ea,Cheers,https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png
 66ba495ffe11e5000881f049,Frasier,https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG_1782142982491.png
 5c2d64ffbdf11b71587184b8,TV Land Sitcoms,https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png
+6a5ff6d9c868f8fd984e005c,Ghosts,https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785533131338.png
 6132619f9ddaa50007e7dd86,More TV Sitcoms,https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png
 66e0b4a3f0f17500085cc268,Hit Sitcoms,https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png
 5f77939a630f530007dde654,Family Ties,https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png
@@ -39,6 +41,7 @@
 686d61503484d6073283059d,Black Family Sitcoms,https://images.pluto.tv/channels/686d61503484d6073283059d/colorLogoPNG_1752619670829.png
 580e87ff497c73ba2f321dd3,Funny AF,https://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/colorLogoPNG.png
 67882c1c7b11714b795c2008,Sketchy AF,https://images.pluto.tv/channels/67882c1c7b11714b795c2008/colorLogoPNG.png
+6a4fd9f5445cbf6c14ae3ea2,Quirky AF,https://images.pluto.tv/channels/6a4fd9f5445cbf6c14ae3ea2/colorLogoPNG_1785175145313.png
 5ca671f215a62078d2ec0abf,Comedy Central Pluto TV,https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG_1785343315719.png
 6996296087742204bff43147,Ridiculousness,https://images.pluto.tv/channels/6996296087742204bff43147/colorLogoPNG_1772645176417.png
 5dae084727c8af0009fe40a4,Tosh.0,https://images.pluto.tv/channels/5dae084727c8af0009fe40a4/colorLogoPNG_1731837283801.png
@@ -102,6 +105,7 @@
 68758038552299d2b08162e3,Law &amp; Order,https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png
 61b3b8c645b45d0007a9bb8d,Blue Bloods,https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoPNG_1731834396573.png
 6675c742ca74680008566b88,Nash Bridges,https://images.pluto.tv/channels/6675c742ca74680008566b88/colorLogoPNG.png
+6a065830853a01a827f6dd65,Pluto TV Action Drama,https://images.pluto.tv/channels/6a065830853a01a827f6dd65/colorLogoPNG_1781131099315.png
 5f31fd1b4c510e00071c3103,Pluto TV Crime Drama,https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png
 69d6c7befde57cd5ba0160c3,Pluto TV Hometown Drama,https://images.pluto.tv/channels/69d6c7befde57cd5ba0160c3/colorLogoPNG_1777488284970.png
 666b38a5efa2a10008b15b3a,BET x Tyler Perry Drama,https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG_1785341580263.png
@@ -113,8 +117,10 @@
 62f2ce24f328e00007e7f55a,Stories by AMC,https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png
 5cbf6a868a1bce4a3d52a5e9,Midsomer Murders,https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png
 60f5d389985a0c0007357304,BritBox Mysteries,https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png
+6a4fd96d7652851fb490204f,Pluto TV Royal Drama,https://images.pluto.tv/channels/6a4fd96d7652851fb490204f/colorLogoPNG_1785178336408.png
 65775af3b3801200084a3aa4,Feel Good Drama,https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png
 5f24662bebe0f0000767de32,Supernatural Drama,https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png
+6a4bf0a89ad0c6d75edc026b,Jane the Virgin,https://images.pluto.tv/channels/6a4bf0a89ad0c6d75edc026b/colorLogoPNG_1785174433318.png
 5f4d83e0a382c00007bc02e7,Beverly Hills 90210,https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png
 61f07513227feb00073ee6bc,Heartland,https://images.pluto.tv/channels/61f07513227feb00073ee6bc/colorLogoPNG.png
 5c6eeb85c05dfc257e5a50c4,Degrassi,https://images.pluto.tv/channels/5c6eeb85c05dfc257e5a50c4/colorLogoPNG_1777484317786.png
@@ -342,6 +348,7 @@
 696997049889f8db34c936c2,Boruto: Naruto Next Generations,https://images.pluto.tv/channels/696997049889f8db34c936c2/colorLogoPNG_1771029425876.png
 67c63b90a20c0399a381b816,Inuyasha,https://images.pluto.tv/channels/67c63b90a20c0399a381b816/colorLogoPNG_1745441127472.png
 5f4ec10ed9636f00089b8c89,Yu-Gi-Oh!,https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png
+6049295e7dcef800073c2499,Star Trek en español,https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG_1771543916293.png
 5cf968040ab7d8f181e6a68b,Cine Premiere,https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png
 5cf96b1c4f1ca3f0629f4bf0,Cine en español,https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png
 60fb2f47c133270007327375,Cine aventura,https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png

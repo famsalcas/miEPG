@@ -200,7 +200,6 @@
 608049aefa2b8ae93c2c3a63-654eb862dde2222e8ba551f1,Stingray Holidayscapes,https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png
 608049aefa2b8ae93c2c3a63-5fd115b8b7ef8d002dcf1817,Waypoint TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png
 608049aefa2b8ae93c2c3a63-656fbbd6dbcce28c3a41741b,Surf Cinema,https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png
-608049aefa2b8ae93c2c3a63-66ea0e029502c5778b828d45,Drool,https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png
 608049aefa2b8ae93c2c3a63-5f07e9fdf313eb0041bbecda,Cooking Panda,https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png
 608049aefa2b8ae93c2c3a63-6490c01f3b3ce9e1aaad95be,FashionTV,https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png
 608049aefa2b8ae93c2c3a63-697278d331b12b32a91db6b1,FreeTV Hits,https://provider-static.plex.tv/epg/cms/production/80f85557-96d6-4ad9-814d-486a729dd9ee/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png
@@ -246,7 +245,6 @@
 608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3,BOOT,https://provider-static.plex.tv/epg/cms/production/5e31e123-a40b-41c6-9153-67c983c6d9e6/boot_all-white_1500X1000_PNG_transparent_background.png
 608049aefa2b8ae93c2c3a63-621670feab2095ca85353ad4,XFC TV,https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png
 608049aefa2b8ae93c2c3a63-62f156b1ed056a1db9ef3d67,Stingray Karaoke,https://provider-static.plex.tv/epg/cms/production/9ef7c343-e7d0-44e6-8aa2-c2c271e14f74/Stingray_Karaoke_logo_darkrdx.png
-608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814,Humor Mill,https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png
 608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d,Shemaroo Bollywood,https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png
 608049aefa2b8ae93c2c3a63-62ee7992271f393d2d9f709c,Pop Adult,https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png
 608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e,Hip-Hop/R&amp;B,https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png

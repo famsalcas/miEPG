@@ -128,7 +128,6 @@
 643054b1fc3be59477853717-6196c9241d310bf925e02616,Lone Star,https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png
 643054b1fc3be59477853717-63489a771159f6a5ce819b7b,Grjngo - Western Movies,https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png
 643054b1fc3be59477853717-60d4edd6b2fdec002c141125,The Carol Burnett Show,https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png
-643054b1fc3be59477853717-5fd115b7b7ef8d002dcf1814,Humor Mill,https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png
 643054b1fc3be59477853717-5ef11485d33ab9004048a1ca,SportsGrid,https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png
 643054b1fc3be59477853717-67d9a3d663c5439aeaf61305,The Bold and the Beautiful,https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png
 643054b1fc3be59477853717-69bb1f002028859eafc637e1,Legacy,https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png
@@ -239,7 +238,6 @@
 643054b1fc3be59477853717-67884bd6d37f2fd48d6220db,Creator Television,https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png
 643054b1fc3be59477853717-62fbf197c67d52bddf74cc87,Movie Music by Stingray,https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png
 643054b1fc3be59477853717-68b9f5a3d60e5dd29263c7ac,NEW KFOOD,https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png
-643054b1fc3be59477853717-66ea0e029502c5778b828d45,Drool,https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png
 643054b1fc3be59477853717-68e0371d8bbd79d66c631ab2,The Wiggles,https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png
 643054b1fc3be59477853717-62ee76b5271f393d2d9f709a,Easy Listening,https://provider-static.plex.tv/epg/cms/production/9300cb7f-9eef-4e0f-b0d3-d7469da72cda/EASY_LISTENING.png
 643054b1fc3be59477853717-68e9436dda6bb987138625c7,Metal.Rocks,https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png
