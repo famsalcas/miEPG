@@ -360,10 +360,10 @@ MoreMax.HD.us2,CinemaxHits
 acf637e8292736265712e3be566c0e5a,CinepolisChannel
 400000069,ClassicCinema
 Golden Panregional,Golden.ni
-Golden Edge,GoldenEdge
-Golden Plus,GoldenPlus
-Golden Premier,GoldenPremier
-Golden Premier 2,GoldenPremier2
+Golden Edge,GoldenEdge.mx
+Golden Plus,GoldenPlus.mx
+Golden Premier,GoldenPremier.mx
+Golden Premier 2,GoldenPremier2.mx
 HBO Chile,HBO.cl
 HBOHD.Sur,HBO.co
 HBO,HBO.ni
