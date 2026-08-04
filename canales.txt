@@ -1,11 +1,11 @@
-4 de Costa Rica,Canal4.cr
-6 de Costa Rica,Canal6.cr
-7 de Costa Rica Teletica,7_Teletica.pa
-Multimedios Costa Rica,Canal8.cr
-11 de Costa Rica,Canal11.cr
-13 de Costa Rica,Canal13.cr
-Enlace TBN,Enlace.cr
-Extra TV 42 de Costa Rica,Canal42.cr
+4 de Costa Rica,Canal4.cr,-1
+6 de Costa Rica,Canal6.cr,-1
+7 de Costa Rica Teletica,7_Teletica.cr,-1
+Multimedios Costa Rica,Canal8.cr,-1
+11 de Costa Rica,Canal11.cr,-1
+13 de Costa Rica,Canal13.cr,-1
+Enlace TBN,Enlace.cr,-1
+Extra TV 42 de Costa Rica,Canal42.cr,-1
 RetroX TV,RetroXTV.ms
 TeleRed,Telered.ms
 Telesistema,TelesistemaCR.ms
@@ -41,14 +41,14 @@ b015fcbafb496320954672321e746f8a,Canela.TodoCine
 CINE FAMILIAR HD.py,CineFamiliar
 CINE HISPANO HD.py,CineHispano
 CINE PREMIUM HD.py,CinePremium
-Cinelatino,Cinelatino.ni
-Cine Mexicano,CineMexicano.mx
+Cinelatino,Cinelatino.ni,-1
+Cine Mexicano,CineMexicano.mx,-1
 770c7e1794505869b1ce94c84905ecea,CineRomantico
 Cine Sony,CineSONY.us
-Cinecanal Pacífico,Cinecanal.gt
+Cinecanal Pacífico,Cinecanal.gt,-1
 CineDinHD.Mx,CinemaDinamita
-Cinema Platino,CinemaPlatino.cr
-Cinemax Panregional,Cinemax.ni
+Cinema Platino,CinemaPlatino.cr,-1
+Cinemax Panregional,Cinemax.ni,-1
 Cinemax,Cinemax.mx
 643054b1fc3be59477853717-62167144ab2095ca85353ad6,CinePride
 Clarocinema,ClaroCinema
