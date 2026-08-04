@@ -32,7 +32,7 @@
 6a28827ef4a627f3b07df1ea,Cheers,https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png
 66ba495ffe11e5000881f049,Frasier,https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG_1782142982491.png
 5c2d64ffbdf11b71587184b8,TV Land Sitcoms,https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png
-6a5ff6d9c868f8fd984e005c,Ghosts,https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785533131338.png
+6a5ff6d9c868f8fd984e005c,Ghosts,https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785791941652.png
 6132619f9ddaa50007e7dd86,More TV Sitcoms,https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png
 66e0b4a3f0f17500085cc268,Hit Sitcoms,https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png
 5f77939a630f530007dde654,Family Ties,https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png
@@ -87,6 +87,7 @@
 695c32e61ca20bb8ca802eb9,Star Trek: The Next Generation,https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png
 65c69bbfd77d450008c7ffee,Star Trek: Deep Space Nine,https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png
 634dacf51d90320007fcd5fa,Star Trek: Voyager,https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png
+695c32671ca20bb8ca7fd8f7,Star Trek: Enterprise,https://images.pluto.tv/channels/695c32671ca20bb8ca7fd8f7/colorLogoPNG_1768440939423.png
 6913e381b6bf26bb6e798c13,The X-Files,https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png
 69d7ebb726eeec84158e28cb,Pluto TV Adventure,https://images.pluto.tv/channels/69d7ebb726eeec84158e28cb/colorLogoPNG_1777587473079.png
 69d7ebff029c431826bd328e,Battlestar Galactica,https://images.pluto.tv/channels/69d7ebff029c431826bd328e/colorLogoPNG_1776982986391.png
@@ -234,7 +235,7 @@
 63d025db4e83e700086eaa96,LiveNOW from FOX,https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png
 5dc9b8223687ff000936ed79,CBS News New York,https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png
 5dc9b875e280c80009a8a44a,CBS News Los Angeles,https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png
-62cdc8fdb05d2b0007ef5035,CBS News Miami,https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png
+62cdc813f5def500070361eb,CBS News Texas,https://images.pluto.tv/channels/62cdc813f5def500070361eb/colorLogoPNG.png
 55b179af994403942f3061d6,Newsmax2,https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png
 5d695f7db53adf96b78e7ce3,TODAY All Day,https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png
 5459795fc9f133a519bc0bef,Scripps News,https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png

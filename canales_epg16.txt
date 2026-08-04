@@ -1,3 +1,2 @@
 # Fuente: https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/main/playlists/tubi_epg.xml
-400000251,Law&amp;Crime,https://canvas-lb.tubitv.com/opts/BYzaJwTCsR4qOQ==/d4c950c6-5131-47a1-a52b-f0644e28d89a/CHgQeDoFMS4xLjlAAQ==
-715938,Sweet Escapes,https://canvas-lb.tubitv.com/opts/FZ3_BVJbTDY7uA==/db730c00-68a8-4147-bbab-a07b081c3179/CHgQeDoFMS4xLjlAAQ==
+555114,FOX LOCAL San Francisco,https://canvas-lb.tubitv.com/opts/NBRBJIrLrI3V0w==/d2175866-3daf-45db-9e2c-043eac4de170/CHgQeDoFMS4xLjlAAQ==
