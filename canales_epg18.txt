@@ -1,0 +1,2 @@
+# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Opa.cr.xml
+Opa.cr,Opa Canal 36,

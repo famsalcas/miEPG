@@ -1,0 +1,2 @@
+# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Trivision.cr.xml
+Trivision.cr,Trivisión Canal 36,

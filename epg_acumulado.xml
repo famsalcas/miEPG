@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG v3.7 05/08/2026 19:50" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG v3.7 05/08/2026 20:08" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Canal4.cr">
     <display-name>Canal4.cr SD</display-name>
     <display-name>Canal4.cr HD</display-name>
@@ -98,6 +98,33 @@
     <display-name>TvRetroPalmares.ms UHD</display-name>
     <display-name>TvRetroPalmares.ms HEVC</display-name>
     <icon src="https://lh3.googleusercontent.com/-69OUFEsZEzE/XuzYkDQB5ZI/AAAAAAAA2A8/TtTckrIloRkQkhv8uNthZzDvFMH-dAkFwCK8BGAsYHg/s0/2020-06-19.png" />
+  </channel>
+  <channel id="Trivision.cr">
+    <display-name>Trivision.cr SD</display-name>
+    <display-name>Trivision.cr HD</display-name>
+    <display-name>Trivision.cr FHD</display-name>
+    <display-name>Trivision.cr 4K</display-name>
+    <display-name>Trivision.cr UHD</display-name>
+    <display-name>Trivision.cr HEVC</display-name>
+    
+  </channel>
+  <channel id="Opa.cr">
+    <display-name>Opa.cr SD</display-name>
+    <display-name>Opa.cr HD</display-name>
+    <display-name>Opa.cr FHD</display-name>
+    <display-name>Opa.cr 4K</display-name>
+    <display-name>Opa.cr UHD</display-name>
+    <display-name>Opa.cr HEVC</display-name>
+    
+  </channel>
+  <channel id="Xpertv.cr">
+    <display-name>Xpertv.cr SD</display-name>
+    <display-name>Xpertv.cr HD</display-name>
+    <display-name>Xpertv.cr FHD</display-name>
+    <display-name>Xpertv.cr 4K</display-name>
+    <display-name>Xpertv.cr UHD</display-name>
+    <display-name>Xpertv.cr HEVC</display-name>
+    
   </channel>
   <channel id="Antena7.do">
     <display-name>Antena7.do SD</display-name>
@@ -5153,6 +5180,180 @@
   </programme>
   <programme start="20260807020000 +0000" stop="20260807022500 +0000" channel="TvRetroPalmares.ms">
     <title lang="es">Mejorando la Casa</title>
+  </programme>
+  <programme start="20260805000000 -0600" stop="20260805013000 -0600" channel="Trivision.cr">
+    <title>La Mujer Maravilla</title>
+  </programme>
+  <programme start="20260805013000 -0600" stop="20260805020000 -0600" channel="Trivision.cr">
+    <title>Blanco Y Negro</title>
+  </programme>
+  <programme start="20260805020000 -0600" stop="20260805040000 -0600" channel="Trivision.cr">
+    <title>Pelicula</title>
+  </programme>
+  <programme start="20260805040000 -0600" stop="20260805050000 -0600" channel="Trivision.cr">
+    <title>Música 90s</title>
+  </programme>
+  <programme start="20260805050000 -0600" stop="20260805070000 -0600" channel="Trivision.cr">
+    <title>Rep. Noticiero</title>
+  </programme>
+  <programme start="20260805070000 -0600" stop="20260805090000 -0600" channel="Trivision.cr">
+    <title>Rep. Nuestro Programa</title>
+  </programme>
+  <programme start="20260805090000 -0600" stop="20260805100000 -0600" channel="Trivision.cr">
+    <title>La Isla De La Fantasía</title>
+  </programme>
+  <programme start="20260805100000 -0600" stop="20260805113000 -0600" channel="Trivision.cr">
+    <title>Tardeando Por La Mañana</title>
+  </programme>
+  <programme start="20260805113000 -0600" stop="20260805150000 -0600" channel="Trivision.cr">
+    <title>Noticias Trivisión</title>
+  </programme>
+  <programme start="20260805150000 -0600" stop="20260805170000 -0600" channel="Trivision.cr">
+    <title>Nuestro Programa</title>
+  </programme>
+  <programme start="20260805170000 -0600" stop="20260805190000 -0600" channel="Trivision.cr">
+    <title>Noticiero Estelar Trivisión</title>
+  </programme>
+  <programme start="20260805190000 -0600" stop="20260805210000 -0600" channel="Trivision.cr">
+    <title>Rep. Nuestro Programa</title>
+  </programme>
+  <programme start="20260805210000 -0600" stop="20260805230000 -0600" channel="Trivision.cr">
+    <title>Rep. Noticiero Estelar</title>
+  </programme>
+  <programme start="20260805230000 -0600" stop="20260806000000 -0600" channel="Trivision.cr">
+    <title>Rep. Tardeando</title>
+  </programme>
+  <programme start="20260806000000 -0600" stop="20260806013000 -0600" channel="Trivision.cr">
+    <title>La Mujer Maravilla</title>
+  </programme>
+  <programme start="20260806013000 -0600" stop="20260806020000 -0600" channel="Trivision.cr">
+    <title>Blanco Y Negro</title>
+  </programme>
+  <programme start="20260806020000 -0600" stop="20260806040000 -0600" channel="Trivision.cr">
+    <title>Pelicula</title>
+  </programme>
+  <programme start="20260806040000 -0600" stop="20260806050000 -0600" channel="Trivision.cr">
+    <title>Música En Español</title>
+  </programme>
+  <programme start="20260806050000 -0600" stop="20260806070000 -0600" channel="Trivision.cr">
+    <title>Rep. Noticiero</title>
+  </programme>
+  <programme start="20260806070000 -0600" stop="20260806090000 -0600" channel="Trivision.cr">
+    <title>Rep. Nuestro Programa</title>
+  </programme>
+  <programme start="20260806090000 -0600" stop="20260806100000 -0600" channel="Trivision.cr">
+    <title>Misión Imposible</title>
+  </programme>
+  <programme start="20260806100000 -0600" stop="20260806113000 -0600" channel="Trivision.cr">
+    <title>Tardeando Por La Mañana</title>
+  </programme>
+  <programme start="20260806113000 -0600" stop="20260806150000 -0600" channel="Trivision.cr">
+    <title>Noticias Trivisión</title>
+  </programme>
+  <programme start="20260806150000 -0600" stop="20260806170000 -0600" channel="Trivision.cr">
+    <title>Nuestro Programa</title>
+  </programme>
+  <programme start="20260806170000 -0600" stop="20260806190000 -0600" channel="Trivision.cr">
+    <title>Noticiero Estelar Trivisión</title>
+  </programme>
+  <programme start="20260806190000 -0600" stop="20260806210000 -0600" channel="Trivision.cr">
+    <title>Rep. Nuestro Programa</title>
+  </programme>
+  <programme start="20260806210000 -0600" stop="20260806230000 -0600" channel="Trivision.cr">
+    <title>Rep. Noticiero Estelar</title>
+  </programme>
+  <programme start="20260806230000 -0600" stop="20260807000000 -0600" channel="Trivision.cr">
+    <title>Rep. Tardeando</title>
+  </programme>
+  <programme start="20260807000000 -0600" stop="20260807013000 -0600" channel="Trivision.cr">
+    <title>La Mujer Maravilla</title>
+  </programme>
+  <programme start="20260807013000 -0600" stop="20260807020000 -0600" channel="Trivision.cr">
+    <title>Blanco Y Negro</title>
+  </programme>
+  <programme start="20260807020000 -0600" stop="20260807040000 -0600" channel="Trivision.cr">
+    <title>Pelicula</title>
+  </programme>
+  <programme start="20260805003000 -0600" stop="20260805140000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20260805140000 -0600" stop="20260805160000 -0600" channel="Opa.cr">
+    <title>Central Ahora</title>
+  </programme>
+  <programme start="20260805160000 -0600" stop="20260805180000 -0600" channel="Opa.cr">
+    <title>Alma de Mujer</title>
+  </programme>
+  <programme start="20260805180000 -0600" stop="20260805190000 -0600" channel="Opa.cr">
+    <title>Central Mundo</title>
+  </programme>
+  <programme start="20260805190000 -0600" stop="20260805200000 -0600" channel="Opa.cr">
+    <title>Esta Pasando</title>
+  </programme>
+  <programme start="20260805200000 -0600" stop="20260805213000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20260805213000 -0600" stop="20260805223000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20260805223000 -0600" stop="20260805233000 -0600" channel="Opa.cr">
+    <title>Charlas</title>
+  </programme>
+  <programme start="20260805233000 -0600" stop="20260806003000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20260806003000 -0600" stop="20260806140000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20260806140000 -0600" stop="20260806160000 -0600" channel="Opa.cr">
+    <title>Central Ahora</title>
+  </programme>
+  <programme start="20260806160000 -0600" stop="20260806180000 -0600" channel="Opa.cr">
+    <title>A doble nudo</title>
+  </programme>
+  <programme start="20260806180000 -0600" stop="20260806200000 -0600" channel="Opa.cr">
+    <title>Central Mundo</title>
+  </programme>
+  <programme start="20260806200000 -0600" stop="20260806213000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20260806213000 -0600" stop="20260806223000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20260806223000 -0600" stop="20260806233000 -0600" channel="Opa.cr">
+    <title>Charlas</title>
+  </programme>
+  <programme start="20260806233000 -0600" stop="20260807003000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20260807003000 -0600" stop="20260807140000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20260805130000 -0600" stop="20260805140000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20260805140000 -0600" stop="20260805160000 -0600" channel="Xpertv.cr">
+    <title>Instinto Viajero</title>
+  </programme>
+  <programme start="20260805160000 -0600" stop="20260805210000 -0600" channel="Xpertv.cr">
+    <title>Animados</title>
+  </programme>
+  <programme start="20260805210000 -0600" stop="20260806130000 -0600" channel="Xpertv.cr">
+    <title>Blue Bloods</title>
+  </programme>
+  <programme start="20260806130000 -0600" stop="20260806140000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20260806140000 -0600" stop="20260806160000 -0600" channel="Xpertv.cr">
+    <title>Cocina de hoy</title>
+  </programme>
+  <programme start="20260806160000 -0600" stop="20260806190000 -0600" channel="Xpertv.cr">
+    <title>Animados</title>
+  </programme>
+  <programme start="20260806190000 -0600" stop="20260806210000 -0600" channel="Xpertv.cr">
+    <title>Instinto Viajero</title>
+  </programme>
+  <programme start="20260806210000 -0600" stop="20260807130000 -0600" channel="Xpertv.cr">
+    <title>Blue Bloods</title>
   </programme>
   <programme start="20260805000000 +0000" stop="20260805010000 +0000" channel="Antena7.do">
     <title lang="es">Fruto prohíbido</title>
