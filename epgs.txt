@@ -14,6 +14,6 @@ https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz
 https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz
 https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz
 https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/main/playlists/tubi_epg.xml
-https://raw.githubusercontent.com/famsalcas/miEPG/main/Opa.cr.xml
-https://raw.githubusercontent.com/famsalcas/miEPG/main/Trivision.cr.xml
-https://raw.githubusercontent.com/famsalcas/miEPG/main/Xpertv.cr.xml
+https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Trivision.cr.xml
+https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Opa.cr.xml
+https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Xpertv.cr.xml
