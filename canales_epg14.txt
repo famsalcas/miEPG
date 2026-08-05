@@ -249,6 +249,7 @@
 5e7cf6c7b156d500078c5f44,OAN Plus,https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png
 66a7f0a78561260008c177f2,Salem News Channel,https://images.pluto.tv/channels/66a7f0a78561260008c177f2/colorLogoPNG.png
 5d486acc34ceb37d3c458a64,The First,https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png
+677d9adfa9a51b0008497fa0,UFC,https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png
 5e9f2c05172a0f0007db4786,CBS Sports HQ,https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png
 5a74b8e1e22a61737979c6bf,FOX Sports,https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png
 6549306c83595c000815a696,NBC Sports NOW,https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png
@@ -261,7 +262,6 @@
 63a0e33a45264d000850ed7e,Golazo Network,https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png
 65ea8b928145cb0008509426,UEFA Champions League,https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png
 60d39387706fe50007fda8e8,PBR RidePass,https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png
-677d9adfa9a51b0008497fa0,UFC,https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png
 64d160f53c785e0008df525e,Top Rank Classics,https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png
 649b6898f2ec0000081a9460,DAZN Ringside,https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png
 5ebc8688f3697d00072f7cf8,Bellator MMA,https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png

@@ -591,7 +591,6 @@ Magic Kids Tv,Magic Kids Tv,
 Magic Kids,Magic Kids,https://i.imgur.com/Uu8dciU.png
 Mi TV Television Clasica,Mi TV Television Clasica,
 Moni TV,Moni TV,https://i.imgur.com/Wct9jsp.png
-Kanade Tv,Kanade Tv,https://i.imgur.com/VlGfWW5.png
 PS Television,PS Television,https://i.imgur.com/X0ooVPY.png
 Retro Magico,Retro Magico,https://static-cdn.jtvnw.net/jtv_user_pictures/2b903ff4-40ae-4b68-8726-53095a95cc89-profile_image-70x70.png
 RetroX TV,RetroX TV,https://i.imgur.com/Cghkxbr.png
@@ -610,8 +609,6 @@ Voice Over Radio TV,Voice Over Radio TV,https://i.imgur.com/qhLnq2W.png
 Zaz TV,Zaz TV,https://i.imgur.com/CMMEIq3.png
 Fox Kids,Fox Kids,https://i.postimg.cc/Z518Hwrr/FOX-Kids-logo.png
 Jetix,Jetix,https://i.imgur.com/D9wFBkQ.png
-Canal 6,Canal 6,https://i.imgur.com/MzuTLkz.png
-Canal 13 Michoacan,Canal 13 Michoacan,https://i.imgur.com/z1VIGD7.png
 Cartoon Network Clasico,Cartoon Network Clasico,https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png
 Caricaturas,Caricaturas,
 CBTV Michoacan,CBTV Michoacan,https://i.imgur.com/z1VIGD7.png
@@ -620,11 +617,8 @@ El Chapulin,El Chapulin,
 El Chavo,El Chavo,
 Frecuencia Musical TV,Frecuencia Musical TV,https://www.frecuenciamusicaltv.com/wp-content/uploads/2017/01/ic_launcher-playstore-370x370.png
 Futurama,Futurama,
-Kanade TV,Kanade TV,https://i.imgur.com/VlGfWW5.png
 Los Simpson,Los Simpson,
 Magic Kids OK,Magic Kids OK,https://i.imgur.com/Uu8dciU.png
-Media Group Radio,Media Group Radio,https://i.imgur.com/z1VIGD7.png
-Monte Maria,Monte Maria,https://i.imgur.com/NIfwd9a.png
 Multicanal Ecuador,Multicanal Ecuador,https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600/multicanal.png
 Noticias MVS,Noticias MVS,https://i.imgur.com/z1VIGD7.png
 Pequeradio,Pequeradio,
@@ -634,16 +628,11 @@ Solo Stand Up,Solo Stand Up,https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30Tq
 South Park,South Park,
 Teleposadas,Teleposadas,https://i.imgur.com/RUuoMlL.png
 Telesistema,Telesistema,https://i.imgur.com/FhkTl6z.jpg
-Transmedia TV,Transmedia TV,https://i.imgur.com/z1VIGD7.png
 TV Educa Chile,TV Educa Chile,https://cdn.mitvstatic.com/programs/cl_tv-educa_l_l.jpg
 TVLuchitas,TVLuchitas,https://static-cdn.jtvnw.net/jtv_user_pictures/58d4bee8-b7ce-45de-baad-a54b06c134bf-profile_image-70x70.png
 Copa America,Copa America,
 Copa Mundial 2026,Copa Mundial 2026,
 Copa Mundial,Copa Mundial,
-Copa 2026,Copa 2026,
-EVENTO 1,EVENTO 1,
-EVENTO 2,EVENTO 2,
-EVENTO 3,EVENTO 3,
 Copa Oro,Copa Oro,
 Eurocopa,Eurocopa,
 Deportes 1,Deportes 1,
