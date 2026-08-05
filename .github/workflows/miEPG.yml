@@ -18,7 +18,7 @@ jobs:
       run: |
         chmod +x .github/workflows/EPG_script.sh
     - name: Generar EPGs manuales (fechas siempre frescas)
-        run: python3 generar_epg_manual.py
+      run: python3 generar_epg_manual.py
     - name: Ejecutar script
       run: .github/workflows/EPG_script.sh
     - name: Comprimir XML para SSIPTV
