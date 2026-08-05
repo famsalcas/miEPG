@@ -1,0 +1,121 @@
+id=Trivision.cr
+nombre=Trivisión Canal 36
+logo=
+offset=-0600
+dias=7
+
+Lunes,00:00,Concierto
+Lunes,01:30,Blanco Y Negro
+Lunes,02:00,Pelicula
+Lunes,04:00,Música 70s
+Lunes,05:00,Documental
+Lunes,06:00,El Gran Chaparral
+Lunes,07:00,Rep. Nuestro Programa
+Lunes,09:00,Batman
+Lunes,09:30,Los Tres Chiflados
+Lunes,10:00,Tardeando Por La Mañana
+Lunes,11:30,Noticias Trivisión
+Lunes,15:00,Nuestro Programa
+Lunes,17:00,Noticiero Estelar Trivisión
+Lunes,19:00,Rep. Nuestro Programa
+Lunes,21:00,Rep. Noticiero Estelar
+Lunes,23:00,Rep. Tardeando
+Martes,00:00,La Mujer Maravilla
+Martes,01:30,Blanco Y Negro
+Martes,02:00,Pelicula
+Martes,04:00,Música 80s
+Martes,05:00,Rep. Noticiero
+Martes,07:00,Rep. Nuestro Programa
+Martes,09:00,Star Trek
+Martes,10:00,Tardeando Por La Mañana
+Martes,11:30,Noticias Trivisión
+Martes,15:00,Nuestro Programa
+Martes,17:00,Noticiero Estelar Trivisión
+Martes,19:00,Rep. Nuestro Programa
+Martes,21:00,Rep. Noticiero Estelar
+Martes,23:00,Rep. Tardeando
+Miercoles,00:00,La Mujer Maravilla
+Miercoles,01:30,Blanco Y Negro
+Miercoles,02:00,Pelicula
+Miercoles,04:00,Música 90s
+Miercoles,05:00,Rep. Noticiero
+Miercoles,07:00,Rep. Nuestro Programa
+Miercoles,09:00,La Isla De La Fantasía
+Miercoles,10:00,Tardeando Por La Mañana
+Miercoles,11:30,Noticias Trivisión
+Miercoles,15:00,Nuestro Programa
+Miercoles,17:00,Noticiero Estelar Trivisión
+Miercoles,19:00,Rep. Nuestro Programa
+Miercoles,21:00,Rep. Noticiero Estelar
+Miercoles,23:00,Rep. Tardeando
+Jueves,00:00,La Mujer Maravilla
+Jueves,01:30,Blanco Y Negro
+Jueves,02:00,Pelicula
+Jueves,04:00,Música En Español
+Jueves,05:00,Rep. Noticiero
+Jueves,07:00,Rep. Nuestro Programa
+Jueves,09:00,Misión Imposible
+Jueves,10:00,Tardeando Por La Mañana
+Jueves,11:30,Noticias Trivisión
+Jueves,15:00,Nuestro Programa
+Jueves,17:00,Noticiero Estelar Trivisión
+Jueves,19:00,Rep. Nuestro Programa
+Jueves,21:00,Rep. Noticiero Estelar
+Jueves,23:00,Rep. Tardeando
+Viernes,00:00,La Mujer Maravilla
+Viernes,01:30,Blanco Y Negro
+Viernes,02:00,Pelicula
+Viernes,04:00,Música En Inglés
+Viernes,05:00,Rep. Noticiero
+Viernes,07:00,Rep. Nuestro Programa
+Viernes,09:00,Tierra De Gigantes
+Viernes,10:00,Tardeando Por La Mañana
+Viernes,11:30,Noticias Trivisión
+Viernes,15:00,Nuestro Programa
+Viernes,17:00,Noticiero Estelar Trivisión
+Viernes,19:00,Rep. Nuestro Programa
+Viernes,21:00,Rep. Noticiero Estelar
+Viernes,23:00,Rep. Tardeando
+Sabado,00:00,La Mujer Maravilla
+Sabado,01:30,Música Retro
+Sabado,02:00,Rep. Montaderas
+Sabado,04:00,Documental: Así Es Etiopía
+Sabado,05:00,Documental: Monos De Costa Rica
+Sabado,06:00,Música Bailable
+Sabado,07:00,Penelope Glamour
+Sabado,08:00,Tom Y Jerry Y El Correcaminos
+Sabado,09:00,Sakura Card Captor
+Sabado,10:00,Los Locos Addams
+Sabado,11:00,Yo Amo A Lucy
+Sabado,12:00,Semanario Olímpico
+Sabado,13:00,Videohits
+Sabado,14:00,Película: Junior
+Sabado,16:00,Magnum
+Sabado,17:00,Viaje Al Fondo Del Mar
+Sabado,18:00,Las Calles De San Francisco
+Sabado,19:00,Música En Inglés
+Sabado,20:00,Montaderas
+Sabado,22:00,Música En Español / Película
+Sabado,23:00,Programac
+Domingo,00:00,Documental
+Domingo,01:00,Rep. Montaderas
+Domingo,03:00,Rep. Montaderas
+Domingo,04:00,Música En Español
+Domingo,05:00,Los 3 Chiflados
+Domingo,06:00,La Pantera Rosa
+Domingo,07:00,El Pato Lucas
+Domingo,07:30,Los Autos Locos
+Domingo,08:00,El Escuadrón Diabólico
+Domingo,09:00,Sakura Card Captor
+Domingo,10:00,Los Locos Addams
+Domingo,11:00,Yo Amo A Lucy
+Domingo,12:00,Semanario Olímpico
+Domingo,13:00,Videohits
+Domingo,14:00,Película: Junior
+Domingo,16:00,Magnum
+Domingo,17:00,Viaje Al Fondo Del Mar
+Domingo,18:00,Los Invasores
+Domingo,19:00,Música Bailable
+Domingo,20:00,Montaderas
+Domingo,22:09,Música En Español
+Domingo,23:00,Rep. Video Hits

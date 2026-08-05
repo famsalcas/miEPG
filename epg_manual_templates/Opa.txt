@@ -1,0 +1,61 @@
+id=Opa.cr
+nombre=Opa Canal 36
+logo=
+offset=-0600
+dias=7
+
+Lunes,00:00,SIn informacion
+Lunes,02:00,SIn informacion
+Lunes,04:00,SIn informacion
+Lunes,06:00,SIn informacion
+Lunes,08:00,SIn informacion
+Lunes,10:00,SIn informacion
+Lunes,12:00,SIn informacion
+Lunes,14:00,Central Ahora
+Lunes,16:00,Central Mundo
+Lunes,17:00,Programa
+Lunes,18:00,Central Noticias
+Lunes,19:00,Esta Pasando
+Lunes,20:00,El Octavo Mandamiento
+Lunes,21:30,Equilibrio con Yaxun
+Lunes,22:30,Charlas
+Lunes,23:30,Central Noticias
+Martes,00:30,El Octavo Mandamiento
+Martes,14:00,Central Ahora
+Martes,16:00,Central Mundo
+Martes,17:00,Miss Universe Show
+Martes,19:00,Esta Pasando
+Martes,20:00,Central Noticias
+Martes,21:30,El Octavo Mandamiento
+Martes,22:30,Charlas
+Martes,23:30,Central Noticias
+Miercoles,00:30,El Octavo Mandamiento
+Miercoles,14:00,Central Ahora
+Miercoles,16:00,Alma de Mujer
+Miercoles,18:00,Central Mundo
+Miercoles,19:00,Esta Pasando
+Miercoles,20:00,Central Noticias
+Miercoles,21:30,El Octavo Mandamiento
+Miercoles,22:30,Charlas
+Miercoles,23:30,Central Noticias
+Jueves,00:30,El Octavo Mandamiento
+Jueves,14:00,Central Ahora
+Jueves,16:00,A doble nudo
+Jueves,18:00,Central Mundo
+Jueves,20:00,Central Noticias
+Jueves,21:30,El Octavo Mandamiento
+Jueves,22:30,Charlas
+Jueves,23:30,Central Noticias
+Viernes,00:30,El Octavo Mandamiento
+Viernes,14:00,Central Ahora
+Viernes,16:00,Central Mundo
+Viernes,17:00,Programa
+Viernes,18:00,Central Noticias
+Viernes,19:00,Esta Pasando
+Viernes,20:00,El Octavo Mandamiento
+Viernes,21:30,Programa
+Viernes,22:30,Charlas
+Viernes,23:30,Central Noticias
+Sabado,00:30,El Octavo Mandamiento
+Sabado,20:00,SIn informacion
+Domingo,20:00,SIn informacion
