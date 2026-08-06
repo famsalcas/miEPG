@@ -1,0 +1,124 @@
+id=Telefides.cr
+nombre=Telefides
+logo=
+offset=-0600
+dias=7
+
+
+Lunes,00:00,Regina Caeli con el Papa León
+Lunes,00:30,Vidas de Santos
+Lunes,01:00,Telefides Informe (L)
+Lunes,01:30,Informe Provida
+Lunes,02:00,Mientras el Mundo Gira
+Lunes,03:00,Coronilla de la Divina Misericordia
+Lunes,03:10,El Obispo Responde
+Lunes,03:30,Rosario de la Confianza
+Lunes,04:00,Hermano Salvador Gómez
+Lunes,05:00,Santo Rosario
+Lunes,05:30,Coronilla De la Divina Misericordia
+Lunes,06:00,Regina Caeli
+Lunes,06:05,Telefides Informe (L)
+Lunes,06:30,Rosario de la Confianza
+Lunes,07:00,Tertulias de Fe
+Lunes,08:00,EWTN Noticias
+Lunes,08:30,Manual para Enamorarse
+Lunes,09:00,Santo Rosario
+Lunes,09:30,Perspectiva Católica
+Lunes,10:30,Santa Misa Capilla María Auxiliadora En VIVO
+Lunes,11:25,Compendio del Catecismo
+Lunes,11:30,El Credo
+Lunes,12:00,Regina Caeli
+Lunes,12:05,Ruta Musical Con sello Católico
+Lunes,12:30,Vidas de Santos
+Lunes,13:00,EWTN Noticias
+Lunes,13:30,Cristomnautas
+Lunes,14:00,Cambio de Agujas
+Lunes,14:30,Manual para Enamorarse
+Lunes,15:00,Coronilla de la Divina Misericordia
+Lunes,15:10,Oración mensual del Papa Francisco
+Lunes,15:15,Un Café con Pepe
+Lunes,15:30,Rosario de la Confianza
+Lunes,16:00,Santo Rosario
+Lunes,16:30,Rosario Infantil
+Lunes,17:00,Infantiles Telefides
+Lunes,17:30,Cocina Fransciscana
+Lunes,18:00,Santa Misa Basílica de los Ángeles VIVO
+Lunes,19:00,Tertulias de Fe
+Lunes,20:00,Telefides Informe
+Lunes,20:30,Conectados
+Lunes,21:30,Santo Rosario
+Lunes,22:00,Voces de Santos
+Lunes,23:00,Mientras el Mundo Gira
+
+
+
+
+Martes,00:00,Regina Caeli
+Martes,00:05,Ruta Musical Con sello Católico
+Martes,00:30,Vidas de Santos
+Martes,01:00,EWTN Noticias
+Martes,01:30,Cristonautas
+Martes,02:00,Mientras el Mundo Gira
+Martes,03:00,Coronilla de la Divina Misericordia
+Martes,03:10,El Obispo Responde
+Martes,03:30,Rosario de la Confianza
+Martes,04:00,Tertulias de Fe
+Martes,05:00,Santo Rosario
+Martes,05:30,Coronilla De la Divina Misericordia
+Martes,06:00,Regina Caeli
+Martes,06:05,Telefides Informe (L)
+Martes,06:30,Rosario de la Confianza
+Martes,07:00,Tertulias de Fe
+Martes,08:00,Terra Santa News
+Martes,08:30,Cristonautas
+Martes,09:00,Santo Rosario Dolorosos
+Martes,09:30,Catequesis con el Padre Hugo Estrada
+Martes,10:00,Cocina Fransciscana
+Martes,10:30,Santa Misa Capilla María Auxiliadora En VIVO
+Martes,11:25,Editorial Telefides
+Martes,11:30,Espiritualidad Familiar
+Martes,12:00,Regina Caeli
+Martes,12:05,Ruta Musical Con sello Católico
+Martes,12:30,Vidas de Santos
+Martes,13:00,Telefides Informe (L)
+Martes,13:30,Cristomnautas
+Martes,14:00,Cambio de Agujas
+Martes,14:30,Manual para Enamorarse
+Martes,15:00,Coronilla de la Divina Misericordia
+Martes,15:10,El Obispo Responde
+Martes,15:30,Rosario de la Confianza
+Martes,16:00,Santo Rosario
+Martes,16:30,Rosario Infantil
+Martes,17:00,Infantiles Telefides
+Martes,17:30,Cocina Fransciscana
+Martes,18:00,Santa Misa Basílica de los Ángeles VIVO
+Martes,19:00,Tertulias de Fe
+Martes,20:00,Vaticano
+Martes,20:30,Conectados
+Martes,21:30,Santo Rosario
+Martes,22:00,Voces de Santos
+Martes,23:00,Mientras el Mundo Gira
+
+Miercoles,13:00,Serie
+Miercoles,14:00,Instinto Viajero
+Miercoles,16:00,Animados
+Miercoles,21:00,Blue Bloods
+Jueves,13:00,Serie
+Jueves,14:00,Cocina de hoy
+Jueves,16:00,Animados
+Jueves,17:00,ABCmouse Aprende Inglés
+Jueves,19:00,Instinto Viajero
+Jueves,21:00,Blue Bloods
+Viernes,13:00,Serie
+Viernes,14:00,Cocina de hoy
+Viernes,16:00,Animados
+Viernes,21:00,Blue Bloods
+Sabado,13:00,Todo sobre belleza
+Sabado,17:00,Santa Misa
+Sabado,20:00,Biografias con Alvaro Gamboa
+Sabado,20:30,Hacia lo mejor
+Sabado,21:30,Serie
+Domingo,12:00,Instinto Viajero
+Domingo,20:00,Biografias con Alvaro Gamboa
+Domingo,20:30,Hacia lo mejor
+Domingo,21:30,Serie

@@ -1,0 +1,30 @@
+id=SanJoseTV.cr
+nombre=San Jose TV
+logo=
+offset=-0600
+dias=7
+
+Lunes,08:00,Radio Revista Vida y Esperanza
+Martes,08:00,Radio Revista Vida y Esperanza
+Miercoles,08:00,Radio Revista Vida y Esperanza
+Jueves,00:00,Música y Prédicas
+Jueves,04:00,Escuela Para Todos / Música
+Jueves,05:00,El Club de los Madrugones
+Jueves,06:00,Santo Rosario y Santa Misa
+Jueves,08:00,Radio Revista Vida y Esperanza
+Jueves,10:30,Soplo de Vida / Formación
+Jueves,12:00,Ángelus y Programas del Mediodía
+Jueves,14:00,Impacto 93.1 / Aló Arturo
+Jueves,15:00,Hora Santa y Divina Misericordia
+Jueves,16:00,Caminando en Familia y Especiales
+Jueves,17:30,Santo Rosario y Santa Misa
+Jueves,19:30,Franja Pastoral y Familiar
+Jueves,21:00,Mi Descanso Eres Tú
+Jueves,22:30,Santo Trisagio y Música
+Viernes,00:00,Música y Prédicas
+Viernes,08:00,Radio Revista Vida y Esperanza
+Viernes,17:30,Santo Rosario y Santa Misa
+Sabado,00:00,Música y Prédicas
+Sabado,17:30,Santo Rosario y Santa Misa
+Domingo,00:00,Música y Prédicas
+Domingo,17:30,Santo Rosario y Santa Misa
