@@ -44,7 +44,7 @@ Jueves,17:00,A doble nudo
 Jueves,18:00,Central Noticias
 Jueves,19:00,Esta Pasando
 Jueves,20:00,El Octavo Mandamiento
-Jueves,21:30,Repeticion Programa
+Jueves,21:30,A doble nudo
 Jueves,22:30,Charlas
 Jueves,23:30,Central Noticias
 Viernes,00:30,El Octavo Mandamiento
