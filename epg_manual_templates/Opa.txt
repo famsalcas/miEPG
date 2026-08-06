@@ -4,6 +4,7 @@ logo=
 offset=-0600
 dias=7
 
+Lunes,13:00,Fuera de juego
 Lunes,14:00,Central Ahora
 Lunes,16:00,Central Mundo
 Lunes,17:00,Programa
@@ -14,6 +15,7 @@ Lunes,21:30,Equilibrio con Yaxun
 Lunes,22:30,Charlas
 Lunes,23:30,Central Noticias
 Martes,00:30,El Octavo Mandamiento
+Martes,13:00,Fuera de juego
 Martes,14:00,Central Ahora
 Martes,16:00,Central Mundo
 Martes,17:00,Miss Universe Show
@@ -24,6 +26,7 @@ Martes,21:30,Repeticion Programa
 Martes,22:30,Charlas
 Martes,23:30,Central Noticias
 Miercoles,00:30,El Octavo Mandamiento
+Miercoles,13:00,Fuera de juego
 Miercoles,14:00,Central Ahora
 Miercoles,16:00,Central Mundo
 Miercoles,17:00,Alma de Mujer
@@ -34,6 +37,7 @@ Miercoles,21:30,Alma de Mujer
 Miercoles,22:30,Charlas
 Miercoles,23:30,Central Noticias
 Jueves,00:30,El Octavo Mandamiento
+Jueves,13:00,Fuera de juego
 Jueves,14:00,Central Ahora
 Jueves,16:00,Central Mundo
 Jueves,17:00,A doble nudo
@@ -44,6 +48,7 @@ Jueves,21:30,Repeticion Programa
 Jueves,22:30,Charlas
 Jueves,23:30,Central Noticias
 Viernes,00:30,El Octavo Mandamiento
+Viernes,13:00,Fuera de juego
 Viernes,14:00,Central Ahora
 Viernes,16:00,Central Mundo
 Viernes,17:00,Programa
