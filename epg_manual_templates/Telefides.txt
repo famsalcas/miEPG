@@ -4,7 +4,6 @@ logo=
 offset=-0600
 dias=7
 
-
 Lunes,00:00,Regina Caeli con el Papa León
 Lunes,00:30,Vidas de Santos
 Lunes,01:00,Telefides Informe (L)
