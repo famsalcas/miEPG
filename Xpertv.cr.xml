@@ -3,18 +3,6 @@
   <channel id="Xpertv.cr">
     <display-name>XperTV</display-name>
   </channel>
-  <programme start="20260805130000 -0600" stop="20260805140000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20260805140000 -0600" stop="20260805160000 -0600" channel="Xpertv.cr">
-    <title>Instinto Viajero</title>
-  </programme>
-  <programme start="20260805160000 -0600" stop="20260805210000 -0600" channel="Xpertv.cr">
-    <title>Animados</title>
-  </programme>
-  <programme start="20260805210000 -0600" stop="20260806130000 -0600" channel="Xpertv.cr">
-    <title>Blue Bloods</title>
-  </programme>
   <programme start="20260806130000 -0600" stop="20260806140000 -0600" channel="Xpertv.cr">
     <title>Serie</title>
   </programme>
@@ -102,7 +90,22 @@
   <programme start="20260811200000 -0600" stop="20260811210000 -0600" channel="Xpertv.cr">
     <title>Instinto Viajero</title>
   </programme>
-  <programme start="20260811210000 -0600" stop="20260811220000 -0600" channel="Xpertv.cr">
+  <programme start="20260811210000 -0600" stop="20260812130000 -0600" channel="Xpertv.cr">
     <title>Blue Bloods</title>
+  </programme>
+  <programme start="20260812130000 -0600" stop="20260812140000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20260812140000 -0600" stop="20260812160000 -0600" channel="Xpertv.cr">
+    <title>Instinto Viajero</title>
+  </programme>
+  <programme start="20260812160000 -0600" stop="20260812210000 -0600" channel="Xpertv.cr">
+    <title>Animados</title>
+  </programme>
+  <programme start="20260812210000 -0600" stop="20260812223000 -0600" channel="Xpertv.cr">
+    <title>Blue Bloods</title>
+  </programme>
+  <programme start="20260812223000 -0600" stop="20260812233000 -0600" channel="Xpertv.cr">
+    <title>Biografias con Alvaro Gamboa</title>
   </programme>
 </tv>
