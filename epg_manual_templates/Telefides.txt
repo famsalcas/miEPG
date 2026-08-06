@@ -49,10 +49,6 @@ Lunes,20:30,Conectados
 Lunes,21:30,Santo Rosario
 Lunes,22:00,Voces de Santos
 Lunes,23:00,Mientras el Mundo Gira
-
-
-
-
 Martes,00:00,Regina Caeli
 Martes,00:05,Ruta Musical Con sello Católico
 Martes,00:30,Vidas de Santos
@@ -98,27 +94,215 @@ Martes,20:30,Conectados
 Martes,21:30,Santo Rosario
 Martes,22:00,Voces de Santos
 Martes,23:00,Mientras el Mundo Gira
-
-Miercoles,13:00,Serie
-Miercoles,14:00,Instinto Viajero
-Miercoles,16:00,Animados
-Miercoles,21:00,Blue Bloods
-Jueves,13:00,Serie
-Jueves,14:00,Cocina de hoy
-Jueves,16:00,Animados
-Jueves,17:00,ABCmouse Aprende Inglés
-Jueves,19:00,Instinto Viajero
-Jueves,21:00,Blue Bloods
-Viernes,13:00,Serie
-Viernes,14:00,Cocina de hoy
-Viernes,16:00,Animados
-Viernes,21:00,Blue Bloods
-Sabado,13:00,Todo sobre belleza
-Sabado,17:00,Santa Misa
-Sabado,20:00,Biografias con Alvaro Gamboa
-Sabado,20:30,Hacia lo mejor
-Sabado,21:30,Serie
-Domingo,12:00,Instinto Viajero
-Domingo,20:00,Biografias con Alvaro Gamboa
-Domingo,20:30,Hacia lo mejor
-Domingo,21:30,Serie
+Miercoles,00:00,Regina Caeli
+Miercoles,00:05,Ruta Musical Con sello Católico
+Miercoles,00:30,Vidas de Santos
+Miercoles,01:00,Telefides Informe (L)
+Miercoles,01:30,Cristonautas
+Miercoles,02:00,Cambio de Agujas
+Miercoles,02:30,Manual para Enamorarse
+Miercoles,03:00,Coronilla de la Divina Misericordia
+Miercoles,03:10,El Obispo Responde
+Miercoles,03:30,Rosario de la Confianza
+Miercoles,04:00,Hermano Salvador Gómez
+Miercoles,05:00,Santo Rosario
+Miercoles,05:30,Coronilla De la Divina Misericordia
+Miercoles,06:00,Regina Caeli
+Miercoles,06:05,Telefides Informe (L)
+Miercoles,06:30,Rosario de la Confianza
+Miercoles,07:00,Tertulias de Fe
+Miercoles,08:00,EWTN Noticias
+Miercoles,08:30,Cristonautas
+Miercoles,09:00,Santo Rosario Dolorosos
+Miercoles,09:30,Perspectiva Católica
+Miercoles,10:30,Santa Misa Capilla María Auxiliadora En VIVO
+Miercoles,11:25,Compendio del Catecismo
+Miercoles,11:30,El Credo
+Miercoles,12:00,Regina Caeli
+Miercoles,12:05,Audiencia Papal
+Miercoles,12:30,Vidas de Santos
+Miercoles,13:00,Telefides Informe (L)
+Miercoles,13:30,Cristomnautas
+Miercoles,14:00,Mientras el Mundo Gira
+Miercoles,15:00,Coronilla de la Divina Misericordia
+Miercoles,15:10,El Obispo Responde
+Miercoles,15:30,Rosario de la Confianza
+Miercoles,16:00,Santo Rosario
+Miercoles,16:30,Rosario Infantil
+Miercoles,17:00,Infantiles Telefides
+Miercoles,17:30,Cocina Fransciscana
+Miercoles,18:00,Santa Misa Basílica de los Ángeles VIVO
+Miercoles,19:00,Tertulias de Fe
+Miercoles,20:00,Perspectiva Catolica
+Miercoles,20:30,Conectados
+Miercoles,21:30,Santo Rosario
+Miercoles,22:00,Voces de Santos
+Miercoles,23:00,Mientras el Mundo Gira
+Jueves,00:00,Regina Caeli
+Jueves,00:05,Audiencia Papal
+Jueves,00:30,Vidas de Santos
+Jueves,01:00,Telefides Informe (L)
+Jueves,01:30,Cristonautas
+Jueves,02:00,Mientras el Mundo Gira
+Jueves,03:00,Coronilla de la Divina Misericordia
+Jueves,03:10,El Obispo Responde
+Jueves,03:30,Rosario de la Confianza
+Jueves,04:00,Tertulias de Fe
+Jueves,05:00,Santo Rosario
+Jueves,05:30,Coronilla De la Divina Misericordia
+Jueves,06:00,Regina Caeli
+Jueves,06:05,Telefides Informe (L)
+Jueves,06:30,Rosario de la Confianza
+Jueves,07:00,Tertulias de Fe
+Jueves,08:00,Terra Santa News
+Jueves,08:30,Cristonautas
+Jueves,09:00,Santo Rosario
+Jueves,09:30,Catequesis con el Padre Hugo Estrada
+Jueves,10:00,Cocina Franciscana
+Jueves,10:30,Santa Misa Capilla María Auxiliadora En VIVO
+Jueves,11:25,Compendio del Catecismo
+Jueves,11:30,Espiritualidad Familiar
+Jueves,12:00,Regina Caeli
+Juevess,12:05,Ruta Musical Con Sello Católico
+Jueves,12:30,Vidas de Santos
+Jueves,13:00,Telefides Informe (L)
+Jueves,13:30,Cristomnautas
+Jueves,14:00,Cambio de Agujas
+Jueves,14:30,Manual para Enamorarse
+Jueves,15:00,Hora Santa Basílica de Los Ángeles
+Jueves,16:00,Santo Rosario
+Jueves,16:30,Rosario Infantil
+Jueves,17:00,Infantiles Telefides
+Jueves,17:30,Cocina Fransciscana
+Jueves,18:00,Santa Misa Basílica de los Ángeles VIVO
+Jueves,19:00,Tertulias de Fe
+Jueves,20:00,Telefides Informe
+Jueves,20:30,Vidas de Santos
+Jueves,21:00,Cristonautas
+Jueves,21:30,Santo Rosario
+Jueves,22:00,Voces de Santos
+Jueves,23:00,Mientras el Mundo Gira
+Viernes,00:00,Regina Caeli
+Viernes,00:05,Ruta Musical Con sello Católico
+Viernes,00:30,Vidas de Santos
+Viernes,01:00,Telefides Informe (J)
+Viernes,01:30,Cristonautas
+Viernes,02:00,Cambio de Agujas
+Viernes,02:30,Manual para Enamorarse
+Viernes,03:00,Coronilla de la Divina Misericordia
+Viernes,03:10,El Obispo Responde
+Viernes,03:30,Rosario de la Confianza
+Viernes,04:00,Hermano Salvador Gómez
+Viernes,05:00,Santo Rosario
+Viernes,05:30,Coronilla De la Divina Misericordia
+Viernes,06:00,Regina Caeli
+Viernes,06:05,Telefides Informe (J)
+Viernes,06:30,Rosario de la Confianza
+Viernes,07:00,Tertulias de Fe
+Viernes,08:00,EWTN Noticias
+Viernes,08:30,Cristonautas
+Viernes,09:00,Santo Rosario
+Viernes,09:30,Perspectiva Católica
+Viernes,10:30,Santa Misa Capilla María Auxiliadora En VIVO
+Viernes,11:25,Compendio del Catecismo
+Viernes,11:30,El Credo
+Viernes,12:00,Regina Caeli
+Viernes,12:05,Ruta Musical Con sello Católico
+Viernes,12:30,Vidas de Santos
+Viernes,13:00,Telefides Informe (J)
+Viernes,13:30,Cristomnautas
+Viernes,14:00,Mientras el Mundo Gira
+Viernes,15:00,Coronilla de la Divina Misericordia
+Viernes,15:10,El Obispo Responde
+Viernes,15:30,Rosario de la Confianza
+Viernes,16:00,Santo Rosario
+Viernes,16:30,Rosario Infantil
+Viernes,17:00,Infantiles Telefides
+Viernes,17:30,Cocina Fransciscana
+Viernes,18:00,Santa Misa Basílica de los Ángeles VIVO
+Viernes,19:00,Tertulias de Fe
+Viernes,20:00,Perspectiva Catolica
+Viernes,20:45,Un Café con Pepe
+Viernes,21:00,Cristonautas
+Viernes,21:30,Santo Rosario
+Viernes,22:00,Voces de Santos
+Viernes,23:00,Mientras el Mundo Gira
+Sabado,00:00,Ángelus
+Sabado,00:05,Ruta Musical Con sello Católico
+Sabado,00:30,Vidas de Santos
+Sabado,01:00,Telefides Informe (J)
+Sabado,01:30,En la Herida está la Misión
+Sabado,02:00,Perdón y Misericordia
+Sabado,02:30,Creados para Amar
+Sabado,03:00,Coronilla de la Divina Misericordia
+Sabado,03:10,El Obispo Responde
+Sabado,03:30,Rosario de la Confianza
+Sabado,04:00,Tertulias de Fe
+Sabado,05:00,Santo Rosario
+Sabado,05:30,Coronilla De la Divina Misericordia
+Sabado,06:00,Ángelus
+Sabado,06:05,Telefides Informe (J)
+Sabado,06:30,Rosario de la Confianza
+Sabado,07:00,Tertulias de Fe
+Sabado,08:00,Infantiles Telefides
+Sabado,09:00,Santo Rosario
+Sabado,09:30,Catequesis con el Padre Hugo Estrada
+Sabado,10:00,Oradores
+Sabado,11:00,Especiales Telefides Películas
+Sabado,13:00,Telefides Informe (J)
+Sabado,13:30,Documentales
+Sabado,15:00,Coronilla de la Divina Misericordia
+Sabado,15:10,Proyecto Equilibrio
+Sabado,15:15,Un Café con Pepe
+Sabado,15:30,Rosario de la Confianza
+Sabado,16:00,Santo Rosario
+Sabado,16:30,Rosario Infantil
+Sabado,17:00,Infantiles Telefides
+Sabado,17:30,Cocina Fransciscana
+Sabado,18:00,Santa Misa Basílica de los Ángeles VIVO
+Sabado,19:00,Especiales Telefides Películas
+Sabado,20:45,Editorial Telefides
+Sabado,21:00,Catequesis con el Padre Hugo Estrada
+Sabado,21:30,Santo Rosario
+Sabado,22:00,PADRE JUAN JAIME ESCOBAR
+Domingo,00:00,Ángelus
+Domingo,00:05,Especiales Telefides Películas
+Domingo,03:00,Coronilla de la Divina Misericordia
+Domingo,03:10,Oración mensual del Papa León
+Domingo,03:15,Mensaje del Padre John Mario Montoya
+Domingo,03:30,Rosario de la Confianza
+Domingo,04:00,Hermano Salvador Gómez
+Domingo,05:00,Santo Rosario
+Domingo,05:30,Coronilla De la Divina Misericordia
+Domingo,06:00,Ángelus
+Domingo,06:05,Telefides Informe (J)
+Domingo,06:30,Rosario de la Confianza
+Domingo,07:00,Ruta Musical Con sello Católico
+Domingo,07:30,Documental
+Domingo,08:00,Infantiles Telefides
+Domingo,09:00,Santo Rosario
+Domingo,09:30,Catequesis con el Padre Hugo Estrada
+Domingo,10:00,Cocina Fransciscana
+Domingo,10:30,Santa Misa Capilla María Auxiliadora En VIVO
+Domingo,11:25,Editorial Telefides
+Domingo,11:30,El Obispo Responde
+Domingo,12:00,Ángelus con el Papa León
+Domingo,12:30,Vidas de Santos
+Domingo,13:00,Telefides Informe (L)
+Domingo,13:30,Informe Provida
+Domingo,14:00,Mientras el Mundo Gira
+Domingo,15:00,Coronilla de la Divina Misericordia
+Domingo,15:10,Proyecto Equilibrio
+Domingo,15:15,Un Café con Pepe
+Domingo,15:30,Rosario de la Confianza
+Domingo,16:00,Santo Rosario
+Domingo,16:30,Rosario Infantil
+Domingo,17:00,Infantiles Telefides
+Domingo,17:30,Cocina Fransciscana
+Domingo,18:00,Santa Misa Basílica de los Ángeles VIVO
+Domingo,19:00,Telefides Informe (J)
+Domingo,19:30,Cambio de Agujas
+Domingo,20:00,Conciertos Católicos
+Domingo,21:00,El Rosario de Adviento
+Domingo,21:30,Santo Rosario Dolorosos
+Domingo,22:00,PADRE JUAN JAIME ESCOBAR
