@@ -20,6 +20,7 @@ Miercoles,13:00,Serie
 Miercoles,14:00,Instinto Viajero
 Miercoles,16:00,Animados
 Miercoles,21:00,Blue Bloods
+Miercoles,22:30,Biografias con Alvaro Gamboa
 Jueves,13:00,Serie
 Jueves,14:00,Cocina de hoy
 Jueves,16:00,Animados
