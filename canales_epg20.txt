@@ -1,0 +1,2 @@
+# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Telefides.cr.xml
+Telefides.cr,Telefides,
