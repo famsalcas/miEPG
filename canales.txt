@@ -130,31 +130,31 @@ CMElCanaldelaMusica.ar,ECDF
 DAZN 1,DAZN 1
 DirecTVSports.pe,DIRECTVSports.pe
 DIRECTV SPORTS +,DIRECTVSportsPlus.pe
-ESPN Sur,ESPN.ar
-ESPN Norte,ESPN.ni
-ESPN 2 Sur,ESPN2.ar
-ESPN 2 Norte,ESPN2.ni
-ESPN 3 Sur,ESPN3.ar
-ESPN 3,ESPN3.ni
-ESPN 4 Centroamérica y Caribe,ESPN4.ni
-ESPN 4 Sur,ESPN4.ar
-ESPN 5,ESPN5.co
-ESPN 6 Sudamérica,ESPN6.pe
-ESPN 7 Perú,ESPN7.pe
+ESPN Sur,ESPN.ar,-1
+ESPN Norte,ESPN.ni,-1
+ESPN 2 Sur,ESPN2.ar,-1
+ESPN 2 Norte,ESPN2.ni,-1
+ESPN 3 Sur,ESPN3.ar,-1
+ESPN 3,ESPN3.ni,-1
+ESPN 4 Centroamérica y Caribe,ESPN4.ni,-1
+ESPN 4 Sur,ESPN4.ar,-1
+ESPN 5,ESPN5.co,-1
+ESPN 6 HD.cl,ESPN6.pe
+ESPN 7 HD.cl,ESPN7.pe
 ESPN Deportes,ESPNDeportes.us
 ESPN Premium,ESPNPremium.pe
 eurosport 1,eurosport 1,Eurosport4K.es
 FIFA+,FIFAplus
-Fox Costa Rica,Fox.cr
-FOX+ Centroamérica,FoxPlus.cr
-Fox Nicaragua,Fox.ni
+Fox Costa Rica,Fox.cr,-1
+FOX+ Centroamérica,FoxPlus.cr,-1
+Fox Nicaragua,Fox.ni,-1
 FOX SPORTS AR,FOXSportsConoSur.ar
 FOX SPORTS 2 AR,FOXSports2.ar
 FOX SPORTS 3 AR,FOXSports3.ar
 Fox Sports Cono Norte,FOXSports.mx
 Fox Sports 2,FOXSports2.mx
 Fox Sports 3,FOXSports3.mx
-FUTV,FUTV
+FUTV,FUTV,-1
 GolPlay.es,GolPlay.es
 Golf Channel,GolfChannel.cr
 5c01df1759ee03633e7b272c,LuchaLibreAAA.pluto
@@ -285,22 +285,22 @@ Toonami Tv,Toonami
 Zaz TV,Zaz
 Mezzo,Mezzo
 3ee48530e00e0abe8eb40c71fc819aa0,AstroCiencia
-Animal Planet Panregional,AnimalPlanet.ni
+Animal Planet Panregional,AnimalPlanet.ni,-1
 discoveringchina,DiscoveringChina
-Discovery Channel,DiscoveryChannel.ni
+Discovery Channel,DiscoveryChannel.ni,-1
 Discovery.Channel.HD.us2,DiscoveryChannel.us
 Discovery en Español,DiscoveryEnEspanol.us
 Discovery Familia,DiscoveryFamiliaEnEspanol.us
 Discovery Science,DiscoveryScience.ni
 Discovery Theater,DiscoveryTheater.ni
 Discovery Turbo,DiscoveryTurbo.ni
-History 2 Panregional,History2.ni
+History 2 Panregional,History2.ni,-1
 US2600019IC,Historia
 Historia y Vida,HistoriayVida
-History Panregional,History2.ni
+History Panregional,History2.ni,-1
 479fe0d11f3f5132a3f36b617547da3b,LOVENATURE-ES
 Love the Planet,LovethePlanet
-National Geographic Centro,NationalGeographic.ni
+National Geographic Centro,NationalGeographic.ni,-1
 NatureTime,NatureTime
 Odisea,Odisea.es
 6298bd10d88ef000073f16b7,SmithsonianChannel.ar
