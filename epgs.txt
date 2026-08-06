@@ -17,3 +17,5 @@ https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/main/playlists/t
 https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Trivision.cr.xml
 https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Opa.cr.xml
 https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Xpertv.cr.xml
+https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Telefides.cr.xml
+https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/SanJoseTV.cr.xml
