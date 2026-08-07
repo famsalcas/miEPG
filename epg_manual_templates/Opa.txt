@@ -4,56 +4,82 @@ logo=
 offset=-0600
 dias=7
 
+Lunes,08:00,Central Noticias
+Lunes,09:00,Está Pasando
+Lunes,10:00,Misa
+Lunes,11:00,El Octavo Mandamiento
+Lunes,12:30,Testigo Directo
 Lunes,13:00,Fuera de juego
 Lunes,14:00,Central Ahora
 Lunes,16:00,Central Mundo
 Lunes,17:00,Programa
 Lunes,18:00,Central Noticias
-Lunes,19:00,Esta Pasando
+Lunes,19:00,Está Pasando
 Lunes,20:00,El Octavo Mandamiento
-Lunes,21:30,Equilibrio con Yaxun
+Lunes,21:30,Equilibrio con Yaxún
 Lunes,22:30,Charlas
 Lunes,23:30,Central Noticias
-Martes,00:30,El Octavo Mandamiento
+Martes,01:00,El Octavo Mandamiento
+Martes,08:00,Central Noticias
+Martes,09:00,Está Pasando
+Martes,10:00,Misa
+Martes,11:00,El Octavo Mandamiento
+Martes,12:30,Testigo Directo
 Martes,13:00,Fuera de juego
 Martes,14:00,Central Ahora
 Martes,16:00,Central Mundo
 Martes,17:00,Miss Universe Show
 Martes,18:00,Central Noticias
-Martes,19:00,Esta Pasando
+Martes,19:00,Está Pasando
 Martes,20:00,El Octavo Mandamiento
 Martes,21:30,Repeticion Programa
 Martes,22:30,Charlas
 Martes,23:30,Central Noticias
-Miercoles,00:30,El Octavo Mandamiento
+Miercoles,01:00,El Octavo Mandamiento
+Miercoles,08:00,Central Noticias
+Miercoles,09:00,Está Pasando
+Miercoles,10:00,Misa
+Miercoles,11:00,El Octavo Mandamiento
+Miercoles,12:30,Testigo Directo
 Miercoles,13:00,Fuera de juego
 Miercoles,14:00,Central Ahora
 Miercoles,16:00,Central Mundo
 Miercoles,17:00,Alma de Mujer
 Miercoles,18:00,Central Mundo
-Miercoles,19:00,Esta Pasando
+Miercoles,19:00,Está Pasando
 Miercoles,20:00,El Octavo Mandamiento
 Miercoles,21:30,Alma de Mujer
 Miercoles,22:30,Charlas
 Miercoles,23:30,Central Noticias
-Jueves,00:30,El Octavo Mandamiento
+Jueves,01:00,El Octavo Mandamiento
+Jueves,08:00,Central Noticias
+Jueves,09:00,Está Pasando
+Jueves,10:00,Misa
+Jueves,11:00,El Octavo Mandamiento
+Jueves,12:30,Testigo Directo
 Jueves,13:00,Fuera de juego
 Jueves,14:00,Central Ahora
 Jueves,16:00,Central Mundo
 Jueves,17:00,A doble nudo
 Jueves,18:00,Central Noticias
-Jueves,19:00,Esta Pasando
+Jueves,19:00,Está Pasando
 Jueves,20:00,El Octavo Mandamiento
 Jueves,21:30,A doble nudo
 Jueves,22:30,Charlas
 Jueves,23:30,Central Noticias
-Viernes,00:30,El Octavo Mandamiento
+Viernes,00:30,Testigo Directo
+Viernes,01:00,El Octavo Mandamiento
+Viernes,08:00,Central Noticias
+Viernes,09:00,Está Pasando
+Viernes,10:00,Misa
+Viernes,11:00,El Octavo Mandamiento
+Viernes,12:30,Testigo Directo
 Viernes,13:00,Fuera de juego
 Viernes,14:00,Central Ahora
 Viernes,16:00,Central Mundo
 Viernes,17:00,Programa
 Viernes,18:00,Central Noticias
-Viernes,19:00,Esta Pasando
+Viernes,19:00,Está Pasando
 Viernes,20:00,El Octavo Mandamiento
 Viernes,21:30,Programa
 Viernes,22:30,Charlas
