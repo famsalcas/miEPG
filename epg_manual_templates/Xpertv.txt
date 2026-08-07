@@ -11,30 +11,41 @@ Lunes,15:00,Programa
 Lunes,16:30,Escuela Teletica
 Lunes,19:00,Hacia lo mejor
 Lunes,21:00,Blue Bloods
+Lunes,23:00,OFF AIR
 Martes,13:00,Serie
 Martes,14:00,Cocina de hoy
 Martes,16:00,Animados
 Martes,20:00,Instinto Viajero
 Martes,21:00,Blue Bloods
+Martes,23:00,OFF AIR
 Miercoles,13:00,Serie
 Miercoles,14:00,Instinto Viajero
 Miercoles,16:00,Animados
 Miercoles,21:00,Blue Bloods
 Miercoles,22:30,Biografias con Alvaro Gamboa
+Miercoles,23:00,OFF AIR
 Jueves,13:00,Serie
 Jueves,14:00,Cocina de hoy
 Jueves,16:00,Animados
+Jueves,18:00,Hacia lo mejor
 Jueves,19:00,Instinto Viajero
+Jueves,20:30,Serie
 Jueves,21:00,Blue Bloods
+Viernes,08:00,Cocina de hoy
+Jueves,09:00,Animados
+Jueves,09:30,Animados
 Viernes,13:00,Serie
 Viernes,14:00,Cocina de hoy
-Viernes,16:00,Animados
+Viernes,15:00,Animados
+Viernes,16:00,Cocina de hoy
 Viernes,21:00,Blue Bloods
+Viernes,23:00,OFF AIR
 Sabado,13:00,Todo sobre belleza
 Sabado,17:00,Santa Misa
 Sabado,20:00,Biografias con Alvaro Gamboa
 Sabado,20:30,Hacia lo mejor
 Sabado,21:30,Serie
+Sabado,23:00,OFF AIR
 Domingo,12:00,Instinto Viajero
 Domingo,20:00,Biografias con Alvaro Gamboa
 Domingo,20:30,Hacia lo mejor
