@@ -3,39 +3,6 @@
   <channel id="Opa.cr">
     <display-name>Opa Canal 36</display-name>
   </channel>
-  <programme start="20260806003000 -0600" stop="20260806130000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20260806130000 -0600" stop="20260806140000 -0600" channel="Opa.cr">
-    <title>Fuera de juego</title>
-  </programme>
-  <programme start="20260806140000 -0600" stop="20260806160000 -0600" channel="Opa.cr">
-    <title>Central Ahora</title>
-  </programme>
-  <programme start="20260806160000 -0600" stop="20260806170000 -0600" channel="Opa.cr">
-    <title>Central Mundo</title>
-  </programme>
-  <programme start="20260806170000 -0600" stop="20260806180000 -0600" channel="Opa.cr">
-    <title>A doble nudo</title>
-  </programme>
-  <programme start="20260806180000 -0600" stop="20260806190000 -0600" channel="Opa.cr">
-    <title>Central Noticias</title>
-  </programme>
-  <programme start="20260806190000 -0600" stop="20260806200000 -0600" channel="Opa.cr">
-    <title>Esta Pasando</title>
-  </programme>
-  <programme start="20260806200000 -0600" stop="20260806213000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20260806213000 -0600" stop="20260806223000 -0600" channel="Opa.cr">
-    <title>A doble nudo</title>
-  </programme>
-  <programme start="20260806223000 -0600" stop="20260806233000 -0600" channel="Opa.cr">
-    <title>Charlas</title>
-  </programme>
-  <programme start="20260806233000 -0600" stop="20260807003000 -0600" channel="Opa.cr">
-    <title>Central Noticias</title>
-  </programme>
   <programme start="20260807003000 -0600" stop="20260807130000 -0600" channel="Opa.cr">
     <title>El Octavo Mandamiento</title>
   </programme>
@@ -172,6 +139,39 @@
     <title>Charlas</title>
   </programme>
   <programme start="20260812233000 -0600" stop="20260813003000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20260813003000 -0600" stop="20260813130000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20260813130000 -0600" stop="20260813140000 -0600" channel="Opa.cr">
+    <title>Fuera de juego</title>
+  </programme>
+  <programme start="20260813140000 -0600" stop="20260813160000 -0600" channel="Opa.cr">
+    <title>Central Ahora</title>
+  </programme>
+  <programme start="20260813160000 -0600" stop="20260813170000 -0600" channel="Opa.cr">
+    <title>Central Mundo</title>
+  </programme>
+  <programme start="20260813170000 -0600" stop="20260813180000 -0600" channel="Opa.cr">
+    <title>A doble nudo</title>
+  </programme>
+  <programme start="20260813180000 -0600" stop="20260813190000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20260813190000 -0600" stop="20260813200000 -0600" channel="Opa.cr">
+    <title>Esta Pasando</title>
+  </programme>
+  <programme start="20260813200000 -0600" stop="20260813213000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20260813213000 -0600" stop="20260813223000 -0600" channel="Opa.cr">
+    <title>A doble nudo</title>
+  </programme>
+  <programme start="20260813223000 -0600" stop="20260813233000 -0600" channel="Opa.cr">
+    <title>Charlas</title>
+  </programme>
+  <programme start="20260813233000 -0600" stop="20260814003000 -0600" channel="Opa.cr">
     <title>Central Noticias</title>
   </programme>
 </tv>
