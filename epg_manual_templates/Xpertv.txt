@@ -28,6 +28,7 @@ Jueves,13:00,Serie
 Jueves,14:00,Cocina de hoy
 Jueves,16:00,Animados
 Jueves,18:00,Hacia lo mejor
+Jueves,17:00,ABCmouse Aprende Inglés
 Jueves,19:00,Instinto Viajero
 Jueves,20:30,Serie
 Jueves,21:00,Blue Bloods
@@ -39,6 +40,7 @@ Viernes,14:00,Cocina de hoy
 Viernes,15:00,Animados
 Viernes,16:00,Cocina de hoy
 Viernes,16:30,Animados
+Viernes,17:00,ABCmouse Aprende Inglés
 Viernes,19:00,Serie
 Viernes,19:30,Biografias con Alvaro Gamboa
 Viernes,20:00,Serie
