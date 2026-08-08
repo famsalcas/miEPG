@@ -1,4 +1,3 @@
 # Fuente: https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/main/playlists/tubi_epg.xml
 555116,FOX LOCAL Chicago,https://canvas-lb.tubitv.com/opts/T1G1wfKs9FXYow==/b2b6d3b0-fc88-4813-be71-347b0ba69474/CHgQeDoFMS4xLjlAAQ==
-400000056,Ebony TV by Lionsgate,https://canvas-lb.tubitv.com/opts/yHCUm2mwp3Y8yw==/6ff20b44-04d5-426c-aaf5-5593a6c60b87/CHgQeDoFMS4xLjlAAQ==
-670602,Fear Factor USA,https://canvas-lb.tubitv.com/opts/lnF_d9-y39CI8A==/ae22b756-ab2a-4cb2-bb18-ce281b110449/CHgQeDoFMS4xLjlAAQ==
+671073,Unsolved Mysteries,https://canvas-lb.tubitv.com/opts/aKYeZc2Iq7NuYQ==/864892f9-3ab0-4950-9f8b-189ec2d92c20/CHgQeDoFMS4xLjlAAQ==
