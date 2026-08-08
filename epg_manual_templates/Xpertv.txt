@@ -45,6 +45,7 @@ Viernes,19:00,Serie
 Viernes,19:30,Biografias con Alvaro Gamboa
 Viernes,20:00,Serie
 Viernes,21:00,Blue Bloods
+Viernes,22:00,Instinto Viajero
 Viernes,23:00,OFF AIR
 Sabado,13:00,Todo sobre belleza
 Sabado,17:00,Santa Misa
