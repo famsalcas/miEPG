@@ -1,0 +1,187 @@
+id=Canal1.cr
+nombre=Canal 1
+logo=
+offset=-0600
+dias=7
+
+Lunes,00:00,Serie Retro
+Lunes,01:00,Dramas
+Lunes,02:00,Cómo han pasado los años
+Lunes,03:00,Musicales
+Lunes,06:00,Misa
+Lunes,07:30,Animado Retro
+Lunes,08:00,RT en vivo
+Lunes,08:30,Cómo han pasado los años
+Lunes,09:30,Animado Retro
+Lunes,10:00,Reinventados
+Lunes,11:00,Novela China
+Lunes,12:00,RT en vivo
+Lunes,12:30,Primero Deportes
+Lunes,13:00,Serie Retro
+Lunes,13:30,Primero Noticias
+Lunes,14:00,Dramas
+Lunes,15:00,Serie Retro
+Lunes,15:30,Serie Retro
+Lunes,16:00,Animado Retro
+Lunes,16:30,Animado Retro
+Lunes,17:00,Cómo han pasado los años
+Lunes,18:00,Primero Noticias
+Lunes,20:00,Primero Deportes
+Lunes,20:30,Marcelo Castro Presenta
+Lunes,21:00,Primero Noticias
+Lunes,22:00,Kick Off
+Lunes,23:00,CGTN en vivo
+Martes,00:00,Serie Retro
+Martes,01:00,Dramas
+Martes,02:00,Cómo han pasado los años
+Martes,03:00,Musicales
+Martes,06:00,Misa
+Martes,07:30,Animado Retro
+Martes,08:00,RT en vivo
+Martes,08:30,Cómo han pasado los años
+Martes,09:30,Animado Retro
+Martes,10:00,Reinventados
+Martes,11:00,Novela China
+Martes,12:00,RT en vivo
+Martes,12:30,Primero Deportes
+Martes,13:00,Serie Retro
+Martes,13:30,Primero Noticias
+Martes,14:00,Dramas
+Martes,15:00,Serie Retro
+Martes,15:30,Serie Retro
+Martes,16:00,Animado Retro
+Martes,16:30,Animado Retro
+Martes,17:00,Cómo han pasado los años
+Martes,18:00,Primero Noticias
+Martes,20:00,Primero Deportes
+Martes,20:30,Serie Retro
+Martes,21:00,Primero Noticias
+Martes,22:00,Kick Off
+Martes,23:00,CGTN en vivo
+Miercoles,00:00,Serie Retro
+Miercoles,01:00,Dramas
+Miercoles,02:00,Cómo han pasado los años
+Miercoles,03:00,Musicales
+Miercoles,06:00,Misa
+Miercoles,07:30,Animado Retro
+Miercoles,08:00,RT en vivo
+Miercoles,08:30,Cómo han pasado los años
+Miercoles,09:30,Animado Retro
+Miercoles,10:00,Reinventados
+Miercoles,11:00,Novela China
+Miercoles,12:00,RT en vivo
+Miercoles,12:30,Primero Deportes
+Miercoles,13:00,Serie Retro
+Miercoles,13:30,Primero Noticias
+Miercoles,14:00,Dramas
+Miercoles,15:00,Serie Retro
+Miercoles,15:30,Serie Retro
+Miercoles,16:00,Animado Retro
+Miercoles,16:30,Animado Retro
+Miercoles,17:00,Cómo han pasado los años
+Miercoles,18:00,Primero Noticias
+Miercoles,20:00,Primero Deportes
+Miercoles,20:30,SErie Retro
+Miercoles,21:00,Primero Noticias
+Miercoles,22:00,Kick Off
+Miercoles,23:00,CGTN en vivo
+Jueves,00:00,Serie Retro
+Jueves,01:00,Dramas
+Jueves,02:00,Cómo han pasado los años
+Jueves,03:00,Musicales
+Jueves,06:00,Misa
+Jueves,07:30,Animado Retro
+Jueves,08:00,RT en vivo
+Jueves,08:30,Cómo han pasado los años
+Jueves,09:30,Animado Retro
+Jueves,10:00,Reinventados
+Jueves,11:00,Novela China
+Jueves,12:00,RT en vivo
+Jueves,12:30,Primero Deportes
+Jueves,13:00,Serie Retro
+Jueves,13:30,Primero Noticias
+Jueves,14:00,Dramas
+Jueves,15:00,Serie Retro
+Jueves,15:30,Serie Retro
+Jueves,16:00,Animado Retro
+Jueves,16:30,Animado Retro
+Jueves,17:00,Cómo han pasado los años
+Jueves,18:00,Primero Noticias
+Jueves,20:00,Primero Deportes
+Jueves,20:30,Marcelo Castro Presenta
+Jueves,21:00,Primero Noticias
+Jueves,22:00,Kick Off
+Jueves,23:00,CGTN en vivo
+Viernes,00:00,Serie Retro
+Viernes,01:00,Dramas
+Viernes,02:00,Cómo han pasado los años
+Viernes,04:00,Musicales
+Viernes,06:00,Misa
+Viernes,07:30,Animado Retro
+Viernes,08:00,RT en vivo
+Viernes,08:30,Cómo han pasado los años
+Viernes,09:30,Animado Retro
+Viernes,10:00,Reinventados
+Viernes,11:00,Novela China
+Viernes,12:00,RT en vivo
+Viernes,12:30,Primero Deportes
+Viernes,13:00,Serie Retro
+Viernes,13:30,Primero Noticias
+Viernes,14:00,Dramas
+Viernes,15:00,Serie Retro
+Viernes,15:30,Serie Retro
+Viernes,16:00,Animado Retro
+Viernes,16:30,Animado Retro
+Viernes,17:00,Cómo han pasado los años
+Viernes,18:00,Primero Noticias
+Viernes,20:00,Primero Deportes
+Viernes,20:30,Serie Retro
+Viernes,21:00,Primero Noticias
+Viernes,22:00,Kick Off
+Viernes,23:00,CGTN en vivo
+Sabado,00:00,Fiesta La Tica
+Sabado,01:00,Dramas
+Sabado,02:00,Serie Retro
+Sabado,03:00,Musicales
+Sabado,06:00,Conciertos
+Sabado,08:00,Animacion Retro
+Sabado,08:30,Animacion Retro
+Sabado,09:00,Animacion Retro
+Sabado,09:30,Animacion Retro
+Sabado,10:00,Animacion Retro
+Sabado,10:30,Back Up
+Sabado,11:00,Mas que musica
+Sabado,11:30,Mas que musica
+Sabado,12:00,Retro Hits
+Sabado,12:30,Retro Hits
+Sabado,14:00,Cine del 1
+Sabado,16:00,Serie Retro
+Sabado,16:30,Serie Retro
+Sabado,17:00,Cosas que pasan
+Sabado,17:30,Movilidad sin mitos
+Sabado,18:00,Cómo han pasado los años
+Sabado,19:00,Marcelo Castro Presenta
+Sabado,20:00,Cine del 1
+Sabado,23:00,Retro Hits
+Domingo,00:00,Fiesta La Tica
+Domingo,01:00,Dramas
+Domingo,03:00,Musicales
+Domingo,06:00,Animacion Retro
+Domingo,06:30,Animacion Retro
+Domingo,07:00,Animacion Retro
+Domingo,07:30,Animacion Retro
+Domingo,08:00,Cosas que pasan
+Domingo,08:30,Movilidad sin mitos
+Domingo,09:00,Misa
+Domingo,10:30,Animacion Retro
+Domingo,11:00,Yo Amo A Lucy
+Domingo,12:00,Semanario Olímpico
+Domingo,13:00,Videohits
+Domingo,14:00,Película: Junior
+Domingo,16:00,Magnum
+Domingo,17:00,Viaje Al Fondo Del Mar
+Domingo,18:00,Los Invasores
+Domingo,19:00,Música Bailable
+Domingo,20:00,Montaderas
+Domingo,22:09,Música En Español
+Domingo,23:00,Rep. Video Hits
