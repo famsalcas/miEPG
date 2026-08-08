@@ -15,6 +15,7 @@ Opa.cr,Opa.cr
 Xpertv.cr,Xpertv.cr
 Telefides.cr,Telefides.cr
 SanJoseTV.cr,SanJoseTV.cr
+Canal1.cr,Canal1.cr
 7 de Antena Latina,Antena7.do
 Azteca Guatemala,AztecaGuatemala.gt
 2 de El Salvador,Canal2.sv
