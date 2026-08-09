@@ -77,13 +77,19 @@ Viernes,12:30,Testigo Directo
 Viernes,13:00,Fuera de juego
 Viernes,14:00,Central Ahora
 Viernes,16:00,Central Mundo
-Viernes,17:00,Programa
+Viernes,17:00,Eco Latinoamerica
 Viernes,18:00,Central Noticias
 Viernes,19:00,Está Pasando
 Viernes,20:00,El Octavo Mandamiento
 Viernes,21:30,Programa
 Viernes,22:30,Charlas
 Viernes,23:30,Central Noticias
-Sabado,00:30,El Octavo Mandamiento
-Sabado,20:00,Retransmisiones
+Sabado,01:00,El Octavo Mandamiento
+Sabado,10:00,Equilibrio con Yaxún
+Sabado,11:00,Podcast
+Sabado,14:00,Podcast
+Sabado,16:00,A doble nudo
+Sabado,18:00,Está Pasando
+Sabado,20:00,Almaa de mujer
+Sabado,22:00,Retransmisiones
 Domingo,20:00,Retransmisiones
