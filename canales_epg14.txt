@@ -262,7 +262,6 @@
 63a0e33a45264d000850ed7e,Golazo Network,https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png
 65ea8b928145cb0008509426,UEFA Champions League,https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png
 60d39387706fe50007fda8e8,PBR RidePass,https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png
-6a03782f2c1c785c1161756c,Zuffa Boxing Prelims,https://images.pluto.tv/channels/6a03782f2c1c785c1161756c/colorLogoPNG_1782142013892.png
 64d160f53c785e0008df525e,Top Rank Classics,https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png
 649b6898f2ec0000081a9460,DAZN Ringside,https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png
 5ebc8688f3697d00072f7cf8,Bellator MMA,https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png

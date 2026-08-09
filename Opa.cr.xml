@@ -3,12 +3,6 @@
   <channel id="Opa.cr">
     <display-name>Opa Canal 36</display-name>
   </channel>
-  <programme start="20260808003000 -0600" stop="20260808200000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20260808200000 -0600" stop="20260809200000 -0600" channel="Opa.cr">
-    <title>Retransmisiones</title>
-  </programme>
   <programme start="20260809200000 -0600" stop="20260810080000 -0600" channel="Opa.cr">
     <title>Retransmisiones</title>
   </programme>
@@ -232,7 +226,7 @@
     <title>Central Mundo</title>
   </programme>
   <programme start="20260814170000 -0600" stop="20260814180000 -0600" channel="Opa.cr">
-    <title>Programa</title>
+    <title>Eco Latinoamerica</title>
   </programme>
   <programme start="20260814180000 -0600" stop="20260814190000 -0600" channel="Opa.cr">
     <title>Central Noticias</title>
@@ -249,7 +243,31 @@
   <programme start="20260814223000 -0600" stop="20260814233000 -0600" channel="Opa.cr">
     <title>Charlas</title>
   </programme>
-  <programme start="20260814233000 -0600" stop="20260815003000 -0600" channel="Opa.cr">
+  <programme start="20260814233000 -0600" stop="20260815010000 -0600" channel="Opa.cr">
     <title>Central Noticias</title>
+  </programme>
+  <programme start="20260815010000 -0600" stop="20260815100000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20260815100000 -0600" stop="20260815110000 -0600" channel="Opa.cr">
+    <title>Equilibrio con Yaxún</title>
+  </programme>
+  <programme start="20260815110000 -0600" stop="20260815140000 -0600" channel="Opa.cr">
+    <title>Podcast</title>
+  </programme>
+  <programme start="20260815140000 -0600" stop="20260815160000 -0600" channel="Opa.cr">
+    <title>Podcast</title>
+  </programme>
+  <programme start="20260815160000 -0600" stop="20260815180000 -0600" channel="Opa.cr">
+    <title>A doble nudo</title>
+  </programme>
+  <programme start="20260815180000 -0600" stop="20260815200000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20260815200000 -0600" stop="20260815220000 -0600" channel="Opa.cr">
+    <title>Almaa de mujer</title>
+  </programme>
+  <programme start="20260815220000 -0600" stop="20260815230000 -0600" channel="Opa.cr">
+    <title>Retransmisiones</title>
   </programme>
 </tv>

@@ -1,0 +1,2 @@
+# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Canal1.cr.xml
+Canal1.cr,Canal 1,
