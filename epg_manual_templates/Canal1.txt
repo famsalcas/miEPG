@@ -1,5 +1,5 @@
 id=Canal1.cr
-nombre=Canal 1
+nombre=Canal 1 (Costa Rica)
 logo=
 offset=-0600
 dias=7
