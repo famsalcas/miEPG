@@ -4,7 +4,7 @@
 Multimedios Costa Rica,Canal8.cr,-1
 11 de Costa Rica,Canal11.cr,-1
 13 de Costa Rica,Canal13.cr,-1
-Enlace TBN,Enlace.cr,-1
+Enlace,Enlace.cr,-1
 Extra TV 42 de Costa Rica,Canal42.cr,-1
 RetroX TV,RetroXTV.ms
 TeleRed,Telered.ms
@@ -115,24 +115,24 @@ Runtime Comedia,RuntimeComedia.es
 Runtime Romance,RuntimeRomance.es
 Runtime Thriller-Terror,RuntimeTT.es
 349e0f0840cf21b888bff327b41a2413,Scares
-Space Panregional,Space.ni
-Studio Universal Panregional,StudioUniversal.ni
+Space Panregional,Space.ni,-1
+Studio Universal Panregional,StudioUniversal.ni,-1
 Canal.Sundance.TV.(España).sv,SundanceTV
 TCM,TCM.cr
-TNT Centroamérica y Caribe,TNT.ni
+TNT Centroamérica y Caribe,TNT.ni,-1
 TNT.Mx,TNT.mx
 AYM Sports,AYMSports.mx
 735c2b7253c551ae9f07b07ea5278b75,Canela.TVDeportes
 CDN Deportes,CDNDeportes
-ClaroSports.Co,ClaroSports
+CLAROSPORTS,ClaroSports
 ClaroSports2,ClaroSports2
 Combate,CombaTV
-CMElCanaldelaMusica.ar,ECDF
+El Canal Del Futbol.ec,ECDF
 DAZN 1,DAZN 1
-DirecTVSports.pe,DIRECTVSports.pe
-DIRECTV SPORTS +,DIRECTVSportsPlus.pe
+DrcTVSpEc,DIRECTVSports.pe
+DIRECTV DEPORTES + HD,DIRECTVSportsPlus.pe
 ESPN Sur,ESPN.ar,-1
-ESPN Norte,ESPN.ni,-1
+ESPN.Cent,ESPN.ni
 ESPN 2 Sur,ESPN2.ar,-1
 ESPN 2 Norte,ESPN2.ni,-1
 ESPN 3 Sur,ESPN3.ar,-1
@@ -149,6 +149,7 @@ FIFA+,FIFAplus
 Fox Costa Rica,Fox.cr,-1
 FOX+ Centroamérica,FoxPlus.cr,-1
 Fox Nicaragua,Fox.ni,-1
+Fox Guatemala,Fox.gt,-1
 FOX SPORTS AR,FOXSportsConoSur.ar
 FOX SPORTS 2 AR,FOXSports2.ar
 FOX SPORTS 3 AR,FOXSports3.ar
@@ -178,8 +179,9 @@ TyCSports.ar,TyCSports.ar
 TyC Sp,TyCSports.cr
 A&amp;E Panregional,AAndE.ni
 Adrenalina Pura TV,AdrenalinaPuraTV
-AMC Colombia,AMC
-MasChic.pe,AMCSeries
+0624,EnlaceJuvenil.cr
+I26.90653.schedulesdirect.org,AMC
+0619,AMCSeries
 Atreseries Internacional,Atreseries.ar
 AXN Andes,AXN.ni
 Claro TV.sv,ClaroTV.ni
@@ -220,6 +222,7 @@ USA Network,USANetwork.ni
 USA.Network.HD.(Pacific).us2,USANetwork.us
 Warner TV Panregional,WarnerTV.ni
 Warner TV,WarnerTV.mx
+Cine Friki,CineFriki.es
 608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f,BuenViaje
 Hola TV,HolaTV
 0635,AZClic
@@ -307,6 +310,7 @@ Odisea,Odisea.es
 6298bd10d88ef000073f16b7,SmithsonianChannel.ar
 Canal.Bandamax.sv,Bandamax
 ClaroMu,ClaroMu
+Tennis Channel,TennisChannel
 5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615,ClassicRockNetwork
 ESBA1500001C4,DeluxeLounge
 exatv.Mx,ExaTV.cr
@@ -333,17 +337,19 @@ adn40,ADN40
 643054b1fc3be59477853717-682510ec0f741b077c360512,Actualidad 360
 5e46fba0c43b0d00096e5ac1,BlazeLive
 0216,BBCWORLD.uy
+BBC Series,BBC-Series
 0202,CNN.cl
 CNN en Español,CNNespanol.us
 Canal.CNN.Internacional.sv,CNNInternacional.cr
 euronews,Euronews
 ForoTV,FOROtv.mx
 Fox News,FoxNews.ni
+El Toro TV,ElToro
 France 24 en Español,France24-ES
 tlformula,Teleformula
 24H.Cl,24Chile
 0631,AZCorazon
-KANAL D DRAMA HD.cl,KanalDDrama
+0612,KanalDDrama
 Pasiones,Pasiones.ec
 RCN Novelas,RCNNovelas.ni
 5cf96cc422df39f1a338d165,Telemundotelenovelasclasicas
@@ -457,3 +463,6 @@ Frecuencia Musical TV,FrecuenciaMusical
 a9aae4e62e6fd8e401033cd14ceeaaa2,RCN_Noticias
 eb1dbd690001553eacdf32d7b155b933,SparkTV
 b0d5db7f498f56fcaf1f8289eea6ea4d,SparkTV-ES
+Sony One Shark Tank,SonyOneShark
+Sony One Hits Acción,SonyOneHitsAccion
+Sony One Hits Comedia,SonyOneHitsComedia
