@@ -88,8 +88,12 @@ Sabado,01:00,El Octavo Mandamiento
 Sabado,10:00,Equilibrio con Yaxún
 Sabado,11:00,Podcast
 Sabado,14:00,Podcast
+Sabado,15:00,Testigo Directo
 Sabado,16:00,A doble nudo
 Sabado,18:00,Está Pasando
 Sabado,20:00,Almaa de mujer
-Sabado,22:00,Retransmisiones
+Sabado,23:00,Charlas
+Domingo,00:00,Charlas
+Domingo,13:00,Está Pasando
+Domingo,15:00,Equilibrio con Yaxún
 Domingo,20:00,Retransmisiones
