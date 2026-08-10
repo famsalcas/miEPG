@@ -466,3 +466,22 @@ b0d5db7f498f56fcaf1f8289eea6ea4d,SparkTV-ES
 Sony One Shark Tank,SonyOneShark
 Sony One Hits Acción,SonyOneHitsAccion
 Sony One Hits Comedia,SonyOneHitsComedia
+506,Cine-Premium
+507,Cine-Familiar
+508,Cine-Hispano
+536,Atlas
+563,Canal-Iberoamericano
+567,MX-Classic
+568,MX-Series
+569,Old
+570,BN
+573,Ladies
+574,MundoSabor
+575,OnTour
+576,Fitmax
+630,BombiTV
+639,13_Cultura
+642,13_Teleseries
+643,13_Festival
+653,Vive-Kanal-DDrama
+654,CanelaTV-NovelasTurcas
