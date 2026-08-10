@@ -96,4 +96,8 @@ Sabado,23:00,Charlas
 Domingo,00:00,Charlas
 Domingo,13:00,Está Pasando
 Domingo,15:00,Equilibrio con Yaxún
+Domingo,18:00,Está Pasando
 Domingo,20:00,Retransmisiones
+Domingo,21:00,A doble nudo
+Domingo,22:00,Está Pasando
+Domingo,23:00,Charlas
