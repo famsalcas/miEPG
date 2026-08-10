@@ -1,2 +1,507 @@
-# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Trivision.cr.xml
-Trivision.cr,Trivisión Canal 36,
+# Fuente: https://epg.programadorx.cl/mdiaz/gratis.xml
+1,Sin Información,
+152dtv.cl,CL | Canal 13,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/152.png
+3,Programación Infantil,
+4,Programación Series y Peliculas,
+5,Programación Cultural,
+149dtv.cl,CL | TVN,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/149.png
+7,Programación Estilo y Tendencia,
+mega.cl,CL | MEGAMEDIA | Mega,http://cdn.epg-latam.com/logos/8-mega/Mega_Azul.png
+tntsports.cl,TNT Sports  Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1631.png
+tntsports2.cl,TNT Sports Premium  (TNTSP2) Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/631.png
+tntsports3.cl,TNT Sports 3 Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/632.png
+lared.cl,CL | La Red,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/148.png
+chv.cl,CL | Chilevisión,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/151.png
+24horas.cl,24 Horas (CHI),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/153.png
+179directv.cl,DIRECTV Sports +,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/613.png
+610dtv.cl,Directv Sports Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/610.png
+612directv.cl,DirecTV Sports 2,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/612.png
+19,DEMO,
+canal4.mx,Canal 4 México,https://cdn.mitvstatic.com/channels/mx_canal-4_s.png
+forotv.mx,MX | FOROtv ,https://cdn.mitvstatic.com/channels/mx_canal-4-foro-tv_s.png
+azteca7.mx,MX | Azteca 7,https://cdn.mitvstatic.com/channels/mx_azteca-7_s.png
+azteca13.mx,MX | Azteca 13,https://cdn.mitvstatic.com/channels/mx_azteca-13_s.png
+608dtv.cl,ESPN 5 Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/624.png
+1075dtv.cl,ESPN 3 Andina,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1623.png
+431dtv.cl,ESPN 2 Chile Mvstr,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/622.png
+1175dtv.cl,ESPN Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1621.png
+1620dtv.cl,ESPN 4,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1624.png
+4399dtv.cl,ESPN Premium Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/604.png
+3082dtv.cl,ESPN 7,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/608.png
+3081dtv.cl,ESPN 6,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/609.png
+633dtv.co,Win Sports,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/633.png
+634dtv.co,Win Sports +,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/634.png
+628dtv.cl,Golf Channel,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/628.png
+629dtv.cl,TyC Sports Int,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/629.png
+606dtv.ar,FOX Sports 2 Argentina,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/606.png
+1605dtv.ar,FOX Sports Argentina,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1605.png
+117dtv.co,TV Familia (VEN),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/117.png
+120dtv.ar,ARG | América TV,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/120.png
+122dtv.ar,ARG | Canal 9,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/122.png
+123dtv.ar,ARG | Telefe,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/123.png
+728dtv.ar,ARG | Canal Rural,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/728.png
+128dtv.ar,ARG | Encuentro,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/128.png
+124dtv.ar,ARG | El Trece,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/124.png
+130dtv.co,RCN (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/130.png
+132dtv.co,Caracol TV (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/132.png
+133dtv.co,City TV (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/133.png
+134dtv.co,Caracol Internacional (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/134.png
+135dtv.co,RCN Nuestra Tele,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/135.png
+136dtv.co,Canal Uno (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/136.png
+140dtv.co,Teleantioquia (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/140.png
+137dtv.co,Señal Colombia (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/137.png
+138dtv.co,Canal Institucional (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/138.png
+141dtv.co,Telepacífico (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/141.png
+145dtv.co,NTN 24-Nuestra Tele noticias 2,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/145.png
+147dtv.co,Cable Noticias de Colombia (CO,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/147.png
+155dtv.cl,CL | Canal Cámara Diputados (CHI),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/155.png
+194dtv.pe,PER | América TV,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png
+195dtv.pe,Panamericana TV (PER),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/195.png
+197dtv.pe,PER | TV Perú,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/197.png
+198dtv.pe,PER | Global,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/198.png
+199dtv.pe,ATV - Andina de TV (PER),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/199.png
+207dtv.cl,AE (ARG/CHI/COL/PER),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/207.png
+142dtv.co,Telecaribe (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/142.png
+65,Canal Capital (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/143.png
+208dtv.cl,Sony (ARG|CL|CO|PE),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/208.png
+215dtv.cl,Comedy Central ARG/CHI/COL/PE,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/215.png
+216dtv.cl,TBS Very Funny -&gt; Descontinuado,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/216.png
+217dtv.cl,FX (ARG/CHI/COL/PER),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/217.png
+218dtv.co,Universal TV (Norte),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/218.png
+218dtv.cl,Universal TV (Sur),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/218.png
+220dtv.cl,TRUTV -&gt; Adult Swim LATAM,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/220.png
+222dtv.cl,E! Entertainment ARG/CHI/COL/,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/222.png
+223dtv.cl,Investigation Discovery ARG/CH,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/223.png
+224dtvc.,Glitz ARG/CHI/COL/PER,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/224.png
+225dtv.cl,Pasiones ARG/CHI/COL/PER,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/225.png
+229dtv.cl,Discovery Home  Health ARG/CH,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/229.png
+229dtv.co,Discovery Home  Health Latino,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/229.png
+219dtv.cl,USA Network ARG/CHI/COL/ECU/PER,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/219.png
+121dtv.ar,ARG | La TV Pública,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/121.png
+610dtv.ar,ARG | DIRECTV Sports,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/610.png
+610dtv.co,DIRECTV Sports (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/610.png
+610dtv.ec,DIRECTV Sports (ECU),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/610.png
+610dtv.pe,DIRECTV Sports (PER),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/610.png
+180dtv.ec,Teleamazonas (ECU),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/180.png
+181dtv.ec,TC Television (ECU),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/181.png
+182dtv.ec,Ecuavisa (ECU),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/182.png
+183dtv.ec,Gamavisión (ECU),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/183.png
+185dtv.ec,RTS Red Telesistemas (ECU),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/185.png
+187dtv.ec,Ecuador TV (ECU),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/187.png
+232dtv.cl,El Gourmet,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/232.png
+304dtv.cl,Cartoon Network CHI/COL/ECU/PE,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png
+221dtv.cl,Hola TV,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/221.png
+351dtv.cl,ARG | Canal 21,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/351.png
+334dtv.cl,Cartoonito,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png
+boing.es,BOING,https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png
+dazn1.es,DAZN 1,https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png
+dazn2.es,DAZN 2,https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png
+dazn3.es,DAZN 3,https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png
+dazn4.es,DAZN 4,https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png
+daznlalige.es,DAZN La Liga,https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png
+1621dtv.ar,ESPN Argentina,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1621.png
+1604dtv.ar,ESPN Premium AR,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png
+eurosport3.es,EUROSPORT 3 ES,https://www.movistarplus.es/recorte/m-NEO/canal/ESPT3.png
+1638dtv.cl,Teletrak Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1638.png
+734dtv.cl,Animal Planet LAS,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png
+animalplanet.mx,MX | Animal Planet,https://cdn.mitvstatic.com/channels/mx_animal-planet_m.png
+732dtv.cl,Discovery Channel CHI/PER,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/732.png
+732dtv.co,Discovery Channel COL/ECU,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/732.png
+732dtv.ar,ARG | Discovery Channel,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/732.png
+discoverychannel.mx,MX | Discovery Channel,https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png
+330dtv.cl,Discovery Kids ARG/CHI,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/330.png
+330dtv.co,Discovery Kids COL/ECU/PER,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/330.png
+736dtv.cl,Discovery Turbo,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/736.png
+discoveryhyh.mx,MX | Discovery Home  Healt,https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png
+1731dtv.cl,Discovery Theater ,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1731.png
+1742dtv.cl,History LAS,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1742.png
+744dtv.cl,History 2 LAS,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/744.png
+766dtv.cl,RAI International ,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/766.png
+740dtv.cl,TLC Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/740.png
+1515dtv.cl,Europa Europa,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1515.png
+233dtv.cl,Food Network,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/233.png
+228dtv.cl,Lifetime,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/228.png
+704dtv.cl,CNN en español,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/704.png
+707dtv.cl,CNN Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/707.png
+706dtv.cl,CNN International,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/706.png
+1156dtv.cl,Canal 13 Cable CHI,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1156.png
+146dtv.cl,NTV CHI,
+1481dtv.cl,HBO CHI,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/524.png
+1524dtv.co,HBO AR/CO/EC/PE,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1524.png
+525dtv.cl,HBO 2,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/525.png
+1534dtv.cl,HBO Family,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1534.png
+540dtv.cl,HBO Mundi,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/540.png
+541dtv.cl,HBO Pop,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/541.png
+526dtv.cl,HBO Plus (Este),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/526.png
+528dtv.cl,HBO Signature,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/528.png
+542dtv.cl,HBO Xtreme,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/542.png
+503dtv.cl,TELEVISA | Golden,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/503.png
+517dtv.cl,TELEVISA | Golden Edge,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/517.png
+1513dtv.cl,DHE,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1513.png
+746dtv.cl,Film  Arts,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/746.png
+1577dtv.cl,UNIVERSAL Cinema West,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1577.png
+1572dtv.cl,Universal Cinema ,
+1573dtv.cl,Universal Comedy,
+603dtv.ar,ARG | TNT Sports,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/603.png
+622dtv.co,ESPN 2 Colombia ,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/622.png
+622dtv.pe,ESPN 2 Perú,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/622.png
+624dtv.co,ESPN 5 Sur,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/624.png
+621dtv.pe,ESPN Perú,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/621.png
+824dtv.cl,Paramount Network,https://cdn.epg-latam.com/logos/paramount/Paramount_Network_color.png
+157,LIBRE,
+1503dtv.cl,TELEVISA | Golden Plus,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1503.png
+1506dtv.cl,Sony Movies,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1506.png
+518dtv.cl,Space (Chile),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/518.png
+518dtv.ar,Space (Sur),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/518.png
+508dtv.cl,Studio Universal,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/508.png
+502dtv.cl,TNT Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/502.png
+502dtv.ar,TNT Latin America,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/502.png
+502dtv.co,TNT COL,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/502.png
+213dtv.cl,TNT Series,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/213.png
+576dtv.cl,Universal Premiere Oeste,
+571dtv.cl,Universal Premiere Este,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/571.png
+1206dtv.cl,Warner Channel,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1206.png
+312dtv.cl,Disney Channel SUR,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/312.png
+314dtv.co,Disney Channel COL,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png
+308dtv.cl,Nickelodeon,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png
+309dtv.cl,Nick JR,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/309.png
+310dtv.cl,Teen Nick,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/310.png
+268dtv.cl,Nick Music,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/268.png
+1317dtv.cl,Baby TV,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1317.png
+1738dtv.cl,Discovery World,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1738.png
+272dtv.cl,HTV,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/272.png
+mtv.cl,MTV Latino,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/264.png
+261dtv.cl,MTV Hits,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/261.png
+262dtv.cl,MTV 00&apos;s,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/262.png
+263dtv.cl,MTV Live,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/263.png
+202dtv.cl,CL | Star Channel,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/202.png
+204dtv.ar,ARG | STAR Channel,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/204.png
+202dtv.pe,STAR Channel ECU/PER,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/202.png
+202dtv.co,STAR Channel COL,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/202.png
+315dtv.cl,Disney Jr,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/315.png
+741dtv.cl,Sun Channel,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/741.png
+352dtv.cl,Enlace,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/352.png
+507dtv.co,Cinecanal (COL),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/507.png
+507dtv.ar,ARG | Cinecanal,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/507.png
+509dtv.ar,ARG | Cinemax,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/509.png
+1509dtv.cl,Cinemax CHI/COL/ECU/PER,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1509.png
+760dtv.cl,Univision,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/760.png
+658dtv.ec,GOL TV ECU -&gt; Descontinuado,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/658.png
+209dtv.cl,AXN ARG/CHI,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/209.png
+209dtv.co,AXN COL/ECU/PER,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/209.png
+520dtv.cl,I-SAT,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/520.png
+210dtv.cl,AMC,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/210.png
+730dtv.cl,National Geographic LAS,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/730.png
+730dtv.ar,National Geographic ARG,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/730.png
+daznf1.es,DAZN F1,https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png
+daznlaliga2.es,DAZN LaLiga2,https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png
+622dtv.ar,ESPN 2 Argentina,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/622.png
+227dtv.cl,TLNovelas SUR,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/227.png
+230dtv.cl,MÁS CHIC,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/230.png
+514dtv.cl,Cinelatino,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/514.png
+774dtv.co,TV Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/774.png
+762dtv.cl,Antena 3 Internacional,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/762.png
+776dtv.cl,Globo Internacional,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/776.png
+778dtv.cl,RTP Internacional,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/778.png
+784dtv.cl,El Trece Internacional,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/784.png
+1750dtv.co,Encuentro Internacional,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1750.png
+231dtv.cl,Telemundo Internacional,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png
+235dtv.cl,IVC Internacional,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/235.png
+1747dtv.cl,Smithsonian Channel,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1747.png
+214dtv.cl,A3 Series,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/214.png
+655dtv.ec,Canal de Futbol,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/655.png
+742dtv.co,History 2 op 2,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/742.png
+742dtv.cl,History (Sur),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/742.png
+24horas.es,24 HORAS España,https://www.movistarplus.es/recorte/m-NEO/canal/24H.png
+bemad.es,BE MAD,https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png
+cmm.es,Castilla la Mancha TV,https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png
+cuatro.es,Cuatro ESP,https://www.movistarplus.es/recorte/m-NEO/canal/C4.png
+energy.es,ENERGY ESP,https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png
+calle13.es,Calle 13 ESP,
+canalclaro.cl,CL | Canal Claro,
+clarocinema.cl,CL | Claro Cinema,
+claromusica.cl,CL | Claro Musica,
+clarosports.cl,CL | Claro Sports,
+fox.mx,MX | Star Channel,https://cdn.mitvstatic.com/channels/mx_fox_s.png
+tvmas.cl,CL | TV+,
+637dtv.cl,CL | CDO Premium,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/637.png
+viax.cl,VIA X,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726433_C6ADD46FA77D08DF.png
+1623dtv.ar,ESPN 3 Argentina,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1623.png
+a-plus.mx,MX | A+,https://cdn.mitvstatic.com/channels/mx_a_s.png
+elnu9ve.mx,MX | El Nu9ve,https://cdn.mitvstatic.com/channels/mx_canal-5-galavision_s.png
+adn40.mx,MX | ADN40,https://cdn.mitvstatic.com/channels/adn-40-s.png
+tvunam.mx,MX | TV UNAM,https://cdn.mitvstatic.com/channels/mx_tv-unam-nuevo_s.png
+canal11.mx,MX | Canal Once,https://cdn.mitvstatic.com/channels/mx_xeipn-canal-11_s.png
+canal5.mx,MX | Canal 5,https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_s.png
+excelsior.mx,MX | Excelsior TV,https://cdn.mitvstatic.com/channels/excelsior-s.png
+146dtv.co,COL | El Tiempo,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/146.png
+espn.mx,MX | ESPN,https://cdn.mitvstatic.com/channels/mx_espn_m.png
+espn-2.mx,MX | ESPN 2,https://cdn.mitvstatic.com/channels/mx_espn-2_m.png
+espn-3.mx,MX | ESPN 3,https://cdn.mitvstatic.com/channels/mx_espn-3_m.png
+discovery-science.cl,CL | Discovery Science,https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png
+ucv-tv.cl,CL | UCV TV,https://cdn.mitvstatic.com/channels/cl_ucv-tv_s.png
+az-corazon.mx,MX | Az Corazón,https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png
+a-e-mundo.mx,MX | AE,https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png
+amc.mx,MX | AMC,https://cdn.mitvstatic.com/channels/mx_amc_m.png
+axn.mx,MX | AXN,https://cdn.mitvstatic.com/channels/co_axn_m.png
+tlnovelas.mx,MX  | TLNovelas,https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png
+fox-sports.mx,MX | FOX Sports,https://cdn.mitvstatic.com/channels/mx_fox-sports_m.png
+fox-sports-2.mx,MX  | FOX Sports 2,https://cdn.mitvstatic.com/channels/mx_fox-sports-2_m.png
+fox-sports-3.mx,MX  | FOX Sports 3,https://cdn.mitvstatic.com/channels/mx_fox-sports-3_m.png
+abc-tv.py,PY | ABC TV,https://cdn.mitvstatic.com/channels/py_abc-tv_s.png
+canal-13.py,PY | RPC,https://cdn.mitvstatic.com/channels/rpc_s.jpg
+canal-5-paravision.py,PY | Paravisión,https://cdn.mitvstatic.com/channels/371a6f49-6c31-46f1-b481-18ef14ada3a0_s.jpg
+canal-9-snt.py,PY | SNT,https://cdn.mitvstatic.com/channels/snt_s.jpg
+fox.py,PY | Star Channel,https://cdn.mitvstatic.com/channels/py_fox_s.png
+hbo.py,PY | HBO,https://cdn.mitvstatic.com/channels/ac61280b-b594-4293-8339-7dac1b102f96_s.jpg
+hei-network.py,PY | HEi Network,https://cdn.mitvstatic.com/channels/913244c8-1653-4caf-b9dc-71f54f688011_s.jpg
+la-tele.py,PY | latele,https://cdn.mitvstatic.com/channels/latele_s.jpg
+paraguay-tv.py,PY | Paraguay TV,https://cdn.mitvstatic.com/channels/f3ace021-a5ae-4c24-9824-309dc2b32fe0_s.jpg
+parana-tv.py,PY | C9N,https://cdn.mitvstatic.com/channels/c9n_s.jpg
+telefuturo.py,PY | Telefuturo,https://cdn.mitvstatic.com/channels/9ecff249-5118-4973-9daa-b65bb4374b06_s.jpg
+unicanal.py,PY | Unicanal,https://cdn.mitvstatic.com/channels/de161b6b-6495-4b7e-976e-df9da84a0409_s.jpg
+tigo-sports.py,PY | Tigo Sports,https://cdn.mitvstatic.com/channels/46c619b1-ace3-4635-b947-f36e4e32e144_m.jpg
+tnt.py,PY | TNT,https://cdn.mitvstatic.com/channels/16009744-3083-4241-953f-82c97482cc05_s.jpg
+de-pelicula.mx,MX | De Película,https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png
+de-pelicula-hd.mx,MX | De Película HD,https://cdn.mitvstatic.com/channels/mx_de-pelicula-hd_m.png
+hgtv.ar,HGTV,https://cdn.mitvstatic.com/channels/ar_hgtv_m.png
+720dtv.cl,ARG | Canal 26,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/720.png
+719dtv.ar,ARG | A24,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/719.png
+717dtv.ar,ARG | C5N,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/717.png
+716dtv.ar,ARG | TN Todo Noticias,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/716.png
+700dtv.cl,Directv News,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/700.png
+620dtv.cl,Directv Sports Fight,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/620.png
+201dtv.co,OnDIRECTV (COL|PER|ECU),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/201.png
+201dtv.cl,OnDIRECTV (ARG|CHI),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/201.png
+504dtv.cl,Turner Classic Movies TCM (AR CL CO EC PE),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/504.png
+tooncast.ar,Tooncast,https://cdn.mitvstatic.com/channels/ar_tooncast_m.png
+bandamax.mx,TELEVISA | Bandamax,https://cdn.mitvstatic.com/channels/mx_bandamax_m.png
+hbo-oeste.mx,MX | HBO,https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png
+hbo-2.mx,MX | HBO 2,https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png
+hbo-family.mx,MX | HBO Family,https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png
+hbo-mundi.mx,MX | HBO Mundi,https://cdn.mitvstatic.com/channels/mx_max_m.png
+1621dtv.co,ESPN Colombia,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1621.png
+603dtv.pe,Liga 1 Peru,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/603.png
+604dtv.pe,Liga 1 Max,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png
+rec-tv.cl,CL | REC TV,https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/RECTVHD/EXPORTACION_WEB/SS/RECTVHD_t-290x163.png
+908mvstr.cl,Clover HD,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720065_10B55E2ADA2D5908.png
+892mvstr.cl,Kanal D,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720069_F65E60BFBC387CFC.png
+1234dtv.cl,Home  Garden,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1234.png
+800dtv.cl,CL | Movistar TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/70/6702131_F2EB3099B1273D22.png
+835mvstr.cl,RAI TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402262_33A4B87EBEB7184B.png
+865mvstr.cl,Love Nature,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720073_2BE1E7E58BC07C71.png
+843mvstr.cl,Lolly Kids,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720081_7047D05977D2156A.png
+236dtv.ar,ARG | Magazine,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/236.png
+125dtv.ar,ARG | NET TV HD,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/125.png
+718dtv.ar,ARG | Crónica TV,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png
+1715dtv.ar,ARG | La Nacion +,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1715.png
+1677dtv.cl,NBA TV,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1677.png
+607dtv.ar,Fox Sports 3 Argentina,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/607.png
+605dtv.ar,FOX Sports 1 Argentina ,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png
+850mvstr.cl,CL | MEGAMEDIA | ETC TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6714298_0F0B00286A0B18C8.png
+226dtv.cl,Canal de las Estrellas SUR (AR|CL|CO|EC|PE),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/226.png
+801mvstr.cl,CL | Zona Latina HD,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/22/9223961_D369CCA4EDF550CC.png
+129dtv.ar,ARG | Canal de la ciudad,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/129.png
+512dtv.ar,ARG | CINEAR,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/512.png
+303dtv.ar,ARG | PAKA PAKA,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/303.png
+telesur.ar,VE | teleSUR,https://cdn.mitvstatic.com/channels/ar_telesur_m.png
+france-24-espanol.ar,France 24 en Español,https://cdn.mitvstatic.com/channels/ar_france-24-espanol_m.png
+726dtv.ar,ARG | Telemax,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/726.png
+238dtv.ar,ARG | Volver,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/238.png
+1265dtv.cl,Music Top,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1265.png
+1269dtv.ar,ARG | Quiero Mi Musica en Mi Idioma ,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1269.png
+1266dtv.cl,Tierra Mia,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1266.png
+1720dtv.cl,ARG | Canal 26,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1720.png
+america-sports.ar,América Sports,https://cdn.mitvstatic.com/channels/ar_america-sports_m.png
+656dtv.ar,DeporTV,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/656.png
+canal-de-la-musica.ar,El Canal de la Música,https://cdn.mitvstatic.com/channels/ar_canal-de-la-musica_m.png
+el-garage.ar,El Garage Tv,https://cdn.mitvstatic.com/channels/ar_el-garage_m.png
+tecnopolis.ar,TECtv,https://cdn.mitvstatic.com/channels/ar_tecnopolis_m.png
+836dtv.cl,DW DEUTSCHE WELLE,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718044_E5191A2E17B29B03.png
+11mvstr.pe,GOLPERU,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553955_D7D9A30FB187AF45.png
+8mvstr.pe,Canal N,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718161_ED12803FCF6BD159.png
+2036mvstr.pe,Canal J,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/60/10602423_4E24A865E6B88040.png
+16mvstr.pe,PER | Willax,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527704_6B8F70044D44ECD4.png
+9mvstr.pe,PER | ATV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527586_32E6A6179D3F9DDF.png
+8563mvstr.pe,PER | EXITOSA TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/60/10602425_AA2B8193B3AB311E.png
+2mvstr.pe,PER | Latina HD,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527491_FDEFEA55854A1D7B.png
+6mvstr.pe,PER | Movistar Plus,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718167_EF5EE18D14637ABA.png
+475,PER | RPP,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/84/7847942_805AC3336E6752E2.png
+8559mvstr.pe,PER | ATV +,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527791_BF2E0C49C3375349.png
+942mvstr.co,COL | Telemundo ,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404400_715F24BDA274C0D1.png
+651dtv.ar,TLC Argentina,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404405_CD52322046D5E2FB.png
+106dtv.ar,ARG | IP noticias,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/02/16020862_BDCCC41B1D0CC29F.png
+211mvstr.ar,PX Sports,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/97/12970391_75E72BE0E9D4FCDB.png
+864mvstr.co,COL | TNT Novelas,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/30/16305194_D5CFEB8AE2E5DF97.png
+614dtv.cl,Directv Sports Motor,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/614.png
+833mvstr.cl,TVE,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6402264_186EC7A7F1EE50AC.png
+203mvstr.ar,ESPN EXTRA Argentina,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/46/11469886_D6DB7B0A33033721.png
+3mvstr.pe,PER | Movistar Deportes,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718159_BE424D8C4C1AA0DF.png
+4mvstr.pe,PER | America,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/60/7603587_DDA3D54A42268071.png
+8575mvstr.pe,PER | SOL TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/01/16016367_EEE2FB7D3BEC9187.png
+8552mvstr.pe,WOBI OTT,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718146_20BADC0EFC021E9C.png
+8158mvstr.pe,VIA X ESPORTS,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/15/12150417_90649D3FED6C716E.png
+108mvstr.pe,STAR Channel PERU,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/35/8355162_9D5F70421EBFB84B.png
+2047mvstr.pe,PER | USMP TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/26/7269601_72EE309DF28FB4D3.png
+8571mvstr.pe,PER | Canal IPe,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/04/16047162_0D4BBCD0E7F1B304.png
+8577mvstr.pe,PER | JN19 TELEJUAN ,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/02/16027099_8077A5533233DBB9.png
+8572mvstr.pe,PER | VIVA TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/01/16016362_DF8582D2F439EDA3.png
+977mvstr.co,COL | RCN Novelas,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/06/12060356_830827B833FF4FD1.png
+577dtv.cl,Universal Crime Oeste HD,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/577.png
+1574dtv.cl,Universal Crime Este HD,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/577.png
+8582dtv.pe,Voz de Ámerica VOA ,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/26/6268115_0786F53F63F5DF7E.png
+suyaitv.cl,CL | Suyai TV,https://suyaitv.cl/wp-content/uploads/2025/03/LOGOSUYAITVWEB.png
+228dtv.pe,PE | Lifetime,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/228.png
+504,FMH Movies,https://www.fmh.la/images/team/logo_movies.png
+505,LEG | Canal Infantil,https://epg.programadorx.cl/files/logos/channels/505.canal-infantil-Alpha-AOriginal-1024x576.png
+506,LEG | Cine Premium,https://epg.programadorx.cl/files/logos/channels/506.cine-premium-Alpha-Aoriginal-1024x576.png
+507,LEG | Cine Familiar,https://epg.programadorx.cl/files/logos/channels/507.cine-familiar-Alpha-AOriginal-1024x576.png
+508,LEG | Cine Hispano,https://epg.programadorx.cl/files/logos/channels/508.cine-hispano-Alpha-AOriginal-1536x864.png
+1190dtv.pe,PER | TV Perú Noticias,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1190.png
+8573dtv.pe,LA TELE,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/01/16016364_4DCF635F9892AE8A.png
+justiciatv.pe,PE | JUSTICIA TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/33/6338619_38BFC608AE69B8D2.png
+ewtn.pe,EWTN,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726449_4EBE76F722C3BA5D.png
+ucl.la,UCL (Un Canal Latinoamericano),http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/68/10684288_231E2DBB717253F2.png
+cinecanal.pe,PE | Cinecanal HD,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/38/6381761_1B6CA9B0AAD15C8F.png
+nuevotiempo.cl,Nuevo Tiempo,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/356.png
+canalluz.ar,ARG | Canal Luz,https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png
+miradiotv.cl,MiRadio TV,https://www.miradiotv.cl/assets/images/MiRadioTv_black.png
+nhkworld.tv,NHK World,https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NHK/EXPORTACION_WEB/SS/NHK_t-290x163.png
+telecanal.cl,CL | Telecanal,https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TELECANAL/EXPORTACION_WEB/SS/TELECANAL_t-290x163.png
+babyfirst.cl,BabyFirst,https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/BABYFIRST/EXPORTACION_WEB/SS/BABYFIRST_t-290x163.png
+594clarovideo.cl,Multipremier,https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/MULTIPREMIER/EXPORTACION_WEB/SS/MULTIPREMIER_t-290x163.png
+65mvstr.ec,ECU | Telerama,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/05/7052141_37A3AE440B9C7E74.png
+lch3095.ecu,ECU | Oromar,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/150px-Oromar_logo.png
+59mvstr.ec,ECU | Ecuavisa,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/87/8874001_4B9B979A499B0C26.png
+60mvstr.ec,ECU | Ecuavisa Internacional,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/05/7052143_8C00928A47E2EB43.png
+526,ZooMoo,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/321.png
+527,CGTN Español,
+528,Cartoonito (Chile),https://es.wikipedia.org/wiki/Cartoonito_(Latinoam%C3%A9rica)
+529,Cartoon Network MovistarCL,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png
+530,Telemundo Chile,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404400_715F24BDA274C0D1.png
+531,EnerGeek Retro,https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png
+532,EnerGeek Fan, https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png
+533,EnerGeek Radio,https://cdn.energeek.cl/logos/EG-Radio-2025_brand.png
+534,FMH Family,https://www.fmh.la/images/team/logo_family.png
+535,FMH Kids,https://www.fmh.la/images/team/logo_kids.png
+536,FMH - Atlas,https://www.fmh.la/images/team/logo_atlas.png
+537,FMH - Animotion,https://www.fmh.la/images/team/logo_animotion2.png
+538,FMH - KIZZI,https://www.fmh.la/images/team/logo_kizzi.png
+539,FMH - REWIND,https://www.fmh.la/images/team/logo_rewind.png
+540,CL | TV Senado,http://media.cdn.telefonica.com/storagearea0/IMAGES/00/06/71/6718165_AFA296A53C847320.png
+541,Anipop TV,https://i.imgur.com/PzEK6DI.png
+542,CCP Radio,https://i.imgur.com/WzKFh03.png
+543,Senpai TV,
+544,NexoPlay,
+545,CL | Canal 9 Bío Bío,
+546,CL | Bío Bío TV,https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/BIOBIOTV/EXPORTACION_WEB/SS/BIOBIOTV_t-290x163.png
+547,PER | NATIVA TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/75/16752664_7AD4DAFC0E2DBB13.png
+548,Nick2,
+549,CL | T13 en vivo,
+550,TELEVISA | Golden Premier,
+551,Golden Colombia,
+552,ESPN 2 Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/622.png
+553,Programación Deportiva,
+558,CL | TVO San Vicente,https://www.tvosanvicente.cl/wp-content/themes/tvo2022/img/iconos/favicon-194.png
+559,CL | Lanco Televisión,https://lancotelevision.cl/wp-content/uploads/2023/03/Sin-titulo-250-%C3%97-150-px-1.png
+560,RT en Español,https://cdn.epg-latam.com/logos/560-rtesp/Russia-today-logo.jpg
+561,ADULT SWIM,https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ADULTSWIM/EXPORTACION_WEB/SS/ADULTSWIM_t-290x163.png
+562,CL | FUNBOX,https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/FUNBOX/EXPORTACION_WEB/SS/FUNBOX_t-290x163.png
+563,Canal Iberoamericano,https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CANALIBEROAMERICANO/EXPORTACION_WEB/SS/CANALIBEROAMERICANO_t-290x163.png
+564,CL | Concert Channel,https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CONCERTCHANNEL/EXPORTACION_WEB/SS/CONCERTCHANNEL_t-290x163.png
+566,CL | VisiónPlus TV,https://visionplustv.cl/wp-content/uploads/2024/06/VP017.png
+567,MCG | MX Classic,
+568,MCG | MX Series,
+569,MCG | Old,
+570,MCG | BN,
+571,MCG | Dos,
+572,MCG | Dos Kids,
+573,MCG | Ladies,
+574,MCG | Mundo  Sabor,
+575,MCG | On Tour Channel,
+576,MCG | Fitmax,
+577,MCG | Sport Ext,
+578,MCG | Old Music,
+579,MCG | Karavana TV,
+580,MCG | Karavana Urbano,
+581,MCG | ZoomBack,
+582,MCG | KPOP,
+583,MCG | Red de Fe,
+584,CL | MEGAMEDIA | Mega 2,
+585,CL | Uchile TV,https://uchile.cl/dam/jcr:20e3bf2d-85b5-4698-bf35-65296717c568/UCHILE-TV.png
+586,CL | TVU Universidad de Concepción,https://www.tvu.cl/_templates/desktop/includes/img/LOGO-TVU-AZUL.png
+587,Programación para Adultos,
+589,XXX | Playboy,
+590,XXX | Venus,
+591,Nasa,https://adma.tmsimg.com/assets/s12553_ll_h15_aa.png?w%3D360%26h%3D270
+592,CL | UCV 2 TV,
+593,Cl | Sextavisión,https://sextavision.cl/wp-content/uploads/2024/05/sextavision.png
+594,CL | Eva Televisión,
+595,CL | Ruidos TV,https://neotv.cl/assets/img/channels/ruidostv.png
+596,Cl | TV Costa,https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa-768x768.jpg
+597,CL | Sensación Costa,https://sensacioncosta.cl/wp-content/uploads/2024/02/Sensacion-Costa-Logo-2024-1024x576.webp
+598,CL | TVM,https://canaltvm.cl/wp-content/uploads/2022/09/cropped-logotvm-1080x867.png
+599,CL | Caracola TV,https://www.caracolatv.cl/wp-content/uploads/2022/11/cropped-LOGO-CARACOLA-05-1-300x169.png
+600,CL | Pucón TV,
+601,CL | Chilevisión Noticias,
+602,CL | CDO Básico,
+603,CL | Cinecanal,
+604,CL | Sur TV,https://www.surtv.cl/imagenes/logo.png
+605,CL | AMC,
+606,PA | Tropical Moon Cultura TV,
+607,PA | Tropical Moon Salsa TV,
+608,CL | Kanade,https://static.kanade.cl/assets/img/Kanade_Profile.png
+609,CL | ZTV,https://zplay.cl/img/ztv.png
+610,CL | ZTV Kids,https://zplay.cl/img/zkids.png
+611,CL | ZTV 2,https://zplay.cl/img/ztv2.png
+612,Cl | ZTV AVI,https://zplay.cl/img/avi.png
+613,BO | ATB Digital,
+614,CL | Suyai TV II,https://radio.suyaitv.cl/wp-content/uploads/2025/03/radio-en-blanco.png
+615,CL | Radio Suyai TV,https://suyaitv.cl/wp-content/uploads/2025/06/radio-en-blanco.png
+619,CL | NinaTV,https://cdn.epg-latam.com/logos/619-nina/ninatv.png
+620,CL | MEGAMEDIA | Megaficción,
+621,CL | MEGAMEDIA | Megatiempo,
+622,CL | MEGAMEDIA | CarolinaTV,
+623,CL | MEGAMEDIA |  Meganoticias,
+624,CL | TVN 3,
+625,TELEVISA | Univision,
+626,x definir,
+627,TELEVISA | Telehit,
+628,TELEVISA | Telehit 80&apos;s,
+629,TELEVISA | Distrito Comedia,
+630,CL | Bombi TV,
+631,CL | Maulevisión,
+632,ZTV | AVI Kids,https://zplay.cl/img/avikids.png
+633,ZTV | REWIND,https://zplay.cl/img/rewind.png
+634,mvstr | AE,
+635,texto: Cine Acción,
+636,Texto: Cine Comedia,
+637,Text: Cine Romance,
+638,Text: Cine Family,
+639,13 Cultura,
+640,13 Entretención,
+641,13 Prime,
+642,13 Teleseries,
+643,13 Festival,
+644,13 Humor,
+645,13 Realities,
+646,13 Kids,
+647,AR | COMCHANNEL,
+648,AR | COMCLUB,
+649,PE | Alacocina,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1193.png
+650,CL | Puranoticia,https://puranoticia.pnt.cl/cms/imag/v1/logos/logo_main_white.png
+651,Plim Plim,https://plimplim.tv/wp-content/uploads/2024/01/logo.png
+652,CL | zplay,https://zplay.cl/img/zplay.png
+653,CanelaTV | Vive Kanal D Drama	,https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg
+654,CanelaTV | Novelas Turcas,https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA878/0-16x9.jpg?width%3D160%26updatedTime%3D0%26dt%3DWeb
+655,ESPN 7 Perú,
+656,PE | PBO,https://pbo.pe/wp-content/uploads/2022/11/pbo.png
+657,Cámaras comunitarias en vivo,
+658,Warner Channel | op2,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1206.png
+659,Euronews,https://cdn.epg-latam.com/logos/659-euronews/logo-euronews-stacked-72x72-neon-blue.png
+660,PE | Memorias series,
+661,AR | COMHITS,
+662,Studio Universal Op2,
+663,FMH Farwest,
+664,FMH Flash Back,
+665,Programación músical,

@@ -3,11 +3,8 @@
   <channel id="SanJoseTV.cr">
     <display-name>San Jose TV</display-name>
   </channel>
-  <programme start="20260809000000 -0600" stop="20260809173000 -0600" channel="SanJoseTV.cr">
-    <title>Música y Prédicas</title>
-  </programme>
-  <programme start="20260809173000 -0600" stop="20260810080000 -0600" channel="SanJoseTV.cr">
-    <title>Santo Rosario y Santa Misa</title>
+  <programme start="20260810010000 -0600" stop="20260810080000 -0600" channel="SanJoseTV.cr">
+    <title>Hermano Salvador Gomez</title>
   </programme>
   <programme start="20260810080000 -0600" stop="20260811080000 -0600" channel="SanJoseTV.cr">
     <title>Radio Revista Vida y Esperanza</title>
@@ -33,14 +30,17 @@
   <programme start="20260813080000 -0600" stop="20260813103000 -0600" channel="SanJoseTV.cr">
     <title>Radio Revista Vida y Esperanza</title>
   </programme>
-  <programme start="20260813103000 -0600" stop="20260813120000 -0600" channel="SanJoseTV.cr">
+  <programme start="20260813103000 -0600" stop="20260813113000 -0600" channel="SanJoseTV.cr">
     <title>Soplo de Vida / Formación</title>
+  </programme>
+  <programme start="20260813103000 -0600" stop="20260813120000 -0600" channel="SanJoseTV.cr">
+    <title>Donde el maestro</title>
   </programme>
   <programme start="20260813120000 -0600" stop="20260813140000 -0600" channel="SanJoseTV.cr">
     <title>Ángelus y Programas del Mediodía</title>
   </programme>
   <programme start="20260813140000 -0600" stop="20260813150000 -0600" channel="SanJoseTV.cr">
-    <title>Impacto 93.1 / Aló Arturo</title>
+    <title>Impacto 93.1 / Aló Artur</title>
   </programme>
   <programme start="20260813150000 -0600" stop="20260813160000 -0600" channel="SanJoseTV.cr">
     <title>Hora Santa y Divina Misericordia</title>
@@ -72,7 +72,13 @@
   <programme start="20260815000000 -0600" stop="20260815173000 -0600" channel="SanJoseTV.cr">
     <title>Música y Prédicas</title>
   </programme>
-  <programme start="20260815173000 -0600" stop="20260815183000 -0600" channel="SanJoseTV.cr">
+  <programme start="20260815173000 -0600" stop="20260816000000 -0600" channel="SanJoseTV.cr">
+    <title>Santo Rosario y Santa Misa</title>
+  </programme>
+  <programme start="20260816000000 -0600" stop="20260816173000 -0600" channel="SanJoseTV.cr">
+    <title>Música y Prédicas</title>
+  </programme>
+  <programme start="20260816173000 -0600" stop="20260816183000 -0600" channel="SanJoseTV.cr">
     <title>Santo Rosario y Santa Misa</title>
   </programme>
 </tv>
