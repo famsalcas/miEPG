@@ -4,6 +4,7 @@ logo=
 offset=-0600
 dias=7
 
+Lunes,01:00,Hermano Salvador Gomez
 Lunes,08:00,Radio Revista Vida y Esperanza
 Martes,08:00,Radio Revista Vida y Esperanza
 Miercoles,08:00,Radio Revista Vida y Esperanza
@@ -13,8 +14,9 @@ Jueves,05:00,El Club de los Madrugones
 Jueves,06:00,Santo Rosario y Santa Misa
 Jueves,08:00,Radio Revista Vida y Esperanza
 Jueves,10:30,Soplo de Vida / Formación
+Jueves,10:30,Donde el maestro
 Jueves,12:00,Ángelus y Programas del Mediodía
-Jueves,14:00,Impacto 93.1 / Aló Arturo
+Jueves,14:00,Impacto 93.1 / Aló Artur
 Jueves,15:00,Hora Santa y Divina Misericordia
 Jueves,16:00,Caminando en Familia y Especiales
 Jueves,17:30,Santo Rosario y Santa Misa
