@@ -47,13 +47,19 @@ Viernes,20:00,Serie
 Viernes,21:00,Blue Bloods
 Viernes,22:00,Instinto Viajero
 Viernes,23:00,OFF AIR
+Sabado,11:00,Serie
 Sabado,13:00,Todo sobre belleza
-Sabado,17:00,Santa Misa
+Sabado,14:00,Serie
+Sabado,17:00,Escuela Teletica
 Sabado,20:00,Biografias con Alvaro Gamboa
 Sabado,20:30,Hacia lo mejor
 Sabado,21:30,Serie
 Sabado,23:00,OFF AIR
 Domingo,12:00,Instinto Viajero
+Domingo,13:00,Hacia lo mejor
+Domingo,15:00,Serie
+Domingo,17:00,Misa
 Domingo,20:00,Biografias con Alvaro Gamboa
 Domingo,20:30,Hacia lo mejor
 Domingo,21:30,Serie
+Domingo,15:00,OFF AIR
