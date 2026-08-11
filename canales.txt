@@ -401,10 +401,10 @@ MGM+.Hits.HD.us2,MGM_Hits.us
 MGM+.Marquee.HD.us2,MGM_Marquee.us
 Pánico,Panico.cr
 USAJ26000054W,ParamountMovieChannel
-Universal Cinema,UniversalCinema
-Universal Comedy,UniversalComedy
+Universal Cinema,UniversalCinema,-4
+Universal Comedy,UniversalComedy,-4
 Universal Crime,UniversalCrime
-Universal Premiere,UniversalPremiere.uy
+Universal Premiere,UniversalPremiere.uy,-4
 1844,UniversalPremiere.ni
 Universal Reality,UniversalReality
 UniversalMovies.us,UniversalMovies.us
