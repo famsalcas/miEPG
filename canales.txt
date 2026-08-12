@@ -489,3 +489,5 @@ GB37000067A,LifetimeMovies
 GBBC900007Q5,GREAT-Movies
 GBBC900008L9,GREAT-Romance
 GB3000370X,GREAT-Mystery
+freemoviesplus_amg02042c1eng_US,freemoviesplus_amg02042c1eng_US
+99992284,Hi-Yah
