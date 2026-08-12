@@ -485,3 +485,7 @@ Sony One Hits Comedia,SonyOneHitsComedia
 643,13_Festival
 653,Vive-Kanal-DDrama
 654,CanelaTV-NovelasTurcas
+GB37000067A,LifetimeMovies
+GBBC900007Q5,GREAT-Movies
+GBBC900008L9,GREAT-Romance
+GB3000370X,GREAT-Mystery
