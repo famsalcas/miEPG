@@ -1,2 +1,2 @@
-# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Opa.cr.xml
-Opa.cr,Opa Canal 36,
+# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Trivision.cr.xml
+Trivision.cr,Trivisión Canal 36,

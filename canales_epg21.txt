@@ -1,2 +1,2 @@
-# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Telefides.cr.xml
-Telefides.cr,Telefides,
+# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Xpertv.cr.xml
+Xpertv.cr,XperTV,

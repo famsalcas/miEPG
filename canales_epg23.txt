@@ -1,2 +1,2 @@
-# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Canal1.cr.xml
-Canal1.cr,Canal 1 (Costa Rica),
+# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/SanJoseTV.cr.xml
+SanJoseTV.cr,San Jose TV,
