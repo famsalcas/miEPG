@@ -3,9 +3,6 @@
   <channel id="SanJoseTV.cr">
     <display-name>San Jose TV</display-name>
   </channel>
-  <programme start="20260812080000 -0600" stop="20260813000000 -0600" channel="SanJoseTV.cr">
-    <title>Radio Revista Vida y Esperanza</title>
-  </programme>
   <programme start="20260813000000 -0600" stop="20260813040000 -0600" channel="SanJoseTV.cr">
     <title>Música y Prédicas</title>
   </programme>
@@ -78,7 +75,10 @@
   <programme start="20260817080000 -0600" stop="20260818080000 -0600" channel="SanJoseTV.cr">
     <title>Radio Revista Vida y Esperanza</title>
   </programme>
-  <programme start="20260818080000 -0600" stop="20260818090000 -0600" channel="SanJoseTV.cr">
+  <programme start="20260818080000 -0600" stop="20260819080000 -0600" channel="SanJoseTV.cr">
+    <title>Radio Revista Vida y Esperanza</title>
+  </programme>
+  <programme start="20260819080000 -0600" stop="20260819090000 -0600" channel="SanJoseTV.cr">
     <title>Radio Revista Vida y Esperanza</title>
   </programme>
 </tv>

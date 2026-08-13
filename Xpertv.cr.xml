@@ -3,24 +3,6 @@
   <channel id="Xpertv.cr">
     <display-name>XperTV</display-name>
   </channel>
-  <programme start="20260812130000 -0600" stop="20260812140000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20260812140000 -0600" stop="20260812160000 -0600" channel="Xpertv.cr">
-    <title>Instinto Viajero</title>
-  </programme>
-  <programme start="20260812160000 -0600" stop="20260812210000 -0600" channel="Xpertv.cr">
-    <title>Animados</title>
-  </programme>
-  <programme start="20260812210000 -0600" stop="20260812223000 -0600" channel="Xpertv.cr">
-    <title>Blue Bloods</title>
-  </programme>
-  <programme start="20260812223000 -0600" stop="20260812230000 -0600" channel="Xpertv.cr">
-    <title>Biografias con Alvaro Gamboa</title>
-  </programme>
-  <programme start="20260812230000 -0600" stop="20260813090000 -0600" channel="Xpertv.cr">
-    <title>OFF AIR</title>
-  </programme>
   <programme start="20260813090000 -0600" stop="20260813093000 -0600" channel="Xpertv.cr">
     <title>Animados</title>
   </programme>
@@ -177,7 +159,25 @@
   <programme start="20260818210000 -0600" stop="20260818230000 -0600" channel="Xpertv.cr">
     <title>Blue Bloods</title>
   </programme>
-  <programme start="20260818230000 -0600" stop="20260819000000 -0600" channel="Xpertv.cr">
+  <programme start="20260818230000 -0600" stop="20260819130000 -0600" channel="Xpertv.cr">
+    <title>OFF AIR</title>
+  </programme>
+  <programme start="20260819130000 -0600" stop="20260819140000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20260819140000 -0600" stop="20260819160000 -0600" channel="Xpertv.cr">
+    <title>Instinto Viajero</title>
+  </programme>
+  <programme start="20260819160000 -0600" stop="20260819210000 -0600" channel="Xpertv.cr">
+    <title>Animados</title>
+  </programme>
+  <programme start="20260819210000 -0600" stop="20260819223000 -0600" channel="Xpertv.cr">
+    <title>Blue Bloods</title>
+  </programme>
+  <programme start="20260819223000 -0600" stop="20260819230000 -0600" channel="Xpertv.cr">
+    <title>Biografias con Alvaro Gamboa</title>
+  </programme>
+  <programme start="20260819230000 -0600" stop="20260820000000 -0600" channel="Xpertv.cr">
     <title>OFF AIR</title>
   </programme>
 </tv>

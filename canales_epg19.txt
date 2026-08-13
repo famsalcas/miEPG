@@ -1,2 +1,2 @@
-# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Trivision.cr.xml
-Trivision.cr,Trivisión Canal 36,
+# Fuente: https://github.com/apistech/project/raw/refs/heads/main/playlists/tcl_epg.xml
+AM816556,Dog The Bounty Hunter,https://tcl-channel-cdn.ideonow.com/static/channel/AM816556/17488691219420701-Dog_the_Bounty_Hunter_SC_logo_color.jpg
