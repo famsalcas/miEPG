@@ -495,3 +495,9 @@ reuters_reuters_US,Reuters
 foxlivenow_foxlivenow_US,,FoxNow
 us-p1media_americasvoice_1,Real_Americas_Voice
 newsmax_nwsmx_US,Newsmax2.us
+itvdeportes_itvdep_US,ITV-Deportes
+FREQ1209-US,BBC_Adventure
+5b4b59af18ff5686916ef5eb3574de46,FilmRise_PelisGratis
+4010582bb66b58a69151a4f552de0823,FilmRise_SeGratis
+e498eb91cd01d4c0c0acdb5ea7c736ab,Vive-KANALD
+b3eb95a883bfcd7b458d9ec965cedb35,BarcaTV
