@@ -1,6 +1,6 @@
 4 de Costa Rica,Canal4.cr,-1
 6 de Costa Rica,Canal6.cr,-1
-7 de Costa Rica Teletica,7_Teletica.cr,-1
+Teletica,7_Teletica.cr
 Multimedios Costa Rica,Canal8.cr,-1
 11 de Costa Rica,Canal11.cr,-1
 13 de Costa Rica,Canal13.cr,-1
@@ -26,7 +26,7 @@ Azteca Guatemala,AztecaGuatemala.gt
 6 de El Salvador,Canal6.sv
 6 Nica,Canal6.ni
 7 de Guatemala,Canal7-Televisiete.gt
-Canal.11.de.Guatemala.sv,Canal11-Teleonce.gt
+Teleonce,Canal11-Teleonce.gt
 C11.Hon,Honduras,Canal11.hn
 12 de El Salvador,Canal12.sv
 Trecevision,Guatemala,Canal13.gt
@@ -38,6 +38,8 @@ guatevision,Guatevision.gt
 2 de República Dominicana Teleantillas,TeleAntillas.dr
 Teleceiba.hn,Teleceiba
 VTV.hon,VTV.hn
+RPC Pa,RPC
+TVMax,TVMax
 42ee7ce6165d5342be3e509f0afe5048,Canela.Clasicos
 02cdd68d6244543b83ff35d990891463,Canela.HollywoodyMas
 3bc1756db0ef525b9cab86edcd426c55,Canela.NarcoDrama
