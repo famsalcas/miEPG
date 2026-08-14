@@ -16,6 +16,7 @@ Xpertv.cr,Xpertv.cr
 Telefides.cr,Telefides.cr
 SanJoseTV.cr,SanJoseTV.cr
 Canal1.cr,Canal1.cr
+0535,VMLatino.cr
 7 de Antena Latina,Antena7.do
 Azteca Guatemala,AztecaGuatemala.gt
 2 de El Salvador,Canal2.sv
