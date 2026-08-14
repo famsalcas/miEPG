@@ -503,3 +503,9 @@ e498eb91cd01d4c0c0acdb5ea7c736ab,Vive-KANALD
 b3eb95a883bfcd7b458d9ec965cedb35,BarcaTV
 FE653282,Sony-Dramon
 AM839898,PowerNation-ES
+XU083198,TelemundoDeportes
+FV691538,3Marias
+FV572421,Cine-Oro
+FV250417,Cine-REtro
+FV000141,Peq-Gigantes
+XU321536,Universal-Action
