@@ -1,2 +1,1102 @@
-# Fuente: https://github.com/apistech/project/raw/refs/heads/main/playlists/tcl_epg.xml
-AM816556,Dog The Bounty Hunter,https://tcl-channel-cdn.ideonow.com/static/channel/AM816556/17488691219420701-Dog_the_Bounty_Hunter_SC_logo_color.jpg
+# Fuente: https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
+I1.82970.schedulesdirect.org,HOLALA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png
+I2.92054.schedulesdirect.org,HOLALAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png
+I3.62161.schedulesdirect.org,HOLATV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png
+I5.104892.schedulesdirect.org,AMAS70,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116157_dark_360w_270h.png
+I7.87004.schedulesdirect.org,AEMXHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png
+I8.18955.schedulesdirect.org,A&amp;E Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png
+I10.108082.schedulesdirect.org,ABCESHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png
+I11.105654.schedulesdirect.org,ACUSTIK,
+I15.83166.schedulesdirect.org,ADRESNH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83162_dark_360w_270h.png
+I16.83162.schedulesdirect.org,Adrenalina Sports Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83162_dark_360w_270h.png
+I17.16496.schedulesdirect.org,Adult Swim Latam,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png
+I20.108507.schedulesdirect.org,AFIZZHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108506_dark_360w_270h.png
+I21.108506.schedulesdirect.org,AFIZZSD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108506_dark_360w_270h.png
+I22.47605.schedulesdirect.org,AGUASC,
+I23.111165.schedulesdirect.org,ALJALA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49968_dark_360w_270h.png
+I24.102458.schedulesdirect.org,ALJZHDI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49968_dark_360w_270h.png
+I25.90852.schedulesdirect.org,AMCMXHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png
+I26.90653.schedulesdirect.org,AMC Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png
+I28.18649.schedulesdirect.org,ANIPL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png
+I29.107374.schedulesdirect.org,APMXHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png
+I30.96445.schedulesdirect.org,Animal PLanet Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png
+I32.90309.schedulesdirect.org,ANTENA3,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90309_dark_360w_270h.png
+I33.16800.schedulesdirect.org,ANT3I,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png
+I34.83230.schedulesdirect.org,ANT3IHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83230_dark_360w_270h.png
+I36.28452.schedulesdirect.org,ARANG,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28452_dark_360w_270h.png
+I41.82808.schedulesdirect.org,A3 Cine,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82808_dark_360w_270h.png
+I42.90917.schedulesdirect.org,ATRESSD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png
+I43.90898.schedulesdirect.org,A3S Atreseries,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png
+I46.40279.schedulesdirect.org,DLADULT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I47.37862.schedulesdirect.org,BLUESDL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I48.41758.schedulesdirect.org,CLSINST,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I49.37863.schedulesdirect.org,DLADANC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I50.39713.schedulesdirect.org,DISCODL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I51.39109.schedulesdirect.org,EUROHTS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I52.41299.schedulesdirect.org,EXIT50S,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I53.41077.schedulesdirect.org,EXITO80,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I54.41078.schedulesdirect.org,EXITO90,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I56.41080.schedulesdirect.org,EXITOIT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I57.40285.schedulesdirect.org,SAMBAPA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I58.41301.schedulesdirect.org,GRANDES,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I59.41073.schedulesdirect.org,ORQUEST,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I60.40281.schedulesdirect.org,GRVEDL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I61.38803.schedulesdirect.org,DLAHOTH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I62.41524.schedulesdirect.org,INFANTE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I64.39711.schedulesdirect.org,JAZZLAT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I65.38149.schedulesdirect.org,ALATINA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I68.42609.schedulesdirect.org,TIPHIT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I69.41964.schedulesdirect.org,MUSPOPB,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I71.41960.schedulesdirect.org,DLAWAVE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I72.37865.schedulesdirect.org,OPERADL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I73.37866.schedulesdirect.org,PIANODL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I74.39426.schedulesdirect.org,POWERHT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I75.54805.schedulesdirect.org,REGTON,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I76.41305.schedulesdirect.org,CARIBE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I78.39714.schedulesdirect.org,ROCKLAT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I79.39715.schedulesdirect.org,RCKPESA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I80.37867.schedulesdirect.org,DLASALS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I81.41957.schedulesdirect.org,SALSMER,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I82.39114.schedulesdirect.org,SINFON,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I84.46504.schedulesdirect.org,POP40,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I86.39428.schedulesdirect.org,DLABEAT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I87.72534.schedulesdirect.org,AXN LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png
+I88.17484.schedulesdirect.org,AXN Series US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png
+I89.34863.schedulesdirect.org,AYM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0036Y9JX.png_dark_360w_270h.png
+I92.56276.schedulesdirect.org,AZ24HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png
+I99.46607.schedulesdirect.org,AZDELAY,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png
+I104.56036.schedulesdirect.org,Baby TV Latino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png
+I106.78831.schedulesdirect.org,BABY1AS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78831_dark_360w_270h.png
+I107.50338.schedulesdirect.org,BABY1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50338_dark_360w_270h.png
+I108.18101.schedulesdirect.org,Bandamax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png
+I111.89542.schedulesdirect.org,BBCWDNA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png
+I112.72801.schedulesdirect.org,BITME,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72801_dark_360w_270h.png
+I124.90518.schedulesdirect.org,C14MX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023XQ3W.png_dark_360w_270h.png
+I125.92395.schedulesdirect.org,C14MXHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023XQ3W.png_dark_360w_270h.png
+I127.91060.schedulesdirect.org,CNL22,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91071_dark_360w_270h.png
+I128.91071.schedulesdirect.org,CNL22HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91071_dark_360w_270h.png
+I129.20742.schedulesdirect.org,CAN24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20742_dark_360w_270h.png
+I133.47604.schedulesdirect.org,CANL7,
+I134.20548.schedulesdirect.org,CONG,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20548_dark_360w_270h.png
+I135.81622.schedulesdirect.org,DHE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png
+I137.47425.schedulesdirect.org,CLOCAL,
+I141.70312.schedulesdirect.org,Sony Movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png
+I142.19385.schedulesdirect.org,Sony Movies HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png
+I143.88517.schedulesdirect.org,SENTTVH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png
+I146.16141.schedulesdirect.org,Cartoon Network Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png
+I147.101735.schedulesdirect.org,Cartoon Network LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png
+I149.60048.schedulesdirect.org,TOONHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60048_dark_360w_270h.png
+I152.10098.schedulesdirect.org,CBS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png
+I154.93334.schedulesdirect.org,CCTVI,
+I155.104529.schedulesdirect.org,CGTNEU,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104529_dark_360w_270h.png
+I156.44479.schedulesdirect.org,CGTN Espa&#241;ol,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_dark_360w_270h.png
+I159.15296.schedulesdirect.org,CineLatino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png
+I161.44714.schedulesdirect.org,CMEX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44714_dark_360w_270h.png
+I163.70424.schedulesdirect.org,GIGACCL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png
+I164.104919.schedulesdirect.org,CINCHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png
+I165.16435.schedulesdirect.org,CineCanal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png
+I166.82428.schedulesdirect.org,CINECC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png
+I167.67687.schedulesdirect.org,CineCanal HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png
+I168.105154.schedulesdirect.org,Azteca Cinema,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95687_dark_360w_270h.png
+I169.95687.schedulesdirect.org,CINEM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95687_dark_360w_270h.png
+I170.16522.schedulesdirect.org,CINPLA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png
+I172.47398.schedulesdirect.org,PLATMPX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png
+I173.101730.schedulesdirect.org,CINELWH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png
+I175.16794.schedulesdirect.org,Cinemax Este,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png
+I177.110045.schedulesdirect.org,CLAN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110045_dark_360w_270h.png
+I181.72291.schedulesdirect.org,Claro Sports 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png
+I186.16325.schedulesdirect.org,CAS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16325_dark_360w_270h.png
+I187.111305.schedulesdirect.org,AZCLICH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92197_dark_360w_270h.png
+I188.92197.schedulesdirect.org,AZCLIC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92197_dark_360w_270h.png
+I191.58780.schedulesdirect.org,CNBCHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NF45G.png_dark_360w_270h.png
+I192.27773.schedulesdirect.org,CNN LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png
+I193.58646.schedulesdirect.org,CNNHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png
+I194.20436.schedulesdirect.org,CNNHL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20436_dark_360w_270h.png
+I197.15192.schedulesdirect.org,CNNIL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15192_dark_360w_270h.png
+I198.74906.schedulesdirect.org,Comedy Central Latinoamerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100848_dark_360w_270h.png
+I201.74528.schedulesdirect.org,Comedy Central Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png
+I203.100594.schedulesdirect.org,CORAZH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61404_dark_360w_270h.png
+I205.95679.schedulesdirect.org,CVSHOP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95679_dark_360w_270h.png
+I207.19736.schedulesdirect.org,DEPE2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png
+I208.16288.schedulesdirect.org,DEPEL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png
+I210.74016.schedulesdirect.org,DEPELPL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png
+I211.85720.schedulesdirect.org,DDWLAE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png
+I212.96307.schedulesdirect.org,Discovery Channel LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png
+I213.91515.schedulesdirect.org,TDCLHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png
+I214.25788.schedulesdirect.org,Discovery Channel Latino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png
+I215.83573.schedulesdirect.org,DSCGHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83573_dark_360w_270h.png
+I216.97928.schedulesdirect.org,Discovery Home &amp; Health LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png
+I217.59582.schedulesdirect.org,Discovery Home &amp; Health Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24424_dark_360w_270h.png
+I218.91959.schedulesdirect.org,DHEALHE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png
+I219.76960.schedulesdirect.org,DHEALHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png
+I221.45955.schedulesdirect.org,Discovery Kids America Latina,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png
+I222.89909.schedulesdirect.org,Discovery Kids Am&#xE9;rica Latina HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png
+I223.110960.schedulesdirect.org,DSCIENH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png
+I224.46610.schedulesdirect.org,Discovery Science Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png
+I225.65940.schedulesdirect.org,Discovery Theater HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png
+I226.107611.schedulesdirect.org,DTRBLAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png
+I227.46608.schedulesdirect.org,Discovery Turbo Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png
+I228.66488.schedulesdirect.org,Discovery World HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png
+I229.79589.schedulesdirect.org,DISNLHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79589_dark_360w_270h.png
+I230.19234.schedulesdirect.org,Disney Channel Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19234_dark_360w_270h.png
+I231.61311.schedulesdirect.org,Disney Junior Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png
+I232.70506.schedulesdirect.org,DISJMXE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png
+I234.110962.schedulesdirect.org,Disney XD Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54930_dark_360w_270h.png
+I235.55980.schedulesdirect.org,Distro Comedia,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55980_dark_360w_270h.png
+I236.37520.schedulesdirect.org,MEGTIPS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I248.19012.schedulesdirect.org,CONTEM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50415_dark_360w_270h.png
+I249.21418.schedulesdirect.org,FTROP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50415_dark_360w_270h.png
+I250.21419.schedulesdirect.org,HTJAMZ,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50415_dark_360w_270h.png
+I252.19792.schedulesdirect.org,LTECLAS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50415_dark_360w_270h.png
+I253.19804.schedulesdirect.org,GDOLD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50415_dark_360w_270h.png
+I256.29912.schedulesdirect.org,RBCLAS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50415_dark_360w_270h.png
+I257.19007.schedulesdirect.org,SILKYSL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50415_dark_360w_270h.png
+I267.102415.schedulesdirect.org,DPXEIMT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116168_dark_360w_270h.png
+I268.102405.schedulesdirect.org,DPXEIPN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png
+I269.97020.schedulesdirect.org,DUPXEQ,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116171_dark_360w_270h.png
+I270.102406.schedulesdirect.org,DPXHIMT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png
+I272.79318.schedulesdirect.org,Deutsche Welle,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G6N.png_dark_360w_270h.png
+I273.64230.schedulesdirect.org,Deutsche Welle Espa&#241;ol,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png
+I274.101734.schedulesdirect.org,ETVLNHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png
+I275.30259.schedulesdirect.org,E! Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png
+I276.63328.schedulesdirect.org,EFEKTO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63328_dark_360w_270h.png
+I277.87311.schedulesdirect.org,El Financiero Bloomberg,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png
+I278.95630.schedulesdirect.org,FINANCH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95630_dark_360w_270h.png
+I279.45910.schedulesdirect.org,Elgourmet,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png
+I280.99509.schedulesdirect.org,GOURMHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png
+I281.25553.schedulesdirect.org,GOURMET,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png
+I283.46421.schedulesdirect.org,ESNE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46421_dark_360w_270h.png
+I285.20286.schedulesdirect.org,ENLACE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20286_dark_360w_270h.png
+I287.19158.schedulesdirect.org,ESPN Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png
+I289.110964.schedulesdirect.org,ESPN LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png
+I292.37747.schedulesdirect.org,ESPN 2 Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png
+I293.96876.schedulesdirect.org,ESPN 2 LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png
+I295.79042.schedulesdirect.org,ESPN 3 Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png
+I296.121144.schedulesdirect.org,ESPN 4 Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png
+I297.65930.schedulesdirect.org,ESPN 4 LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png
+I298.30392.schedulesdirect.org,ESPN 5 LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122027_dark_360w_270h.png
+I299.79923.schedulesdirect.org,ESPN 6 Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79923_dark_360w_270h.png
+I300.47374.schedulesdirect.org,ESPN 6 LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png
+I301.25595.schedulesdirect.org,ESPN Deportes,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png
+I302.79049.schedulesdirect.org,ESPN 3 LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png
+I303.33527.schedulesdirect.org,ENLUSA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33527_dark_360w_270h.png
+I304.16574.schedulesdirect.org,Euro Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16574_dark_360w_270h.png
+I305.40704.schedulesdirect.org,Euronews en Espa&#241;ol,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40704_dark_360w_270h.png
+I306.27741.schedulesdirect.org,Europa Europa,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27741_dark_360w_270h.png
+I307.99979.schedulesdirect.org,EUROPHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27741_dark_360w_270h.png
+I309.52649.schedulesdirect.org,EWTNES,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52649_dark_360w_270h.png
+I310.16350.schedulesdirect.org,EWTNL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16350_dark_360w_270h.png
+I311.47403.schedulesdirect.org,EXATV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png
+I312.82353.schedulesdirect.org,EXCELTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82353_dark_360w_270h.png
+I313.97187.schedulesdirect.org,EXCELHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82353_dark_360w_270h.png
+I317.83458.schedulesdirect.org,FFBOX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83458_dark_360w_270h.png
+I320.78763.schedulesdirect.org,FIGHTBX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78763_dark_360w_270h.png
+I322.106731.schedulesdirect.org,FAMEXHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png
+I323.16215.schedulesdirect.org,FABL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png
+I327.91989.schedulesdirect.org,FOODLAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png
+I329.91919.schedulesdirect.org,Food Network LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png
+I332.101732.schedulesdirect.org,FOXLFHD,
+I334.110959.schedulesdirect.org,ESFNCHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110959_dark_360w_270h.png
+I335.46163.schedulesdirect.org,ESFNC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46163_dark_360w_270h.png
+I336.16374.schedulesdirect.org,FNC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png
+I337.60179.schedulesdirect.org,FNCHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60179_dark_360w_270h.png
+I338.61704.schedulesdirect.org,FOX Sports  LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png
+I339.30262.schedulesdirect.org,FSALA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png
+I340.41677.schedulesdirect.org,Fox Sports Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png
+I341.71328.schedulesdirect.org,FOX Sports 2 LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png
+I342.66365.schedulesdirect.org,Fox Sports 2 Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png
+I344.105005.schedulesdirect.org,FOX Sports 3 LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png
+I345.105006.schedulesdirect.org,Fox Sports 3 Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png
+I346.123582.schedulesdirect.org,ESPN Premium,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png
+I347.58685.schedulesdirect.org,FRNC24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58685_dark_360w_270h.png
+I348.105781.schedulesdirect.org,France 24 Espa&#241;ol,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105780_dark_360w_270h.png
+I349.70130.schedulesdirect.org,F24EN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70130_dark_360w_270h.png
+I354.77617.schedulesdirect.org,FXLHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png
+I355.46442.schedulesdirect.org,FX Latino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png
+I358.78807.schedulesdirect.org,FXLCEN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png
+I359.82819.schedulesdirect.org,FXLCNHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png
+I360.14988.schedulesdirect.org,FXM Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14988_dark_360w_270h.png
+I361.17672.schedulesdirect.org,GALTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17672_dark_360w_270h.png
+I366.59836.schedulesdirect.org,GBITV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59836_dark_360w_270h.png
+I367.84094.schedulesdirect.org,GBITVHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59836_dark_360w_270h.png
+I368.66136.schedulesdirect.org,AGUASTV,
+I369.62009.schedulesdirect.org,GIGATEC,
+I372.24459.schedulesdirect.org,Glitz Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61514_dark_360w_270h.png
+I373.16298.schedulesdirect.org,Golden,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png
+I374.16423.schedulesdirect.org,GOLDEDG,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png
+I376.19737.schedulesdirect.org,GOLDM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png
+I377.68317.schedulesdirect.org,Golden Plus,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G3H.png_dark_360w_270h.png
+I378.80804.schedulesdirect.org,GPREMSD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png
+I379.80660.schedulesdirect.org,GLDPRD2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png
+I380.80596.schedulesdirect.org,Golden Premier,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png
+I381.80805.schedulesdirect.org,GPRD2SD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png
+I382.14899.schedulesdirect.org,GOLF,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RFZQ3.png_dark_360w_270h.png
+I383.61854.schedulesdirect.org,GOLFHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RFQ5S.png_dark_360w_270h.png
+I384.33561.schedulesdirect.org,GUATVIS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33561_dark_360w_270h.png
+I385.84823.schedulesdirect.org,HBO West Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png
+I386.16795.schedulesdirect.org,HBOLW,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png
+I387.12288.schedulesdirect.org,HBO East LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png
+I390.68140.schedulesdirect.org,HBO 2 East Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png
+I391.34879.schedulesdirect.org,HBO Family Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png
+I393.80118.schedulesdirect.org,HBO Family West Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png
+I401.70545.schedulesdirect.org,POPLEH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png
+I402.68301.schedulesdirect.org,HBO pop HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png
+I406.74450.schedulesdirect.org,HBO Signature East Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png
+I407.80120.schedulesdirect.org,HBO Signature LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png
+I409.34887.schedulesdirect.org,HBO Xtreme,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png
+I410.80115.schedulesdirect.org,HBO Xtreme HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png
+I414.111249.schedulesdirect.org,HERA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111249_dark_360w_270h.png
+I416.111055.schedulesdirect.org,HGTV LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png
+I417.111077.schedulesdirect.org,HGTVLAS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png
+I420.70669.schedulesdirect.org,History LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png
+I421.40137.schedulesdirect.org,HCLM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png
+I422.100817.schedulesdirect.org,H2LAHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png
+I423.80374.schedulesdirect.org,H2 Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png
+I425.113876.schedulesdirect.org,HLNPAN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113876_dark_360w_270h.png
+I427.15969.schedulesdirect.org,HTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png
+I428.110785.schedulesdirect.org,HTVLAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png
+I430.25793.schedulesdirect.org,Discovery ID Latino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png
+I431.109896.schedulesdirect.org,IDMEXHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png
+I432.101096.schedulesdirect.org,Imagen Noticias,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png
+I433.101111.schedulesdirect.org,IMGTVHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101096_dark_360w_270h.png
+I434.59287.schedulesdirect.org,INNOVA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59287_dark_360w_270h.png
+I435.65342.schedulesdirect.org,Investigation Discovery Latino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png
+I437.59724.schedulesdirect.org,IZZI Afizzionados,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59724_dark_360w_270h.png
+I438.98718.schedulesdirect.org,IZZIHD,
+I440.100795.schedulesdirect.org,JCNET,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100795_dark_360w_270h.png
+I446.52300.schedulesdirect.org,⚽ [LaLiga] La Liga TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52300_dark_360w_270h.png
+I447.105747.schedulesdirect.org,LAMEJOR,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105747_dark_360w_270h.png
+I451.16257.schedulesdirect.org,ESTRE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png
+I455.90682.schedulesdirect.org,Lifetime Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png
+I456.106095.schedulesdirect.org,LIFEMXH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png
+I461.12034.schedulesdirect.org,MARIA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12034_dark_360w_270h.png
+I462.110114.schedulesdirect.org,MARIAIT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12034_dark_360w_270h.png
+I465.18329.schedulesdirect.org,MCINL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png
+I467.50706.schedulesdirect.org,MEGSPO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83421_dark_360w_270h.png
+I468.43099.schedulesdirect.org,MEGAGDL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s43099_dark_360w_270h.png
+I473.61719.schedulesdirect.org,MILENIO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61719_dark_360w_270h.png
+I474.99566.schedulesdirect.org,MILENHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61719_dark_360w_270h.png
+I478.12712.schedulesdirect.org,MTV Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png
+I479.84432.schedulesdirect.org,MTV LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png
+I480.60964.schedulesdirect.org,MTVHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60964_dark_360w_270h.png
+I481.120767.schedulesdirect.org,MTV 00s Latinoamerica,
+I483.65060.schedulesdirect.org,MTV 80s Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png
+I484.67787.schedulesdirect.org,MTV Hits Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png
+I485.66419.schedulesdirect.org,MTV Live LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66419_dark_360w_270h.png
+I486.72139.schedulesdirect.org,MUCHHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002GNVHV.png_dark_360w_270h.png
+I487.99620.schedulesdirect.org,MMEDP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99620_dark_360w_270h.png
+I488.99621.schedulesdirect.org,MMEDPHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99620_dark_360w_270h.png
+I489.109612.schedulesdirect.org,MMTVS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png
+I490.91505.schedulesdirect.org,MULTVHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png
+I491.50500.schedulesdirect.org,MULTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png
+I492.18169.schedulesdirect.org,MPREL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png
+I495.15213.schedulesdirect.org,MVSTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15213_dark_360w_270h.png
+I497.109982.schedulesdirect.org,MVSTVDI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15213_dark_360w_270h.png
+I501.105877.schedulesdirect.org,Nat Geo KIDS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104524_dark_360w_270h.png
+I502.105878.schedulesdirect.org,NGKCMHD,
+I503.88533.schedulesdirect.org,National Geographic LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png
+I504.25068.schedulesdirect.org,National Geographic Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png
+I505.32281.schedulesdirect.org,NBATV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png
+I508.88828.schedulesdirect.org,NBATVIH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62829_dark_360w_270h.png
+I510.34710.schedulesdirect.org,NFLNET,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png
+I511.45399.schedulesdirect.org,NFLHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png
+I512.19733.schedulesdirect.org,NHKL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19733_dark_360w_270h.png
+I513.59155.schedulesdirect.org,NHKWRLD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59155_dark_360w_270h.png
+I514.16707.schedulesdirect.org,Nick LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png
+I515.101731.schedulesdirect.org,Nickelodeon Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101208_dark_360w_270h.png
+I516.60295.schedulesdirect.org,NICKJLM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png
+I517.84412.schedulesdirect.org,NICKJMH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png
+I519.90209.schedulesdirect.org,Nickmusic,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png
+I522.61988.schedulesdirect.org,NTN24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61988_dark_360w_270h.png
+I523.91644.schedulesdirect.org,NU,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png
+I525.36139.schedulesdirect.org,CANAL11,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png
+I526.105162.schedulesdirect.org,CNL11HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png
+I529.14776.schedulesdirect.org,OUTD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png
+I531.46737.schedulesdirect.org,OUTHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46737_dark_360w_270h.png
+I532.73535.schedulesdirect.org,PANICO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73535_dark_360w_270h.png
+I533.106214.schedulesdirect.org,Paramount Network Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png
+I534.91029.schedulesdirect.org,PARAMNT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png
+I535.91120.schedulesdirect.org,PARMNHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91120_dark_360w_270h.png
+I536.106215.schedulesdirect.org,Paramount Network LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png
+I537.71621.schedulesdirect.org,PASNLA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71621_dark_360w_270h.png
+I538.91978.schedulesdirect.org,PASNLAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71621_dark_360w_270h.png
+I539.73704.schedulesdirect.org,PENTVLM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73704_dark_360w_270h.png
+I541.80466.schedulesdirect.org,PLFUT1H,
+I542.54335.schedulesdirect.org,PLAYLA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54335_dark_360w_270h.png
+I543.70673.schedulesdirect.org,PLAYLHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70673_dark_360w_270h.png
+I544.16788.schedulesdirect.org,PLAYL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16788_dark_360w_270h.png
+I545.37021.schedulesdirect.org,PPEBARK,
+I547.107338.schedulesdirect.org,PRESMX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107338_dark_360w_270h.png
+I548.72625.schedulesdirect.org,PX Sports,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72625_dark_360w_270h.png
+I549.84072.schedulesdirect.org,PXSPHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72625_dark_360w_270h.png
+I550.78573.schedulesdirect.org,QUICKIE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78573_dark_360w_270h.png
+I551.33629.schedulesdirect.org,QUIERO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33629_dark_360w_270h.png
+I552.40283.schedulesdirect.org,RBCLASI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
+I553.36479.schedulesdirect.org,RTVV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36479_dark_360w_270h.png
+I554.75785.schedulesdirect.org,ESRAI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G77.png_dark_360w_270h.png
+I555.19040.schedulesdirect.org,RAIIS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G77.png_dark_360w_270h.png
+I556.17250.schedulesdirect.org,RAII,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G77.png_dark_360w_270h.png
+I557.109462.schedulesdirect.org,RAIIHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G77.png_dark_360w_270h.png
+I558.46481.schedulesdirect.org,RCG,
+I559.109784.schedulesdirect.org,RMAD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109784_dark_360w_270h.png
+I560.109786.schedulesdirect.org,RMADH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109784_dark_360w_270h.png
+I561.50798.schedulesdirect.org,RGTI2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50798_dark_360w_270h.png
+I562.97340.schedulesdirect.org,RGTIHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97340_dark_360w_270h.png
+I566.69367.schedulesdirect.org,RT en Espa&#241;ol,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69367_dark_360w_270h.png
+I567.72143.schedulesdirect.org,SEXTRME,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72143_dark_360w_270h.png
+I574.47418.schedulesdirect.org,SKYLN,
+I575.50367.schedulesdirect.org,SKYMEX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50367_dark_360w_270h.png
+I576.47421.schedulesdirect.org,SKYPOR,
+I577.47423.schedulesdirect.org,SKYWKND,
+I581.62982.schedulesdirect.org,SPACEEM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png
+I582.66349.schedulesdirect.org,SPACE US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png
+I583.60801.schedulesdirect.org,SPACE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png
+I585.88534.schedulesdirect.org,Star LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png
+I586.15688.schedulesdirect.org,Star Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png
+I588.106724.schedulesdirect.org,STARHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png
+I636.28751.schedulesdirect.org,STGJUI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28751_dark_360w_270h.png
+I678.90605.schedulesdirect.org,STULMHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png
+I679.29017.schedulesdirect.org,Studio Universal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png
+I681.19246.schedulesdirect.org,TCM America Latina,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png
+I682.72294.schedulesdirect.org,Teen Nick LatinoAmerica HD,
+I683.77783.schedulesdirect.org,NIKLAHS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png
+I684.16189.schedulesdirect.org,TEFEI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G8Q.png_dark_360w_270h.png
+I685.34344.schedulesdirect.org,TFORM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png
+I687.15211.schedulesdirect.org,THIT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png
+I689.73070.schedulesdirect.org,THITPL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png
+I690.102862.schedulesdirect.org,TELICAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png
+I691.64835.schedulesdirect.org,CABTELE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png
+I693.32749.schedulesdirect.org,TeleRitmo,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32749_dark_360w_270h.png
+I694.45710.schedulesdirect.org,APRENDE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45710_dark_360w_270h.png
+I695.61033.schedulesdirect.org,🏌️ [Golf] Golf Channel Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png
+I696.101736.schedulesdirect.org,GOLFLAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png
+I697.107373.schedulesdirect.org,TLCMXH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png
+I698.74420.schedulesdirect.org,TLC Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png
+I699.37232.schedulesdirect.org,Univision Tlnovelas,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png
+I700.80807.schedulesdirect.org,TNT AmericaLatina HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png
+I701.19384.schedulesdirect.org,TNT America Latina,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png
+I702.89899.schedulesdirect.org,TNT US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png
+I703.83143.schedulesdirect.org,TNTLDEN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png
+I706.106709.schedulesdirect.org,TNT Series LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png
+I707.92075.schedulesdirect.org,TNTSPAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png
+I708.107365.schedulesdirect.org,TNTSMX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png
+I709.107366.schedulesdirect.org,TNT Series Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png
+I710.91993.schedulesdirect.org,TNT Series US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png
+I711.63109.schedulesdirect.org,Tooncast,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png
+I713.89128.schedulesdirect.org,TRCSPSI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89128_dark_360w_270h.png
+I714.101446.schedulesdirect.org,TRCSPHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101446_dark_360w_270h.png
+I716.10153.schedulesdirect.org,Tru TV Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png
+I717.38683.schedulesdirect.org,TUDNM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png
+I718.65129.schedulesdirect.org,TUDNMH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png
+I719.77068.schedulesdirect.org,TUDNC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89113_dark_360w_270h.png
+I720.16046.schedulesdirect.org,TVNI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png
+I722.47558.schedulesdirect.org,HIDALGO,
+I723.28440.schedulesdirect.org,TXMEXI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28440_dark_360w_270h.png
+I725.47664.schedulesdirect.org,TVT,
+I726.114312.schedulesdirect.org,UNAIZD2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116169_dark_360w_270h.png
+I727.16422.schedulesdirect.org,TV5L,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16422_dark_360w_270h.png
+I729.60855.schedulesdirect.org,TVCD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16292_dark_360w_270h.png
+I730.57580.schedulesdirect.org,TVCDEP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57580_dark_360w_270h.png
+I732.76283.schedulesdirect.org,TVCDEP2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76283_dark_360w_270h.png
+I733.16217.schedulesdirect.org,TVEI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16217_dark_360w_270h.png
+I739.84425.schedulesdirect.org,Unicable HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png
+I740.16521.schedulesdirect.org,UNIC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png
+I741.29058.schedulesdirect.org,UNIMAS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png
+I742.122767.schedulesdirect.org,Universal Cinema East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png
+I746.122765.schedulesdirect.org,Universal Crime Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png
+I748.122761.schedulesdirect.org,Universal Premiere East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png
+I752.77534.schedulesdirect.org,UNTVMHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png
+I753.16799.schedulesdirect.org,Universal Channel America Latina,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png
+I754.11118.schedulesdirect.org,UNI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png
+I755.75951.schedulesdirect.org,UTDN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png
+I756.56727.schedulesdirect.org,USALA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png
+I759.16498.schedulesdirect.org,VNUS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png
+I760.42567.schedulesdirect.org,VH1 Latinoamerica,
+I761.88942.schedulesdirect.org,VH1 LatinoAmerica HD,
+I762.74162.schedulesdirect.org,VH1MGAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74162_dark_360w_270h.png
+I766.25615.schedulesdirect.org,Video Rola,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25615_dark_360w_270h.png
+I767.88813.schedulesdirect.org,VROLAHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25615_dark_360w_270h.png
+I768.16213.schedulesdirect.org,Warner Channel US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GF.png_dark_360w_270h.png
+I769.98111.schedulesdirect.org,Warner Channel Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GF.png_dark_360w_270h.png
+I770.80808.schedulesdirect.org,Warner LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GF.png_dark_360w_270h.png
+I771.111816.schedulesdirect.org,WIZLT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111815_dark_360w_270h.png
+I772.59014.schedulesdirect.org,WOBI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59014_dark_360w_270h.png
+I1000.55719.schedulesdirect.org,Cartoonito,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png
+I1000.60939.schedulesdirect.org,MTCH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60939_dark_360w_270h.png
+I1002.15178.schedulesdirect.org,XEIPN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png
+I1002.47627.schedulesdirect.org,TVLOBOS,
+I1004.16461.schedulesdirect.org,Las Estrellas,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png
+I1006.80652.schedulesdirect.org,HBO 2 LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png
+I1007.68053.schedulesdirect.org,CNNEUVM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68053_dark_360w_270h.png
+I1013.68119.schedulesdirect.org,MUNLA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png
+I1014.102301.schedulesdirect.org,GAMETN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102301_dark_360w_270h.png
+I1019.61404.schedulesdirect.org,CORAZ,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61404_dark_360w_270h.png
+I1024.15036.schedulesdirect.org,TMAX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15036_dark_360w_270h.png
+I1091.98192.schedulesdirect.org,CANL14,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023XQ3W.png_dark_360w_270h.png
+I1234.100564.schedulesdirect.org,ZEEMUN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100564_dark_360w_270h.png
+I1235.111684.schedulesdirect.org,ZEEMUNH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100564_dark_360w_270h.png
+I1236.89973.schedulesdirect.org,ZOOMOSP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89920_dark_360w_270h.png
+I5.83545.schedulesdirect.org,3SATHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83545_dark_360w_270h.png
+I9.89562.schedulesdirect.org,4SEVENH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89562_dark_360w_270h.png
+I15.52336.schedulesdirect.org,UK - 5 Star,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52336_dark_360w_270h.png
+I22.52335.schedulesdirect.org,UK - 5 USA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52335_dark_360w_270h.png
+I28.56894.schedulesdirect.org,UK - AJ TAK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56894_dark_360w_270h.png
+I29.60438.schedulesdirect.org,UK - Aastha,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60438_dark_360w_270h.png
+I35.66975.schedulesdirect.org,UK - Adult Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66975_dark_360w_270h.png
+I38.61031.schedulesdirect.org,UK - Ahlebait TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61031_dark_360w_270h.png
+I40.117975.schedulesdirect.org,UK - Akaal Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117975_dark_360w_270h.png
+I50.102458.schedulesdirect.org,UK - Al Jazeera HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49968_dark_360w_270h.png
+I63.26098.schedulesdirect.org,UK - Animal Planet &#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26098_dark_360w_270h.png
+I75.118331.schedulesdirect.org,UK - Arise News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118331_dark_360w_270h.png
+I80.49314.schedulesdirect.org,UK - ARY Digital,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49314_dark_360w_270h.png
+I86.52041.schedulesdirect.org,UK - ATN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52041_dark_360w_270h.png
+I89.25529.schedulesdirect.org,UK - B4U Movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25529_dark_360w_270h.png
+I90.68054.schedulesdirect.org,UK - B4U Music,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68054_dark_360w_270h.png
+I96.48542.schedulesdirect.org,UK - BabyTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48542_dark_360w_270h.png
+I104.60940.schedulesdirect.org,UK - BBC ALBA HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60940_dark_360w_270h.png
+I109.20684.schedulesdirect.org,UK - BBC FOUR,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20684_dark_360w_270h.png
+I115.19037.schedulesdirect.org,BBC News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png
+I117.83285.schedulesdirect.org,UK - BBC NEWS HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83285_dark_360w_270h.png
+I119.67081.schedulesdirect.org,UK - BBC One CI HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67081_dark_360w_270h.png
+I128.69387.schedulesdirect.org,UK - BBC ONE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69387_dark_360w_270h.png
+I139.21438.schedulesdirect.org,UK - BBC One NI HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21438_dark_360w_270h.png
+I147.21439.schedulesdirect.org,UK - BBC One Scotlad,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21439_dark_360w_270h.png
+I151.24326.schedulesdirect.org,UK - BBC One Sth HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24326_dark_360w_270h.png
+I152.24337.schedulesdirect.org,UK - BBC One SE HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24337_dark_360w_270h.png
+I159.24327.schedulesdirect.org,UK - BBC One SW HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24327_dark_360w_270h.png
+I162.21441.schedulesdirect.org,UK - BBC One Wales HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21441_dark_360w_270h.png
+I166.21788.schedulesdirect.org,UK - BBC One Wst HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21788_dark_360w_270h.png
+I169.24322.schedulesdirect.org,UK - BBC One WM HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24322_dark_360w_270h.png
+I172.68112.schedulesdirect.org,UK - BBC One Y&amp;L HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68112_dark_360w_270h.png
+I273.118525.schedulesdirect.org,UK - Best Direct,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118525_dark_360w_270h.png
+I279.101972.schedulesdirect.org,UK - BLAZE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101972_dark_360w_270h.png
+I284.48928.schedulesdirect.org,UK - Boomerang&#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48928_dark_360w_270h.png
+I288.73823.schedulesdirect.org,BoxNation,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73823_dark_360w_270h.png
+I306.17667.schedulesdirect.org,UK - Cartoon Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17667_dark_360w_270h.png
+I319.113656.schedulesdirect.org,CGTN Documentary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113656_dark_360w_270h.png
+I321.21793.schedulesdirect.org,UK - Challenge,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21793_dark_360w_270h.png
+I326.117175.schedulesdirect.org,UK - Channel 4 Midlands,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117175_dark_360w_270h.png
+I329.117176.schedulesdirect.org,UK - Channel 4 North HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117176_dark_360w_270h.png
+I351.50717.schedulesdirect.org,UK - Channel 5,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50717_dark_360w_270h.png
+I375.97304.schedulesdirect.org,UK - Clubland TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97304_dark_360w_270h.png
+I377.68892.schedulesdirect.org,UK - CNBC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NFM71.png_dark_360w_270h.png
+I378.113145.schedulesdirect.org,UK - CNBC HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NFJQ7.png_dark_360w_270h.png
+I380.17664.schedulesdirect.org,UKn&#58; CNN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17664_dark_360w_270h.png
+I385.119186.schedulesdirect.org,UK - Colors Gujarati,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119186_dark_360w_270h.png
+I387.103000.schedulesdirect.org,UK - COLORS HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103000_dark_360w_270h.png
+I388.77777.schedulesdirect.org,UK - Colors Rishtey,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77777_dark_360w_270h.png
+I389.66615.schedulesdirect.org,UK - Comedy Cent HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66615_dark_360w_270h.png
+I391.34230.schedulesdirect.org,UK - Comedy Xtra,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34230_dark_360w_270h.png
+I393.47480.schedulesdirect.org,UK - Comedy Central&#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47480_dark_360w_270h.png
+I401.61621.schedulesdirect.org,UK - Crime&#43;Inv,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61621_dark_360w_270h.png
+I425.17444.schedulesdirect.org,UK - Discovery,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17444_dark_360w_270h.png
+I426.21557.schedulesdirect.org,UK - Discovery &#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21557_dark_360w_270h.png
+I428.24280.schedulesdirect.org,UK - Discovery History,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24280_dark_360w_270h.png
+I429.60582.schedulesdirect.org,UK - Discovery History &#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60582_dark_360w_270h.png
+I431.24282.schedulesdirect.org,UK - Discovery Science,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png
+I432.56266.schedulesdirect.org,UK - Discovery Science &#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56266_dark_360w_270h.png
+I434.24284.schedulesdirect.org,UK - Discovery Turbo,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24284_dark_360w_270h.png
+I435.110284.schedulesdirect.org,UK - Discovery Turbo &#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110284_dark_360w_270h.png
+I437.83579.schedulesdirect.org,UK - DMAX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83579_dark_360w_270h.png
+I438.58793.schedulesdirect.org,Dmax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58793_dark_360w_270h.png
+I439.58792.schedulesdirect.org,UK - DMAX &#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58792_dark_360w_270h.png
+I444.118530.schedulesdirect.org,UK - Dunamis TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118530_dark_360w_270h.png
+I449.65931.schedulesdirect.org,UK - E4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65931_dark_360w_270h.png
+I482.118531.schedulesdirect.org,UK - Faith UK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118531_dark_360w_270h.png
+I487.21494.schedulesdirect.org,UK - Film4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21494_dark_360w_270h.png
+I489.68051.schedulesdirect.org,FFOURHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68051_dark_360w_270h.png
+I506.118853.schedulesdirect.org,GB News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118853_dark_360w_270h.png
+I513.36118.schedulesdirect.org,UK - GEO TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023CTWJ.png_dark_360w_270h.png
+I532.59406.schedulesdirect.org,UK - GREAT! action&#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027EKH4.png_dark_360w_270h.png
+I533.81450.schedulesdirect.org,UK - GREAT! movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BMCL.png_dark_360w_270h.png
+I552.21257.schedulesdirect.org,UK - HGTV UK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png
+I557.118534.schedulesdirect.org,UK - High Street TV 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118534_dark_360w_270h.png
+I577.91013.schedulesdirect.org,UK - HUM EUROPE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91013_dark_360w_270h.png
+I578.116975.schedulesdirect.org,UK - HUM Masala,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116975_dark_360w_270h.png
+I581.79036.schedulesdirect.org,UK - ID Discovery &#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79036_dark_360w_270h.png
+I598.42539.schedulesdirect.org,UK - Islam Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42539_dark_360w_270h.png
+I605.112077.schedulesdirect.org,UK - ITV1 Anglia West HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112077_dark_360w_270h.png
+I615.112073.schedulesdirect.org,UK - ITV Meridian South Coast,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112073_dark_360w_270h.png
+I623.112083.schedulesdirect.org,UK - ITV HD Yorkshire west,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112083_dark_360w_270h.png
+I630.68143.schedulesdirect.org,UK - ITV1 Central West HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68143_dark_360w_270h.png
+I635.17468.schedulesdirect.org,UK - ITV 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17468_dark_360w_270h.png
+I640.68162.schedulesdirect.org,UK - ITV1 Meridian South HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68162_dark_360w_270h.png
+I650.29194.schedulesdirect.org,UK - ITV1 Border Scotland HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29194_dark_360w_270h.png
+I654.67372.schedulesdirect.org,UK - ITV1 Central HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67372_dark_360w_270h.png
+I656.50523.schedulesdirect.org,UK - ITV1 HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50523_dark_360w_270h.png
+I658.96374.schedulesdirect.org,UK - ITV1 Wales HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s96374_dark_360w_270h.png
+I664.69228.schedulesdirect.org,UK - ITV 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69228_dark_360w_270h.png
+I667.53060.schedulesdirect.org,UK - ITV3&#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53060_dark_360w_270h.png
+I669.69374.schedulesdirect.org,UK - ITV 3,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69374_dark_360w_270h.png
+I672.61806.schedulesdirect.org,UK - ITV4&#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61806_dark_360w_270h.png
+I674.69375.schedulesdirect.org,UK - ITV4 HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69375_dark_360w_270h.png
+I680.29067.schedulesdirect.org,UK - Jewellery Maker,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29067_dark_360w_270h.png
+I712.73970.schedulesdirect.org,UK - LEGEND,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73970_dark_360w_270h.png
+I714.49608.schedulesdirect.org,UK - LEGEND XTRA&#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49608_dark_360w_270h.png
+I732.33883.schedulesdirect.org,UK - MATV Natioanl,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33883_dark_360w_270h.png
+I747.47657.schedulesdirect.org,UK - More4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47657_dark_360w_270h.png
+I748.82858.schedulesdirect.org,UK - More 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82858_dark_360w_270h.png
+I749.47658.schedulesdirect.org,UK - More4&#43;1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47658_dark_360w_270h.png
+I754.24170.schedulesdirect.org,UK - MTV 80s,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24170_dark_360w_270h.png
+I758.80924.schedulesdirect.org,UK - MTV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png
+I759.24214.schedulesdirect.org,UK - MTV HITS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24214_dark_360w_270h.png
+I762.58695.schedulesdirect.org,UK - MTV MUSIC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58695_dark_360w_270h.png
+I780.23305.schedulesdirect.org,UKd&#58; Nat Geo Wild,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s23305_dark_360w_270h.png
+I792.74025.schedulesdirect.org,UK - NDTV World,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74025_dark_360w_270h.png
+I826.110745.schedulesdirect.org,UK - NOW 70s,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110745_dark_360w_270h.png
+I828.108488.schedulesdirect.org,UK - NOW 80s,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108488_dark_360w_270h.png
+I832.110742.schedulesdirect.org,UK - NOW ROCK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110742_dark_360w_270h.png
+I867.79027.schedulesdirect.org,Premier Sports 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png
+I869.109162.schedulesdirect.org,Premier Sports 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png
+I886.62391.schedulesdirect.org,UKd&#58; Quest,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62391_dark_360w_270h.png
+I891.102471.schedulesdirect.org,UKd&#58; Quest Red,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102471_dark_360w_270h.png
+I910.24226.schedulesdirect.org,Racing TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24226_dark_360w_270h.png
+I939.99521.schedulesdirect.org,UK - RTE 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99521_dark_360w_270h.png
+I948.25554.schedulesdirect.org,UK - RTE ONE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25554_dark_360w_270h.png
+I995.70433.schedulesdirect.org,UK - SKY Atlantic,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70433_dark_360w_270h.png
+I998.115495.schedulesdirect.org,UKm&#58; Sky Cinema Animation,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115495_dark_360w_270h.png
+I1000.162072.schedulesdirect.org,UK - Must Have Ideas HD,
+I1000.61179.schedulesdirect.org,SKY Cinema Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61179_dark_360w_270h.png
+I1000.110540.schedulesdirect.org,UK - BBC Scotland HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110540_dark_360w_270h.png
+I1000.49609.schedulesdirect.org,Sky Sports Main Event,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49609_dark_360w_270h.png
+I1001.104327.schedulesdirect.org,Sky Sports Football,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104327_dark_360w_270h.png
+I1001.48021.schedulesdirect.org,UK - Pick,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48021_dark_360w_270h.png
+I1002.61177.schedulesdirect.org,SKY Cinema Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61177_dark_360w_270h.png
+I1003.50059.schedulesdirect.org,UK - BBC TWO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50059_dark_360w_270h.png
+I1003.24032.schedulesdirect.org,SKY Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24032_dark_360w_270h.png
+I1003.49453.schedulesdirect.org,Sky Cinema Hits,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49453_dark_360w_270h.png
+I1004.46306.schedulesdirect.org,UK - Great Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027ESGV.png_dark_360w_270h.png
+I1005.50176.schedulesdirect.org,Sky Cinema Thriller,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50176_dark_360w_270h.png
+I1005.24040.schedulesdirect.org,SKY Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24040_dark_360w_270h.png
+I1006.122534.schedulesdirect.org,WildEarth,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131702_dark_360w_270h.png
+I1006.50589.schedulesdirect.org,UKm&#58; Movies 24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50589_dark_360w_270h.png
+I1007.61178.schedulesdirect.org,SKY Cinema Scifi &amp; Horror,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61178_dark_360w_270h.png
+I1008.59691.schedulesdirect.org,Sky Cinema Premiere,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59691_dark_360w_270h.png
+I1009.61181.schedulesdirect.org,SKY Cinema Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61181_dark_360w_270h.png
+I1009.24341.schedulesdirect.org,UK - Boomerang,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24341_dark_360w_270h.png
+I1010.61180.schedulesdirect.org,SKY Cinema Greats,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61180_dark_360w_270h.png
+I1011.61182.schedulesdirect.org,SKY Cinema Comedy,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61182_dark_360w_270h.png
+I1011.21107.schedulesdirect.org,SCINPRE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21107_dark_360w_270h.png
+I1014.122089.schedulesdirect.org,UK - BBC Three HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122089_dark_360w_270h.png
+I1015.49139.schedulesdirect.org,SCINSEL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49139_dark_360w_270h.png
+I1017.105776.schedulesdirect.org,UK - Gold,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002JG6DK.png_dark_360w_270h.png
+I1020.113612.schedulesdirect.org,SKY Comedy,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113612_dark_360w_270h.png
+I1021.50716.schedulesdirect.org,UK - Channel 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50716_dark_360w_270h.png
+I1022.45005.schedulesdirect.org,SKY Cinema Crime,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45005_dark_360w_270h.png
+I1022.122614.schedulesdirect.org,Talk,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122614_dark_360w_270h.png
+I1024.112396.schedulesdirect.org,SKY Crime &amp; Thriller,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112396_dark_360w_270h.png
+I1025.114274.schedulesdirect.org,Sky Documentaries,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114274_dark_360w_270h.png
+I1026.114273.schedulesdirect.org,Sky Documentaries,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114273_dark_360w_270h.png
+I1027.75803.schedulesdirect.org,UK - Alibi,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002HXBFE.png_dark_360w_270h.png
+I1031.60500.schedulesdirect.org,Sky History 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60500_dark_360w_270h.png
+I1032.97203.schedulesdirect.org,H2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97203_dark_360w_270h.png
+I1037.28452.schedulesdirect.org,UK - Arirang TV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28452_dark_360w_270h.png
+I1041.29324.schedulesdirect.org,UK - CBBC HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29324_dark_360w_270h.png
+I1042.77775.schedulesdirect.org,Al Jazeera,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77775_dark_360w_270h.png
+I1046.114269.schedulesdirect.org,UKd&#58; Sky Nature,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114269_dark_360w_270h.png
+I1046.131428.schedulesdirect.org,PBS America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131428_dark_360w_270h.png
+I1049.16234.schedulesdirect.org,SKY News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16234_dark_360w_270h.png
+I1053.138444.schedulesdirect.org,UK - U&amp;Yesterday,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138444_dark_360w_270h.png
+I1056.35806.schedulesdirect.org,UKd&#58; Eden,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35806_dark_360w_270h.png
+I1074.104322.schedulesdirect.org,Sky Sports Arena,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0032Y4GN.png_dark_360w_270h.png
+I1079.51204.schedulesdirect.org,Sky Sports Cricket,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51204_dark_360w_270h.png
+I1081.87578.schedulesdirect.org,SKY Sports F1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87578_dark_360w_270h.png
+I1093.100265.schedulesdirect.org,SKY Sports Mix,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100265_dark_360w_270h.png
+I1096.68347.schedulesdirect.org,SKY Sports News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68347_dark_360w_270h.png
+I1099.116645.schedulesdirect.org,Sky Sports ⚽ [EPL] Premier League,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116645_dark_360w_270h.png
+I1103.147889.schedulesdirect.org,Sky Sports 🎾 [Tennis] Tennis,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027M1BC.png_dark_360w_270h.png
+I1125.17443.schedulesdirect.org,UK - SKY Living,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17443_dark_360w_270h.png
+I1127.64590.schedulesdirect.org,UK - SKY Witness,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64590_dark_360w_270h.png
+I1195.30454.schedulesdirect.org,UK - TG 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30454_dark_360w_270h.png
+I1241.82450.schedulesdirect.org,TNT Sports 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82450_dark_360w_270h.png
+I1246.82451.schedulesdirect.org,TNT Sports 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82451_dark_360w_270h.png
+I1248.95772.schedulesdirect.org,TNT Sports 3,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95772_dark_360w_270h.png
+I1250.64572.schedulesdirect.org,TNT Sports 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64572_dark_360w_270h.png
+I1266.116570.schedulesdirect.org,UKs&#58; TNT Sport Box Office,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116570_dark_360w_270h.png
+I1284.104305.schedulesdirect.org,TRT World,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104305_dark_360w_270h.png
+I1287.57827.schedulesdirect.org,CBS Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57827_dark_360w_270h.png
+I1306.73129.schedulesdirect.org,UK - Dave,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73129_dark_360w_270h.png
+I1309.82575.schedulesdirect.org,Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82575_dark_360w_270h.png
+I1320.73128.schedulesdirect.org,UK - Watch,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73128_dark_360w_270h.png
+I1337.68073.schedulesdirect.org,UK - UTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68073_dark_360w_270h.png
+I1702.46275.gracenote.com,Yes Network,https://zpmc.tmsimg.com/h3/NowShowing/46275/s46275_ll_h15_aa.png
+I1720.50728.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com/h3/NowShowing/50728/s50728_ll_h15_ac.png
+I1724.75970.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/75970/s12410_ll_h15_ac.png
+I1748.50057.gracenote.com,Fanduel Sports Network Mid West,https://zpmc.tmsimg.com/h3/NowShowing/50057/s50057_ll_h15_ac.png
+I1753.35295.gracenote.com,Fanduel Sports Network South West,https://zpmc.tmsimg.com/h3/NowShowing/35295/s59629_ll_h15_ac.png
+I1774.59625.gracenote.com,Fanduel Sports Network Souther California,https://zpmc.tmsimg.com/h3/NowShowing/59625/s59625_ll_h15_ac.png
+I2.1.19600.gracenote.com,US - FOX News Detroit,https://zpmc.tmsimg.com/h3/NowShowing/19600/s28719_ll_h15_ac.png
+I6.1.25664.gracenote.com,US - CBS Detroit,https://zpmc.tmsimg.com/h3/NowShowing/25664/s28711_ll_h15_ab.png
+I7.1.19601.gracenote.com,US - ABC 7 Detroit,https://zpmc.tmsimg.com/h3/NowShowing/19601/s28708_ll_h15_ac.png
+I13.7.113774.gracenote.com,WeatherNation,https://zpmc.tmsimg.com/h3/NowShowing/113774/s72413_ll_h15_aa.png
+I24.3.46785.gracenote.com,Comet TV,https://zpmc.tmsimg.com/h3/NowShowing/46785/s97051_ll_h15_ab.png
+I50.5.113685.gracenote.com,Nosey,https://zpmc.tmsimg.com/h3/NowShowing/113685/s157427_ll_h15_aa.png
+I25.183131.gracenote.com,Chicago Sports Network,https://zpmc.tmsimg.com/h3/NowShowing/183131/s166708_ll_h15_aa.png
+I111.26643.gracenote.com,Gem Shopping Network,https://zpmc.tmsimg.com/h3/NowShowing/26643/GNLZZGG0025V1KJ.png
+I142.30419.gracenote.com,BET Jams,https://zpmc.tmsimg.com/h3/NowShowing/30419/s30419_ll_h15_ac.png
+I187.20456.gracenote.com,US - ABC Chicago,https://zpmc.tmsimg.com/h3/NowShowing/20456/s28708_ll_h15_ac.png
+I188.20452.gracenote.com,US - NBC Chicago,https://zpmc.tmsimg.com/h3/NowShowing/20452/s28717_ll_h15_ad.png
+I189.20454.gracenote.com,US - CBS Chicago,https://zpmc.tmsimg.com/h3/NowShowing/20454/s28711_ll_h15_ab.png
+I190.20361.gracenote.com,US - Fox 32 Chicago,https://zpmc.tmsimg.com/h3/NowShowing/20361/s28719_ll_h15_ac.png
+I192.20455.gracenote.com,WGN 9 Chicago,https://zpmc.tmsimg.com/h3/NowShowing/20455/s51306_ll_h15_ac.png
+I193.24521.gracenote.com,US - Telemundo Chicago,https://zpmc.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png
+I202.116034.gracenote.com,Marquee Sports Network,https://zpmc.tmsimg.com/h3/NowShowing/116034/s113768_ll_h15_aa.png
+I217.35892.gracenote.com,ABC Localish,https://zpmc.tmsimg.com/h3/NowShowing/35892/s70938_ll_h15_ac.png
+I227.46710.gracenote.com,Hallmark Mystery,https://zpmc.tmsimg.com/h3/NowShowing/46710/s46710_ll_h15_ab.png
+I278.58625.gracenote.com,Bravo,https://zpmc.tmsimg.com/h3/NowShowing/58625/s58625_ll_h15_ab.png
+I353.31044.gracenote.com,Antenna TV,https://zpmc.tmsimg.com/h3/NowShowing/31044/GNLZZGG0028Y4HS.png
+I358.61780.gracenote.com,Heroes &amp; Icons,https://zpmc.tmsimg.com/h3/NowShowing/61780/s90401_ll_h15_ad.png
+I365.108537.gracenote.com,TBD,https://zpmc.tmsimg.com/h3/NowShowing/108537/s102116_ll_h15_ac.png
+I474.18718.gracenote.com,BET Soul,https://zpmc.tmsimg.com/h3/NowShowing/18718/s18718_ll_h15_ad.png
+I539.68409.gracenote.com,MGM&#43; Drive In,https://zpmc.tmsimg.com/h3/NowShowing/68409/s68409_ll_h15_ad.png
+I585.25272.gracenote.com,Showtime Women,https://zpmc.tmsimg.com/h3/NowShowing/25272/s25272_ll_h15_ac.png
+I1002.20454.gracenote.com,US - CBS Chicago,https://zpmc.tmsimg.com/h3/NowShowing/20454/s28711_ll_h15_ab.png
+I1005.20452.gracenote.com,US - NBC Chicago,https://zpmc.tmsimg.com/h3/NowShowing/20452/s28717_ll_h15_ad.png
+I1007.20456.gracenote.com,US - ABC Chicago,https://zpmc.tmsimg.com/h3/NowShowing/20456/s28708_ll_h15_ac.png
+I1009.20455.gracenote.com,WGN 9 Chicago,https://zpmc.tmsimg.com/h3/NowShowing/20455/s51306_ll_h15_ac.png
+I1032.20361.gracenote.com,US - Fox 32 Chicago,https://zpmc.tmsimg.com/h3/NowShowing/20361/s28719_ll_h15_ac.png
+I1044.24521.gracenote.com,US - Telemundo Chicago,https://zpmc.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png
+I1081.26643.gracenote.com,Gem Shopping Network,https://zpmc.tmsimg.com/h3/NowShowing/26643/GNLZZGG0025V1KJ.png
+I1115.97163.gracenote.com,Newsmax,https://zpmc.tmsimg.com/h3/NowShowing/97163/s97163_ll_h15_ab.png
+I1167.61780.gracenote.com,Heroes &amp; Icons,https://zpmc.tmsimg.com/h3/NowShowing/61780/s90401_ll_h15_ad.png
+I1178.35892.gracenote.com,ABC Localish,https://zpmc.tmsimg.com/h3/NowShowing/35892/s70938_ll_h15_ac.png
+I1183.108537.gracenote.com,TBD,https://zpmc.tmsimg.com/h3/NowShowing/108537/s102116_ll_h15_ac.png
+I1185.31044.gracenote.com,Antenna TV,https://zpmc.tmsimg.com/h3/NowShowing/31044/GNLZZGG0028Y4HS.png
+I1228.111945.gracenote.com,Zona Futbol,https://zpmc.tmsimg.com/h3/NowShowing/111945/s111945_ll_h15_ab.png
+I1254.116034.gracenote.com,Marquee Sports Network,https://zpmc.tmsimg.com/h3/NowShowing/116034/s113768_ll_h15_aa.png
+I1459.46710.gracenote.com,Hallmark Mystery,https://zpmc.tmsimg.com/h3/NowShowing/46710/s46710_ll_h15_ab.png
+I1463.58625.gracenote.com,Bravo,https://zpmc.tmsimg.com/h3/NowShowing/58625/s58625_ll_h15_ab.png
+I1630.18718.gracenote.com,BET Soul,https://zpmc.tmsimg.com/h3/NowShowing/18718/s18718_ll_h15_ad.png
+I1633.30419.gracenote.com,BET Jams,https://zpmc.tmsimg.com/h3/NowShowing/30419/s30419_ll_h15_ac.png
+I1766.70253.gracenote.com,FX Movie Channel,https://zpmc.tmsimg.com/h3/NowShowing/70253/s70253_ll_h15_aa.png
+I1850.25272.gracenote.com,Showtime Women,https://zpmc.tmsimg.com/h3/NowShowing/25272/s25272_ll_h15_ac.png
+I1873.67929.gracenote.com,MGM&#43; 2,https://zpmc.tmsimg.com/h3/NowShowing/67929/s67929_ll_h15_ad.png
+I3360.111945.gracenote.com,Zona Futbol,https://zpmc.tmsimg.com/h3/NowShowing/111945/s111945_ll_h15_ab.png
+I106.16123.gracenote.com,TV Land,https://zpmc.tmsimg.com/h3/NowShowing/16123/s16123_ll_h15_aa.png
+I160.10986.gracenote.com,MTV,https://zpmc.tmsimg.com/h3/NowShowing/10986/s10986_ll_h15_aa.png
+I239.92091.gracenote.com,Laff,https://zpmc.tmsimg.com/h3/NowShowing/92091/GNLZZGG002NRDSC.png
+I362.16484.gracenote.com,BET Gospel,https://zpmc.tmsimg.com/h3/NowShowing/16484/s16484_ll_h15_ab.png
+I388.70113.gracenote.com,Pixl,https://zpmc.tmsimg.com/h3/NowShowing/70113/s70113_ll_h15_aa.png
+I390.80651.gracenote.com,Outside TV,https://zpmc.tmsimg.com/h3/NowShowing/80651/s80651_ll_h9_aa.png
+I392.76942.gracenote.com,Bein Sports US,https://zpmc.tmsimg.com/h3/NowShowing/76942/s76942_ll_h15_ab.png
+I394.63234.gracenote.com,World Fishing Network,https://zpmc.tmsimg.com/h3/NowShowing/63234/s63234_ll_h15_aa.png
+I413.65596.gracenote.com,Altitude Sports,https://zpmc.tmsimg.com/h3/NowShowing/65596/s44263_ll_h15_ab.png
+I419.63138.gracenote.com,NBC Sports Bay Area,https://zpmc.tmsimg.com/h3/NowShowing/63138/s63138_ll_h15_ad.png
+I424.32537.gracenote.com,Monumental Sports Network,https://zpmc.tmsimg.com/h3/NowShowing/32537/s32537_ll_h15_ad.png
+I428.49882.gracenote.com,Sportsnet Pittsburgh,https://zpmc.tmsimg.com/h3/NowShowing/49882/s26028_ll_h15_ac.png
+I432.59607.gracenote.com,Masn,https://zpmc.tmsimg.com/h3/NowShowing/59607/GNLZZGG002QC98G.png
+I434.35038.gracenote.com,NESN,https://zpmc.tmsimg.com/h3/NowShowing/35038/s35038_ll_h15_ac.png
+I438.73565.gracenote.com,NBC Sports California,https://zpmc.tmsimg.com/h3/NowShowing/73565/s45540_ll_h15_ad.png
+I70.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png
+I70.60222.schedulesdirect.org,QVC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0037GYJC.png_dark_360w_270h.png
+I77.70436.schedulesdirect.org,Me TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png
+I80.78851.schedulesdirect.org,COZI TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png
+I81.89922.schedulesdirect.org,Grit,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002FEPTV.png_dark_360w_270h.png
+I82.73067.schedulesdirect.org,Bounce,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png
+I202.58646.schedulesdirect.org,CNN US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png
+I202.10142.schedulesdirect.org,CNN US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_dark_360w_270h.png
+I204.64549.schedulesdirect.org,CNN Headline News HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64549_dark_360w_270h.png
+I204.10145.schedulesdirect.org,CNN Headline News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png
+I205.94102.schedulesdirect.org,Sports Mix US,
+I206.10179.schedulesdirect.org,ESPN US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png
+I206.32645.schedulesdirect.org,ESPN US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32645_dark_360w_270h.png
+I207.16485.schedulesdirect.org,ESPNews US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png
+I207.59976.schedulesdirect.org,ESPNews US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59976_dark_360w_270h.png
+I208.45654.schedulesdirect.org,ESPNU,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png
+I208.60696.schedulesdirect.org,ESPNU HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60696_dark_360w_270h.png
+I209.12444.schedulesdirect.org,ESPN 2 US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png
+I209.45507.schedulesdirect.org,ESPN 2 US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45507_dark_360w_270h.png
+I211.65025.schedulesdirect.org,NFL Redzone,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65025_dark_360w_270h.png
+I212.34710.schedulesdirect.org,NFL Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png
+I212.45399.schedulesdirect.org,NFL Network HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png
+I213.62081.schedulesdirect.org,MLB Network HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png
+I213.62079.schedulesdirect.org,MLB Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62079_dark_360w_270h.png
+I214.61036.schedulesdirect.org,MAVTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61036_dark_360w_270h.png
+I215.58690.schedulesdirect.org,NHL Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58690_dark_360w_270h.png
+I215.58570.schedulesdirect.org,NHL Network USA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png
+I216.32281.schedulesdirect.org,NBA TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png
+I216.45526.schedulesdirect.org,NBA TV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45526_dark_360w_270h.png
+I217.33395.schedulesdirect.org,🎾 [Tennis] Tennis Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002ES74T.png_dark_360w_270h.png
+I217.60316.schedulesdirect.org,🎾 [Tennis] Tennis Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png
+I218.14899.schedulesdirect.org,🏌️ [Golf] Golf Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RFZQ3.png_dark_360w_270h.png
+I218.61854.schedulesdirect.org,🏌️ [Golf] Golf Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RFQ5S.png_dark_360w_270h.png
+I219.82547.schedulesdirect.org,Fox Sports 1 US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82547_dark_360w_270h.png
+I219.82541.schedulesdirect.org,Fox Sports 1 US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png
+I221.16365.schedulesdirect.org,CBS Sports Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png
+I221.59250.schedulesdirect.org,CBS Sports Network HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59250_dark_360w_270h.png
+I229.14902.schedulesdirect.org,HGTV East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png
+I229.49788.schedulesdirect.org,HGTV East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49788_dark_360w_270h.png
+I230.18544.schedulesdirect.org,MAGN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18544_dark_360w_270h.png
+I230.67375.schedulesdirect.org,Magnolia Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67375_dark_360w_270h.png
+I231.12574.schedulesdirect.org,Food Network East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png
+I231.50747.schedulesdirect.org,Food Network East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50747_dark_360w_270h.png
+I232.30156.schedulesdirect.org,Cooking Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png
+I232.68065.schedulesdirect.org,Cooking Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68065_dark_360w_270h.png
+I233.14909.schedulesdirect.org,Game Show Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png
+I235.107076.schedulesdirect.org,Tastemade US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107076_dark_360w_270h.png
+I236.10989.schedulesdirect.org,E!,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png
+I236.61812.schedulesdirect.org,E! HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61812_dark_360w_270h.png
+I237.10057.schedulesdirect.org,Bravo,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png
+I237.58625.schedulesdirect.org,BRAVOHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58625_dark_360w_270h.png
+I238.68385.schedulesdirect.org,Reelz Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002HWGQ0.png_dark_360w_270h.png
+I238.52199.schedulesdirect.org,Reelz Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002HWGYL.png_dark_360w_270h.png
+I239.16108.schedulesdirect.org,Sundance TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png
+I239.71280.schedulesdirect.org,Sundance TV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71280_dark_360w_270h.png
+I240.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png
+I241.11163.schedulesdirect.org,Paramount Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png
+I241.59186.schedulesdirect.org,Paramount Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59186_dark_360w_270h.png
+I242.58452.schedulesdirect.org,USA Network East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58452_dark_360w_270h.png
+I242.11207.schedulesdirect.org,USA Network East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png
+I244.11097.schedulesdirect.org,Syfy,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png
+I244.58623.schedulesdirect.org,Syfy HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58623_dark_360w_270h.png
+I245.11164.schedulesdirect.org,TNT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png
+I245.42642.schedulesdirect.org,TNT HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42642_dark_360w_270h.png
+I246.10153.schedulesdirect.org,Tru TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png
+I246.64490.schedulesdirect.org,Tru TV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64490_dark_360w_270h.png
+I247.11867.schedulesdirect.org,TBS East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png
+I247.58515.schedulesdirect.org,TBS East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58515_dark_360w_270h.png
+I248.58574.schedulesdirect.org,FX East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58574_dark_360w_270h.png
+I248.14321.schedulesdirect.org,FX East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png
+I249.10149.schedulesdirect.org,Comedy Central East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png
+I249.62420.schedulesdirect.org,Comedy Central East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62420_dark_360w_270h.png
+I251.21484.schedulesdirect.org,Oxygen True Crime,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21484_dark_360w_270h.png
+I251.70522.schedulesdirect.org,Oxygen True Crime HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70522_dark_360w_270h.png
+I252.10918.schedulesdirect.org,Lifetime East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png
+I252.60150.schedulesdirect.org,Lifetime East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60150_dark_360w_270h.png
+I253.18480.schedulesdirect.org,Lifetime Movie Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png
+I253.55887.schedulesdirect.org,Lifetime Movie Network HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55887_dark_360w_270h.png
+I254.59337.schedulesdirect.org,AMC East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59337_dark_360w_270h.png
+I254.10021.schedulesdirect.org,AMC East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png
+I256.12852.schedulesdirect.org,TCM US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png
+I256.64312.schedulesdirect.org,TCM US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64312_dark_360w_270h.png
+I258.14988.schedulesdirect.org,FXM retro,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14988_dark_360w_270h.png
+I258.70253.schedulesdirect.org,FXM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png
+I259.17927.schedulesdirect.org,FXX East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png
+I259.66379.schedulesdirect.org,FXX East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66379_dark_360w_270h.png
+I260.16409.schedulesdirect.org,WE TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png
+I261.16125.schedulesdirect.org,Discovery life,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png
+I264.18332.schedulesdirect.org,BBC America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png
+I264.64492.schedulesdirect.org,BBC America HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png
+I265.10035.schedulesdirect.org,A&amp;E East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png
+I265.51529.schedulesdirect.org,A&amp;E East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png
+I266.58988.schedulesdirect.org,FYI Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58988_dark_360w_270h.png
+I269.57708.schedulesdirect.org,History HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57708_dark_360w_270h.png
+I269.14771.schedulesdirect.org,History,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14771_dark_360w_270h.png
+I271.18822.schedulesdirect.org,Viceland,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png
+I271.65732.schedulesdirect.org,Vice TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png
+I272.46762.schedulesdirect.org,Logo TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png
+I273.68796.schedulesdirect.org,Pop TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68796_dark_360w_270h.png
+I274.15807.schedulesdirect.org,Ovation,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15807_dark_360w_270h.png
+I274.69061.schedulesdirect.org,Ovation HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69061_dark_360w_270h.png
+I275.60222.schedulesdirect.org,QVC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0037GYJC.png_dark_360w_270h.png
+I276.24959.schedulesdirect.org,National Geographic,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24959_dark_360w_270h.png
+I276.49438.schedulesdirect.org,National Geographic East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png
+I277.11180.schedulesdirect.org,Travel Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11180_dark_360w_270h.png
+I278.11150.schedulesdirect.org,Discovery Channel US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png
+I278.56905.schedulesdirect.org,Discovery Channel US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56905_dark_360w_270h.png
+I279.70388.schedulesdirect.org,OWN HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70388_dark_360w_270h.png
+I279.70387.schedulesdirect.org,OWN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70387_dark_360w_270h.png
+I281.31046.schedulesdirect.org,MotorTrend,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RMTEG.png_dark_360w_270h.png
+I282.16331.schedulesdirect.org,Animal Planet,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png
+I282.57394.schedulesdirect.org,Animal Planet HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57394_dark_360w_270h.png
+I283.66804.schedulesdirect.org,Nat Geo Wild East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png
+I283.67331.schedulesdirect.org,Nat Geo Wild East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67331_dark_360w_270h.png
+I284.57390.schedulesdirect.org,Science Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57390_dark_360w_270h.png
+I284.16616.schedulesdirect.org,Science Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16616_dark_360w_270h.png
+I285.65342.schedulesdirect.org,Discovery ID East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png
+I285.16615.schedulesdirect.org,Discovery ID US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png
+I286.60468.schedulesdirect.org,Destination America HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60468_dark_360w_270h.png
+I286.16617.schedulesdirect.org,Destination America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16617_dark_360w_270h.png
+I287.18284.schedulesdirect.org,American Heroes Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0022LF21.png_dark_360w_270h.png
+I287.78808.schedulesdirect.org,American Heroes Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78808_dark_360w_270h.png
+I289.74796.schedulesdirect.org,DISNEY JR US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png
+I289.74885.schedulesdirect.org,Disney Jr US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74885_dark_360w_270h.png
+I290.10171.schedulesdirect.org,Disney Channel East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png
+I290.59684.schedulesdirect.org,Disney Channel East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59684_dark_360w_270h.png
+I292.18279.schedulesdirect.org,Disney XD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png
+I292.60006.schedulesdirect.org,Disney XD HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60006_dark_360w_270h.png
+I294.16618.schedulesdirect.org,Discovery Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png
+I294.67749.schedulesdirect.org,Discovery Family HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67749_dark_360w_270h.png
+I296.12131.schedulesdirect.org,Cartoon Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png
+I298.21883.schedulesdirect.org,Boomerang US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png
+I299.11006.schedulesdirect.org,Nickelodeon East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png
+I299.59432.schedulesdirect.org,Nickelodeon East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59432_dark_360w_270h.png
+I301.19211.schedulesdirect.org,Nick Jr East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png
+I301.82649.schedulesdirect.org,Nick Jr HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82649_dark_360w_270h.png
+I302.30420.schedulesdirect.org,NICKTOONS US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png
+I303.59036.schedulesdirect.org,NickTeen East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59036_dark_360w_270h.png
+I304.16123.schedulesdirect.org,TVLAND,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png
+I304.73541.schedulesdirect.org,TVLNDHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73541_dark_360w_270h.png
+I305.76894.schedulesdirect.org,ION Television,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png
+I310.10270.schedulesdirect.org,HSN2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10270_dark_360w_270h.png
+I311.10093.schedulesdirect.org,FREEFORM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png
+I311.59615.schedulesdirect.org,FREEFORM HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59615_dark_360w_270h.png
+I312.11221.schedulesdirect.org,Hallmark Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png
+I312.66268.schedulesdirect.org,Hallmark Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66268_dark_360w_270h.png
+I314.122068.schedulesdirect.org,Family Movie Classic,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122068_dark_360w_270h.png
+I317.60222.schedulesdirect.org,QVC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0037GYJC.png_dark_360w_270h.png
+I322.59155.schedulesdirect.org,NHK World-Japan,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59155_dark_360w_270h.png
+I326.82892.schedulesdirect.org,Great American Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82892_dark_360w_270h.png
+I327.59440.schedulesdirect.org,CMT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59440_dark_360w_270h.png
+I328.61960.schedulesdirect.org,TV One,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61960_dark_360w_270h.png
+I329.10051.schedulesdirect.org,BET,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png
+I329.63236.schedulesdirect.org,BET HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63236_dark_360w_270h.png
+I330.14897.schedulesdirect.org,Bet Her,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png
+I331.10986.schedulesdirect.org,MTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png
+I332.16361.schedulesdirect.org,MTV 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16361_dark_360w_270h.png
+I333.14873.schedulesdirect.org,IFC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14873_dark_360w_270h.png
+I333.59444.schedulesdirect.org,IFC HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59444_dark_360w_270h.png
+I335.11218.schedulesdirect.org,VH1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png
+I336.22561.schedulesdirect.org,MTV Classic,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s22561_dark_360w_270h.png
+I338.44940.schedulesdirect.org,UP TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44940_dark_360w_270h.png
+I339.59116.schedulesdirect.org,Fuse,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59116_dark_360w_270h.png
+I340.28506.schedulesdirect.org,AXS TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png
+I341.110289.schedulesdirect.org,CLEO TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110289_dark_360w_270h.png
+I342.132272.schedulesdirect.org,The Grio,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101752_dark_360w_270h.png
+I347.114934.schedulesdirect.org,The First,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114934_dark_360w_270h.png
+I349.87925.schedulesdirect.org,NewsmaxTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87925_dark_360w_270h.png
+I350.10161.schedulesdirect.org,C-Span,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png
+I351.10162.schedulesdirect.org,C-Span Book TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10162_dark_360w_270h.png
+I353.14755.schedulesdirect.org,Bloomberg TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14755_dark_360w_270h.png
+I353.71799.schedulesdirect.org,Bloomberg TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png
+I354.109333.schedulesdirect.org,Cheddar,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109333_dark_360w_270h.png
+I355.10139.schedulesdirect.org,CNBC US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NF466.png_dark_360w_270h.png
+I355.58780.schedulesdirect.org,CNBC US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NF45G.png_dark_360w_270h.png
+I357.26849.schedulesdirect.org,CNBC World,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NF46G.png_dark_360w_270h.png
+I358.10146.schedulesdirect.org,CNN International,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10146_dark_360w_270h.png
+I359.58718.schedulesdirect.org,Fox Business HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58718_dark_360w_270h.png
+I359.58649.schedulesdirect.org,Fox Business,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png
+I360.16374.schedulesdirect.org,Fox News Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png
+I360.60179.schedulesdirect.org,Fox News Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60179_dark_360w_270h.png
+I361.91994.schedulesdirect.org,AccuWeather Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91994_dark_360w_270h.png
+I362.11187.schedulesdirect.org,The Weather Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11187_dark_360w_270h.png
+I364.11066.schedulesdirect.org,INSP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png
+I374.21855.schedulesdirect.org,ByuTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21855_dark_360w_270h.png
+I381.97409.schedulesdirect.org,ASPIRE TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97409_dark_360w_270h.png
+I382.82470.schedulesdirect.org,Comedy TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png
+I383.78850.schedulesdirect.org,Justice Central,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78850_dark_360w_270h.png
+I384.83098.schedulesdirect.org,Revolt Music,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83098_dark_360w_270h.png
+I386.72094.schedulesdirect.org,Fuse Music,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72094_dark_360w_270h.png
+I402.11118.schedulesdirect.org,Univision,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png
+I402.68049.schedulesdirect.org,Univision HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png
+I403.14762.schedulesdirect.org,Univision West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png
+I404.10222.schedulesdirect.org,Galavision,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10222_dark_360w_270h.png
+I404.68367.schedulesdirect.org,Galavision,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68367_dark_360w_270h.png
+I405.58698.schedulesdirect.org,Mega TV Puerto Rico,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58698_dark_360w_270h.png
+I406.77606.schedulesdirect.org,Telemundo Internacional,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10239_dark_360w_270h.png
+I408.68040.schedulesdirect.org,UniMAS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png
+I409.102305.schedulesdirect.org,Ve Plus TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99240_dark_360w_270h.png
+I410.14791.schedulesdirect.org,NBC Universo,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14791_dark_360w_270h.png
+I410.91588.schedulesdirect.org,NBC Universo HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91588_dark_360w_270h.png
+I413.19247.schedulesdirect.org,Discovery Channel LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19247_dark_360w_270h.png
+I414.44322.schedulesdirect.org,Wapa,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63389_dark_360w_270h.png
+I415.25615.schedulesdirect.org,Video Rola,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25615_dark_360w_270h.png
+I417.39719.schedulesdirect.org,Caracol Television,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s39719_dark_360w_270h.png
+I418.61988.schedulesdirect.org,NTN24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61988_dark_360w_270h.png
+I419.17054.schedulesdirect.org,CNN en Espa&#241;ol,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png
+I423.62401.schedulesdirect.org,CinCanal US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png
+I425.70337.schedulesdirect.org,Baby TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70337_dark_360w_270h.png
+I426.102905.schedulesdirect.org,Starz Encore Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102905_dark_360w_270h.png
+I429.60690.schedulesdirect.org,Telecentro canal 13,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60690_dark_360w_270h.png
+I430.62161.schedulesdirect.org,Hola TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png
+I433.54867.schedulesdirect.org,Bandamax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png
+I435.72449.schedulesdirect.org,Nat Geo Mundo,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72449_dark_360w_270h.png
+I436.58428.schedulesdirect.org,Discovery Familia,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99630_dark_360w_270h.png
+I437.16046.schedulesdirect.org,TV Chile,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png
+I442.65064.schedulesdirect.org,Estrella TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65064_dark_360w_270h.png
+I443.43362.schedulesdirect.org,History Channel LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105678_dark_360w_270h.png
+I444.61776.schedulesdirect.org,Pasiones HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71621_dark_360w_270h.png
+I447.36139.schedulesdirect.org,Canal Once,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png
+I458.16800.schedulesdirect.org,Antena 3,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16800_dark_360w_270h.png
+I464.75176.schedulesdirect.org,TUDN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png
+I465.72189.schedulesdirect.org,Fox Sports Deportes,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15377_dark_360w_270h.png
+I466.71914.schedulesdirect.org,ESPN Deportes,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71914_dark_360w_270h.png
+I469.111046.schedulesdirect.org,TyC Sports,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png
+I501.10240.schedulesdirect.org,HBO East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png
+I501.19548.schedulesdirect.org,HBO East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19548_dark_360w_270h.png
+I504.10244.schedulesdirect.org,HBOP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png
+I504.19566.schedulesdirect.org,HBO West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19548_dark_360w_270h.png
+I506.59839.schedulesdirect.org,HBO Comedy East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png
+I511.24553.schedulesdirect.org,HBO East Latino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24553_dark_360w_270h.png
+I511.59837.schedulesdirect.org,HBO East Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24553_dark_360w_270h.png
+I515.34933.schedulesdirect.org,Cinemax East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png
+I515.10120.schedulesdirect.org,MAX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png
+I516.12508.schedulesdirect.org,Cinemax West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png
+I516.35975.schedulesdirect.org,Cinemax West HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png
+I517.59373.schedulesdirect.org,MoreMax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029CKC8.png_dark_360w_270h.png
+I519.59948.schedulesdirect.org,ActionMax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BC3R.png_dark_360w_270h.png
+I520.59961.schedulesdirect.org,5 StarMax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029CRES.png_dark_360w_270h.png
+I523.59965.schedulesdirect.org,Cinemax East Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59965_dark_360w_270h.png
+I525.12719.schedulesdirect.org,Starz East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png
+I525.34941.schedulesdirect.org,Starz East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34941_dark_360w_270h.png
+I526.12741.schedulesdirect.org,STARZP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png
+I526.34949.schedulesdirect.org,Starz West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34941_dark_360w_270h.png
+I527.57581.schedulesdirect.org,Starz Kids &amp; Family East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57581_dark_360w_270h.png
+I528.57569.schedulesdirect.org,Starz Comedy,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57569_dark_360w_270h.png
+I529.57573.schedulesdirect.org,Starz Edge East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57573_dark_360w_270h.png
+I529.16311.schedulesdirect.org,Starz Edge East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png
+I530.16833.schedulesdirect.org,Starz In Black East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16833_dark_360w_270h.png
+I530.67235.schedulesdirect.org,Starz In Black East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67235_dark_360w_270h.png
+I531.67236.schedulesdirect.org,Starz Cinema East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67236_dark_360w_270h.png
+I535.10178.schedulesdirect.org,Starz Encore East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10178_dark_360w_270h.png
+I535.36225.schedulesdirect.org,Starz Encore East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36225_dark_360w_270h.png
+I536.17125.schedulesdirect.org,Starz Encore West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10178_dark_360w_270h.png
+I537.14764.schedulesdirect.org,Starz Encore Classic,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png
+I538.102906.schedulesdirect.org,Starz Encore Westerns,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102906_dark_360w_270h.png
+I539.14766.schedulesdirect.org,Starz Encore Suspense,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14766_dark_360w_270h.png
+I540.14870.schedulesdirect.org,Starz Encore Black,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14870_dark_360w_270h.png
+I541.14871.schedulesdirect.org,Starz Encore Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14871_dark_360w_270h.png
+I541.72015.schedulesdirect.org,Encore Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72015_dark_360w_270h.png
+I542.102903.schedulesdirect.org,Starz Encore Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102903_dark_360w_270h.png
+I545.11115.schedulesdirect.org,Showtime East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png
+I545.21868.schedulesdirect.org,Showtime East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21868_dark_360w_270h.png
+I546.22532.schedulesdirect.org,Showtime West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21868_dark_360w_270h.png
+I547.11116.schedulesdirect.org,Showtime 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png
+I547.58533.schedulesdirect.org,Showtime 2 East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58533_dark_360w_270h.png
+I548.20622.schedulesdirect.org,Showtime Bet,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20622_dark_360w_270h.png
+I549.18086.schedulesdirect.org,SHOWX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png
+I549.60947.schedulesdirect.org,Showtime Extreme,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60947_dark_360w_270h.png
+I550.61001.schedulesdirect.org,Showtime Showcase,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61001_dark_360w_270h.png
+I551.68342.schedulesdirect.org,Showtime Next,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68342_dark_360w_270h.png
+I552.103892.schedulesdirect.org,Showtime Family Zone,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png
+I553.11160.schedulesdirect.org,The Movie Channel East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11160_dark_360w_270h.png
+I553.35329.schedulesdirect.org,The Movie Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35329_dark_360w_270h.png
+I554.12509.schedulesdirect.org,The Movie Channel West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11160_dark_360w_270h.png
+I555.60951.schedulesdirect.org,The Movie Channel Xtra,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60951_dark_360w_270h.png
+I556.10201.schedulesdirect.org,Flix,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10201_dark_360w_270h.png
+I558.65687.schedulesdirect.org,MGM+,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png
+I559.67929.schedulesdirect.org,MGM+ Hits,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67929_dark_360w_270h.png
+I560.74073.schedulesdirect.org,MGM+ Marquee,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74073_dark_360w_270h.png
+I562.82446.schedulesdirect.org,DOG TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82446_dark_360w_270h.png
+I564.105723.schedulesdirect.org,Hallmark Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png
+I565.46710.schedulesdirect.org,Hallmark Movies &amp; Mysteries,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46710_dark_360w_270h.png
+I566.33668.schedulesdirect.org,HDnet Movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33668_dark_360w_270h.png
+I570.58532.schedulesdirect.org,Smithsonian Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png
+I571.61469.schedulesdirect.org,Crime &amp; Investigation Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png
+I572.49141.schedulesdirect.org,MTV Live,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png
+I578.38944.schedulesdirect.org,Playboy TV Latin America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38944_dark_360w_270h.png
+I586.38944.schedulesdirect.org,Playboy TV Latin America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38944_dark_360w_270h.png
+I600.94102.schedulesdirect.org,Sports Mix US,
+I602.21345.schedulesdirect.org,TVG Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21345_dark_360w_270h.png
+I603.10188.schedulesdirect.org,Cowboy Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0030VTMT.png_dark_360w_270h.png
+I604.60111.schedulesdirect.org,Pursuit Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60111_dark_360w_270h.png
+I605.33930.schedulesdirect.org,Sportsman Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png
+I606.14776.schedulesdirect.org,Outdoor Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png
+I610.58321.schedulesdirect.org,BTN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58321_dark_360w_270h.png
+I610.56783.schedulesdirect.org,Big Ten Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png
+I611.89535.schedulesdirect.org,SEC Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png
+I612.111905.schedulesdirect.org,ACCSD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111905_dark_360w_270h.png
+I612.111871.schedulesdirect.org,Accn Espn,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png
+I618.33178.schedulesdirect.org,Fox Sports 2 US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png
+I618.59305.schedulesdirect.org,Fox Sports 2 US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59305_dark_360w_270h.png
+I619.194412.schedulesdirect.org,NBC Sport Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002H5DYN.png_dark_360w_270h.png
+I621.66879.schedulesdirect.org,Fox Soccer Plus,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66879_dark_360w_270h.png
+I625.80621.schedulesdirect.org,Willow Xtra,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80621_dark_360w_270h.png
+I2021.17250.schedulesdirect.org,RAI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G77.png_dark_360w_270h.png
+I2022.78803.schedulesdirect.org,Rai News 24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78803_dark_360w_270h.png
+I2023.46350.schedulesdirect.org,Rai Premium,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46350_dark_360w_270h.png
+I2053.29114.schedulesdirect.org,CGTN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29114_dark_360w_270h.png
+I2095.87649.schedulesdirect.org,DARANG,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87649_dark_360w_270h.png
+I2119.29114.schedulesdirect.org,CGTN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29114_dark_360w_270h.png
+I68.15993.schedulesdirect.org,CA - Global News Saskatoon,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15993_dark_360w_270h.png
+I78.49523.schedulesdirect.org,DVGLBW,
+I113.15997.schedulesdirect.org,TSC shopping channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15997_dark_360w_270h.png
+I123.15676.schedulesdirect.org,CA&#58; RDS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15676_dark_360w_270h.png
+I124.39080.schedulesdirect.org,CA&#58; RDS Info,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s39080_dark_360w_270h.png
+I125.52235.schedulesdirect.org,CA - RDI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52235_dark_360w_270h.png
+I192.73271.schedulesdirect.org,CA&#58; RDS 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73271_dark_360w_270h.png
+I193.73142.schedulesdirect.org,CA&#58; TVA Sports FHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73142_dark_360w_270h.png
+I196.16261.schedulesdirect.org,CA - CBC Fredericton,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png
+I198.17396.schedulesdirect.org,CA - Global News Halifax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17396_dark_360w_270h.png
+I204.17396.schedulesdirect.org,CA - Global News Halifax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17396_dark_360w_270h.png
+I205.65995.schedulesdirect.org,CA - CTV Montreal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65995_dark_360w_270h.png
+I206.10092.schedulesdirect.org,CA - CBC Montreal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png
+I208.10097.schedulesdirect.org,CA - CBC Ottawa,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10097_dark_360w_270h.png
+I209.10116.schedulesdirect.org,CA - CTV 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10135_dark_360w_270h.png
+I210.46245.schedulesdirect.org,CA - CBC Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46245_dark_360w_270h.png
+I212.44784.schedulesdirect.org,CA - CTV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44784_dark_360w_270h.png
+I214.10125.schedulesdirect.org,CityTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10125_dark_360w_270h.png
+I215.10105.schedulesdirect.org,Omni 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10105_dark_360w_270h.png
+I216.31558.schedulesdirect.org,Omni 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31558_dark_360w_270h.png
+I217.10114.schedulesdirect.org,CA - Global News Peterborough,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10114_dark_360w_270h.png
+I218.60123.schedulesdirect.org,CHCH Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60123_dark_360w_270h.png
+I226.13834.schedulesdirect.org,CA - Global News Winnipeg,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png
+I233.10137.schedulesdirect.org,CA - Global News Kingston,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10137_dark_360w_270h.png
+I234.17406.schedulesdirect.org,CA - Global News Montreal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17406_dark_360w_270h.png
+I236.15993.schedulesdirect.org,CA - Global News Saskatoon,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15993_dark_360w_270h.png
+I245.15939.schedulesdirect.org,CA - CBC Calgary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15939_dark_360w_270h.png
+I251.10100.schedulesdirect.org,CA - CBC Vancouver,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png
+I252.10050.schedulesdirect.org,CA - Global News BC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10050_dark_360w_270h.png
+I253.10136.schedulesdirect.org,CA - City TV Vancouver,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10136_dark_360w_270h.png
+I268.14492.schedulesdirect.org,Knowledge Network,
+I286.15997.schedulesdirect.org,TSC shopping channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15997_dark_360w_270h.png
+I300.10191.schedulesdirect.org,CRAVE 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25444_dark_360w_270h.png
+I301.12222.schedulesdirect.org,CRAVE 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12222_dark_360w_270h.png
+I302.12223.schedulesdirect.org,CRAVE 3,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12223_dark_360w_270h.png
+I303.21351.schedulesdirect.org,CRAVE 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21351_dark_360w_270h.png
+I335.26768.schedulesdirect.org,Life Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26768_dark_360w_270h.png
+I388.81448.schedulesdirect.org,Fight Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81448_dark_360w_270h.png
+I400.11182.schedulesdirect.org,TSN 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png
+I401.18990.schedulesdirect.org,TSN 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18990_dark_360w_270h.png
+I402.90118.schedulesdirect.org,TSN 3,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90118_dark_360w_270h.png
+I403.90122.schedulesdirect.org,TSN 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90122_dark_360w_270h.png
+I404.90124.schedulesdirect.org,TSN 5,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90124_dark_360w_270h.png
+I405.62111.schedulesdirect.org,Sportsnet Ontario,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62111_dark_360w_270h.png
+I406.18798.schedulesdirect.org,Sportsnet East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18798_dark_360w_270h.png
+I407.18801.schedulesdirect.org,Sportsnet Pacific,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18801_dark_360w_270h.png
+I408.18800.schedulesdirect.org,Sportsnet West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18800_dark_360w_270h.png
+I409.68858.schedulesdirect.org,Sportsnet One,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68858_dark_360w_270h.png
+I410.49952.schedulesdirect.org,Sportsnet 360,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png
+I420.57735.schedulesdirect.org,Sportsnet World,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57735_dark_360w_270h.png
+I421.30189.schedulesdirect.org,Fox Sports Racing,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30189_dark_360w_270h.png
+I501.17615.schedulesdirect.org,CTV News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17615_dark_360w_270h.png
+I502.10094.schedulesdirect.org,CA - CBC News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10094_dark_360w_270h.png
+I505.10170.schedulesdirect.org,The Weather Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10170_dark_360w_270h.png
+I510.89542.schedulesdirect.org,BBC World News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png
+I530.99429.schedulesdirect.org,Makeful,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99429_dark_360w_270h.png
+I584.10128.schedulesdirect.org,CA - CTV Barrie,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10108_dark_360w_270h.png
+I587.10088.schedulesdirect.org,CA - CBC Windsor,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png
+I594.17143.schedulesdirect.org,CA - Global News Regina,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17143_dark_360w_270h.png
+I598.15997.schedulesdirect.org,TSC shopping channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15997_dark_360w_270h.png
+I601.15181.schedulesdirect.org,Slice,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15181_dark_360w_270h.png
+I618.17693.schedulesdirect.org,Dtour,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17693_dark_360w_270h.png
+I629.26772.schedulesdirect.org,H2 History,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26772_dark_360w_270h.png
+I636.26873.schedulesdirect.org,DejaView,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26873_dark_360w_270h.png
+I641.26779.schedulesdirect.org,Cottage Life,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26779_dark_360w_270h.png
+I660.15997.schedulesdirect.org,TSC shopping channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15997_dark_360w_270h.png
+I722.21063.schedulesdirect.org,RT International,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21063_dark_360w_270h.png
+I800.44784.schedulesdirect.org,CA - CTV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44784_dark_360w_270h.png
+I802.46245.schedulesdirect.org,CA - CBC Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46245_dark_360w_270h.png
+I803.34200.schedulesdirect.org,CA - CITY TV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34200_dark_360w_270h.png
+I810.52745.schedulesdirect.org,Love Nature,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52745_dark_360w_270h.png
+I811.53128.schedulesdirect.org,BBC Earth,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53128_dark_360w_270h.png
+I845.49952.schedulesdirect.org,Sportsnet 360,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png
+I846.62111.schedulesdirect.org,Sportsnet Ontario,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62111_dark_360w_270h.png
+I872.52235.schedulesdirect.org,CA - RDI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52235_dark_360w_270h.png
+I900.62890.schedulesdirect.org,CA - CTV Calgary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62890_dark_360w_270h.png
+I1010.72723.schedulesdirect.org,CA - CBC Halifax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png
+I1011.72780.schedulesdirect.org,CA - CTV Halifax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10108_dark_360w_270h.png
+I1031.65995.schedulesdirect.org,CA - CTV Montreal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65995_dark_360w_270h.png
+I1033.72895.schedulesdirect.org,CA - City TV Montreal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72895_dark_360w_270h.png
+I1050.46245.schedulesdirect.org,CA - CBC Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46245_dark_360w_270h.png
+I1051.44784.schedulesdirect.org,CA - CTV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44784_dark_360w_270h.png
+I1053.34200.schedulesdirect.org,CA - CITY TV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34200_dark_360w_270h.png
+I1054.72705.schedulesdirect.org,CA - CTV 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10135_dark_360w_270h.png
+I1057.60123.schedulesdirect.org,CHCH Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60123_dark_360w_270h.png
+I1090.72940.schedulesdirect.org,CA - CBC Winnipeg,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72940_dark_360w_270h.png
+I1131.62890.schedulesdirect.org,CA - CTV Calgary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62890_dark_360w_270h.png
+I1133.69551.schedulesdirect.org,CA - CITY TV Calgary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69551_dark_360w_270h.png
+I1405.62111.schedulesdirect.org,Sportsnet Ontario,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62111_dark_360w_270h.png
+I1410.49952.schedulesdirect.org,Sportsnet 360,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png
+I1412.91308.schedulesdirect.org,beIN Sports,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91308_dark_360w_270h.png
+I1502.62890.schedulesdirect.org,CA - CTV Calgary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62890_dark_360w_270h.png
+I1510.44784.schedulesdirect.org,CA - CTV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44784_dark_360w_270h.png
+I1512.65995.schedulesdirect.org,CA - CTV Montreal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65995_dark_360w_270h.png
+I1515.72780.schedulesdirect.org,CA - CTV Halifax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10108_dark_360w_270h.png
+I1625.52745.schedulesdirect.org,Love Nature,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52745_dark_360w_270h.png
+I1627.53128.schedulesdirect.org,BBC Earth,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53128_dark_360w_270h.png
+I1816.52235.schedulesdirect.org,CA - RDI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52235_dark_360w_270h.png
+I1881.73275.schedulesdirect.org,CA&#58; RDS 2 HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73275_dark_360w_270h.png
+I1883.73142.schedulesdirect.org,CA&#58; TVA Sports FHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73142_dark_360w_270h.png
+I1884.90206.schedulesdirect.org,CA&#58; TVA Sports 2 HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90206_dark_360w_270h.png
+I1899.73275.schedulesdirect.org,CA&#58; RDS 2 HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73275_dark_360w_270h.png
