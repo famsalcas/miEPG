@@ -3,51 +3,6 @@
   <channel id="SanJoseTV.cr">
     <display-name>San Jose TV</display-name>
   </channel>
-  <programme start="20260813000000 -0600" stop="20260813040000 -0600" channel="SanJoseTV.cr">
-    <title>Música y Prédicas</title>
-  </programme>
-  <programme start="20260813040000 -0600" stop="20260813050000 -0600" channel="SanJoseTV.cr">
-    <title>Escuela Para Todos / Música</title>
-  </programme>
-  <programme start="20260813050000 -0600" stop="20260813060000 -0600" channel="SanJoseTV.cr">
-    <title>El Club de los Madrugones</title>
-  </programme>
-  <programme start="20260813060000 -0600" stop="20260813080000 -0600" channel="SanJoseTV.cr">
-    <title>Santo Rosario y Santa Misa</title>
-  </programme>
-  <programme start="20260813080000 -0600" stop="20260813103000 -0600" channel="SanJoseTV.cr">
-    <title>Radio Revista Vida y Esperanza</title>
-  </programme>
-  <programme start="20260813103000 -0600" stop="20260813113000 -0600" channel="SanJoseTV.cr">
-    <title>Soplo de Vida / Formación</title>
-  </programme>
-  <programme start="20260813103000 -0600" stop="20260813120000 -0600" channel="SanJoseTV.cr">
-    <title>Donde el maestro</title>
-  </programme>
-  <programme start="20260813120000 -0600" stop="20260813140000 -0600" channel="SanJoseTV.cr">
-    <title>Ángelus y Programas del Mediodía</title>
-  </programme>
-  <programme start="20260813140000 -0600" stop="20260813150000 -0600" channel="SanJoseTV.cr">
-    <title>Impacto 93.1 / Aló Artur</title>
-  </programme>
-  <programme start="20260813150000 -0600" stop="20260813160000 -0600" channel="SanJoseTV.cr">
-    <title>Hora Santa y Divina Misericordia</title>
-  </programme>
-  <programme start="20260813160000 -0600" stop="20260813173000 -0600" channel="SanJoseTV.cr">
-    <title>Caminando en Familia y Especiales</title>
-  </programme>
-  <programme start="20260813173000 -0600" stop="20260813193000 -0600" channel="SanJoseTV.cr">
-    <title>Santo Rosario y Santa Misa</title>
-  </programme>
-  <programme start="20260813193000 -0600" stop="20260813210000 -0600" channel="SanJoseTV.cr">
-    <title>Franja Pastoral y Familiar</title>
-  </programme>
-  <programme start="20260813210000 -0600" stop="20260813223000 -0600" channel="SanJoseTV.cr">
-    <title>Mi Descanso Eres Tú</title>
-  </programme>
-  <programme start="20260813223000 -0600" stop="20260814000000 -0600" channel="SanJoseTV.cr">
-    <title>Santo Trisagio y Música</title>
-  </programme>
   <programme start="20260814000000 -0600" stop="20260814080000 -0600" channel="SanJoseTV.cr">
     <title>Música y Prédicas</title>
   </programme>
@@ -78,7 +33,52 @@
   <programme start="20260818080000 -0600" stop="20260819080000 -0600" channel="SanJoseTV.cr">
     <title>Radio Revista Vida y Esperanza</title>
   </programme>
-  <programme start="20260819080000 -0600" stop="20260819090000 -0600" channel="SanJoseTV.cr">
+  <programme start="20260819080000 -0600" stop="20260820000000 -0600" channel="SanJoseTV.cr">
     <title>Radio Revista Vida y Esperanza</title>
+  </programme>
+  <programme start="20260820000000 -0600" stop="20260820040000 -0600" channel="SanJoseTV.cr">
+    <title>Música y Prédicas</title>
+  </programme>
+  <programme start="20260820040000 -0600" stop="20260820050000 -0600" channel="SanJoseTV.cr">
+    <title>Escuela Para Todos / Música</title>
+  </programme>
+  <programme start="20260820050000 -0600" stop="20260820060000 -0600" channel="SanJoseTV.cr">
+    <title>El Club de los Madrugones</title>
+  </programme>
+  <programme start="20260820060000 -0600" stop="20260820080000 -0600" channel="SanJoseTV.cr">
+    <title>Santo Rosario y Santa Misa</title>
+  </programme>
+  <programme start="20260820080000 -0600" stop="20260820103000 -0600" channel="SanJoseTV.cr">
+    <title>Radio Revista Vida y Esperanza</title>
+  </programme>
+  <programme start="20260820103000 -0600" stop="20260820113000 -0600" channel="SanJoseTV.cr">
+    <title>Soplo de Vida / Formación</title>
+  </programme>
+  <programme start="20260820103000 -0600" stop="20260820120000 -0600" channel="SanJoseTV.cr">
+    <title>Donde el maestro</title>
+  </programme>
+  <programme start="20260820120000 -0600" stop="20260820140000 -0600" channel="SanJoseTV.cr">
+    <title>Ángelus y Programas del Mediodía</title>
+  </programme>
+  <programme start="20260820140000 -0600" stop="20260820150000 -0600" channel="SanJoseTV.cr">
+    <title>Impacto 93.1 / Aló Artur</title>
+  </programme>
+  <programme start="20260820150000 -0600" stop="20260820160000 -0600" channel="SanJoseTV.cr">
+    <title>Hora Santa y Divina Misericordia</title>
+  </programme>
+  <programme start="20260820160000 -0600" stop="20260820173000 -0600" channel="SanJoseTV.cr">
+    <title>Caminando en Familia y Especiales</title>
+  </programme>
+  <programme start="20260820173000 -0600" stop="20260820193000 -0600" channel="SanJoseTV.cr">
+    <title>Santo Rosario y Santa Misa</title>
+  </programme>
+  <programme start="20260820193000 -0600" stop="20260820210000 -0600" channel="SanJoseTV.cr">
+    <title>Franja Pastoral y Familiar</title>
+  </programme>
+  <programme start="20260820210000 -0600" stop="20260820223000 -0600" channel="SanJoseTV.cr">
+    <title>Mi Descanso Eres Tú</title>
+  </programme>
+  <programme start="20260820223000 -0600" stop="20260820233000 -0600" channel="SanJoseTV.cr">
+    <title>Santo Trisagio y Música</title>
   </programme>
 </tv>
