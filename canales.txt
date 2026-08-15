@@ -1,6 +1,6 @@
 4 de Costa Rica,Canal4.cr,-1
 6 de Costa Rica,Canal6.cr,-1
-7 de Costa Rica Teletica,7_Teletica.cr
+7 de Costa Rica Teletica,7_Teletica.cr,-1
 Multimedios Costa Rica,Canal8.cr,-1
 11 de Costa Rica,Canal11.cr,-1
 13 de Costa Rica,Canal13.cr,-1
@@ -17,26 +17,27 @@ Telefides.cr,Telefides.cr
 SanJoseTV.cr,SanJoseTV.cr
 Canal1.cr,Canal1.cr
 0535,VMLatino.cr
+Norte Informativo TV,Norte-Informativo.cr
 7 de Antena Latina,Antena7.do
 Azteca Guatemala,AztecaGuatemala.gt
 2 de El Salvador,Canal2.sv
 2 de Nicaragua Televicentro,Canal2Televicentro.ni
-3 de Guatemala,Canal3.gt
-4 de El Salvador,Canal4.sv
+3 de Guatemala,Canal3.gt,-1
+4 de El Salvador,Canal4.sv,-1
 5 El Líder,Canal5.hn
-6 de El Salvador,Canal6.sv
+6 de El Salvador,Canal6.sv,-1
 6 Nica,Canal6.ni
-7 de Guatemala,Canal7-Televisiete.gt
+7 de Guatemala,Canal7-Televisiete.gt,-1
 Teleonce,Canal11-Teleonce.gt
 C11.Hon,Honduras,Canal11.hn
-12 de El Salvador,Canal12.sv
+12 de El Salvador,Canal12.sv,-1
 Trecevision,Guatemala,Canal13.gt
 13 Nica,Canal13.ni
 21 de El Salvador Megavision,Canal21.sv
 Antigua Guatemala,CanalAntigua.gt
 guatevision,Guatevision.gt
 15 Digital Quince Telemicro República Dominicana,Canal15.do
-2 de República Dominicana Teleantillas,TeleAntillas.dr
+2 de República Dominicana Teleantillas,TeleAntillas.dr,-1
 Teleceiba.hn,Teleceiba
 VTV.hon,VTV.hn
 RPC Pa,RPC
@@ -128,12 +129,12 @@ AYM Sports,AYMSports.mx
 735c2b7253c551ae9f07b07ea5278b75,Canela.TVDeportes
 CDN Deportes,CDNDeportes
 CLAROSPORTS,ClaroSports
-ClaroSports2,ClaroSports2
+0420,ClaroSports2
 Combate,CombaTV
-El Canal Del Futbol.ec,ECDF
+0443,ECDF
 DAZN 1,DAZN 1
-DrcTVSpEc,DIRECTVSports.pe
-DIRECTV DEPORTES + HD,DIRECTVSportsPlus.pe
+0431,DIRECTVSports.pe
+0433,DIRECTVSportsPlus.pe
 ESPN Sur,ESPN.ar,-1
 4411,ESPN.ni
 ESPN 2 Sur,ESPN2.ar,-1
@@ -343,7 +344,7 @@ adn40,ADN40
 BBC Series,BBC-Series
 0202,CNN.cl
 CNN en Español,CNNespanol.us
-Canal.CNN.Internacional.sv,CNNInternacional.cr
+0215,CNNInternacional.cr
 euronews,Euronews
 ForoTV,FOROtv.mx
 Fox News,FoxNews.ni
@@ -516,3 +517,5 @@ FV572421,Cine-Oro
 FV250417,Cine-REtro
 FV000141,Peq-Gigantes
 XU321536,Universal-Action
+0159,Puranoticia.pu
+0644,Novelisima.pu
