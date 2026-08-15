@@ -1,6 +1,6 @@
 4 de Costa Rica,Canal4.cr,-1
 6 de Costa Rica,Canal6.cr,-1
-Teletica,7_Teletica.cr
+7 de Costa Rica Teletica,7_Teletica.cr
 Multimedios Costa Rica,Canal8.cr,-1
 11 de Costa Rica,Canal11.cr,-1
 13 de Costa Rica,Canal13.cr,-1
@@ -75,9 +75,9 @@ Great.American.Family.HD.us2,GreatAmericanCountry.us
 Hallmark.Channel.HD.us2,HallmarkChannel.us
 Hallmark.Family.us2,HallmarkFamily.us
 Hallmark.Mystery.HD.us2,HallmarkMoviesMysteries.us
-Lifetime Panregional,Lifetime.ni
+Lifetime Panregional,Lifetime.ni,-1
 Lifetime.Mx,Lifetime.mx
-MC.Mx,MC
+0839,MC
 Multipr,Multipremier
 MyTime Movie Network (Rakuten TV),MyTimeMovieNetwork.es
 ES2800001G7,PlanetadeCine
@@ -135,7 +135,7 @@ DAZN 1,DAZN 1
 DrcTVSpEc,DIRECTVSports.pe
 DIRECTV DEPORTES + HD,DIRECTVSportsPlus.pe
 ESPN Sur,ESPN.ar,-1
-ESPN.Cent,ESPN.ni
+4411,ESPN.ni
 ESPN 2 Sur,ESPN2.ar,-1
 ESPN 2 Norte,ESPN2.ni,-1
 ESPN 3 Sur,ESPN3.ar,-1
@@ -368,20 +368,24 @@ ab6cd6569bf6557a8c5d9798cfce202b,ViX-Novelasdeoro
 396f57d10b5d5ec98648f810dcbe1f11,ViX-Novelasderomance
 0861,AVI-Rewind
 0870,A3Cine
+I300.10191.schedulesdirect.org,CRAVE_1
+I301.12222.schedulesdirect.org,CRAVE_2
+I302.12223.schedulesdirect.org,CRAVE_3
+I303.21351.schedulesdirect.org,CRAVE_4
 Cinemax.HD.us2,CineMAX.us
 ActionMAX.HD.us2,CinemaxAction.us
 5.StarMAX.HD.East.us2,CinemaxClassics.us
 MoreMax.HD.us2,CinemaxHits
 acf637e8292736265712e3be566c0e5a,CinepolisChannel
 400000069,ClassicCinema
-Golden Panregional,Golden.ni
+Golden Panregional,Golden.ni,-1
 Golden Edge,GoldenEdge.mx
 Golden Plus,GoldenPlus.mx
 Golden Premier,GoldenPremier.mx
 Golden Premier 2,GoldenPremier2.mx
 HBO Chile,HBO.cl
 HBOHD.Sur,HBO.co
-HBO,HBO.ni
+HBO,HBO.ni,-1
 HBO.East.us2,HBO.us
 HBO 2,BO2Latinoamerica.ni
 HBO.Comedy.HD.us2,HBOComedy.us
