@@ -1,3 +1,2 @@
 # Fuente: https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/main/playlists/tubi_epg.xml
-555111,FOX LOCAL Phoenix,https://canvas-lb.tubitv.com/opts/TWKr26m0q-5pKw==/f1c7b2b6-a6fc-4170-b184-98eb8d595748/CHgQeDoFMS4xLjlAAQ==
-715951,Ghosts are Real,https://canvas-lb.tubitv.com/opts/RkmPNUN41gLzWg==/f0784641-0d22-4eb3-88a2-f2854aa235f9/CHgQeDoFMS4xLjlAAQ==
+682634,ION,https://canvas-lb.tubitv.com/opts/LFLNras1Iw825A==/d7bf80e8-e8bc-4883-9c2b-551d1d7ab80c/CHgQeDoFMS4xLjlAAQ==

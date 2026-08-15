@@ -1,27 +1,27 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 plex.tv.CW.Forever.plex,CW Forever,https://provider-static.plex.tv/epg/cms/production/0346b527-b08c-46e2-8266-e2ddf5e29a2f/CW_tiles_CW_Forever_-_2x3_copyrdx.jpg
-plex.tv.Stories.by.AMC.plex,Stories by AMC,https://metadata-static.plex.tv/e/gracenote/edd85b155a4f8e5ba2f08c73d87052a7.jpg
+plex.tv.Stories.by.AMC.plex,Stories by AMC,https://metadata-static.plex.tv/6/gracenote/6708245222d060544ead3a6f03a4a130.jpg
 plex.tv.Miramax.Movie.Channel.plex,Miramax Movie Channel,https://metadata-static.plex.tv/5/gracenote/577f7ed4db4bef9e1c4c416c18bf4083.jpg
-plex.tv.ION.plex,ION,https://metadata-static.plex.tv/0/gracenote/0f17a0fdf24e37bedbe367534aaaeb78.jpg
+plex.tv.ION.plex,ION,https://metadata-static.plex.tv/9/gracenote/9a60d288f08caece00ad74d76f1b1422.jpg
 plex.tv.BET.x.Tyler.Perry.Drama.plex,BET x Tyler Perry Drama,https://image.tmdb.org/t/p/original/9UtwdSXDkDMvqAdMJsbB8JLlBEH.jpg
-plex.tv.Hallmark.Movies.&amp;.More.plex,Hallmark Movies &amp; More,https://metadata-static.plex.tv/5/gracenote/5c288e49a37f012bfbfbcfbe75cfe6fd.jpg
-plex.tv.NFL.Channel.plex,NFL Channel,https://metadata-static.plex.tv/3/gracenote/3e780ef62d5b3474a4ad489aa1121261.jpg
+plex.tv.Hallmark.Movies.&amp;.More.plex,Hallmark Movies &amp; More,https://metadata-static.plex.tv/2/gracenote/2792c2ce00f7f2d8378e9481345b8ffe.jpg
+plex.tv.NFL.Channel.plex,NFL Channel,https://metadata-static.plex.tv/9/gracenote/987ba23df9ec2953d989dfbfec45ebbc.jpg
 plex.tv.Ion.Mystery.plex,Ion Mystery,https://metadata-static.plex.tv/c/gracenote/ceb47afc84012ed503dd90bc57058a11.jpg
 plex.tv.The.Walking.Dead.Universe.plex,The Walking Dead Universe,https://metadata-static.plex.tv/b/gracenote/b6144aa3e6e9b4ae3b9b32cd856ddfce.jpg
-plex.tv.National.Lampoon.plex,National Lampoon,https://metadata-static.plex.tv/7/gracenote/784fae3bf79ee43ed6cf6a4e39d3654d.jpg
+plex.tv.National.Lampoon.plex,National Lampoon,https://provider-static.plex.tv/epg/cms/production/bed0fc77-a9ea-4283-a55d-28b195a5c432/NATIONAL_LAMPOON_VERTICAL_DEFAULT_ART_-_Gabe_Evans.jpg
 plex.tv.The.Wicked.Tuna.Channel.plex,The Wicked Tuna Channel,https://db6iftd8li11q.cloudfront.net/WickedTuna_portrait.jpg
 plex.tv.The.Conners.plex,The Conners,https://image.tmdb.org/t/p/original/xUXN3E67qVyTiftGptfhcmfDasW.jpg
 plex.tv.CW.Gold.plex,CW Gold,https://provider-static.plex.tv/epg/cms/production/a5fe1a13-1633-4ffc-8e91-8e9959c575f3/CW_tiles_CW_Gold_2x3rdx.jpg
 plex.tv.BET.x.Tyler.Perry.Comedy.plex,BET x Tyler Perry Comedy,https://image.tmdb.org/t/p/original/9Zqoe4IqNipLzM1WtkJDQ41VSMk.jpg
-plex.tv.GET.Comedy.plex,GET Comedy,https://image.tmdb.org/t/p/original/ujIGP3e3V6kDQHRhjNYtUE3fHJi.jpg
-plex.tv.Crunchyroll.plex,Crunchyroll,https://image.tmdb.org/t/p/original/9TGNcvMm91QXmnnCCYYqnYK0bK7.jpg
+plex.tv.GET.Comedy.plex,GET Comedy,https://image.tmdb.org/t/p/original/mvhhpi0Ht09vGU8QDNqyBLjIqkq.jpg
+plex.tv.Crunchyroll.plex,Crunchyroll,https://image.tmdb.org/t/p/original/kB9tdE00Z5zWIJQux1jiYvRyPIC.jpg
 plex.tv.50.Cent.Action.plex,50 Cent Action,https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/3370064_portrait.jpg
 plex.tv.Teen.Wolf.by.MGM.plex,Teen Wolf by MGM,https://image.tmdb.org/t/p/original/8Ij1O2nU8exLgwPXU8Eo6PZdCDC.jpg
-plex.tv.ION.Plus.plex,ION Plus,https://metadata-static.plex.tv/b/gracenote/b461df2f4a3b6fc795caa2c0c82173ba.jpg
+plex.tv.ION.Plus.plex,ION Plus,https://metadata-static.plex.tv/4/gracenote/4f6cabbb59dd109d439e0051eebca7bb.jpg
 plex.tv.Acorn.TV.Mysteries.plex,Acorn TV Mysteries,https://metadata-static.plex.tv/a/gracenote/a46f0c3f1ac0547e0bd0119486796497.jpg
 plex.tv.SNL.Vault.plex,SNL Vault,https://metadata-static.plex.tv/4/gracenote/446dff2c6bded6197d753e2e4f2d13f2.jpg
 plex.tv.Anger.Management.plex,Anger Management,https://image.tmdb.org/t/p/original/ekItnn6W73RN9muvLTbeRW8LHlo.jpg
-plex.tv.Modern.Marvels.by.History.plex,Modern Marvels by History,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3567-5615/7306031-2-3-poster_v1.jpg
+plex.tv.Modern.Marvels.by.History.plex,Modern Marvels by History,https://image.tmdb.org/t/p/original/uRMi6q4mazNTZ2HKdiY6RP5noDW.jpg
 plex.tv.Ghost.Hunters.Channel.plex,Ghost Hunters Channel,https://image.tmdb.org/t/p/original/46JpddetX8PnNUQUpYaAd9mnlmu.jpg
 plex.tv.BritBox.Mysteries.plex,BritBox Mysteries,https://provider-static.plex.tv/epg/cms/production/2b4ddac1-396f-4597-9cc3-f2f439af0f5a/BritBox_MysteryMonth_FallbackPoster_Caitlin_Schiffer.jpg
 plex.tv.Dateline.plex,Dateline,https://metadata-static.plex.tv/9/gracenote/9d8afa2f4ad1e131fe022f1260171f3b.jpg
@@ -36,7 +36,7 @@ plex.tv.The.Outer.Limits.plex,The Outer Limits,https://image.tmdb.org/t/p/origin
 plex.tv.BBC.Sci-Fi.plex,BBC Sci-Fi,https://image.tmdb.org/t/p/original/5x1UoZXDkrqepz7Ww77HPhmNwT0.jpg
 plex.tv.The.Librarians.plex,The Librarians,https://metadata-static.plex.tv/1/gracenote/129bd43e4de999de348010c3cd924a91.jpg
 plex.tv.Z.Nation.plex,Z Nation,https://image.tmdb.org/t/p/original/gXfeDMkEcHoYBvtkbU11g3F81b.jpg
-plex.tv.Scares.by.Shudder.plex,Scares by Shudder,https://metadata-static.plex.tv/0/gracenote/067862d10b39b4666bf11f81ab617bc5.jpg
+plex.tv.Scares.by.Shudder.plex,Scares by Shudder,https://metadata-static.plex.tv/7/gracenote/792a4f7fb4738bbc512646bb866c6e8c.jpg
 plex.tv.Weeds.&amp;.Nurse.Jackie.plex,Weeds &amp; Nurse Jackie,https://metadata-static.plex.tv/7/gracenote/7106500cfe061d390a25efa21dc8561d.jpg
 plex.tv.Nikita.plex,Nikita,https://image.tmdb.org/t/p/original/pvm8hc0JzbDOcH85bPmlqmMJDvT.jpg
 plex.tv.Nash.Bridges.plex,Nash Bridges,https://image.tmdb.org/t/p/original/iCgIAqoR4rB3gNIhZBKTB3zlMUm.jpg
@@ -48,42 +48,42 @@ plex.tv.Murdoch.Mysteries.plex,Murdoch Mysteries,https://metadata-static.plex.tv
 plex.tv.FilmRise.British.TV.plex,FilmRise British TV,https://image.tmdb.org/t/p/original/zmd4ZpdXWnjKVrenqvYyYstOkwK.jpg
 plex.tv.Generation.Drama.plex,Generation Drama,https://metadata-static.plex.tv/7/plex/70e53b01-497a-4dfd-bcf9-5efe87f97a51.jpg
 plex.tv.Nip/Tuck.plex,Nip/Tuck,https://image.tmdb.org/t/p/original/v5uEYpNbjGmJC59xqvmPW58aSTl.jpg
-plex.tv.HerSphere.by.Lionsgate.plex,HerSphere by Lionsgate,https://image.tmdb.org/t/p/original/3aD3PaSeF8eHJFLliLlWYw4EcPt.jpg
+plex.tv.HerSphere.by.Lionsgate.plex,HerSphere by Lionsgate,https://metadata-static.plex.tv/1/gracenote/194e9ac8cc3cf8b2c3f65be0d753cc57.jpg
 plex.tv.Nashville.plex,Nashville,https://metadata-static.plex.tv/a/gracenote/a0ce2aec520b88ff30a7a052fb320c18.jpg
 plex.tv.Electric.Now.plex,Electric Now,https://metadata-static.plex.tv/1/gracenote/129bd43e4de999de348010c3cd924a91.jpg
 plex.tv.Bravo.Vault.plex,Bravo Vault,https://metadata-static.plex.tv/6/gracenote/6a17cfcc7bb1ef575a50a8395ca7555a.jpg
-plex.tv.MOVIESPHERE.plex,MOVIESPHERE,https://metadata-static.plex.tv/b/gracenote/b3bbf83aa027c86726ac73a209053b9f.jpg
-plex.tv.Ebony.TV.by.Lionsgate.plex,Ebony TV by Lionsgate,https://image.tmdb.org/t/p/original/pDhGyrMlgrM5GKtPaJINP3Xg1kr.jpg
+plex.tv.MOVIESPHERE.plex,MOVIESPHERE,https://metadata-static.plex.tv/a/gracenote/aff0f35a3fa2f26aea75f20e8a8cbd56.jpg
+plex.tv.Ebony.TV.by.Lionsgate.plex,Ebony TV by Lionsgate,https://db6iftd8li11q.cloudfront.net/1620317_portrait.jpg
 plex.tv.Lifetime.Movie.Favorites.plex,Lifetime Movie Favorites,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/4522-6570/9261127-2-3-poster_v1.jpg
 plex.tv.America’s.Funniest.Home.Videos.plex,America’s Funniest Home Videos,https://images.frequency.com/freq-img/c5273c09-7837-4561-931e-6b19c36f303d/AFHVPortrait2x3png.png
 plex.tv.Laff.More.plex,Laff More,https://metadata-static.plex.tv/7/gracenote/7097df4c7cecd89f76a789955f42a78a.jpg
-plex.tv.BBC.Comedy.plex,BBC Comedy,https://image.tmdb.org/t/p/original/2TqOoiB3MGW2rdzr7QdxgEEfpVK.jpg
+plex.tv.BBC.Comedy.plex,BBC Comedy,https://image.tmdb.org/t/p/original/8lA3KFNBwS6khs9MIYZ3DyTBytG.jpg
 plex.tv.Portlandia.plex,Portlandia,https://image.tmdb.org/t/p/original/dHdEbTqSXOfTZGkkiOmQdQJxY2e.jpg
 plex.tv.Kim`s.Convenience.plex,Kim`s Convenience,https://image.tmdb.org/t/p/original/82Vue6MPuYZzlpggR65cvWdBdy.jpg
 plex.tv.Are.We.There.Yet?.plex,Are We There Yet?,https://image.tmdb.org/t/p/original/pDhGyrMlgrM5GKtPaJINP3Xg1kr.jpg
 plex.tv.Designated.Survivor.plex,Designated Survivor,https://image.tmdb.org/t/p/original/5R125JAIh1N38pzHp2dRsBpOVNY.jpg
-plex.tv.Crime.ThrillHer.plex,Crime ThrillHer,https://image.tmdb.org/t/p/original/kuCNyr4XVQ4MZWiNjVS6DypE988.jpg
+plex.tv.Crime.ThrillHer.plex,Crime ThrillHer,https://metadata-static.plex.tv/9/gracenote/96dff2dd0c28fac6d18c43d79e44e954.jpg
 plex.tv.Silent.Witness-New.Tricks.plex,Silent Witness-New Tricks,https://metadata-static.plex.tv/3/gracenote/391fd958a2482391256331f0288fb81d.jpg
 plex.tv.The.Doctor.Blake.Mysteries.plex,The Doctor Blake Mysteries,https://image.tmdb.org/t/p/original/nQ9uCfDu12jLxMU3ea618LMvMyX.jpg
 plex.tv.TV.One.Crime.&amp;.Justice.plex,TV One Crime &amp; Justice,https://image.tmdb.org/t/p/original/2n9YUEkAUbkrPVXmsqg2PlmheoS.jpg
 plex.tv.Lawless.plex,Lawless,https://provider-static.plex.tv/epg/cms/production/e2d6f05d-504f-414f-8f7e-036fbaca4db4/Lawless_Plex_Background_V_2000x3000.jpg
 plex.tv.The.Graham.Norton.Show.plex,The Graham Norton Show,https://d1197lo2h5ac0i.cloudfront.net/AMZ-TGNS-KA_2000x3000.jpg
-plex.tv.Western.Bound.plex,Western Bound,https://metadata-static.plex.tv/b/gracenote/b151ca7f9af3d348c32dd88121fee7ff.jpg
+plex.tv.Western.Bound.plex,Western Bound,https://metadata-static.plex.tv/a/gracenote/ac57b7f6a664dd5901d731047c986d03.jpg
 plex.tv.Circle.Country.plex,Circle Country,https://provider-static.plex.tv/epg/cms/production/3e755989-5c6c-48a0-9d6f-8044eac878c9/CircleVertical_Channel_Art__1_.jpg
-plex.tv.MGM.Presents:.Action.plex,MGM Presents: Action,https://images.frequency.com/video/originals/7103161157353390611/Texted/rectangle/1qcnpus0unahu1flhe76zu0wvm.jpg
-plex.tv.Plex24.plex,Plex24,https://metadata-static.plex.tv/1/gracenote/1be62e6c0a3b6e9b8bd8e5ac9a9de6de.jpg
-plex.tv.MGM.Presents:.Westerns.plex,MGM Presents: Westerns,https://images.frequency.com/video/originals/7100706297692707463/Texted/rectangle/w5lew3raw8341oaojxw44uw1v.jpg
-plex.tv.CINEVAULT:.Westerns.plex,CINEVAULT: Westerns,https://metadata-static.plex.tv/2/gracenote/2e76e80638e9c10bb989b35c8bf2c6d1.jpg
+plex.tv.MGM.Presents:.Action.plex,MGM Presents: Action,https://images.frequency.com/video/originals/7102619768800547550/Texted/rectangle/y2m183xrbt961w4zr9zxrbf23.jpg
+plex.tv.Plex24.plex,Plex24,https://image.tmdb.org/t/p/original/wqwTmWkfuSp1AvwKf7wKg3NpuZA.jpg
+plex.tv.MGM.Presents:.Westerns.plex,MGM Presents: Westerns,https://images.frequency.com/video/originals/7128533850034853328/Texted/rectangle/43yylocz9mce10rfg5uj2yvht.jpg
+plex.tv.CINEVAULT:.Westerns.plex,CINEVAULT: Westerns,https://metadata-static.plex.tv/2/gracenote/2b4d26cb77311b0007f5b1521797c656.jpg
 plex.tv.On.Patrol:.Live.plex,On Patrol: Live,https://image.tmdb.org/t/p/original/2ravWNzlxManKzM7Vj6TFL5rVlW.jpg
 plex.tv.A&amp;E.Crime.360.plex,A&amp;E Crime 360,https://image.tmdb.org/t/p/original/tgYUPk4zGVnBQHbeqSvNOieWwm2.jpg
 plex.tv.Forensic.Files.plex,Forensic Files,https://image.tmdb.org/t/p/original/k7zrsnodHEe3UUdwHG207rjdbrB.jpg
-plex.tv.At.the.Movies.plex,At the Movies,https://d3r7ib22akc064.cloudfront.net/232455_000_SE_TXTD_2000x3000_en.jpg
-plex.tv.Cold.Case.Files.by.A&amp;E.plex,Cold Case Files by A&amp;E,https://provider-static.plex.tv/epg/cms/production/2fca100f-592c-4961-bae5-46b9d70fb12d/Cold_Case_Files_2000x3000_fallback_poster.jpg
+plex.tv.At.the.Movies.plex,At the Movies,https://provider-static.plex.tv/epg/cms/production/cf5cc355-05ae-4bad-a8f3-ff933fede051/2x3.jpg
+plex.tv.Cold.Case.Files.by.A&amp;E.plex,Cold Case Files by A&amp;E,https://image.tmdb.org/t/p/original/ehmyF13Wre9bLcOR11BrmNakfc8.jpg
 plex.tv.Unsolved.Mysteries.plex,Unsolved Mysteries,https://image.tmdb.org/t/p/original/1bOXbWqNsRU2ykPiE586I18coLf.jpg
 plex.tv.FilmRise.Drama.plex,FilmRise Drama,https://image.tmdb.org/t/p/original/dgpUNSkIWdU1i9vjc7MQPfGBFLo.jpg
-plex.tv.MST3K.plex,MST3K,https://metadata-static.plex.tv/0/gracenote/04227cb293dcbef3aeed79100b99cd79.jpg
+plex.tv.MST3K.plex,MST3K,https://metadata-static.plex.tv/6/gracenote/6338893b4db1906bc3e09a23e1d8d186.jpg
 plex.tv.ALLBLK.Gems.plex,ALLBLK Gems,https://metadata-static.plex.tv/5/gracenote/551e9435ed7ccb87e67633f9e1a7ceb3.jpg
-plex.tv.Game.Show.Central.plex,Game Show Central,https://image.tmdb.org/t/p/original/bELRHHSIauXcbJMo2rwU45Kb9OS.jpg
+plex.tv.Game.Show.Central.plex,Game Show Central,https://provider-static.plex.tv/epg/cms/production/9c02cb10-3160-4331-a88b-d06d5cced2cd/gsn_gameshowchannnel_1__1_VERT.jpg
 plex.tv.The.Price.is.Right.plex,The Price is Right,https://metadata-static.plex.tv/7/plex/72560f45-b2c9-45e1-8e95-004aeb116167.jpg
 plex.tv.Primetime.Soaps.plex,Primetime Soaps,https://metadata-static.plex.tv/b/plex/b9c87dfe-6e44-4f54-accf-f54a32da7b57.jpg
 plex.tv.REELZ.Famous.&amp;.Infamous.plex,REELZ Famous &amp; Infamous,https://metadata-static.plex.tv/0/gracenote/000ff9a6e5a7e476cf999d85c387b78e.jpg
@@ -92,33 +92,33 @@ plex.tv.Nosey.plex,Nosey,https://d3icg9l6jqq36d.cloudfront.net/JerrySpringer_Ban
 plex.tv.Ancient.Aliens.plex,Ancient Aliens,https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg
 plex.tv.MGM.Presents.plex,MGM Presents,
 plex.tv.CINEVAULT.plex,CINEVAULT,
-plex.tv.Christmas.Plus.plex,Christmas Plus,https://provider-static.plex.tv/epg/cms/production/def84dd4-eff6-4984-b716-57f715c1b169/Christmas_PLus_2000x3000_FM__LOGO_-_James_Patrick.jpg
+plex.tv.Christmas.Plus.plex,Christmas Plus,https://d2v621oknsoujb.cloudfront.net/Images/S3/FMP109702_2x3.png
 plex.tv.BBC.Earth.plex,BBC Earth,https://provider-static.plex.tv/epg/cms/production/2156a333-4930-4228-8928-02fddde3f587/PLEX_BBCEarth_2000x3000_FallbackPoster_Caitlin_Schiffer.jpg
 plex.tv.Beyond.Belief.plex,Beyond Belief,https://image.tmdb.org/t/p/original/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg
 plex.tv.A.Touch.of.Frost.plex,A Touch of Frost,https://image.tmdb.org/t/p/original/dgpUNSkIWdU1i9vjc7MQPfGBFLo.jpg
 plex.tv.Farscape.plex,Farscape,https://metadata-static.plex.tv/4/gracenote/488c50603d0c31c6aceff821059d4721.jpg
 plex.tv.JAIL.plex,JAIL,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/6967-9015/14269066-coverPoster_v1.jpg
 plex.tv.Oxygen.True.Crime.Archives.plex,Oxygen True Crime Archives,https://metadata-static.plex.tv/b/gracenote/b5f0ff7afa09d47bf6d441530ff23d92.jpg
-plex.tv.Living.With.Evil.plex,Living With Evil,https://image.tmdb.org/t/p/original/v2pF5asLk82EcrhxDYqrllxgYL7.jpg
-plex.tv.AMC.Thrillers.plex,AMC Thrillers,https://metadata-static.plex.tv/e/gracenote/eafa3d3727b52a70497112f5b34c4358.jpg
-plex.tv.El.Rey.Rebel.plex,El Rey Rebel,https://metadata-static.plex.tv/a/gracenote/a2ad509cecf1bea36dafa34aaad9ca81.jpg
+plex.tv.Living.With.Evil.plex,Living With Evil,https://metadata-static.plex.tv/a/gracenote/a92d6ebc56e05da0f0b612c2d57ad687.jpg
+plex.tv.AMC.Thrillers.plex,AMC Thrillers,https://metadata-static.plex.tv/e/gracenote/e8236b509a0a76b3aad1d5f988bdb30e.jpg
+plex.tv.El.Rey.Rebel.plex,El Rey Rebel,https://metadata-static.plex.tv/e/gracenote/e8074cd5422504ec664718b067e9d5a9.jpg
 plex.tv.Prime.Suspect.plex,Prime Suspect,https://image.tmdb.org/t/p/original/vhlbnMgz9hBouXWmxBS2RjFC03S.jpg
 plex.tv.Mysterious.Worlds.plex,Mysterious Worlds,https://metadata-static.plex.tv/e/gracenote/e9fc5c3509dd03736c4e6b4e8029d553.jpg
 plex.tv.Mythical.24/7.plex,Mythical 24/7,https://image.tmdb.org/t/p/original/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg
-plex.tv.Fluffy.TV.plex,Fluffy TV,https://metadata-static.plex.tv/a/gracenote/aeee3fa421ca9226ce3378d4c79fad82.jpg
+plex.tv.Fluffy.TV.plex,Fluffy TV,https://metadata-static.plex.tv/d/gracenote/defc18fc11d98313da3872ebca23f018.jpg
 plex.tv.The.Kids.in.the.Hall.plex,The Kids in the Hall,https://image.tmdb.org/t/p/original/tUQE0ZkE1R7FuibdOzDfG6PoYVM.jpg
 plex.tv.Women.Behind.Bars.plex,Women Behind Bars,https://image.tmdb.org/t/p/original/ksfhUfgBLYLhtReHzdt9wEPtFir.jpg
-plex.tv.Modern.Innovations.by.History.plex,Modern Innovations by History,https://image.tmdb.org/t/p/original/lnnUilLJ7T7EsEYJHbuCCCcW6Ez.jpg
+plex.tv.Modern.Innovations.by.History.plex,Modern Innovations by History,https://image.tmdb.org/t/p/original/uRMi6q4mazNTZ2HKdiY6RP5noDW.jpg
 plex.tv.Deal.Zone.Presented.By.History.plex,Deal Zone Presented By History,https://image.tmdb.org/t/p/original/3YxmQmoSbv9bXHYWIEDztstZguC.jpg
-plex.tv.Top.Gear.plex,Top Gear,https://provider-static.plex.tv/epg/cms/production/735ac12d-9a7d-4e5c-a9a6-8348cfff0d06/PLEX_TOP_GEAR_FallbackPoster_2000x3000.jpg
+plex.tv.Top.Gear.plex,Top Gear,https://image.tmdb.org/t/p/original/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg
 plex.tv.Love.After.Lockup.We.TV.plex,Love After Lockup We TV,https://metadata-static.plex.tv/3/gracenote/34cb7319aa64120cf7d642d7fd46ab31.jpg
 plex.tv.Survive.or.Die.plex,Survive or Die,https://image.tmdb.org/t/p/original/pvf6edYWlpsStyqfr8pExLdfn97.jpg
 plex.tv.Say.Yes.to.the.Dress.plex,Say Yes to the Dress,https://image.tmdb.org/t/p/original/dUlumwLvvQGtUgXOXGLhBgsxKnU.jpg
 plex.tv.E!.Keeping.Up.plex,E! Keeping Up,https://metadata-static.plex.tv/1/gracenote/10553b42fc4e3e03bbce19973006ed78.jpg
-plex.tv.PBS.Nature.plex,PBS Nature,https://metadata-static.plex.tv/1/gracenote/15f9d96f67e919f5842fea3acbd60764.jpg
-plex.tv.Ghosts.Are.Real.plex,Ghosts Are Real,https://metadata-static.plex.tv/2/gracenote/254cdb1d793202631dc71148f622342b.jpg
-plex.tv.Space.&amp;.Beyond.plex,Space &amp; Beyond,https://image.tmdb.org/t/p/original/ocBDfunxR5dA4MkqFP2eH3PL6IP.jpg
-plex.tv.BBC.Travel.plex,BBC Travel,https://image.tmdb.org/t/p/original/iPJ9Gxo6WLUV7EEPQgvRS2oa1CK.jpg
+plex.tv.PBS.Nature.plex,PBS Nature,https://metadata-static.plex.tv/8/gracenote/81e68050d971b48b69d2c5895c14530f.jpg
+plex.tv.Ghosts.Are.Real.plex,Ghosts Are Real,https://image.tmdb.org/t/p/original/cyMoRYUGfymWcMNUIPXDGT6GzkL.jpg
+plex.tv.Space.&amp;.Beyond.plex,Space &amp; Beyond,https://image.tmdb.org/t/p/original/81JWRRKiWhROXKp9b5XmArGP5Gg.jpg
+plex.tv.BBC.Travel.plex,BBC Travel,https://provider-static.plex.tv/epg/cms/production/7058f1c3-ee0a-4faa-b131-c82c8043ed6d/BBC_TRAVEL_PLEX_BRAND_CHANNEL_2000x3000_FallbackPoster_Caitlin_SchifferRDX.jpg
 plex.tv.Curiosity.NOW.plex,Curiosity NOW,https://metadata-static.plex.tv/5/gracenote/521ac5333e983e776023105caea34c7c.jpg
 plex.tv.Duck.Dynasty.by.A&amp;E.plex,Duck Dynasty by A&amp;E,https://provider-static.plex.tv/epg/cms/production/184e90ab-3401-4caf-af17-3a96795f24df/Duck_Dynasty_2000x3000.jpg
 plex.tv.MyTime.Movie.Network.plex,MyTime Movie Network,https://provider-static.plex.tv/epg/cms/production/1be8da4c-3ba8-48b6-98ea-e0272c6807ad/MT_PLEX_US_2000x3000_-_Sam_Abraham.jpg
@@ -133,223 +133,223 @@ plex.tv.True.History.plex,True History,https://provider-static.plex.tv/epg/cms/p
 plex.tv.I.Shouldn`t.Be.Alive.plex,I Shouldn`t Be Alive,https://d2yv6y0n3qsl5c.cloudfront.net/ISTBAEN/IShouldntBeAlive_2000x3000.jpg
 plex.tv.Bondi.Rescue.plex,Bondi Rescue,https://provider-static.plex.tv/epg/cms/production/e65b31d6-325a-4286-a48b-4c594a0d1e07/BR_Totem_BoxCoverPoster_-_Rowan_Williams.jpg
 plex.tv.All.Reality.We.TV.plex,All Reality We TV,https://metadata-static.plex.tv/8/gracenote/885707e7d48cd21339d9213d37a59d22.jpg
-plex.tv.Million.Dollar.Listing.Vault.plex,Million Dollar Listing Vault,https://metadata-static.plex.tv/7/gracenote/7f3eb5253a10070f961ae1b574d6cd0c.jpg
-plex.tv.CineLife.plex,CineLife,https://metadata-static.plex.tv/9/gracenote/9ad7e5473e7f142bf48ae9ccbb70e535.jpg
+plex.tv.Million.Dollar.Listing.Vault.plex,Million Dollar Listing Vault,https://metadata-static.plex.tv/1/gracenote/1fa0479eb45c823e4f0ac9a49f38adc7.jpg
+plex.tv.CineLife.plex,CineLife,https://d344fnzwi03rkc.cloudfront.net/MOV_the-right-kind-of-wrong_portrait.jpg
 plex.tv.Lifetime.Movies.Love.&amp;.Drama.plex,Lifetime Movies Love &amp; Drama,https://image.tmdb.org/t/p/original/15k6gkD80W74tK4zEPBcfRKzIjW.jpg
 plex.tv.Shout!.Movies.plex,Shout! Movies,https://provider-static.plex.tv/epg/cms/production/33204846-4641-40b4-8237-843455036ca5/SMovies_artwork_vertical_Plex_Q3_2025_-_Paige_Sherms.jpg
 plex.tv.Untold.Stories.of.the.ER.plex,Untold Stories of the ER,https://metadata-static.plex.tv/4/plex/4ed4b6e2-a792-4fff-92f0-40f67ec0cc54.jpg
-plex.tv.Love.&amp;.Marriage.plex,Love &amp; Marriage,https://image.tmdb.org/t/p/original/vJ49G5YaRRmPAB3BEXEVIShDxzx.jpg
+plex.tv.Love.&amp;.Marriage.plex,Love &amp; Marriage,https://image.tmdb.org/t/p/original/4JFToAqxQ7i77WoJz7wvxTOdlzV.jpg
 plex.tv.Unidentified.plex,Unidentified,https://image.tmdb.org/t/p/original/tnEAHDDL26Ecu3lyb8gAOj8Psru.jpg
 plex.tv.Startalk.TV.plex,Startalk TV,https://provider-static.plex.tv/epg/cms/production/a248885f-9814-4ad9-baef-afc61f7d73fd/NDT_StarTalkTV_Primary_Channel_Tile_2x3__2000x3000__-_Florent_ARNOULT.jpg
 plex.tv.MI-5.plex,MI-5,https://provider-static.plex.tv/epg/cms/production/3bf88eb2-bd09-495a-9d39-b12c3c0bf9d6/SpooksMI5_VerticalArt_2000x3000_-_Harry_Marshall.jpg
 plex.tv.History.Hit.plex,History Hit,https://provider-static.plex.tv/epg/cms/production/74de8fd7-8fe6-49a5-969f-4b03148b781a/Vertical_History_Hit.jpg
-plex.tv.Spark.TV.Light.&amp;.Love.plex,Spark TV Light &amp; Love,https://image.tmdb.org/t/p/original/ciTu9vOfkQA5javtUua6fv8lbhA.jpg
-plex.tv.The.Prof.G.Channel.plex,The Prof G Channel,https://images.frequency.com/video/originals/7476058858440817238/Texted/rectangle/1f5fz0qttksvzzkwvoo1qredz.jpg
+plex.tv.Spark.TV.Light.&amp;.Love.plex,Spark TV Light &amp; Love,https://metadata-static.plex.tv/9/plex/9b01db12-0d9b-4a41-8462-dc722316f32c.jpg
+plex.tv.The.Prof.G.Channel.plex,The Prof G Channel,https://images.frequency.com/freq-img/5a31fa02-b28e-4ba4-9767-b0a7a27b29da/PROFGProfGConversationsVerticaljpg.jpg
 plex.tv.Popular.Science.plex,Popular Science,https://provider-static.plex.tv/epg/cms/staging/05a124c7-266c-4fc3-9ed6-18f43949d3b7/Vertical_Art_-_Popular_Science.jpg
 plex.tv.Mayday:.Air.Disaster.plex,Mayday: Air Disaster,https://provider-static.plex.tv/epg/cms/production/a3f3799b-40d8-4d66-8fe3-99fcc27fc785/MaydayAirDisaster_Vert_2000x3000_-_Patrick_Lee.jpg
-plex.tv.Medical.Incredible.plex,Medical Incredible,https://metadata-static.plex.tv/4/7454739e90/9afe8b4812/43d1d9ecd3a1aed6ba2ef0c733a06c67.jpg
+plex.tv.Medical.Incredible.plex,Medical Incredible,https://image.tmdb.org/t/p/original/bXQQsaPx3wYdYeNEjkxgnG81HDC.jpg
 plex.tv.Highway.Thru.Hell.plex,Highway Thru Hell,https://provider-static.plex.tv/epg/cms/production/ff74003b-2e1d-4dd0-b541-297b4d053e8c/HighwayThruHell_VerticalArt_2000x3000_-_Harry_Marshall.jpg
 plex.tv.Bloodline.Detectives.Hosted.by.Nancy.Grace.plex,Bloodline Detectives Hosted by Nancy Grace,https://image.tmdb.org/t/p/original/6xUFKkjfFwKnsCrGH2zI8ZjKFWa.jpg
 plex.tv.Monsters.are.Real.plex,Monsters are Real,https://image.tmdb.org/t/p/original/5M196iUGm18UXGtSymYKArjMl9T.jpg
-plex.tv.Alien.Nation.by.DUST.plex,Alien Nation by DUST,https://image.tmdb.org/t/p/original/1JwtSAQpmKOZhVzFuozmMwmdzSp.jpg
+plex.tv.Alien.Nation.by.DUST.plex,Alien Nation by DUST,https://images.frequency.com/freq-img/b2c03546-583e-422b-b3e2-96bb3cc57adb/EvidenceOfTheUnexplainedPortrait1920x2880jpg.jpg
 plex.tv.Beyond.Paranormal.plex,Beyond Paranormal,https://provider-static.plex.tv/epg/cms/production/6aa4ea43-2c53-4993-87e0-f028ebef7351/Beyond_Paranormal_Bryan_Mcdaid.jpg
-plex.tv.Dove.plex,Dove,https://metadata-static.plex.tv/3/gracenote/38b555a2588df750a04a890826a11c02.jpg
+plex.tv.Dove.plex,Dove,https://metadata-static.plex.tv/0/gracenote/0596b4e10bc1022082d5ecbca62ea4a8.jpg
 plex.tv.Always.Funny.plex,Always Funny,https://provider-static.plex.tv/epg/cms/production/2365447f-a633-457c-a50d-0f6cff566c7a/AF_Vertical_Art_-_Jose_Rivera.jpg
 plex.tv.Slightly.Off.IFC.plex,Slightly Off IFC,https://metadata-static.plex.tv/3/gracenote/3ddd6afed75364f2615865dbc0d96471.jpg
-plex.tv.Military.Heroes.Presented.By.History.plex,Military Heroes Presented By History,https://image.tmdb.org/t/p/original/plR7HlENoLSx2Y55pCFbiBkUzPf.jpg
+plex.tv.Military.Heroes.Presented.By.History.plex,Military Heroes Presented By History,https://image.tmdb.org/t/p/original/u4l4CGzNoukLjXgvgnSladOc8Xq.jpg
 plex.tv.RCM.plex,RCM,https://provider-static.plex.tv/epg/cms/production/bd68bdbc-858f-4c2f-963c-eb043f948869/RCM_artwork_vertical_-_Angela_Chan.jpg
 plex.tv.History.&amp;.Warfare.plex,History &amp; Warfare,https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N25FISV0MILUJSE_2_3.jpg
 plex.tv.No.Reservations.plex,No Reservations,https://image.tmdb.org/t/p/original/97ZIHh3HfiiS0KNrScRRhxOVzPg.jpg
 plex.tv.How.To.plex,How To,https://image.tmdb.org/t/p/original/kH4NDOUagtj0J5hau95QGBcy4FQ.jpg
 plex.tv.PBS.Antiques.Roadshow.plex,PBS Antiques Roadshow,https://provider-static.plex.tv/epg/cms/production/4a9799b3-3b88-4aa9-b84f-34bef13bc7dd/ROADSHOW.jpg
-plex.tv.Bizarre.Foods.with.Andrew.Zimmern.plex,Bizarre Foods with Andrew Zimmern,https://metadata-static.plex.tv/8/gracenote/8ca6d4e57500c06c4f711958cce85858.jpg
+plex.tv.Bizarre.Foods.with.Andrew.Zimmern.plex,Bizarre Foods with Andrew Zimmern,https://metadata-static.plex.tv/3/gracenote/304152df2782529f53e143e81a69ad33.jpg
 plex.tv.Ice.Road.Truckers.plex,Ice Road Truckers,https://image.tmdb.org/t/p/original/oOx32HHvqmPAStnbM51TbjxcHKr.jpg
-plex.tv.IFC.Films.Picks.plex,IFC Films Picks,https://metadata-static.plex.tv/3/gracenote/3495ecc48d2e135754fcf25739c2bab9.jpg
-plex.tv.Maverick.Black.Cinema.plex,Maverick Black Cinema,https://metadata-static.plex.tv/f/gracenote/f5862403f55484283608f6daedbc850f.jpg
-plex.tv.CINEVAULT:.Classics.plex,CINEVAULT: Classics,https://metadata-static.plex.tv/0/gracenote/0e398ef63781654897709ec06cd5f9db.jpg
+plex.tv.IFC.Films.Picks.plex,IFC Films Picks,https://metadata-static.plex.tv/b/gracenote/bd06402df224d4a46f85e71b89b8be70.jpg
+plex.tv.Maverick.Black.Cinema.plex,Maverick Black Cinema,https://provider-static.plex.tv/epg/images/thumbnails/maverick_maverick_black_cinema_2.jpg
+plex.tv.CINEVAULT:.Classics.plex,CINEVAULT: Classics,https://metadata-static.plex.tv/4/gracenote/4278310a6dc0b9aee49871788b8cb15f.jpg
 plex.tv.Classic.Cinema.plex,Classic Cinema,https://d3r7ib22akc064.cloudfront.net/227547_000_SE_TXTD_360x540_en.jpg
-plex.tv.Get.Factual.plex,Get.Factual,https://img.static-ottera.com/prod/run/video/thumbnails/poster/2000x2858/thebalkansinflamesspecial_thumbnail_poster.jpg
-plex.tv.Combat.War.Channel.plex,Combat War Channel,https://metadata-static.plex.tv/d/gracenote/d0d96c75fdc897568da3d31990f7d9fc.jpg
+plex.tv.Get.Factual.plex,Get.Factual,https://img.static-ottera.com/prod/run/video/thumbnails/poster/2000x2858/crimeinpostwargermany_thumbnail_poster.jpg
+plex.tv.Combat.War.Channel.plex,Combat War Channel,https://metadata-static.plex.tv/1/gracenote/1420071cfdb0d402d49a76d384903cb4.jpg
 plex.tv.UFC.plex,UFC,https://provider-static.plex.tv/epg/cms/production/3c6fc5c3-904e-4c52-aa16-bb393824c22f/UFC_artwork_verticalRDX.jpg
-plex.tv.Tribeca.Channel.plex,Tribeca Channel,https://djusrwqlpwtix.cloudfront.net/FMP109747_2x3.png
-plex.tv.CW.Presents.WWE.NXT.plex,CW Presents WWE NXT,https://d31l2nn7dlh4li.cloudfront.net/amg00347/asset_artifacts/image/fetch_media/7a18115d54baff05/WXT-1949-December2nd2025-P886_NXT_series_portrait_poster_url_2000x3000.jpg
+plex.tv.Tribeca.Channel.plex,Tribeca Channel,https://djusrwqlpwtix.cloudfront.net/FMP2006M46_2x3.png
+plex.tv.CW.Presents.WWE.NXT.plex,CW Presents WWE NXT,https://d31l2nn7dlh4li.cloudfront.net/amg00347/asset_artifacts/image/fetch_media/e505d7e84e1278d7/WXT-2010-March10th2026-P902_NXT_FAST_Jan2026_EPG_channel-thumbnail-2x3.jpg
 plex.tv.DAZN.Ringside.plex,DAZN Ringside,https://provider-static.plex.tv/epg/cms/production/97d601d8-d371-4252-be59-2903be8d6df7/PLEX-Channel_Logos-Vertical_Default_Art-2000x3000.jpg
 plex.tv.HBO.Boxing.plex,HBO Boxing,https://provider-static.plex.tv/epg/cms/production/480a0264-4a2c-4aaa-887c-4ab017cbeebb/HBOBoxing_Artwork_Vertical.jpg
 plex.tv.NBC.Sports.NOW.plex,NBC Sports NOW,https://metadata-static.plex.tv/1/gracenote/10763ec4452b1008c4c0ae6e88d0f762.jpg
-plex.tv.FOX.Sports.plex,FOX Sports,http://tmsimg.com/assets/p32275417_b_v12_aa.jpg?w=1920&amp;h=2880
-plex.tv.TNA.Wrestling.Channel.plex,TNA Wrestling Channel,https://metadata-static.plex.tv/1/gracenote/1e9488c4c23078cfcb63a9bdc6ecb191.jpg
-plex.tv.Cosmic.Frontiers.plex,Cosmic Frontiers,https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PNDVDCX5Y9_2_3.jpg
-plex.tv.Paranormal.Files.plex,Paranormal Files,https://metadata-static.plex.tv/4/gracenote/44645daa698e6ad7b98fed05ca7d90fd.jpg
-plex.tv.F1.Channel.plex,F1 Channel,https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_002.png
+plex.tv.FOX.Sports.plex,FOX Sports,http://tmsimg.com/assets/p10817344_b_v12_aa.jpg?w=1920&amp;h=2880
+plex.tv.TNA.Wrestling.Channel.plex,TNA Wrestling Channel,https://metadata-static.plex.tv/3/gracenote/384288341138183742dda508f558d5aa.jpg
+plex.tv.Cosmic.Frontiers.plex,Cosmic Frontiers,https://provider-static.plex.tv/epg/cms/production/e2db7e14-bf14-44ea-be8a-b84b8c704770/Plex_CosmicFrontiers__VerticalArt.jpg
+plex.tv.Paranormal.Files.plex,Paranormal Files,https://metadata-static.plex.tv/d/gracenote/da01e37c89ca9a871804698d3f7ec4d5.jpg
+plex.tv.F1.Channel.plex,F1 Channel,https://d16j4exgbx78bu.cloudfront.net/FRLA1/F1_2000x3000_generic_004.png
 plex.tv.FIFA+.plex,FIFA+,https://provider-static.plex.tv/epg/cms/production/26fbd574-89cd-4963-9312-56699b395d87/1854-TCL--Channel-Poster--Vertical-_v2.jpg
-plex.tv.Scripps.Sports.Network.plex,Scripps Sports Network,https://metadata-static.plex.tv/a/gracenote/a72319423f7dc4d44cab5c093a0f0476.jpg
+plex.tv.Scripps.Sports.Network.plex,Scripps Sports Network,https://metadata-static.plex.tv/e/gracenote/e7f33165785dcaefae3a3676dde25937.jpg
 plex.tv.The.Jim.Rome.Show.plex,The Jim Rome Show,https://d37ntihvjf07l3.cloudfront.net/JIM_ROME_Program_2_3.jpg
-plex.tv.Fubo.Sports.Network.plex,Fubo Sports Network,https://metadata-static.plex.tv/2/gracenote/2ebc4870ab47f6af542590a105fded87.jpg
+plex.tv.Fubo.Sports.Network.plex,Fubo Sports Network,https://metadata-static.plex.tv/7/gracenote/770d06f23571c43649388104de60df0a.jpg
 plex.tv.Tennis.Channel.2.plex,Tennis Channel 2,https://provider-static.plex.tv/epg/cms/production/e68f0fa7-4f80-4b75-ba0f-7ff7b912e17f/TC2_Plex_2000X3000_Vertical_Art_.jpg
 plex.tv.The.World.Poker.Tour.plex,The World Poker Tour,https://d1wuwxu5hx5mtw.cloudfront.net/wopkt/WPT_Series_2000x3000.jpg
 plex.tv.Victory+.plex,Victory+,https://provider-static.plex.tv/epg/cms/production/3bb5bcbc-46d4-42fc-8636-8d1b03dc63a8/Victory_Plus_VERT.jpg
 plex.tv.This.Old.House.plex,This Old House,https://image.tmdb.org/t/p/original/uOK0gdsHxUsZjbLieAsbkNAAgwO.jpg
-plex.tv.Garden.with.Monty.Don.plex,Garden with Monty Don,https://provider-static.plex.tv/epg/cms/production/62b4bdc2-fbd2-4847-895d-e0fc0e6882a5/GWMD_PosterArtVERT.jpg
-plex.tv.Law.&amp;.Crime.plex,Law &amp; Crime,http://www.tmsimg.com/assets/p30688818_e_s2_aa.jpg
+plex.tv.Garden.with.Monty.Don.plex,Garden with Monty Don,https://provider-static.plex.tv/epg/cms/production/656f6bfb-c122-4e4f-ac62-f2d2f590f384/InsideOutside_VerticalArtwork.jpg
+plex.tv.Law.&amp;.Crime.plex,Law &amp; Crime,http://www.tmsimg.com/assets/p33630981_e_s2_aa.jpg
 plex.tv.The.FBI.Files.plex,The FBI Files,https://image.tmdb.org/t/p/original/xY7A8Gn4L9iyLDMv2ziOo8aXItW.jpg
 plex.tv.Dr..G:.Medical.Examiner.plex,Dr. G: Medical Examiner,https://image.tmdb.org/t/p/original/jVKiHZAY3A2uC80Z7CX5qdDHZkW.jpg
 plex.tv.Ax.Men.by.History.plex,Ax Men by History,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/799-2847/1638330-2-3-poster_v2.jpg
-plex.tv.FilmRise.Free.Movies.plex,FilmRise Free Movies,https://metadata-static.plex.tv/3/gracenote/372f6b00f9cbeb9502560776cf50419f.jpg
+plex.tv.FilmRise.Free.Movies.plex,FilmRise Free Movies,https://image.tmdb.org/t/p/original/qCPMjT8Ld8tvs1zs7LY2jpKlRIK.jpg
 plex.tv.Dance.Moms.by.Lifetime.plex,Dance Moms by Lifetime,https://provider-static.plex.tv/epg/cms/production/ba6d29a6-b6e4-4514-8438-dcee48407c10/Dance_Moms_by_Lifetime_Refresh2024_Hero_2000x3000_-_Laura_Connolly.jpg
 plex.tv.All.Weddings.We.TV.plex,All Weddings We TV,https://metadata-static.plex.tv/5/gracenote/55ec4ac46731fffc068906375f505356.jpg
 plex.tv.Matched.Married.Meet.plex,Matched Married Meet,https://image.tmdb.org/t/p/original/tXfwttpCqqrNGu6di9BCG9wbyg0.jpg
 plex.tv.Jade.Fever.plex,Jade Fever,https://image.tmdb.org/t/p/original/unsLi0OEITLMatYrsv1N42CjVaJ.jpg
-plex.tv.Extreme.Jobs.plex,Extreme Jobs,https://db6iftd8li11q.cloudfront.net/YukonGold_portrait.jpg
+plex.tv.Extreme.Jobs.plex,Extreme Jobs,https://db6iftd8li11q.cloudfront.net/TimberKings_portrait.jpg
 plex.tv.Rig.TV.plex,Rig TV,https://image.tmdb.org/t/p/original/ySvegrot5tZDWVwHZ6NV4wYKARj.jpg
 plex.tv.Ice.Pilots.NWT.plex,Ice Pilots NWT,https://metadata-static.plex.tv/a/gracenote/acc5eb70902cc9ddcc62516d2fee51ee.jpg
-plex.tv.Sheriffs:.El.Dorado.County.plex,Sheriffs: El Dorado County,https://image.xumo.com/v1/assets/asset/XM0G0MUQIDKI6F/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889434%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Sheriffs:.El.Dorado.County.plex,Sheriffs: El Dorado County,https://image.xumo.com/v1/assets/asset/XM0OFNJDEP0826/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889434%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.GET.plex,GET,
 plex.tv.In.The.Heat.Of.The.Night.by.MGM.plex,In The Heat Of The Night by MGM,https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg
 plex.tv.Welcome.Home.plex,Welcome Home,https://image.tmdb.org/t/p/original/AbCbfjxQHQSyE5f6Hm0QB5juVKH.jpg
 plex.tv.FilmRise.True.Crime.plex,FilmRise True Crime,https://image.tmdb.org/t/p/original/7VfFeEvBDpriBsJV31cwddqYiAz.jpg
 plex.tv.Dog.the.Bounty.Hunter.plex,Dog the Bounty Hunter,https://provider-static.plex.tv/epg/cms/production/a49a7728-65eb-4981-ac68-1aaa93e8c730/Dog_the_Bounty_Hunter_2000x3000_-_Ethan_Maisel.jpg
-plex.tv.Sweet.Escapes.plex,Sweet Escapes,https://metadata-static.plex.tv/8/gracenote/866936fa3b2fb78d142c940303c4c60e.jpg
+plex.tv.Sweet.Escapes.plex,Sweet Escapes,https://image.tmdb.org/t/p/original/4bWIjjTvtnAc8UX4Iv8dZtXE5FE.jpg
 plex.tv.Chef.vs.Chef.plex,Chef vs Chef,https://image.tmdb.org/t/p/original/vE3uKy2AGHQAyDLJ3nR08zpkRJ0.jpg
 plex.tv.CraftsyTV.plex,CraftsyTV,https://provider-static.plex.tv/epg/cms/production/2542e923-0365-498e-9d49-11f01114f2dd/Craftsy_vertrdx.jpg
 plex.tv.Operation.Repo.plex,Operation Repo,https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/Oprepoposter.png
 plex.tv.Tiny.House.Nation.plex,Tiny House Nation,https://metadata-static.plex.tv/b/gracenote/b05f56e67e267bcf82c355ebf835efed.jpg
 plex.tv.Chip.&amp;.Jo:.Feels.Like.Home.plex,Chip &amp; Jo: Feels Like Home,https://image.tmdb.org/t/p/original/rU9CHHGJqP3mTlU3KFs9MS7rjdr.jpg
-plex.tv.The.Martha.Stewart.Channel.plex,The Martha Stewart Channel,https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/afcf3e7e9df1e922/MG_0201_EASY_FOUNDATION_SCREENSHOT_2x3.jpg
+plex.tv.The.Martha.Stewart.Channel.plex,The Martha Stewart Channel,https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/fb2094955bf1a34f/MG_0109_ROSES_SCREENSHOT_2x3.jpg
 plex.tv.PGA.TOUR.plex,PGA TOUR,https://provider-static.plex.tv/epg/cms/production/a89b0abb-e5de-4cfb-bd1d-45296072d4ca/PGA_TOUR_Poster-Art_2000x3000_-_Lily_Morrison.jpg
 plex.tv.Billiard.TV.plex,Billiard TV,https://provider-static.plex.tv/epg/cms/production/6652d80a-6423-4dba-a474-3bb3f37c7524/Plex_billiard_vertical__1_.jpg
 plex.tv.PokerGO.plex,PokerGO,http://tmsimg.com/assets/p18008824_i_v12_aa.jpg?w=1920&amp;h=2880
-plex.tv.Poker.Night.TV.plex,Poker Night TV,https://images.frequency.com/video/originals/7377011914879774308/Texted/rectangle/1b00g88me89u01vwcydy525lm4.png
+plex.tv.Poker.Night.TV.plex,Poker Night TV,https://provider-static.plex.tv/epg/cms/production/1627316e-08e3-4047-a628-7d0f4801ca11/pokernight_artwork_vertical-2.jpg
 plex.tv.Cricket.Gold.plex,Cricket Gold,https://provider-static.plex.tv/epg/cms/production/a4341269-bf4a-436d-8caf-e4dbaa9c88b9/Cricket_Gold_Logo_VERT-_Beej_Gefsky.jpg
-plex.tv.SportsGrid.plex,SportsGrid,https://metadata-static.plex.tv/6/gracenote/6185810a232b4c064215feecfc2fcd35.jpg
+plex.tv.SportsGrid.plex,SportsGrid,https://metadata-static.plex.tv/3/gracenote/3f58164cec37b2991c9e7c081d956619.jpg
 plex.tv.World`s.Most.Evil.Killers.plex,World`s Most Evil Killers,https://image.tmdb.org/t/p/original/7VfFeEvBDpriBsJV31cwddqYiAz.jpg
 plex.tv.Strongman.Champions.plex,Strongman Champions,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/5029-7077/10299657-coverPoster_v1.jpg
-plex.tv.Family.Unscripted.plex,Family Unscripted,https://d3r7ib22akc064.cloudfront.net/56088_001_SE_TXTD_2000x3000_en.jpg
-plex.tv.Crime.&amp;.Justice.plex,Crime &amp; Justice,https://provider-static.plex.tv/epg/cms/production/ecbe605b-7f73-4c98-8865-1e6bacb47639/Crime_and_Justice_2000_x_3000_-_Matt_Mattysiak.jpg
-plex.tv.Grit.Xtra.plex,Grit Xtra,https://metadata-static.plex.tv/d/gracenote/d6e3f48d64fa26a8924972dafb3385d8.jpg
+plex.tv.Family.Unscripted.plex,Family Unscripted,https://d3r7ib22akc064.cloudfront.net/219788_017_SE_TXTD_2000x3000_en.jpg
+plex.tv.Crime.&amp;.Justice.plex,Crime &amp; Justice,https://static.frequency.com/studio/cineflix/2x3/Sky_Cops_2000_x_3000.jpg
+plex.tv.Grit.Xtra.plex,Grit Xtra,https://metadata-static.plex.tv/8/gracenote/860fd24d734e52a9be38d43bcfa18d64.jpg
 plex.tv.Hunter.plex,Hunter,https://image.tmdb.org/t/p/original/7SAlXj32uSJjKqZc3bzRzikJ0W5.jpg
 plex.tv.Green.Acres.plex,Green Acres,https://image.tmdb.org/t/p/original/1tCh5D0dyPw8tiknprgbljAAEPw.jpg
-plex.tv.Places.&amp;.Spaces.plex,Places &amp; Spaces,https://d8pcmqd7sjyf2.cloudfront.net/Greatest Escapes to the Country_2X3.jpg
+plex.tv.Places.&amp;.Spaces.plex,Places &amp; Spaces,https://d8pcmqd7sjyf2.cloudfront.net/Grand Designs Australia_2X3.jpg
 plex.tv.Home.Cooking.plex,Home Cooking,https://image.tmdb.org/t/p/original/3EBfLbteZcACrWJ7G9s1I6gMKMf.jpg
 plex.tv.Discovery.Turbo.TV.plex,Discovery Turbo TV,https://metadata-static.plex.tv/0/gracenote/09b59fcf05086704122276a7d6282441.jpg
-plex.tv.SPEEDVISION.plex,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/a7dc2767-4f76-44b2-9c6c-845934d4ca26/SV_LOGO_WCAR_FINAL_2000x3000.jpg
+plex.tv.SPEEDVISION.plex,SPEEDVISION,https://partner-upload-assets.wurl.com/speedvision/C%26O%20Logo%203.png
 plex.tv.Torque.Presented.By.History.plex,Torque Presented By History,https://image.tmdb.org/t/p/original/hHVAwZVjTFqJQDo8n6pEVdqGMWX.jpg
-plex.tv.Classic.Car.Auctions.plex,Classic Car Auctions,https://provider-static.plex.tv/epg/cms/production/e4606c40-1a60-492f-ba3f-1ce1e7aa6b94/Classic_Car_Auctions_By_HISTORY_2000x3000_-_Laura_ConnollyRDX.jpg
+plex.tv.Classic.Car.Auctions.plex,Classic Car Auctions,https://d37ntihvjf07l3.cloudfront.net/6439_SER_2_3.jpg
 plex.tv.The.Jamie.Oliver.Channel.plex,The Jamie Oliver Channel,https://image.tmdb.org/t/p/original/k0JR5fDo25XSqthxhhhQWwd1TLY.jpg
 plex.tv.Come.Dine.With.Me.plex,Come Dine With Me,https://provider-static.plex.tv/epg/cms/production/82fc704e-8f07-401b-9dbd-8bf7929c96b7/CDWM_2000X3000.jpg
-plex.tv.BBC.Food.plex,BBC Food,https://image.tmdb.org/t/p/original/tezyALIuNxMkdMq8ofvRhrSSY1S.jpg
+plex.tv.BBC.Food.plex,BBC Food,https://metadata-static.plex.tv/9/gracenote/918c1e19c3b465aadefdf43e850b0d41.jpg
 plex.tv.Million.Dollar.Dream.Home.plex,Million Dollar Dream Home,https://d31l2nn7dlh4li.cloudfront.net/amg02134/asset_artifacts/image/fetch_media/4cd6d364004139ef/MDDH_BackgroundImage_2000x3000.jpg
 plex.tv.Home.Made.Nation.plex,Home.Made.Nation,https://metadata-static.plex.tv/e/gracenote/e2d80a67f4dda8c1757d9c0488769d38.jpg
-plex.tv.Iron.Chef.plex,Iron Chef,https://image.xumo.com/v1/assets/asset/XM0YP579K8BO9H/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889432%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
-plex.tv.The.Great.British.Baking.Channel.plex,The Great British Baking Channel,https://images.frequency.com/video/originals/7479668661028521902/Texted/rectangle/1ju98qtpllcq81lty0dh848swy.jpg
+plex.tv.Iron.Chef.plex,Iron Chef,https://image.xumo.com/v1/assets/asset/XM00G4OQNKCX7N/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889432%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.The.Great.British.Baking.Channel.plex,The Great British Baking Channel,https://images.frequency.com/video/originals/7479751855053557551/Texted/rectangle/nqa5tb0wedr41ili7agv02z4q.jpg
 plex.tv.Antiques.Roadshow.UK.plex,Antiques Roadshow UK,https://provider-static.plex.tv/epg/cms/production/582cb7ee-1ef6-4294-8780-63bccfe6903d/BBC_AR_UK_2000x3000.jpg
 plex.tv.Antiques.Road.Trip.plex,Antiques Road Trip,https://metadata-static.plex.tv/1/gracenote/180dc77df4e91d67bb6e4b705cc8bc01.jpg
 plex.tv.BBC.Home.&amp;.Garden.plex,BBC Home &amp; Garden,https://provider-static.plex.tv/epg/cms/production/6306461a-f527-497d-bb3b-069a19047460/BBC_HOME_GARDEN_2000x3000.jpg
-plex.tv.PBS.Food.plex,PBS Food,https://image.tmdb.org/t/p/original/iozW6XcUzvq6Dfrnpy1pNlRoBTz.jpg
-plex.tv.Tastemade.plex,Tastemade,https://metadata-static.plex.tv/4/gracenote/49e7ee2f76bc32f4237dfd5990298a61.jpg
-plex.tv.Stingray.Naturescape.plex,Stingray Naturescape,https://metadata-static.plex.tv/2/gracenote/2e358cc1db677cb797697cf69737ecbb.jpg
+plex.tv.PBS.Food.plex,PBS Food,https://metadata-static.plex.tv/7/gracenote/72814abb80dd27490a2baf6c9162c57b.jpg
+plex.tv.Tastemade.plex,Tastemade,https://metadata-static.plex.tv/d/gracenote/d72318966b350e076278129815588817.jpg
+plex.tv.Stingray.Naturescape.plex,Stingray Naturescape,https://metadata-static.plex.tv/1/gracenote/1055a6ba440f2152a0aed1ec5580df39.jpg
 plex.tv.Paws.&amp;.Claws.plex,Paws &amp; Claws,https://image.tmdb.org/t/p/original/rd33VJBRckNoKDVdFAGua2wu4Ap.jpg
 plex.tv.Love.Pets.plex,Love Pets,https://provider-static.plex.tv/epg/cms/production/ff1484e3-4673-4a08-8967-bb8d574e1a6e/PlexTV_LovePets_2000x3000_-_Rashmi_Palvannan.jpg
 plex.tv.The.Pet.Collective.plex,The Pet Collective,https://provider-static.plex.tv/epg/cms/production/d16f32b2-9b91-428f-a45e-d996918cd7f1/tpc_SUMMERTILES_2000x3000_-_Erica_Laible__1_.jpg
-plex.tv.INWONDER.plex,INWONDER,https://provider-static.plex.tv/epg/cms/production/63bdec81-3681-4d9a-bc38-cd32847794e4/Inwonder_artwork_portrait_2000x3000_-_Itay_Pollak.jpg
-plex.tv.PickleTV.plex,PickleTV,https://ingest-assets.wurl.com/433025/197679110-0.jpeg
+plex.tv.INWONDER.plex,INWONDER,https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/455b3b12f4a3cd48/IN72911588_01_0000_Title_1920x2880.jpg
+plex.tv.PickleTV.plex,PickleTV,https://ingest-assets.wurl.com/433025/197679097-1.jpeg
 plex.tv.Highway.to.Heaven.plex,Highway to Heaven,https://image.tmdb.org/t/p/original/mcAqVE5RY2KBA9JYC1wqb37wquB.jpg
 plex.tv.Baywatch.plex,Baywatch,https://image.tmdb.org/t/p/original/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg
 plex.tv.Tennis+.plex,Tennis+,https://provider-static.plex.tv/epg/cms/production/7a4c210d-ee2a-49e2-9fea-9f150c1ede05/4_Tennis_Plus__Vertical_Default_Art__2000x3000px_v3.jpg
 plex.tv.Real.Crime.plex,Real Crime,https://provider-static.plex.tv/epg/cms/production/dc0e53d0-0767-44e1-8d23-9621d4ff3daf/2000X3000_Fallback_Real_Crime_-_Simon_Tuquabo.jpg
 plex.tv.Great.British.Menu.plex,Great British Menu,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/8384-10432/17172145-coverPoster_v1.jpg
 plex.tv.Trailer.Park.Boys:.The.SwearNet.Show.plex,Trailer Park Boys: The SwearNet Show,https://image.tmdb.org/t/p/original/u2kdhycO8lmJaRU14FLmCCtsAHk.jpg
-plex.tv.LOL!.Network.plex,LOL! Network,https://image.tmdb.org/t/p/original/9HsvScAOgwN1msP4QcQMeHPRBV7.jpg
-plex.tv.Comedy.Dynamics.plex,Comedy Dynamics,https://metadata-static.plex.tv/e/gracenote/eecc4256ae5bdff491c5aa9278e8d242.jpg
+plex.tv.LOL!.Network.plex,LOL! Network,https://image.tmdb.org/t/p/original/ylRzw81gVNOujaDQvnDGOhXc5LZ.jpg
+plex.tv.Comedy.Dynamics.plex,Comedy Dynamics,https://metadata-static.plex.tv/a/gracenote/ad8d9a84acb1e7595aff9475eb0400aa.jpg
 plex.tv.Love.Thy.Neighbor.plex,Love Thy Neighbor,https://db6iftd8li11q.cloudfront.net/LoveThyNeighbor_portrait.jpg
 plex.tv.Robot.Wars.by.Mech+.plex,Robot Wars by Mech+,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/13637-15685/27929137-coverPoster_v1.jpg
 plex.tv.GLORY.Kickboxing.plex,GLORY Kickboxing,https://provider-static.plex.tv/epg/cms/production/e82ff7c4-015e-440d-a8df-d960efc5d3f8/GLORY_2000x3000_Nicholas_Olsen.jpg
-plex.tv.Monster.Jam.plex,Monster Jam,https://ingest-assets.wurl.com/428085/149864320-4.png
+plex.tv.Monster.Jam.plex,Monster Jam,https://ingest-assets.wurl.com/427266/137773370-4.png
 plex.tv.Bassmaster.plex,Bassmaster,https://provider-static.plex.tv/epg/cms/production/38d36953-191e-4905-9d21-57ef1c976901/Bassmaster_PlexTV_2000x3000_-_Will_Flowers.jpg
 plex.tv.PickleballTV.plex,PickleballTV,https://provider-static.plex.tv/epg/cms/production/da2afe7d-1a52-4db2-a7a8-42cfbbd47aa1/pbtv_4_2000_X_3000_Vertical_Art_with_Logo_v1_-_Ari_Brock.jpg
 plex.tv.Family.Feud.plex,Family Feud,https://provider-static.plex.tv/epg/cms/production/171d7a3b-762e-4a08-874e-977f68eb9bc2/NGSD_FF_SH_2000X3000_-_Patty_Gopez.jpg
-plex.tv.BUZZR.plex,BUZZR,https://metadata-static.plex.tv/7/gracenote/7d86ee93b3f5dc28bcd43a0fc2e79b5d.jpg
+plex.tv.BUZZR.plex,BUZZR,https://provider-static.plex.tv/epg/cms/production/d37571ed-1dfd-4804-bb03-398dec6dfef1/NGSD_BUZZR_2000X3000_-_Patty_Gopez.jpg
 plex.tv.TMZ.plex,TMZ,https://provider-static.plex.tv/epg/cms/production/a474db6b-4eda-448e-8991-69fa6d9eb505/thetmzchannel_2000x3000.jpg
 plex.tv.Penn.&amp;.Teller:.Fool.Us.plex,Penn &amp; Teller: Fool Us,https://image.tmdb.org/t/p/original/8fLyvZZ2yxDhjqc2z6L2iwtW4T3.jpg
-plex.tv.Bounce.XL.plex,Bounce XL,https://metadata-static.plex.tv/3/gracenote/3448c635919b04bb038efddbc0d5f814.jpg
-plex.tv.TVOne.Stars.&amp;.Stories.plex,TVOne Stars &amp; Stories,https://metadata-static.plex.tv/9/gracenote/9de84f0839b5041a28908f66d13f6ccc.jpg
-plex.tv.Supermarket.Sweep.plex,Supermarket Sweep,https://metadata-static.plex.tv/9/gracenote/93ebf6ee92df1d0ff5a267d9edb12bb6.jpg
+plex.tv.Bounce.XL.plex,Bounce XL,https://metadata-static.plex.tv/2/gracenote/28f2fdf9c2fdede07756598f03b403f1.jpg
+plex.tv.TVOne.Stars.&amp;.Stories.plex,TVOne Stars &amp; Stories,https://image.tmdb.org/t/p/original/2MS78obri0sPZtjbQ4t3EspWpLL.jpg
+plex.tv.Supermarket.Sweep.plex,Supermarket Sweep,https://provider-static.plex.tv/epg/cms/production/a2704f5d-f08f-46a2-aaeb-8aebed8cf84b/SMS_NGSD_2000x3000_-_Patty_Gopez.jpg
 plex.tv.Fear.Factor.plex,Fear Factor,https://image.tmdb.org/t/p/original/A9FxroNWtOxiApMPxOHbZUWJoaB.jpg
-plex.tv.BBC.Game.Shows.plex,BBC Game Shows,https://image.tmdb.org/t/p/original/g9gPB4VqNxrDgTQEvLzLNvuXUoT.jpg
+plex.tv.BBC.Game.Shows.plex,BBC Game Shows,https://image.tmdb.org/t/p/original/7aXuQpdkmogweABx63pHJhy9xst.jpg
 plex.tv.Deal.Or.No.Deal.plex,Deal Or No Deal,https://metadata-static.plex.tv/c/gracenote/c41a213d1b696882e962d2ba2e146aa4.jpg
 plex.tv.Tony.Robbins.Network.plex,Tony Robbins Network,https://provider-static.plex.tv/epg/cms/production/2ac710ff-b1cf-4245-a440-0af1ddf44231/TRN_2000X3000_Vertical_Art.jpg
 plex.tv.MrBeast.plex,MrBeast,https://images.frequency.com/freq-img/4d1d9ff8-469b-4a49-9bf6-227ef12da102/MNMain2000x3000png.png
 plex.tv.Paternity.Court.plex,Paternity Court,https://images.frequency.com/freq-img/eeaf9d47-19f6-44a5-885a-45e5a10a9a2f/PaternityCourtSeries2000x3000jpg.jpg
 plex.tv.Confess.by.Nosey.plex,Confess by Nosey,https://d3icg9l6jqq36d.cloudfront.net/Karamo_Banner_2160x3240_2x3_UPDATED.jpg
-plex.tv.Judge.Nosey.plex,Judge Nosey,https://d3icg9l6jqq36d.cloudfront.net/RINTL1/CutlersCourt_Banner_2160x3240_2x3.jpg
+plex.tv.Judge.Nosey.plex,Judge Nosey,https://d3icg9l6jqq36d.cloudfront.net/RINTL1/Judge_Mathis_Banner_2160x3240_2x3.jpg
 plex.tv.The.Bold.and.the.Beautiful.plex,The Bold and the Beautiful,https://metadata-static.plex.tv/0/plex/043e4024-8dc8-48d1-9f64-6f4ff3b99eaa.jpg
 plex.tv.Impossible.-.Quiz.Show.plex,Impossible - Quiz Show,https://provider-static.plex.tv/epg/cms/production/cb4c2a44-bd69-4353-a119-5df1d314abc9/PLEX_IMPOSSIBLE_FallbackPoster_2000x3000.jpg
-plex.tv.American.Gladiators.by.MGM.plex,American Gladiators by MGM,https://images.frequency.com/video/originals/7272499331494480130/Texted/rectangle/11vs57e1wsk601d2ul8ijoyl3e.jpg
-plex.tv.Family.Feud.Classic.plex,Family Feud Classic,https://provider-static.plex.tv/epg/cms/production/40d53985-16d7-4234-bc56-fd8201079925/NGSD_FF_Classic_2000X3000_-_Patty_Gopez.jpg
+plex.tv.American.Gladiators.by.MGM.plex,American Gladiators by MGM,https://images.frequency.com/video/originals/7272500914483899252/Texted/rectangle/dw4r6kd9tff81gwbf5muvv6xu.jpg
+plex.tv.Family.Feud.Classic.plex,Family Feud Classic,https://metadata-static.plex.tv/a/gracenote/acae63dea23f90e42a3ea6f7e34fe84c.jpg
 plex.tv.GameTVGO.plex,GameTVGO,https://metadata-static.plex.tv/e/gracenote/e59cc64e1f5413abf71e703df007623d.jpg
 plex.tv.The.Sherlock.Holmes.Channel.plex,The Sherlock Holmes Channel,https://image.tmdb.org/t/p/original/xcuoX9Fq62C2vAqycxn4UwJQYl5.jpg
-plex.tv.NESN.NATION.plex,NESN NATION,https://d31l2nn7dlh4li.cloudfront.net/amg17851/asset_artifacts/image/fetch_media/a68643b66af7f265/147cadab-f41b-4e86-8a4c-bd2b23f47a45.jpg
+plex.tv.NESN.NATION.plex,NESN NATION,https://d31l2nn7dlh4li.cloudfront.net/amg17851/asset_artifacts/image/fetch_media/316b64aae0d0c40b/b48535aa-ba4b-47f1-b2d4-92fa9acfa02c.jpg
 plex.tv.So....Real.plex,So... Real,https://metadata-static.plex.tv/4/gracenote/4471059a5102b2aebb476fe9f39d810d.jpg
 plex.tv.MotoGP.Channel.plex,MotoGP Channel,https://provider-static.plex.tv/epg/cms/production/067fbaa8-d405-4a1e-bb9d-3417d96b4f76/MotoGPChannel_vertical_art_2000x3000_-_Eddie_Hunter-Higgins.jpg
-plex.tv.Speed.Sport.1.plex,Speed Sport 1,https://images.frequency.com/linear_livestream/originals/135640/Texted/rectangle/1gv7783m7f8y1k5377efdbvyv.jpg
+plex.tv.Speed.Sport.1.plex,Speed Sport 1,https://images.frequency.com/linear_livestream/originals/135641/Texted/rectangle/1vhmh3kdxkl3p1ld91y61dn0lc.jpg
 plex.tv.NHRA.TV.plex,NHRA TV,https://provider-static.plex.tv/epg/images/thumbnails/NHRA_artwork_vertical.jpg
 plex.tv.Sports.Illustrated.TV.plex,Sports Illustrated TV,https://provider-static.plex.tv/epg/cms/production/609e9bd7-74ce-402f-bbe8-7c4292ce9ff3/SITV_Posters_COV2000x3000_LargeRDX.jpg
-plex.tv.ANIME.x.HIDIVE.plex,ANIME x HIDIVE,https://metadata-static.plex.tv/c/gracenote/c3e04d7f664b339c1ec856d5fd487cb7.jpg
-plex.tv.NEW.K.MOVIES.plex,NEW K.MOVIES,https://provider-static.plex.tv/epg/cms/production/57eb573a-a890-435e-a954-a4ec3e896066/Vertical_Default_Art_2000x3000.jpg
-plex.tv.MHz.Now.plex,MHz Now,https://partner-upload-assets.wurl.com/mhz/PACIFC_C_00000BA.jpg
-plex.tv.FanDuel.TV.Extra.plex,FanDuel TV Extra,https://metadata-static.plex.tv/2/gracenote/2e58a5ed760cf740f84367f50f53f622.jpg
-plex.tv.DP.World.Tour.plex,DP World Tour,https://d16j4exgbx78bu.cloudfront.net/DPWT/DPWT_series_imagery_2000x3000_001.png
+plex.tv.ANIME.x.HIDIVE.plex,ANIME x HIDIVE,https://metadata-static.plex.tv/5/gracenote/57450a347ddbdb5a6861b68e1dc72e01.jpg
+plex.tv.NEW.K.MOVIES.plex,NEW K.MOVIES,https://cdn88-accio.its-newid.net/asset/009f347c56b5ee66404e14b9f09a76ceada64aac387/img/poster_2_3/e2f8d091/960x1440.jpg
+plex.tv.MHz.Now.plex,MHz Now,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/610-2658/1251034-default_v1.jpg
+plex.tv.FanDuel.TV.Extra.plex,FanDuel TV Extra,https://metadata-static.plex.tv/6/gracenote/6ab35fc794103f36640823071a41bc6b.jpg
+plex.tv.DP.World.Tour.plex,DP World Tour,https://provider-static.plex.tv/epg/cms/production/49a0cb19-4231-44a0-94de-ed7a7fef5f58/DPWorldTour_2000x3000_-_Eddie_Hunter-Higgins.jpg
 plex.tv.Rakuten.Viki.plex,Rakuten Viki,https://provider-static.plex.tv/epg/images/thumbnails/rakutenviki_artwork_vertical.jpg
 plex.tv.Surf.Cinema.plex,Surf Cinema,https://d1ki4kvnknm0kh.cloudfront.net/surfer/4a9809ce-1b34-47f5-94fd-eca151cc3790_02eb663e-f504-43b5-b469-c131f50996f1_poster.png
 plex.tv.The.Addams.Family.plex,The Addams Family,https://image.tmdb.org/t/p/original/9eqmCtAY9d2WwafLBYXRKYepgeA.jpg
 plex.tv.Mr..Bean.Live.Action.plex,Mr. Bean Live Action,https://provider-static.plex.tv/epg/cms/production/1310c21d-a93e-4915-9902-6207752ecf9f/MrBean_VerticalArt_RDX.jpg
 plex.tv.Entertains.plex,Entertains,https://metadata-static.plex.tv/e/gracenote/e3f5cc073110ebc031c53d7f11c74f14.jpg
-plex.tv.FilmRise.Comedy.plex,FilmRise Comedy,https://image.tmdb.org/t/p/original/9rO0YfsV9z8P4tlpKbryUwcHHIV.jpg
-plex.tv.Lone.Star.plex,Lone Star,https://metadata-static.plex.tv/1/gracenote/1ca3e8e2a351d48e3ee15ddefbf9f0af.jpg
+plex.tv.FilmRise.Comedy.plex,FilmRise Comedy,https://image.tmdb.org/t/p/original/304lFTgMC3F53qKpDCguf7s7ZU1.jpg
+plex.tv.Lone.Star.plex,Lone Star,https://metadata-static.plex.tv/a/gracenote/af1220b6ebf0a68878503ad24c81841e.jpg
 plex.tv.Hard.Knocks.plex,Hard Knocks,https://provider-static.plex.tv/epg/images/thumbnails/hardknocks_artwork_vertical.jpg
 plex.tv.Stadium.plex,Stadium,https://provider-static.plex.tv/epg/cms/production/74840ea9-0c5c-4135-b298-494a67832975/stadium_vertical_-_Janet_Feng.jpg
 plex.tv.A&amp;E.Live.PD.Greatest.Shifts.plex,A&amp;E Live PD Greatest Shifts,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/27740-29788/56812030-2-3-poster_v1.jpg
-plex.tv.Live.PD.Presents.plex,Live PD Presents,https://provider-static.plex.tv/epg/cms/production/3fcd241e-f72d-4217-847e-a2c91703514a/Live_PD_Presents_2000x3000_-_Laura_Connolly.jpg
+plex.tv.Live.PD.Presents.plex,Live PD Presents,https://d37ntihvjf07l3.cloudfront.net/5929_SER_2_3.jpg
 plex.tv.A&amp;E.Alaska.State.Troopers.plex,A&amp;E Alaska State Troopers,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/27740-29788/56812679-2-3-poster_v1.jpg
 plex.tv.Dick.Van.Dyke.plex,Dick Van Dyke,https://image.tmdb.org/t/p/original/sAPTSCOVJO5zqoP9Et54jfiI70U.jpg
-plex.tv.Pam.Grier`s.Soul.Flix.plex,Pam Grier`s Soul Flix,https://metadata-static.plex.tv/d/gracenote/db44a6e7705dd3428c422bda7aaa096f.jpg
+plex.tv.Pam.Grier`s.Soul.Flix.plex,Pam Grier`s Soul Flix,https://metadata-static.plex.tv/1/gracenote/1813e3d9903429ad3aba0939738b4ac9.jpg
 plex.tv.21.Jump.Street.plex,21 Jump Street,https://metadata-static.plex.tv/c/gracenote/ce9514a05dd61e579b917006efba1d3d.jpg
 plex.tv.FilmRise.Mysteries.plex,FilmRise Mysteries,https://image.tmdb.org/t/p/original/xY7A8Gn4L9iyLDMv2ziOo8aXItW.jpg
-plex.tv.MSG.SportsZone.plex,MSG SportsZone,https://metadata-static.plex.tv/5/gracenote/55b915641cdee45acc37b1da1b0027a7.jpg
+plex.tv.MSG.SportsZone.plex,MSG SportsZone,https://metadata-static.plex.tv/0/gracenote/0b7b745d2c6c1d150222798323279943.jpg
 plex.tv.WildEarth.plex,WildEarth,https://provider-static.plex.tv/epg/images/thumbnails/wildearth_artwork_vertical.jpg
 plex.tv.Triton.Poker.plex,Triton Poker,https://provider-static.plex.tv/epg/cms/production/476c5dfd-ff72-465b-98eb-b862491cb8eb/Triton_2000x3000_001_-_Eddie_Hunter-Higgins.jpg
 plex.tv.Wired2Fish.plex,Wired2Fish,https://provider-static.plex.tv/epg/cms/production/aa7ac526-7380-45f4-babd-3f7d527cb07d/wire2fish_artwork_vertical.jpg
-plex.tv.Grjngo.-.Western.Movies.plex,Grjngo - Western Movies,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/34183-36231/70110314-Samsung-VOD_v1.jpg
+plex.tv.Grjngo.-.Western.Movies.plex,Grjngo - Western Movies,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/34551-36599/70873593-Samsung-VOD_v1.jpg
 plex.tv.Movieitaly.Channel.plex,Movieitaly Channel,https://provider-static.plex.tv/epg/cms/production/b9c7ae83-d9b0-444f-91f4-fc0c3c76450c/MI_V_-_Simona_Campobasso.jpg
 plex.tv.Cheaters.plex,Cheaters,https://image.tmdb.org/t/p/original/nnO8rDfOhoPVtSLfNwAydkMVeCP.jpg
-plex.tv.Asian.Drama.plex,Asian Drama,https://image.xumo.com/v1/assets/asset/XM0T5NFRALLKTO/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889495%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Asian.Drama.plex,Asian Drama,https://image.xumo.com/v1/assets/asset/XM0SX110AUN3HV/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889495%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.The.Carol.Burnett.Show.plex,The Carol Burnett Show,https://image.tmdb.org/t/p/original/dGd9pG4PGzpJbdbPEnFxKrJ24z8.jpg
 plex.tv.NBC.News.NOW.plex,NBC News NOW,https://metadata-static.plex.tv/9/gracenote/9d8afa2f4ad1e131fe022f1260171f3b.jpg
-plex.tv.CBS.News.24/7.plex,CBS News 24/7,https://images.pluto.tv/series/62fad007362313001aa92df5/poster.jpg?fm=jpg
+plex.tv.CBS.News.24/7.plex,CBS News 24/7,https://images.pluto.tv/series/68ed5a77a44f8dcccd700f11/poster_1760479210244.jpg?fm=jpg
 plex.tv.LiveNOW.from.FOX.plex,LiveNOW from FOX,https://metadata-static.plex.tv/e/gracenote/ef204dddb2c3ffe23159ba047b8c2836.jpg
 plex.tv.CNN.Headlines.plex,CNN Headlines,https://provider-static.plex.tv/epg/cms/production/de4a79b7-f316-4598-969c-7861c34d769a/CNN_Headlines_ChannelImagery_2000x3000_2025_-_Grace_Hartwig.jpg
-plex.tv.BBC.News.(North.America).plex,BBC News (North America),https://metadata-static.plex.tv/4/gracenote/4109d51eea7d95a05383c5df901ac6ac.jpg
+plex.tv.BBC.News.(North.America).plex,BBC News (North America),https://metadata-static.plex.tv/6/gracenote/6d9630ca7100e48cb44b5d31943f5309.jpg
 plex.tv.Nolly.Africa.HD.plex,Nolly Africa HD,https://axcxgqlbvhjy.objectstorage.eu-frankfurt-1.oci.customer-oci.com/n/axcxgqlbvhjy/b/NollyAfricaThumbs/o/AMC/The_Missing_Chief_Bridesmaid.jpg
 plex.tv.Shemaroo.Bollywood.plex,Shemaroo Bollywood,https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg
 plex.tv.Victory+.plex,Victory+,https://provider-static.plex.tv/epg/cms/production/28bb74b3-3b5a-4a84-837e-28c17ea1ec71/Victory_Plus_VERT.jpg
-plex.tv.The.Design.Network.plex,The Design Network,https://d2irp9idlufd6d.cloudfront.net/AltHome_S1_E4_Fairytale_thumbnail_2x3.jpg
-plex.tv.The.Emeril.Lagasse.Channel.plex,The Emeril Lagasse Channel,https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/edccda10b4593524/ELCK_207_WETLANDSSAKE_SCREENSHOT_2x3.jpg
-plex.tv.Made.It.Myself.TV.plex,Made It Myself TV,https://ingest-assets.wurl.com/429429/199543956-1.jpeg
+plex.tv.The.Design.Network.plex,The Design Network,https://d2irp9idlufd6d.cloudfront.net/FameToTable_S1_E6_FariyalAbdullahi_thumbnail_2x3.jpg
+plex.tv.The.Emeril.Lagasse.Channel.plex,The Emeril Lagasse Channel,https://d31l2nn7dlh4li.cloudfront.net/amg17902/asset_artifacts/image/fetch_media/c367f5a21bc5827d/ELCK_504_BOURBON_SCREENSHOT_2x3.jpg
+plex.tv.Made.It.Myself.TV.plex,Made It Myself TV,https://ingest-assets.wurl.com/429429/153928463-1.jpeg
 plex.tv.5-Minute.Crafts.plex,5-Minute Crafts,https://provider-static.plex.tv/epg/cms/production/1701ac92-64d5-439c-9ec3-51c2727ceed9/5-Minute_Crafts_1000x1500_1VERT.jpg
-plex.tv.SLVR.Sports.and.Entertainment.(SLVR).plex,SLVR Sports and Entertainment (SLVR),https://metadata-static.plex.tv/c/gracenote/c38e9db83f24a7713214aea18bc7e0f4.jpg
+plex.tv.SLVR.Sports.and.Entertainment.(SLVR).plex,SLVR Sports and Entertainment (SLVR),https://metadata-static.plex.tv/1/gracenote/1bd7903a0f9482d87b6817d5405b7fe7.jpg
 plex.tv.World.Billiards.TV.plex,World Billiards TV,https://provider-static.plex.tv/epg/cms/production/d23f6445-e5f0-4c4c-b37e-41c73a6ccb25/_Plex__WBT_Vertical_Default_Art.jpg
-plex.tv.Gravitas.Movies.plex,Gravitas Movies,https://metadata-static.plex.tv/8/gracenote/8a8d4f979a7a94efa175d58fcb9b4172.jpg
-plex.tv.AfroLandTV.plex,AfroLandTV,https://metadata-static.plex.tv/e/gracenote/e3c7135558a7d8adeb2706619c94f6cb.jpg
+plex.tv.Gravitas.Movies.plex,Gravitas Movies,https://metadata-static.plex.tv/2/gracenote/2088b87d6a570d9de771520a2ad50644.jpg
+plex.tv.AfroLandTV.plex,AfroLandTV,https://metadata-static.plex.tv/3/gracenote/3c73bcc2891c6de241449a798c5cb04f.jpg
 plex.tv.Johnny.Carson.TV.plex,Johnny Carson TV,https://provider-static.plex.tv/epg/images/thumbnails/johnnycarsontv_artwork_vertical.jpg
-plex.tv.Non-Stop.`90s.plex,Non-Stop `90s,https://metadata-static.plex.tv/c/gracenote/cf485445febd4483714258e9c5f79a90.jpg
+plex.tv.Non-Stop.`90s.plex,Non-Stop `90s,https://metadata-static.plex.tv/d/gracenote/d7dce78c9b961b890f4b1bee491f2205.jpg
 plex.tv.The.FBI.plex,The FBI,https://image.tmdb.org/t/p/original/6XOflcKgzdQlonMBsNSnJsorXK2.jpg
 plex.tv.Outside.plex,Outside,https://provider-static.plex.tv/epg/cms/production/fd1cf9e2-3d98-4691-a0e4-a40f115a3352/Plex_keyart_2x3.jpg
-plex.tv.PBS.Genealogy.plex,PBS Genealogy,https://d31l2nn7dlh4li.cloudfront.net/amg02333/asset_artifacts/image/fetch_media/d65ec77f75efe7a4/PBS_LongLostFamilyUK_2000x3000.jpg
+plex.tv.PBS.Genealogy.plex,PBS Genealogy,https://d31l2nn7dlh4li.cloudfront.net/amg02333/asset_artifacts/image/fetch_media/a851a9810097cee6/PBS_LongLostFamily_2000x3000.jpg
 plex.tv.80`s.Sitcom.Flashback.plex,80`s Sitcom Flashback,https://preview-amagistv-amg02208-anvir1.now.amagi.tv/Images/S3/TAC2by3.png
-plex.tv.Pink.Panther.plex,Pink Panther,https://image.tmdb.org/t/p/original/4B2WKgIY1uNov3zLAgSeNIk5G0W.jpg
+plex.tv.Pink.Panther.plex,Pink Panther,https://image.tmdb.org/t/p/original/gyllTtvmYQJ68vEAY3ILNhjNZv3.jpg
 plex.tv.ONE.Championship.TV.plex,ONE Championship TV,https://provider-static.plex.tv/epg/cms/production/48772efe-4b7a-4953-a712-3674043797aa/ONE_2000x300_-_Eddie_Hunter-Higgins.jpg
 plex.tv.GUSTOTV.plex,GUSTOTV,https://metadata-static.plex.tv/a/gracenote/aaf063a1c5a32c7b11469cf3c6535bf7.jpg
-plex.tv.PFL.MMA.plex,PFL MMA,https://img.platform.wurl.dev/episodemeta/45600398/amazon/a8906b/Amazon-Program-Poster_v1.png
-plex.tv.RACER.Select.plex,RACER Select,http://tmsimg.com/assets/p238707_i_v12_ab.jpg?w=1920&amp;h=2880
+plex.tv.PFL.MMA.plex,PFL MMA,https://img.platform.wurl.dev/episodemeta/45600400/amazon/f9dea7/Amazon-Program-Poster_v1.png
+plex.tv.RACER.Select.plex,RACER Select,http://tmsimg.com/assets/p238707_b_v12_ae.jpg?w=1920&amp;h=2880
 plex.tv.Motorvision.TV.plex,Motorvision TV,https://provider-static.plex.tv/epg/images/thumbnails/motorvision_artwork_vertical.jpg
 plex.tv.Racing.America.plex,Racing America,https://provider-static.plex.tv/epg/cms/production/cd647cc9-fc52-4616-8df4-63512e5f2691/Plex_2000x3000_-_Jillian_Schwartz.jpg
 plex.tv.World.Surf.League.24/7.plex,World Surf League 24/7,https://provider-static.plex.tv/epg/cms/production/8a626fbd-6e1b-48ad-b36a-c634423b9677/2000X3000_WSL_VERT.jpg
@@ -358,108 +358,108 @@ plex.tv.McLeods.Daughters.plex,McLeods Daughters,https://image.tmdb.org/t/p/orig
 plex.tv.Bonanza-Billies.TV.plex,Bonanza-Billies TV,https://provider-static.plex.tv/epg/cms/production/9770b7f8-142d-44fe-86e6-22979baa43a7/BonanzaBilliesTV_2000x3000_Erica_Frager.jpg
 plex.tv.Four.in.a.Bed.plex,Four in a Bed,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/10811-12859/22142581-poster_v1.jpg
 plex.tv.Don`t.Tell.The.Bride.plex,Don`t Tell The Bride,https://provider-static.plex.tv/epg/cms/production/1982fc05-fd64-4cf9-a434-0d5f658f99c9/2000X3000_Fallback_DTTB_-_Simon_Tuquabo.jpg
-plex.tv.Chaos.on.Cam.by.A&amp;E.plex,Chaos on Cam by A&amp;E,https://image.tmdb.org/t/p/original/AcZTjWs5ajlLaHjsahSKP6R3JdP.jpg
-plex.tv.Preston.&amp;.Brianna.plex,Preston &amp; Brianna,https://image.xumo.com/v1/assets/asset/XM0RON1N8KAFMD/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88899612%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
-plex.tv.FilmRise.Creators.plex,FilmRise Creators,https://image.xumo.com/v1/assets/asset/XM0RW3KU2ZNRDO/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88899612%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Chaos.on.Cam.by.A&amp;E.plex,Chaos on Cam by A&amp;E,https://image.tmdb.org/t/p/original/duTvhY9tGwVmpiuyZZGLgCj218n.jpg
+plex.tv.Preston.&amp;.Brianna.plex,Preston &amp; Brianna,https://image.tmdb.org/t/p/original/ub3Ilu0gvuy56yZLgjNlt3ibtLW.jpg
+plex.tv.FilmRise.Creators.plex,FilmRise Creators,https://image.xumo.com/v1/assets/asset/XM0J5XKXZ6PTJI/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88899612%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.ALF.plex,ALF,https://metadata-static.plex.tv/7/gracenote/76b41725823401130cf4ba0553ad06e6.jpg
-plex.tv.Hasbro.Legends.plex,Hasbro Legends,https://image.tmdb.org/t/p/original/poqeottiB7IDDjOMOa59kB13uow.jpg
+plex.tv.Hasbro.Legends.plex,Hasbro Legends,https://metadata-static.plex.tv/4/gracenote/4d52153d41e326ef266272cedf43300c.jpg
 plex.tv.Crime.Beat.TV.plex,Crime Beat TV,https://metadata-static.plex.tv/a/gracenote/a01766383a8d58b1d2a6c7650708aed3.jpg
-plex.tv.Outlaw.plex,Outlaw,https://metadata-static.plex.tv/2/gracenote/2a8813eec22fb6b4e9298aefab5d4add.jpg
+plex.tv.Outlaw.plex,Outlaw,https://metadata-static.plex.tv/9/gracenote/974e99785f2d5659070faa1204589c7a.jpg
 plex.tv.Wild.West.TV.plex,Wild West TV,https://provider-static.plex.tv/epg/cms/production/ac02ec0a-ba9e-4030-8e2c-c7f0ce091dda/WildWestTV_VERTRDX_-_Paige_Sherman.jpg
 plex.tv.The.Rifleman.plex,The Rifleman,https://metadata-static.plex.tv/7/gracenote/785ebd994adc0d01343a018b2a367ca1.jpg
 plex.tv.Wanted:.Dead.or.Alive.plex,Wanted: Dead or Alive,https://image.tmdb.org/t/p/original/9dC88WucCeLpfuSaBIEtfPDZNSw.jpg
 plex.tv.Death.Valley.Days.plex,Death Valley Days,https://metadata-static.plex.tv/4/gracenote/41c4f94d9970a2f853f1355617240f37.jpg
 plex.tv.FilmRise.Western.plex,FilmRise Western,https://metadata-static.plex.tv/7/gracenote/785ebd994adc0d01343a018b2a367ca1.jpg
 plex.tv.PursuitUP.plex,PursuitUP,https://provider-static.plex.tv/epg/cms/production/cb866bf0-afd0-4f25-855c-998e26dd0fa0/Vertical_Artwork_-_Austen_Faulk.jpg
-plex.tv.Game.&amp;.Fish.TV.plex,Game &amp; Fish TV,https://files.myoutdoortv.com/images/266/BuckCommander_S16_2x3_2000x3000_Title_0925.jpg
-plex.tv.FTF.Sports.plex,FTF Sports,http://www.tmsimg.com/assets/p17303222_b_s3_aa.jpg
+plex.tv.Game.&amp;.Fish.TV.plex,Game &amp; Fish TV,https://files.myoutdoortv.com/images/385/BoneCollector_S18_2x3_2000x3000_Title_0226.jpg
+plex.tv.FTF.Sports.plex,FTF Sports,http://www.tmsimg.com/assets/GNLZZGG0031YG18.jpg
 plex.tv.INTER.24/7.plex,INTER 24/7,https://provider-static.plex.tv/epg/cms/production/0b1f608e-c938-47df-8a4c-54bf1f6bf34c/channel_artwork_vertical.jpg_-_Ingrid_Barresi.jpg
 plex.tv.beIN.SPORTS.XTRA.plex,beIN SPORTS XTRA,https://provider-static.plex.tv/epg/cms/production/8fa9ac87-bfcf-40ed-a153-c90dbc481ea4/PLEX_XTRA_VERTICAL_-_Mayra_LopezRDX.jpg
 plex.tv.The.Bob.Ross.Channel.plex,The Bob Ross Channel,https://metadata-static.plex.tv/3/gracenote/3eff907a8387a8cba6562dee56b54f6a.jpg
-plex.tv.GolfPass.plex,GolfPass,https://metadata-static.plex.tv/8/gracenote/8c4a6cdff97c4a545b5c517a0f3abce4.jpg
-plex.tv.Yahoo!.Sports.Network.plex,Yahoo! Sports Network,https://provider-static.plex.tv/epg/cms/production/b2f8cd76-ba6d-40a3-b61c-f832bd50dccb/YSN_verticle_art_2000x3000_-_Eddie_Hunter-Higgins.jpg
-plex.tv.Classic.Doctor.Who.plex,Classic Doctor Who,https://image.tmdb.org/t/p/original/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg
-plex.tv.Cowboy+.Sports.plex,Cowboy+ Sports,https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_CHEY2026_2x3.jpg
-plex.tv.Cirque.du.Soleil.plex,Cirque du Soleil,https://metadata-static.plex.tv/b/gracenote/bcf6a32e41cf9dd2c6210fa6218fe420.jpg
+plex.tv.GolfPass.plex,GolfPass,https://metadata-static.plex.tv/c/gracenote/c337609d65e3d3e94385492213dc581b.jpg
+plex.tv.Yahoo!.Sports.Network.plex,Yahoo! Sports Network,https://d16j4exgbx78bu.cloudfront.net/YSNET/YSN_IFL_genericslate_2000x3000.png
+plex.tv.Classic.Doctor.Who.plex,Classic Doctor Who,https://image.tmdb.org/t/p/original/8sJW1IHZ4FQnHeE4cJIbR18L7If.jpg
+plex.tv.Cowboy+.Sports.plex,Cowboy+ Sports,https://d1eb57x0r2hnbd.cloudfront.net/tetri/PRG_DODG2026_2x3.jpg
+plex.tv.Cirque.du.Soleil.plex,Cirque du Soleil,https://metadata-static.plex.tv/b/gracenote/b0710e4de22e59ee046a8f5589d194ed.jpg
 plex.tv.CNN.Originals.plex,CNN Originals,https://image.tmdb.org/t/p/original/qg7lcydNf8DBVFIFK3XEuccv1jf.jpg
-plex.tv.Unspeakable.plex,Unspeakable,https://image.xumo.com/v1/assets/asset/XM0RW3KU2ZNRDO/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88899612%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Unspeakable.plex,Unspeakable,https://image.xumo.com/v1/assets/asset/XM0J5XKXZ6PTJI/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88899612%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.Judge.Faith.plex,Judge Faith,http://tmsimg.com/assets/p10911954_b_v8_aa.jpg?w=960&amp;h=1440
 plex.tv.Wendy.Williams.plex,Wendy Williams,https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/WendyWilliams_portrait.jpg
-plex.tv.365BLK.[FAST].plex,365BLK [FAST],https://metadata-static.plex.tv/8/gracenote/8730a867bb963554daa80c6e576862d2.jpg
-plex.tv.Legacy.plex,Legacy,https://d3dpwvkv1y8pcn.cloudfront.net/Images/S3/WELGC/AffMQpoQmp_1770199-portrait.jpg
+plex.tv.365BLK.[FAST].plex,365BLK [FAST],https://metadata-static.plex.tv/c/gracenote/c8fbb081847be952ab7f5eae4482accc.jpg
+plex.tv.Legacy.plex,Legacy,https://d3dpwvkv1y8pcn.cloudfront.net/Images/S3/WELGC/sUBDyByxFq_1770198-portrait.jpg
 plex.tv.WipeoutXtra.plex,WipeoutXtra,https://metadata-static.plex.tv/b/gracenote/b66f70d8b236b272fab14405542abc3e.jpg
 plex.tv.The.Biggest.Loser.plex,The Biggest Loser,https://d3qpxldmlb2hw1.cloudfront.net/BIGLO/TBL_2x3.jpg
 plex.tv.Celebrity.Name.Game.plex,Celebrity Name Game,https://image.tmdb.org/t/p/original/pxenwgq31ZxYXlNnwVPNz7uVXnX.jpg
 plex.tv.VICE.plex,VICE,https://provider-static.plex.tv/epg/cms/production/bbc8d636-16d8-4851-bb18-ddc42f06328c/vice_artwork_vertical.jpg
 plex.tv.TVB.Pearl.Drama.plex,TVB Pearl Drama,https://provider-static.plex.tv/epg/cms/production/a7bc69e3-cbb9-4079-b320-bc865aa5f9e9/TVB_Pearl_Vertical_Art_-_Angus_Yip.jpg
 plex.tv.Hot.Ones.plex,Hot Ones,https://image.tmdb.org/t/p/original/4uudasFgKCVQFNGqfanD6wEGVS1.jpg
-plex.tv.JoySauce.plex,JoySauce,https://metadata-static.plex.tv/f/gracenote/f0190858acdef14bc5c9cee4e5d57a94.jpg
+plex.tv.JoySauce.plex,JoySauce,https://metadata-static.plex.tv/7/gracenote/71d9f87b9c6cbe5938ea59ed567d9c61.jpg
 plex.tv.Amasian.TV.plex,Amasian TV,https://provider-static.plex.tv/epg/cms/production/81de0bf0-f2ad-4510-b11a-11207139437f/Amasian_TV_artwork_vertical_-_Jason_Hwang.jpg
-plex.tv.Powernation.plex,Powernation,https://d1s3lrqxlyz0xd.cloudfront.net/POWNA-POWNR/MCT_28-1-18-1768246423.jpg
+plex.tv.Powernation.plex,Powernation,https://d1s3lrqxlyz0xd.cloudfront.net/POWNA-POWNR/EP_2-1-18-1768246157.jpg
 plex.tv.That.Girl.plex,That Girl,https://image.tmdb.org/t/p/original/rqde9J8qNnyhxjAK9UVgSzWJxiq.jpg
 plex.tv.Fifth.Gear.(UK).plex,Fifth Gear (UK),https://image.tmdb.org/t/p/original/yAxMzWGCuQI1adyPOGNefZHLOIy.jpg
 plex.tv.The.Ed.Sullivan.Show.plex,The Ed Sullivan Show,https://metadata-static.plex.tv/2/gracenote/299059abcb95add4589c0b1dcb888c45.jpg
 plex.tv.Degrassi.plex,Degrassi,https://provider-static.plex.tv/epg/cms/production/8390ed3c-8774-43a8-8399-1c20a231d7fb/Plex_Channel_Artwork__DegrassiTNG-2000x3000_2022rdx.jpg
-plex.tv.Shout!.TV.plex,Shout! TV,https://metadata-static.plex.tv/f/gracenote/f211b6f021525169421a1b21994fca9c.jpg
+plex.tv.Shout!.TV.plex,Shout! TV,https://metadata-static.plex.tv/0/gracenote/01c535b41b038fe275e00a22a24653c2.jpg
 plex.tv.Dog.Whisperer.plex,Dog Whisperer,https://metadata-static.plex.tv/e/gracenote/e506d47eea2f0823de530b822aa88138.jpg
-plex.tv.TODAY.All.Day.plex,TODAY All Day,https://metadata-static.plex.tv/4/gracenote/493b3f120bd978d14ce23c4eb205dc63.jpg
+plex.tv.TODAY.All.Day.plex,TODAY All Day,https://metadata-static.plex.tv/5/gracenote/589fe01941d9e981011c087442d62e8a.jpg
 plex.tv.RetroCrush.plex,RetroCrush,https://metadata-static.plex.tv/9/gracenote/97ce38aa1b52d2152d1a1c663d9742f7.jpg
 plex.tv.Yu-Gi-Oh!.plex,Yu-Gi-Oh!,https://metadata-static.plex.tv/3/gracenote/32d22dd52209662d9d6c1ec132e9db6d.jpg
-plex.tv.Beyblade.plex,Beyblade,https://d31l2nn7dlh4li.cloudfront.net/amg01796/asset_artifacts/image/fetch_media/a567c8c1a10d8d27/GREVOLUTION_POSTER_2Kx3K.png
+plex.tv.Beyblade.plex,Beyblade,https://d31l2nn7dlh4li.cloudfront.net/amg01796/asset_artifacts/image/fetch_media/3b7244328b0dad0d/BEYBLADE_POSTER_2Kx3K.png
 plex.tv.Anime.24/7.plex,Anime 24/7,https://provider-static.plex.tv/epg/cms/production/a02654c7-022d-43cc-b51e-1f90c9503507/anime247_artwork_vertical_-_Jason_Hwang.jpg
 plex.tv.Sonic.The.Hedgehog.plex,Sonic The Hedgehog,https://metadata-static.plex.tv/c/gracenote/c84de9a3dc42a071c97c34b0ef981cae.jpg
-plex.tv.Animation+.plex,Animation+,https://images.frequency.com/freq-img/1668b512-24bb-4c88-a2e3-f7ae00dfef33/MLShortsverticalpng.png
+plex.tv.Animation+.plex,Animation+,https://images.frequency.com/freq-img/14fc2205-3550-42e7-8abd-4e578bf22739/SteveCuttsShortsVerticalpng.png
 plex.tv.FilmRise.Anime.plex,FilmRise Anime,https://image.tmdb.org/t/p/original/fA1Z8yD3d1rbNITKtZIzy5B0riM.jpg
-plex.tv.AsianCrush.plex,AsianCrush,https://metadata-static.plex.tv/b/gracenote/b7770939e3b218b05a7cc777218b23ee.jpg
+plex.tv.AsianCrush.plex,AsianCrush,https://metadata-static.plex.tv/b/gracenote/b721b0ae4f0f4d95aa096d99f2366bd8.jpg
 plex.tv.ROMCOM.K-Drama.plex,ROMCOM K-Drama,https://provider-static.plex.tv/epg/cms/production/117fc058-bdcf-481f-a38c-73c91575b8f8/_Plex__ROMCOM_K-Drama_Vertical_Cover_Art_Ji_Eun_Park.jpg
-plex.tv.Dungeons.&amp;.Dragons.Adventures.plex,Dungeons &amp; Dragons Adventures,https://d31l2nn7dlh4li.cloudfront.net/amg02713/asset_artifacts/image/fetch_media/e77d13690d6f3bb7/DND_DungeonsAndDragons_1983_s01_cover_art_tv_series_2x3_2000x3000.jpg
-plex.tv.Jubao.plex,Jubao,https://img.static-ottera.com/prod/imd/show/thumbnails/poster/2000x2858/stealingheart_portrait.jpg
+plex.tv.Dungeons.&amp;.Dragons.Adventures.plex,Dungeons &amp; Dragons Adventures,https://d31l2nn7dlh4li.cloudfront.net/amg02713/asset_artifacts/image/fetch_media/e7c38f80c4cbfc4c/VivaLaDirtLeague_s01_artwork_BoxCover.jpg
+plex.tv.Jubao.plex,Jubao,https://img.static-ottera.com/prod/imd/show/thumbnails/poster/2000x2858/thegloryofglobalchinese_portrait.jpg
 plex.tv.FashionTV.plex,FashionTV,https://provider-static.plex.tv/epg/cms/production/2ac7f472-6646-4272-8e41-49b19f3ab359/fash2000X3000_JPG__Vertical_art_with_a_Logo_over_an_image_or_background__-_Yuri_Alexandrov.jpg
 plex.tv.Surfer.TV.plex,Surfer TV,https://provider-static.plex.tv/epg/cms/production/ac95799a-e682-43fb-a9c0-5db2cd18457b/PLEX_2000X3000_JPG__Vertical_art_with_a_Logo_over_an_image_or_background_.jpg
 plex.tv.Aliwko.plex,Aliwko,https://img.static-ottera.com/prod/imd/show/thumbnails/poster/2000x2858/24x24_portrait.jpg
 plex.tv.ACL.Cornhole.TV.plex,ACL Cornhole TV,https://provider-static.plex.tv/epg/cms/production/1c897c1a-e779-4746-8845-c8625b2d91c0/Plex_cornhole_vertical_-_Brendan_Canning.jpg
 plex.tv.Bowling.TV.plex,Bowling TV,https://provider-static.plex.tv/epg/cms/production/819a4912-db0f-4d44-907b-42c95170e1be/Bowling_TV_Vertical_Default_Art_Evann_D___Adamo.jpg
-plex.tv.Perform.by.Lifetime.plex,Perform by Lifetime,https://image.tmdb.org/t/p/original/eVI8JTd1Y41H4vgCfZ4o0xdRcGY.jpg
+plex.tv.Perform.by.Lifetime.plex,Perform by Lifetime,https://image.tmdb.org/t/p/original/pJ4atOHL0psX1DrGWOxzltbPrtu.jpg
 plex.tv.Azteca.Internacional.plex,Azteca Internacional,https://provider-static.plex.tv/epg/cms/production/3f020635-4401-4757-8f61-7f2a168b5317/2000x3000_NI_Internacional.jpg
-plex.tv.Z.Nation.plex,Z Nation,https://image.xumo.com/v1/assets/asset/XM0MXGQBHFB9HQ/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889482%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Z.Nation.plex,Z Nation,https://image.xumo.com/v1/assets/asset/XM0PKB8KENS8TT/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889482%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.The.Black.Effect.plex,The Black Effect,https://ingest-assets.wurl.com/426334/145105377-3.jpeg
-plex.tv.FilmRise.Black.TV.plex,FilmRise Black TV,https://metadata-static.plex.tv/5/gracenote/591257e3ef5757643ca213eab2e631cc.jpg
-plex.tv.Shades.of.Black.plex,Shades of Black,https://metadata-static.plex.tv/6/gracenote/65b748aea31484cb2267e9c0894737de.jpg
-plex.tv.Documentary+.plex,Documentary+,https://metadata-static.plex.tv/e/gracenote/e18facb81c7c083434090820930ce3b7.jpg
+plex.tv.FilmRise.Black.TV.plex,FilmRise Black TV,https://metadata-static.plex.tv/1/gracenote/1b6a787cc17ecd6e104bc4c4175df148.jpg
+plex.tv.Shades.of.Black.plex,Shades of Black,https://metadata-static.plex.tv/b/gracenote/be8497e8510a74bb6cff16246e3fc053.jpg
+plex.tv.Documentary+.plex,Documentary+,https://metadata-static.plex.tv/b/gracenote/bb686262e321a5015d729e67d7f55543.jpg
 plex.tv.Bizaar.plex,Bizaar,https://metadata-static.plex.tv/c/gracenote/cfebea3869e8efb471609d4726e08de1.jpg
-plex.tv.FailArmy.plex,FailArmy,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/2-2050/FailArmy-Playlist-3x4.jpg
+plex.tv.FailArmy.plex,FailArmy,https://provider-static.plex.tv/epg/cms/production/e338542c-06a7-4af7-bda9-353b54ac19c4/fa_SUMMERTILES_2000x3000_-_Erica_Laible__1_.jpg
 plex.tv.Dude.Perfect.plex,Dude Perfect,https://provider-static.plex.tv/epg/cms/production/08eaa3d7-8cc5-4f94-a17f-089b6673db26/Vertical_2000x3000.jpg
 plex.tv.Mr..Bean.plex,Mr. Bean,
-plex.tv.Just.For.Laughs.Gags.plex,Just For Laughs Gags,https://provider-static.plex.tv/epg/cms/production/e54e00cf-eca2-4d70-a942-4555c3af6723/JFLGAGS_PLEX_VERTICALDEFAULTART_2000X3000_CARLOS_PACHECO.jpg
-plex.tv.Creator.Television.plex,Creator Television,https://preview-amagicloud-sabio-automation-sabio.cloudport.amagi.tv/Images/S3/YFTM_S01E07_3x4.jpg
+plex.tv.Just.For.Laughs.Gags.plex,Just For Laughs Gags,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/6701-8749/13724755-PLEX-SERIES-VERTICAL-2000X3000_v1.png
+plex.tv.Creator.Television.plex,Creator Television,https://preview-amagicloud-sabio-automation-sabio.cloudport.amagi.tv/Images/S3/CPC-Premiere-Keyart-1080x1440.png
 plex.tv.The.Walking.Dead.Espanol.plex,The Walking Dead Espanol,https://metadata-static.plex.tv/6/gracenote/6e28ee78f8b78a70830720b8ffc1d1c9.jpg
 plex.tv.PBS.Travel.plex,PBS Travel,https://d31l2nn7dlh4li.cloudfront.net/amg02333/asset_artifacts/image/fetch_media/67a5e7d01c104bd8/PBS_RickStevesEurope_2000x3000.jpg
 plex.tv.AMC.en.Español.plex,AMC en Español,https://metadata-static.plex.tv/6/gracenote/6e28ee78f8b78a70830720b8ffc1d1c9.jpg
 plex.tv.Wu.Tang.Collection.plex,Wu Tang Collection,https://provider-static.plex.tv/epg/images/thumbnails/wu-tang-collection.jpg
-plex.tv.Hi-YAH!.plex,Hi-YAH!,https://metadata-static.plex.tv/5/gracenote/5678599f18a6fceda00065494a3b4131.jpg
+plex.tv.Hi-YAH!.plex,Hi-YAH!,https://metadata-static.plex.tv/d/gracenote/d2220e3690d32e52c07101f3f2ab5830.jpg
 plex.tv.MagellanTV.Wildest.plex,MagellanTV Wildest,https://d326zal162nowe.cloudfront.net/Images/S3/series_multitudesthepowerofnumbers_Season_1_2x3.jpg
-plex.tv.Cesar`s.Pack.Leader.TV.plex,Cesar`s Pack Leader TV,https://provider-static.plex.tv/epg/cms/production/e786af93-f8e3-4929-990b-d92a3242147a/Cesar_Vertical_SCRIPTRDX.jpg
-plex.tv.RCN.Más.plex,RCN Más,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/27740-29788/56812484-coverPoster_v1.jpg
-plex.tv.Unique.Lives.plex,Unique Lives,https://metadata-static.plex.tv/0/gracenote/03e3c1ca2ef24e38281234dd4647c29f.jpg
+plex.tv.Cesar`s.Pack.Leader.TV.plex,Cesar`s Pack Leader TV,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/27738-29786/56808518-poster_v1.jpg
+plex.tv.RCN.Más.plex,RCN Más,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/23616-25664/48366211-coverPoster_v1.jpg
+plex.tv.Unique.Lives.plex,Unique Lives,https://metadata-static.plex.tv/4/gracenote/45debddfb0394b7f1219165a0c2941ee.jpg
 plex.tv.Caso.Cerrado.plex,Caso Cerrado,https://metadata-static.plex.tv/a/gracenote/afd90a8e21f426617700ae1fb26c138b.jpg
-plex.tv.Telemundo.al.Dia.plex,Telemundo al Dia,https://metadata-static.plex.tv/2/gracenote/2c847cbdce4bb420dad57aa220318187.jpg
-plex.tv.Telemundo.Texas.plex,Telemundo Texas,https://metadata-static.plex.tv/e/gracenote/e32280e0c84dc3def7f837115727aabb.jpg
+plex.tv.Telemundo.al.Dia.plex,Telemundo al Dia,https://metadata-static.plex.tv/6/gracenote/6eda7440603a54bf2c657620e18cf05a.jpg
+plex.tv.Telemundo.Texas.plex,Telemundo Texas,https://metadata-static.plex.tv/8/gracenote/81b907fb2adf41f7d90e264c325a2e69.jpg
 plex.tv.24.Hour.Free.Movies.plex,24 Hour Free Movies,https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg
 plex.tv.Love.Nature.plex,Love Nature,https://image.tmdb.org/t/p/original/xxMItgjyvpSa514ips7Gj8McowQ.jpg
 plex.tv.Scream.Factory.TV.plex,Scream Factory TV,https://image.tmdb.org/t/p/original/8WUZ79mp39huaffAabcTZ72pMW4.jpg
 plex.tv.Real.Wild.plex,Real Wild,https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg
-plex.tv.Journy.plex,Journy,https://image.tmdb.org/t/p/original/wc8KXKJDqvveO7bplrHHTRMO14B.jpg
+plex.tv.Journy.plex,Journy,https://provider-static.plex.tv/epg/cms/production/6d8e3c4d-ebd6-4f1f-8248-64ea54a16f0e/JOURNY_2000X3000_Vertical_art_-_Brett_Shaw.jpg
 plex.tv.Estrella.News.plex,Estrella News,https://provider-static.plex.tv/epg/images/thumbnails/estrellanews_artwork_vertical.jpg
 plex.tv.ADN.NOTICIAS.plex,ADN NOTICIAS,https://provider-static.plex.tv/epg/cms/production/5cc083f6-d8a2-4a26-84f3-e165670851d8/Logo_ADN_2X3.jpg
-plex.tv.Canela.TV.Clásicos.plex,Canela.TV Clásicos,https://provider-static.plex.tv/epg/cms/production/2432188c-f32f-47a3-a3d9-dd5e3a35440f/CM-Plex-logo-clasicos-2000x3000_-_Natalia_Rodriguez.jpg
-plex.tv.GoUSA.TV.plex,GoUSA TV,https://image.tmdb.org/t/p/original/vvZX834WfH8lAb2Jp0g2oqeJHF2.jpg
+plex.tv.Canela.TV.Clásicos.plex,Canela.TV Clásicos,https://preview-amagistv-amg00658-anvir2.now.amagi.tv/Images/S3/29cebec3-32a4-4689-84f8-bec132a15cbe_una_carta_de_amor-2x3-albert.jpg
+plex.tv.GoUSA.TV.plex,GoUSA TV,https://image.tmdb.org/t/p/original/ybv4wQAUAxaYJnNVCsmic70KZ41.jpg
 plex.tv.BlackPix.plex,BlackPix,https://provider-static.plex.tv/epg/cms/production/c1cf2c23-a89a-4c9d-95d7-476762b15f79/blackpix_artwork_vertical.jpg
 plex.tv.Canela.TV.Novelas.y.Dramas.plex,Canela.TV Novelas y Dramas,https://provider-static.plex.tv/epg/cms/production/940875c6-94af-4b1b-b1ea-b9be52de26ab/CM-Plex-logo-CanelaTV-Novelas_y_Dramas.jpg
 plex.tv.4UV.plex,4UV,https://image.tmdb.org/t/p/original/gmk0oDoemqEfdXHbcrjHGNw3nfN.jpg
-plex.tv.The.Asylum.plex,The Asylum,https://metadata-static.plex.tv/a/gracenote/a6fde702671de611ae41075c99f4a30b.jpg
+plex.tv.The.Asylum.plex,The Asylum,https://metadata-static.plex.tv/5/gracenote/5e875d2d3a4f5a9274babb7620966916.jpg
 plex.tv.BOOT.plex,BOOT,https://provider-static.plex.tv/epg/cms/production/1c41ee5d-1157-4bc2-b587-abb3d7141766/BOOT-white-with-concrete-background-2000x3000.jpg
-plex.tv.FilmRise.Action.plex,FilmRise Action,https://metadata-static.plex.tv/4/gracenote/4ac54b72cbe5595859237cf04105b60d.jpg
-plex.tv.OUTFLIX.MOVIES.plex,OUTFLIX MOVIES,https://img.jwplayer.com/v1/images/4AXOVnlp.jpg
+plex.tv.FilmRise.Action.plex,FilmRise Action,https://image.tmdb.org/t/p/original/qCPMjT8Ld8tvs1zs7LY2jpKlRIK.jpg
+plex.tv.OUTFLIX.MOVIES.plex,OUTFLIX MOVIES,https://img.jwplayer.com/v1/images/Qvg6kkAK.jpg
 plex.tv.CBS.News.Texas.plex,CBS News Texas,https://images.pluto.tv/series/64cd66ee445a8a0013caee27/poster_1753048916155.jpg?fm=jpg
 plex.tv.NBC.5.Dallas.Fort.Worth.News.plex,NBC 5 Dallas Fort Worth News,https://metadata-static.plex.tv/2/gracenote/24e895e9de31236fe55e70eb78c23663.jpg
 plex.tv.Free.Movies.Plus.plex,Free Movies Plus,https://metadata-static.plex.tv/e/gracenote/edd91d6d5d57f8ccc780e213d8560272.jpg
@@ -467,15 +467,15 @@ plex.tv.The.Doctors.plex,The Doctors,https://image.tmdb.org/t/p/original/t8xfT0c
 plex.tv.At.Home.with.Family.Handyman.plex,At Home with Family Handyman,https://provider-static.plex.tv/epg/cms/production/0c62bb97-57ad-4092-9469-8d8efa52d2ea/Athome-Asset-VERT__1_RDX.jpg
 plex.tv.SLOPES.plex,SLOPES,https://s3.amazonaws.com/mtdb.galxy.prod/storage/media-images/posters/sEb4gLFQjl8Crhm3nQlp19EWWtDAp4LUwgHkBKYT.jpeg
 plex.tv.Travel.Escapes.plex,Travel Escapes,https://provider-static.plex.tv/epg/cms/production/84141265-72ab-4dd7-b5ab-b97609fd40c6/Travel_escapes_Bryan_Mcdaid.jpg
-plex.tv.Horror.Stories.plex,Horror Stories,https://metadata-static.plex.tv/2/gracenote/2cd0eda95d2f355b288a8aab66ccc427.jpg
+plex.tv.Horror.Stories.plex,Horror Stories,https://metadata-static.plex.tv/4/gracenote/417a6e38ddfcdd2badf70abb35bbfa69.jpg
 plex.tv.The.Outpost.plex,The Outpost,https://metadata-static.plex.tv/2/gracenote/2dd881211122383ea3681c1eb884a8da.jpg
 plex.tv.Continuum.plex,Continuum,https://image.tmdb.org/t/p/original/bI2gMnLENFRmcnL40wjP7SzhGIL.jpg
 plex.tv.Anger.Management.en.español.plex,Anger Management en español,https://provider-static.plex.tv/epg/cms/production/7ac6b9c4-f01d-45f2-87ab-cbdc78f8387e/AngrMngmnt_Vertical_2000x3000_-_Chris_Connorsrdc.jpg
 plex.tv.Crime.Scenes.plex,Crime Scenes,https://image.tmdb.org/t/p/original/xmBdPgw9VUYnnqwUPNiKmuKxiiw.jpg
-plex.tv.LX.Home.Streaming.plex,LX Home Streaming,https://metadata-static.plex.tv/f/gracenote/f8aa248e80ec91f2dc3645994072b45f.jpg
-plex.tv.Hong.Kong.Fight.Club.plex,Hong Kong Fight Club,https://image.tmdb.org/t/p/original/ma3v6jZNhrvUNHrJL6hYc04YIJV.jpg
+plex.tv.LX.Home.Streaming.plex,LX Home Streaming,https://metadata-static.plex.tv/a/gracenote/a37dfe21a95c8f4e5ed1b86260b8745c.jpg
+plex.tv.Hong.Kong.Fight.Club.plex,Hong Kong Fight Club,https://metadata-static.plex.tv/e/gracenote/ee5c31077d6bedd4266dfdd00c4b9ddb.jpg
 plex.tv.The.World.Poker.Tour.plex,The World Poker Tour,https://provider-static.plex.tv/epg/cms/production/87691ae4-0a24-4535-8188-9c92d39287d7/WPT2022_1000x1500__1_.jpg
-plex.tv.Action.Hollywood.Movies.plex,Action Hollywood Movies,https://metadata-static.plex.tv/c/gracenote/c93032da8bc974a27f0836b0f6f48092.jpg
+plex.tv.Action.Hollywood.Movies.plex,Action Hollywood Movies,https://metadata-static.plex.tv/2/gracenote/21a23cba9cde4b4ab4ff43b5f9945498.jpg
 plex.tv.Novelisima.plex,Novelisima,https://provider-static.plex.tv/epg/cms/production/f0264004-d833-4809-8173-dc12f75e70e0/Novelisima_vert_2000x3000_-_Ali_Clausen.jpg
 plex.tv.Runtime.Español.plex,Runtime Español,https://img.static-ottera.com/prod/run/video/thumbnails/poster/2000x2858/origins_of_the_universe_thumbnail_7x10_poster_las.jpg
 plex.tv.NEW.KFOOD.plex,NEW KFOOD,https://provider-static.plex.tv/epg/cms/production/62528d3f-fc1e-4168-bbb1-ee9b08230eb5/NEW_KFOOD_Vertical_Default_Artwork.jpg
@@ -487,12 +487,12 @@ plex.tv.Go.Wild.plex,Go Wild,https://image.tmdb.org/t/p/original/zcWEk5xDC5gDzr8
 plex.tv.Overtime.plex,Overtime,http://www.tmsimg.com/assets/p23616506_b_s2_aa.jpg
 plex.tv.Caught.in.Providence.plex,Caught in Providence,https://provider-static.plex.tv/epg/cms/production/a79a4777-d935-4056-9137-a199c9760398/CaughtinProvidence_2000x3000.jpg
 plex.tv.Wonder.plex,Wonder,https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg
-plex.tv.FUEL.TV.plex,FUEL TV,https://metadata-static.plex.tv/4/gracenote/4d3905511f55d550a98ddf2c85e02ab0.jpg
+plex.tv.FUEL.TV.plex,FUEL TV,https://metadata-static.plex.tv/7/gracenote/75d793f925efa2549a7b0f04e853420f.jpg
 plex.tv.Los.Asesinatos.de.Midsomer.plex,Los Asesinatos de Midsomer,https://image.xumo.com/v1/assets/asset/XM0DG9TJ75QWWG/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889483%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.FilmRise.Concursos.de.Cocina.plex,FilmRise Concursos de Cocina,https://image.tmdb.org/t/p/original/10XpD4aEOExWcOg9bxCA28NNsMQ.jpg
 plex.tv.FilmRise.Series.Gratis.plex,FilmRise Series Gratis,https://image.tmdb.org/t/p/original/mcAqVE5RY2KBA9JYC1wqb37wquB.jpg
 plex.tv.People.are.Awesome.plex,People are Awesome,https://provider-static.plex.tv/epg/cms/production/2e7969a7-3975-4e39-94fb-6a42b280d022/jukin_peopleareawesome_vertical_1-v2.jpg
-plex.tv.Corazón.plex,Corazón,https://img.static-ottera.com/prod/azt/show/thumbnails/widescreen/2000x2858/asi-en-el-barrio_0.jpg
+plex.tv.Corazón.plex,Corazón,https://provider-static.plex.tv/epg/cms/production/23ccda27-d495-497e-9bf9-cc26105410b0/Corazon_vert_image.jpg
 plex.tv.Estrella.TV.plex,Estrella TV,https://provider-static.plex.tv/epg/images/thumbnails/estrellatv_artwork_vertical.jpg
 plex.tv.True.Crime.Now.plex,True Crime Now,https://d326zal162nowe.cloudfront.net/Images/S3/Series_causeofdeath_Season_3_2x3.jpg
 plex.tv.PBS.Retro.plex,PBS Retro,https://d31l2nn7dlh4li.cloudfront.net/amg02333/asset_artifacts/image/fetch_media/eda7eb35c887e66e/PBS_TheBerenstainBears_2000x3000.jpg
@@ -501,115 +501,115 @@ plex.tv.Sonic.TV.plex,Sonic TV,https://s3.amazonaws.com/mtdb.galxy.prod/storage/
 plex.tv.Power.Rangers.plex,Power Rangers,https://metadata-static.plex.tv/0/gracenote/068e5398f95676ff7a9bc8e7c5cae2d3.jpg
 plex.tv.WeatherSpy.plex,WeatherSpy,https://provider-static.plex.tv/epg/cms/production/a7b0a2d5-c90b-48b9-aeb7-709f193845a2/WS-2000x3000_-_Erica_Laible__1_.jpg
 plex.tv.El.Señor.de.los.Cielos.plex,El Señor de los Cielos,https://metadata-static.plex.tv/4/gracenote/4eaf523df4eebf056d71334d80d888f5.jpg
-plex.tv.Midnight.Pulp.plex,Midnight Pulp,https://metadata-static.plex.tv/9/gracenote/98c8fd65e2350a5447dfa34eb9257132.jpg
-plex.tv.OuterSphere.by.Lionsgate.plex,OuterSphere by Lionsgate,https://amagicloud-lionsgate.s3.amazonaws.com/Images/S3/Andromeda_532x800.jpg
+plex.tv.Midnight.Pulp.plex,Midnight Pulp,https://metadata-static.plex.tv/8/gracenote/837b6eb64482fba97b55661eeb38e841.jpg
+plex.tv.OuterSphere.by.Lionsgate.plex,OuterSphere by Lionsgate,https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg
 plex.tv.FilmRise.Sci-Fi.plex,FilmRise Sci-Fi,https://provider-static.plex.tv/epg/cms/production/d841d6c6-56e9-4794-9a75-d539e1305038/FilmRise_SciFi_ChannelTile_2000x3000.jpg
 plex.tv.Novelas.de.Siempre.plex,Novelas de Siempre,https://preview-amagistv-amg02724-cloudport.now.amagi.tv/Images/S3/AMG02724C4/La_Dama_de_Rosa.jpg
-plex.tv.Caracol.Mix.plex,Caracol Mix,https://caracolfast-images.cloudport.amagi.tv/Images/S3/carmix/test_CMIX_TU_VOZ_ESTEREO_portrait.jpg
+plex.tv.Caracol.Mix.plex,Caracol Mix,https://provider-static.plex.tv/epg/cms/production/3b2a5e82-9449-40ec-86cd-c800a2349949/Caracol_Mix_VERT.jpg
 plex.tv.ElectricNOW.en.Español.plex,ElectricNOW en Español,https://d2mlon68o0r7mn.cloudfront.net/Images/S3/thelibrarians_cinemascope_2x3.jpg
 plex.tv.Delito.plex,Delito,https://d31l2nn7dlh4li.cloudfront.net/amg27876/asset_artifacts/image/fetch_media/c257467965ada839/75a37282-a86e-4f50-82bc-e1045803d4e5.png
 plex.tv.Azteca.Deportes.Network.plex,Azteca Deportes Network,https://img.static-ottera.com/prod/azt/show/thumbnails/widescreen/2000x2858/capsulas-ines.jpg
-plex.tv.EarthXtra.plex,EarthXtra,https://metadata-static.plex.tv/6/gracenote/6d8ca742d0fb76281e40d821caffb9a5.jpg
+plex.tv.EarthXtra.plex,EarthXtra,https://metadata-static.plex.tv/3/gracenote/3d2a04c4b07b838722495b37b99c0d77.jpg
 plex.tv.My.Little.Pony.plex,My Little Pony,https://provider-static.plex.tv/epg/cms/production/d659572b-7cbe-434d-84b2-f07b3b136b74/PLEX---VERT_Pony-Vertical-art-with-Logo.jpg
 plex.tv.Stingray.Holidayscapes.plex,Stingray Holidayscapes,https://provider-static.plex.tv/epg/cms/production/ee6b96fa-b3fa-4035-8763-d514e152f052/13212_SHS_Plex_Channel-Art-Vertical_2000x3000_V01_-_Olivia_bronfman.jpg
 plex.tv.Estrella.Games.plex,Estrella Games,https://provider-static.plex.tv/epg/cms/production/2278c0ac-4bee-48ed-8718-15de95580a7d/channel-poster_-_Erick_Ramirezrdx.jpg
-plex.tv.Iron.Chef.en.español.plex,Iron Chef en español,https://image.xumo.com/v1/assets/asset/XM07QIABMYIEVI/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889433%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
-plex.tv.Fight.Network.plex,Fight Network,https://metadata-static.plex.tv/5/gracenote/5ca4ef51309e8395e22b3103c3cdf948.jpg
+plex.tv.Iron.Chef.en.español.plex,Iron Chef en español,https://image.xumo.com/v1/assets/asset/XM0H1JX6820TDD/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889433%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Fight.Network.plex,Fight Network,https://metadata-static.plex.tv/8/gracenote/8c7d71735ea66e595d31ee3adeade784.jpg
 plex.tv.Vive.Kanal.D.Drama.plex,Vive Kanal D Drama,https://provider-static.plex.tv/epg/cms/production/a9a32f99-a1f9-4e59-a785-7b41ff924c00/Vive_KDD_Vertical_Art_-_Alejandro_N.jpg
 plex.tv.RCN.Noticias.plex,RCN Noticias,http://www.tmsimg.com/assets/p11327783_b_s4_ac.jpg
-plex.tv.FilmRise.Crímenes.Verdaderos.plex,FilmRise Crímenes Verdaderos,https://image.xumo.com/v1/assets/asset/XM0HLBHN7SRW7R/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889317%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
-plex.tv.FilmRise.Películas.Gratis.plex,FilmRise Películas Gratis,https://image.xumo.com/v1/assets/asset/XM08HLZ1J28UY9/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889309%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
-plex.tv.Western.Bound.Español.plex,Western Bound Español,https://img.static-ottera.com/prod/ime/show/thumbnails/poster/2000x2858/jim101_las_vertical.jpg
+plex.tv.FilmRise.Crímenes.Verdaderos.plex,FilmRise Crímenes Verdaderos,https://image.xumo.com/v1/assets/asset/XM0JUJN1XG8CTW/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889317%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.FilmRise.Películas.Gratis.plex,FilmRise Películas Gratis,https://image.xumo.com/v1/assets/asset/XM0UWFIURO6PTS/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889309%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Western.Bound.Español.plex,Western Bound Español,https://img.static-ottera.com/prod/ime/video/thumbnails/poster/2000x2858/wrbl_las_vertical.jpg
 plex.tv.Mera.Mera.TV.plex,Mera Mera TV,https://provider-static.plex.tv/epg/cms/production/5148819e-e781-44da-850a-89166c0023cf/2000x3000_JPG_Logo_over_an_ImageRDXX_.jpg
-plex.tv.Crime.Scene.TV.plex,Crime Scene TV,https://image.xumo.com/v1/assets/asset/XM02FM7Q48196X/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889359%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Crime.Scene.TV.plex,Crime Scene TV,https://image.tmdb.org/t/p/original/hgWmJmREVDHkRqnGfb2QRarKb1X.jpg
 plex.tv.ITV.Deportes.plex,ITV Deportes,http://www.tmsimg.com/assets/p433955_i_v12_aa.jpg?w=1920&amp;h=2880
 plex.tv.Billboard.Español.TV.plex,Billboard Español TV,https://d31l2nn7dlh4li.cloudfront.net/amg00375/asset_artifacts/image/fetch_media/269f101d4c7b3ad5/qhQfpuL4.jpg
 plex.tv.Teleonce.America.plex,Teleonce America,https://provider-static.plex.tv/epg/cms/production/6d1d6b30-3498-42a8-8718-c9c5b824bb50/T11_America_Invertido_VERT.jpg
 plex.tv.WAPA+.plex,WAPA+,http://www.tmsimg.com/assets/p11298740_b_s4_ab.jpg
 plex.tv.Cops.en.Español.plex,Cops en Español,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/16332-18380/33449121-coverPoster_v1.jpg
 plex.tv.Gata.Salvaje.plex,Gata Salvaje,https://image.tmdb.org/t/p/original/jxEDUPlaJJ20UzI0woepdfjdUBR.jpg
-plex.tv.Clic.plex,Clic,https://img.static-ottera.com/prod/azt/show/thumbnails/widescreen/2000x2858/pase-de-abordar.jpg
-plex.tv.Spark.TV.Luz.y.Amor.plex,Spark TV Luz y Amor,https://provider-static.plex.tv/epg/cms/production/1618e953-bcf7-4038-9267-421c9b887863/Plex_SparkTV_key-art_Spanish-Portuguese_2000x3000_Erik_Monson.jpg
+plex.tv.Clic.plex,Clic,https://img.static-ottera.com/prod/azt/show/thumbnails/widescreen/2000x2858/whatsapp_image_2025-09-29_at_2.05.47_pm.jpg
+plex.tv.Spark.TV.Luz.y.Amor.plex,Spark TV Luz y Amor,https://partner-upload-assets.wurl.com/candlelight_media/ROMANTIC_FRICITON_VERTICAL_LAS_2000x3000.jpg
 plex.tv.Grjngo.-.Películas.Del.Oeste.plex,Grjngo - Películas Del Oeste,https://provider-static.plex.tv/epg/cms/production/5dba3897-4a93-4801-bf3a-69787898cc79/Grjngo-PELICULAS_DEL_OESTE_artwork_vertical_2x3_-_Toni_Newesil.jpg
-plex.tv.Cheaters.en.Español.plex,Cheaters en Español,https://image.xumo.com/v1/assets/asset/XM0XO84TUMARCA/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889379%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
-plex.tv.Crimes.Cults.Killers.plex,Crimes Cults Killers,https://metadata-static.plex.tv/6/gracenote/6a8fe092225d5cc5984d633e13e06561.jpg
-plex.tv.Misterios.sin.Resolver.plex,Misterios sin Resolver,https://image.xumo.com/v1/assets/asset/XM0HLBHN7SRW7R/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889317%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
-plex.tv.FreeTV.Clásico.plex,FreeTV Clásico,https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/maclta1_movie_image_2x3_es_1080x1620_es_0.jpg
+plex.tv.Cheaters.en.Español.plex,Cheaters en Español,https://image.xumo.com/v1/assets/asset/XM0VEXEWHJ09UY/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889379%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Crimes.Cults.Killers.plex,Crimes Cults Killers,https://image.tmdb.org/t/p/original/8pe2RiIz8aaWDVPpcRzvzBQaHhI.jpg
+plex.tv.Misterios.sin.Resolver.plex,Misterios sin Resolver,https://image.xumo.com/v1/assets/asset/XM0QA6XF8YXXGE/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889330%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.FreeTV.Clásico.plex,FreeTV Clásico,https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mmdnoc1_featured_es_1080x1620.jpg
 plex.tv.Lucha.Plus.plex,Lucha Plus,https://provider-static.plex.tv/epg/cms/production/b32c12bb-ab4c-4077-b0b2-db116ab30e0d/Plex_Channel_Vertical_Art_Bkgd_-_Juan_Miguel_Bassalik.jpg
 plex.tv.Teletubbies.plex,Teletubbies,https://image.tmdb.org/t/p/original/orb9uGxgXs1Lo69SWwWeS5MxA2l.jpg
-plex.tv.Baby.Einstein.plex,Baby Einstein,https://image.xumo.com/v1/assets/asset/XM0KPCLB4DUYNJ/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88899632%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
-plex.tv.The.Wiggles.plex,The Wiggles,https://image.xumo.com/v1/assets/asset/XM0PBOTTETQ60W/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88899627%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Baby.Einstein.plex,Baby Einstein,https://image.xumo.com/v1/assets/asset/XM0AH1NUPEDK5H/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88899632%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.The.Wiggles.plex,The Wiggles,https://image.xumo.com/v1/assets/asset/XM09ZULTUWBRQ5/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88899627%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.beIN.Sports.Xtra.en.Español.plex,beIN Sports Xtra en Español,https://provider-static.plex.tv/epg/cms/production/408a477d-93ec-4e20-9292-c26ccdf79f25/PLEX_XTRA___VERTICAL_-_Mayra_LopezRDX.jpg
 plex.tv.Historias.de.Corazón.plex,Historias de Corazón,https://img.static-ottera.com/prod/lcf/show/thumbnails/poster/2000x2858/salsa_tp.jpg
 plex.tv.Strawberry.Shortcake.plex,Strawberry Shortcake,https://image.tmdb.org/t/p/original/xweEe66HXnW5LAGanucy5ZOL6fu.jpg
-plex.tv.Canela.TV.Hollywood.y.Más.plex,Canela.TV Hollywood y Más,https://preview-amagistv-amg00658-anvir2.now.amagi.tv/Images/S3/6c0db7401dba570c4e792555a778b1c1dcc89a4a_2x3.png
+plex.tv.Canela.TV.Hollywood.y.Más.plex,Canela.TV Hollywood y Más,https://preview-amagistv-amg00658-anvir2.now.amagi.tv/Images/S3/4f7f8a9a-ec6b-4987-80f9-bc0359141e56_2x3.png
 plex.tv.Ninja.Kidz.TV.plex,Ninja Kidz TV,https://provider-static.plex.tv/epg/cms/production/d365b70a-3a58-4e79-9e65-98bb98f0e34c/David_Preisman_-_PlexPoster-Image-2000x3000.jpg
-plex.tv.PLL.Network.plex,PLL Network,https://img.static-ottera.com/prod/bbb/media_list/thumbnails/poster/2000x2858/mplss3_2by3.jpg
+plex.tv.PLL.Network.plex,PLL Network,https://img.static-ottera.com/prod/bbb/video/thumbnails/poster/2000x2858/25pllplayback_2by3.jpg
 plex.tv.Swerve.Women`s.Sports.plex,Swerve Women`s Sports,https://provider-static.plex.tv/epg/cms/production/a9d3b3a4-07de-4951-8fbc-80b76cae8e96/1920x1080_Swerve_Womens__Sport_vert_Art.jpg
 plex.tv.The.New.Detectives.plex,The New Detectives,https://image.tmdb.org/t/p/original/qKd9upjbRcV2wN1oH6t3PX6sefd.jpg
 plex.tv.Made.In.Hollywood.plex,Made In Hollywood,https://provider-static.plex.tv/epg/cms/production/8af80783-d355-4cd1-86eb-c3d54d9ff706/PlexVertCoverArt_Mona_Lapides.jpg
-plex.tv.Cine.en.Español.plex,Cine en Español,https://preview-amagistv-amg02724-cloudport.now.amagi.tv/Images/S3/AMG02724C1/La_Ley_del_Embudo.jpg
+plex.tv.Cine.en.Español.plex,Cine en Español,https://preview-amagistv-amg02724-cloudport.now.amagi.tv/Images/S3/AMG02724C1/Denzura.jpg
 plex.tv.Cine.EstrellaTV.plex,Cine EstrellaTV,https://provider-static.plex.tv/epg/cms/production/39f643f2-b729-44e8-a99c-a685d22fd590/Cine-Estrella-Vertical-2000x3000_-_Erick_Ramirez.jpg
-plex.tv.Nosey.Escándalos.plex,Nosey Escándalos,https://streaming-artwork.marathon-tools.com/NoseyEscandalos/Maury_Banner_2160x3240_2x3_UPDATED.jpg
+plex.tv.Nosey.Escándalos.plex,Nosey Escándalos,https://streaming-artwork.marathon-tools.com/NoseyEscandalos/LosInformantes_Banner_2160x3240_2x3.jpg
 plex.tv.Zona.Investigación.plex,Zona Investigación,https://provider-static.plex.tv/epg/cms/production/23b299f8-8ed3-4ae3-bccc-0e92480f9b22/Zona_Investigacion_-_2000X3000_JPG_Vertical_art_with_a_Logo_over_an_image_or_background_copy_-_JuanMa_Velasquez.jpg
 plex.tv.Willow.Sports.plex,Willow Sports,http://tmsimg.com/assets/p8853139_b_v8_aa.jpg?w=960&amp;h=1440
-plex.tv.Cine.Romántico.plex,Cine Romántico,https://image.xumo.com/v1/assets/asset/XM082SO62GCNF2/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889481%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
-plex.tv.Todo.Drama.plex,Todo Drama,https://image.xumo.com/v1/assets/asset/XM0O24A208BSP0/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889493%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Cine.Romántico.plex,Cine Romántico,https://image.xumo.com/v1/assets/asset/XM0EC83GDF6VZM/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889481%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Todo.Drama.plex,Todo Drama,https://image.xumo.com/v1/assets/asset/XM0V3V6Z89NLO5/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889493%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.FilmRise.Kids.plex,FilmRise Kids,https://image.tmdb.org/t/p/original/f7J453hvsLeo5tWutaDZ7xPYo2.jpg
 plex.tv.Newsmax2.plex,Newsmax2,https://provider-static.plex.tv/epg/cms/production/4c01bf97-f13c-44f6-ac42-a662bb97cd43/N2_Vertical_Cover_Art_RDX_VERT.jpg
 plex.tv.The.Reuters.60.plex,The Reuters 60,https://provider-static.plex.tv/epg/cms/production/b2b20c5c-a553-413a-9fe6-c3f42a43e7a5/Reuters-Vertical-Default-Art-2000x3000px_-_Micah_Walsh.jpg
-plex.tv.FOX.Weather.plex,FOX Weather,https://metadata-static.plex.tv/4/gracenote/41f12fbdd9666fa54d9fe6b9a2d052d1.jpg
+plex.tv.FOX.Weather.plex,FOX Weather,https://metadata-static.plex.tv/9/gracenote/9a6d86111f61446165717f74046715ec.jpg
 plex.tv.AccuWeather.NOW.plex,AccuWeather NOW,https://metadata-static.plex.tv/2/gracenote/2cb4cccc1b6e75b0fa60c1b0cd7e41c9.jpg
 plex.tv.USA.TODAY.plex,USA TODAY,https://provider-static.plex.tv/epg/cms/production/19f2a98b-0e70-4003-86ef-f264380c8762/usatoday_artwork_vertical.jpeg
 plex.tv.Yahoo.Finance.plex,Yahoo Finance,https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg
-plex.tv.Scripps.News.plex,Scripps News,https://metadata-static.plex.tv/3/gracenote/39a2182d1b4722a84c578a13283e3da3.jpg
+plex.tv.Scripps.News.plex,Scripps News,https://metadata-static.plex.tv/e/gracenote/eb35402ce8eacd795448b497b1bfe578.jpg
 plex.tv.ACCDN.plex,ACCDN,https://provider-static.plex.tv/epg/cms/production/ced871ba-6f6c-4595-8709-10c7802c8f32/ACCDN-Logo-2000x3000_-_Mathew_Carstens.jpg
-plex.tv.Noticias.Telemundo.AHORA.plex,Noticias Telemundo AHORA,https://metadata-static.plex.tv/d/gracenote/d75b8990fcd171bae1704995052b029c.jpg
-plex.tv.HBCUGO.SPORTS.plex,HBCUGO SPORTS,https://metadata-static.plex.tv/8/gracenote/8e4c17c04108a6a8aa3af741c281654d.jpg
+plex.tv.Noticias.Telemundo.AHORA.plex,Noticias Telemundo AHORA,https://metadata-static.plex.tv/c/gracenote/c9d4d9c74ac491c47b8104db7fd9005f.jpg
+plex.tv.HBCUGO.SPORTS.plex,HBCUGO SPORTS,https://metadata-static.plex.tv/f/gracenote/fa280b74e285c889cbc72ffb706f3764.jpg
 plex.tv.ZenLIFE.by.Stingray.plex,ZenLIFE by Stingray,https://provider-static.plex.tv/epg/cms/production/b65760d5-eb2b-466c-b265-9050d889866a/10423_ZL_Plex_Launch-assets_Channel-art_2000x3000_V01_-_Sacha_Portaria.jpg
 plex.tv.Waypoint.TV.plex,Waypoint TV,https://provider-static.plex.tv/epg/images/thumbnails/waypointtv_artwork_vertical.jpg
-plex.tv.Horror.by.ALTER.plex,Horror by ALTER,https://images.frequency.com/video/originals/7196944876843059532/Textless/rectangle/1vmwgws8y1fyh17z7m1nycg8d0.png
+plex.tv.Horror.by.ALTER.plex,Horror by ALTER,https://images.frequency.com/video/originals/7227700863115075524/Texted/rectangle/s7nkgqrg59of1ueqxcigi7t0c.jpg
 plex.tv.American.Crimes.plex,American Crimes,https://metadata-static.plex.tv/4/gracenote/40bff26a9cac95f5cd0470b19c6cb813.jpg
 plex.tv.Swerve.Combat.plex,Swerve Combat,https://provider-static.plex.tv/epg/cms/production/9151183e-3172-4856-ab49-8025dd2e5692/PLEX_2000x3000_Vertical_Art.jpg
-plex.tv.Toon.Goggles.plex,Toon Goggles,https://img.static-ottera.com/prod/tg/show/thumbnails/widescreen/2000x2858/grojband_whitebackground.jpg
-plex.tv.FilmRise.Horror.plex,FilmRise Horror,https://metadata-static.plex.tv/d/gracenote/db22c77e6c2b5f9a3d64cc3311000f8c.jpg
+plex.tv.Toon.Goggles.plex,Toon Goggles,https://img.static-ottera.com/prod/tg/show/thumbnails/poster/2000x2858/space_yogurt_7_10.jpg
+plex.tv.FilmRise.Horror.plex,FilmRise Horror,https://metadata-static.plex.tv/b/gracenote/b54e43d1a106f64943afa43d8dae2cd8.jpg
 plex.tv.TG.Junior.plex,TG Junior,https://img.static-ottera.com/prod/tg/show/thumbnails/standard/2000x2858/playwithcocobi_series_banner_4x3.jpg
 plex.tv.Screambox.TV.plex,Screambox TV,https://metadata-static.plex.tv/0/gracenote/065198e0dce32c72f2a50ab5783db181.jpg
-plex.tv.Mysteria.plex,Mysteria,https://image.tmdb.org/t/p/original/58p1HALRu9RE7Qgl79QYWDkKvDh.jpg
-plex.tv.Wedotv.Amor.Piel.Salvaje.plex,Wedotv Amor Piel Salvaje,https://d3dpwvkv1y8pcn.cloudfront.net/Images/S3/WAPIS/wedotv_amor_piel_salvaje20267_1672482-portrait.jpg
-plex.tv.Unbeaten.plex,Unbeaten,https://dx07ip8xjim3q.cloudfront.net/CCSE_series_portrait_poster.jpg
-plex.tv.Euronews.plex,Euronews,https://provider-static.plex.tv/epg/cms/production/012c0df0-6dc3-4906-a53f-10483245076f/Marc_Faron_-_Wurl_Plex_assets_FallbackPoster_2000x3000_EN.jpg
+plex.tv.Mysteria.plex,Mysteria,https://images.frequency.com/freq-img/adc753dc-a01b-4bc3-8024-290cfef22f6a/lawandcrimeinvestigates232000x3000jpg.jpg
+plex.tv.Wedotv.Amor.Piel.Salvaje.plex,Wedotv Amor Piel Salvaje,https://d3dpwvkv1y8pcn.cloudfront.net/Images/S3/WAPIS/wedotv_amor_piel_salvaje20274_1672488-portrait.jpg
+plex.tv.Unbeaten.plex,Unbeaten,https://provider-static.plex.tv/epg/cms/production/3ff1b811-980f-445b-8b64-8cfa545fd560/Unbeaten_artwork_vertical_-_Sam_Neazi.jpg
+plex.tv.Euronews.plex,Euronews,http://www.tmsimg.com/assets/p21167736_b_s4_ab.jpg
 plex.tv.FRANCE.24.plex,FRANCE 24,https://provider-static.plex.tv/epg/cms/production/cdf8d230-53f7-4832-9bc5-c8d8c2451635/france24fastenglish_artwork_vertical-v4_-_David_COURET.jpg
 plex.tv.Ryan.and.Friends.plex,Ryan and Friends,https://image.tmdb.org/t/p/original/pES3IK8oGRKVPXfT2jrK1e8AJLv.jpg
-plex.tv.Court.TV.plex,Court TV,https://metadata-static.plex.tv/b/gracenote/b0d94bf83d8e38f06869592969bde5f8.jpg
+plex.tv.Court.TV.plex,Court TV,https://metadata-static.plex.tv/a/gracenote/a2e165a9676f080cd4e85e1f3f9831c2.jpg
 plex.tv.Bloomberg.Originals.plex,Bloomberg Originals,https://provider-static.plex.tv/epg/cms/production/ea620fb8-e3d0-444d-aab9-f63810f780f5/BBOriginals_2023_Plex_2000x3000.jpg
 plex.tv.Cheddar.plex,Cheddar,https://metadata-static.plex.tv/5/gracenote/529baa05d6a03ccb5eae1b1b9e34de6a.jpg
 plex.tv.News.12.New.York.plex,News 12 New York,http://www.tmsimg.com/assets/p29204128_b_s4_ac.jpg
-plex.tv.CBC.News.plex,CBC News,https://metadata-static.plex.tv/2/gracenote/2333d835cf6a95f1b88d71312dd35327.jpg
+plex.tv.CBC.News.plex,CBC News,https://metadata-static.plex.tv/5/gracenote/528dc685d1c9c9f79abc9f1b75f6f384.jpg
 plex.tv.pocket.watch.Game-On.plex,pocket.watch Game-On,https://provider-static.plex.tv/epg/cms/production/c1085af0-5101-4ff6-991c-a9192dc65bf6/pocket.watchGame-On_Vertical_Hero_2000x3000.jpg
 plex.tv.TruBlu.plex,TruBlu,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/18583-20631/38058055-coverPoster_v2.jpg
 plex.tv.Todo.Novelas,.más.Pasiones.plex,Todo Novelas, más Pasiones,https://provider-static.plex.tv/epg/cms/production/8dfa3f7c-bc30-421d-acca-b856278379f8/TN_MP_VERTICAL_ART_2000x3000.jpg
 plex.tv.FreeTV.Drama.plex,FreeTV Drama,https://img.static-ottera.com/prod/oly/show/thumbnails/poster/2000x2858/spinoc1_cover_notepuedomentir_es_1080x1620.jpg
 plex.tv.FreeTV.Estelar.plex,FreeTV Estelar,https://img.static-ottera.com/prod/oly/show/thumbnails/poster/2000x2858/srunit1_cover_researchunit_es_1080x1620.jpg
-plex.tv.Court.TV.Legendary.Trials.plex,Court TV Legendary Trials,https://metadata-static.plex.tv/8/gracenote/8808cc12127c799f8d4c79d3fcaf27d2.jpg
+plex.tv.Court.TV.Legendary.Trials.plex,Court TV Legendary Trials,https://metadata-static.plex.tv/e/gracenote/e4e093914c3c85814919b25f284493cd.jpg
 plex.tv.FreeTV.Acción.plex,FreeTV Acción,https://img.static-ottera.com/prod/oly/show/thumbnails/poster/2000x2858/srunit1_cover_researchunit_es_1080x1620.jpg
 plex.tv.FreeTV.Horror.plex,FreeTV Horror,https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mnocte1_cover_noctem_1080x1620.jpg
 plex.tv.AddictaTV.plex,AddictaTV,https://provider-static.plex.tv/epg/cms/production/c367b668-94f9-4237-b5d3-720e8a4f3205/Horizontal_Default_Art_Addicta_VERT.jpg
 plex.tv.Emoción.Atres.plex,Emoción Atres,https://provider-static.plex.tv/epg/cms/production/ab33bf30-4e53-47ac-b794-d272f606285f/CIne_y_Series_-_2000X3000_JPG_Vertical_art_with_a_Logo_over_an_image_or_background_copy_-_JuanMa_VelasquezRDDX.jpg
 plex.tv.So.Yummy.plex,So Yummy,https://provider-static.plex.tv/epg/images/thumbnails/SoYummy_artwork_Vertical_v2.jpg
-plex.tv.FreeTV.Sureño.plex,FreeTV Sureño,https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mepc201_featured_es_1080x1620.jpg
+plex.tv.FreeTV.Sureño.plex,FreeTV Sureño,https://img.static-ottera.com/prod/oly/video/thumbnails/poster/2000x2858/mmac451_cover_meapodancalibre45_es_1080x1620.jpg
 plex.tv.BABY.SHARK.TV.plex,BABY SHARK TV,https://provider-static.plex.tv/epg/cms/production/c0d601b3-28bc-4b6f-9e8b-0748d2026f65/Plex_Vertical-Default-Art_-_2000x3000.jpg
 plex.tv.Todo.Cine.plex,Todo Cine,https://provider-static.plex.tv/epg/cms/production/73be1aaf-1271-4293-b670-918edbee693e/TodoCine-_Vertical_Default_Art_Fernando_Frade.jpg
-plex.tv.Canela.TV.Deportes.plex,Canela.TV Deportes,https://preview-amagistv-amg00658-anvir2.now.amagi.tv/Images/S3/5ce04980-5b87-4816-9134-60c7126c1543_2x3.png
-plex.tv.Cine.de.Horror.plex,Cine de Horror,https://preview-amagistv-amg02724-cloudport.now.amagi.tv/Images/S3/AMG02724C2/CDH_La_Promesa_del_Diablo_Ep6.jpg
+plex.tv.Canela.TV.Deportes.plex,Canela.TV Deportes,https://preview-amagistv-amg00658-anvir2.now.amagi.tv/Images/S3/769f09447e0fb5ff4e213ed1fdecbad7d2d2e79c_2x3.png
+plex.tv.Cine.de.Horror.plex,Cine de Horror,https://preview-amagistv-amg02724-cloudport.now.amagi.tv/Images/S3/AMG02724C2/CDH_Oculto.jpg
 plex.tv.LATV.plex,LATV,https://provider-static.plex.tv/epg/cms/production/9f029099-62c3-45c8-bd7d-8d36880676d4/Latination-Logo-Background-2000-3000.jpg
-plex.tv.Complex.TV.plex,Complex TV,https://provider-static.plex.tv/epg/cms/production/3086a78b-aac0-4111-bbba-a47cff12b4a4/Complex-TV_Channel-Art_2000x3000.jpg
+plex.tv.Complex.TV.plex,Complex TV,https://img.jwplayer.com/v1/images/sttVZkzU.jpg
 plex.tv.Revry.plex,Revry,https://images.frequency.com/freq-img/c53de586-0dfb-4603-b83e-250ee8d0af1e/AbsolutelyFabulousS1SeriesPoster2x3jpg.jpg
 plex.tv.More.U.plex,More U,https://provider-static.plex.tv/epg/images/thumbnails/moreu_artwork_vertical.jpg
 plex.tv.Glewed.TV.plex,Glewed TV,https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/2438-4486/4994520-default_v1.jpg
 plex.tv.Kidoodle.TV.plex,Kidoodle TV,https://provider-static.plex.tv/epg/cms/production/2dc3f128-bd64-48b7-bedd-d7545660de8f/Kidoodle.TV_Poster_Image__2000x3000___1_.jpg
-plex.tv.Dark.Matter.TV.plex,Dark Matter TV,https://ingest-assets.wurl.com/425433/127017462-0.jpeg
-plex.tv.DREAD.TV.plex,DREAD TV,https://metadata-static.plex.tv/0/gracenote/0517689fc4961738b0f26970c0bc2d0d.jpg
+plex.tv.Dark.Matter.TV.plex,Dark Matter TV,https://ingest-assets.wurl.com/425433/181231810-0.jpeg
+plex.tv.DREAD.TV.plex,DREAD TV,https://metadata-static.plex.tv/5/gracenote/5d99c688688c46b4fae8af0ad2bc9c28.jpg
 plex.tv.FrightFlix.plex,FrightFlix,https://s3.amazonaws.com/mtdb.galxy.prod/storage/media-images/posters/jJB4URmczPNE7dYQTZAlm8YmwErHgPr1i8n4OALB.jpg
 plex.tv.Watch.it.SCREAM.plex,Watch it SCREAM,https://s3.amazonaws.com/mtdb.galxy.prod/storage/media-images/posters/sQmf2pLqVMqGeyBFDFxXlILTXmrxKWTNulGUsjjy.jpg
 plex.tv.Naturaleza.Salvaje.plex,Naturaleza Salvaje,https://image.xumo.com/v1/assets/asset/XM0Q1IOH4CL6V7/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889404%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
@@ -623,7 +623,7 @@ plex.tv.NEW.K-POP.plex,NEW K-POP,https://provider-static.plex.tv/epg/cms/product
 plex.tv.KidsFlix.plex,KidsFlix,https://img.static-ottera.com/prod/viva/video/thumbnails/poster/2000x2858/bb_the_big_shrink_avod_1400x2000_1.jpg
 plex.tv.SKWAD.plex,SKWAD,https://img.static-ottera.com/prod/tg/show/thumbnails/standard/2000x2858/yugioh-banner_4x3.jpg
 plex.tv.Eddie`s.Wonderland.plex,Eddie`s Wonderland,https://provider-static.plex.tv/epg/cms/production/fc713748-9030-4dd3-a316-a36b59f4d42c/Eddies-Wonderland-artwork_vertical.jpg
-plex.tv.Qello.Concerts.plex,Qello Concerts,https://metadata-static.plex.tv/4/gracenote/450d2475ecf25688bdbc59596f453df2.jpg
+plex.tv.Qello.Concerts.plex,Qello Concerts,https://metadata-static.plex.tv/0/gracenote/05c25d2b1102b867c457b9e8f6bb1521.jpg
 plex.tv.ÚN.TV.plex,ÚN TV,https://provider-static.plex.tv/epg/cms/production/84b3251d-8f6d-4346-ba94-326bcbc45359/PLEX-FAST_CHANNELS-2000X3000.jpg
 plex.tv.Revry.Latinx.plex,Revry Latinx,https://provider-static.plex.tv/epg/cms/production/d8c50e29-d297-439f-acd6-3097c08c265a/RevryLatinX_VerticalArt_Plex_2000x3000_-_Joshua_Pettway-Hinton.jpg
 plex.tv.Qwest.TV.plex,Qwest TV,https://provider-static.plex.tv/epg/cms/production/75fd7427-1e56-4ddc-895f-d3841a1dfb0b/2000x3000_qwest_TV_failover.jpg
@@ -635,10 +635,10 @@ plex.tv.FreeTV.Familia.plex,FreeTV Familia,https://img.static-ottera.com/prod/ol
 plex.tv.XITE.80s.Flashback.plex,XITE 80s Flashback,https://demp3evtv0qgp.cloudfront.net/vertical_all-night-80-s-2_3.png
 plex.tv.XITE.Rock.x.Metal.plex,XITE Rock x Metal,https://demp3evtv0qgp.cloudfront.net/XITRK/vertical_lucid-rock-dreams-2_3.png
 plex.tv.XITE.90s.Throwback.plex,XITE 90s Throwback,https://demp3evtv0qgp.cloudfront.net/T90BK/vertical_all-night-90-s-2_3.png
-plex.tv.Mi.Casa.plex,Mi Casa,https://image.xumo.com/v1/assets/asset/XM0WX3SW8YX1EG/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889407%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Mi.Casa.plex,Mi Casa,https://image.xumo.com/v1/assets/asset/XM0AIABLBWFVKH/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889407%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.Classic.Rock.plex,Classic Rock,https://provider-static.plex.tv/epg/cms/production/caf198ac-8451-408b-afea-a9fc8d6c6948/8530_SM_Plex_Music-Channels_2000x3000-Classic_Rock.jpg
 plex.tv.Smooth.Jazz.plex,Smooth Jazz,https://provider-static.plex.tv/epg/cms/production/d013ce02-b8f3-405a-b23e-4f0972846f8b/8530_SM_Plex_Music-Channels_2000x3000-Smooth_jazz.jpg
-plex.tv.Buen.Viaje.plex,Buen Viaje,https://image.xumo.com/v1/assets/asset/XM05M3ZCNAWTLE/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889409%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Buen.Viaje.plex,Buen Viaje,https://image.xumo.com/v1/assets/asset/XM0CMNR38OVI55/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889409%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.Alternative.plex,Alternative,https://provider-static.plex.tv/epg/cms/production/8e4edf11-a36e-4bac-a439-6fdd7042db57/8530_SM_Plex_Music-Channels_2000x3000-Alternative_Rock.jpg
 plex.tv.Flashback.70s.plex,Flashback 70s,https://provider-static.plex.tv/epg/cms/production/df6dd901-78ee-4046-aec1-1afefbc6a595/8530_SM_Plex_Music-Channels_2000x3000-Flashback_70s.jpg
 plex.tv.Remember.the.‘80s.plex,Remember the ‘80s,https://provider-static.plex.tv/epg/cms/production/3d077d2d-6336-4483-a19e-1abe936fb063/8530_SM_Plex_Music-Channels_2000x3000-Remember_the_80s.jpg
@@ -656,7 +656,7 @@ plex.tv.XITE.Hits.plex,XITE Hits,https://demp3evtv0qgp.cloudfront.net/XITUS/vert
 plex.tv.XITE.R&amp;B.Feels.plex,XITE R&amp;B Feels,https://demp3evtv0qgp.cloudfront.net/XITRB/vertical_xitrb-r-b-pillow-talk-2_3.jpg
 plex.tv.Euro.Hits.plex,Euro Hits,https://provider-static.plex.tv/epg/cms/production/86e2aeef-bb46-412b-b921-c43cdcbedd27/8530_SM_Plex_Music-Channels_2000x3000-Euro_hits.jpg
 plex.tv.Metal.Rocks.plex,Metal.Rocks,https://provider-static.plex.tv/epg/cms/production/2675a085-26f3-42d4-8fa3-9b2bb842071e/Vertical_Default_Art_MetalRocks_-_Ricardo_Rivas.jpg
-plex.tv.Stingray.Classica.Stream.plex,Stingray Classica Stream,https://metadata-static.plex.tv/9/gracenote/9221b07f406f3ac17491188fa429027f.jpg
+plex.tv.Stingray.Classica.Stream.plex,Stingray Classica Stream,https://metadata-static.plex.tv/4/gracenote/44ee2642094682ab23f48774154fd9a3.jpg
 plex.tv.XITE.R&amp;B.Classic.Jams.plex,XITE R&amp;B Classic Jams,https://demp3evtv0qgp.cloudfront.net/XITRC/vertical_r-b-midnight-melodies-2_3.png
 plex.tv.TRACE.Urban.plex,TRACE Urban,https://provider-static.plex.tv/epg/cms/production/d4df3987-704d-4d60-b58e-20282c2becca/trace_urban_artwork_vertical_-_Nathan_BECKER.jpg
 plex.tv.Tarima.TV.plex,Tarima TV,https://metadata-static.plex.tv/a/gracenote/a4e7f68fa0d4b0c1f1bb9899f5585284.jpg
@@ -673,13 +673,13 @@ plex.tv.Pop.Adult.plex,Pop Adult,https://provider-static.plex.tv/epg/cms/product
 plex.tv.Stingray.DJAZZ.plex,Stingray DJAZZ,https://provider-static.plex.tv/epg/cms/production/610f6fed-a34b-4f12-b9ff-e3d435d984cc/Stingray_DJazz_artwork_Vert.jpg
 plex.tv.XITE.Siempre.Latino.plex,XITE Siempre Latino,https://demp3evtv0qgp.cloudfront.net/XITSL/vertical_iconic-latin-throwback-2_3.png
 plex.tv.XITE.Nuevo.Latino.plex,XITE Nuevo Latino,https://demp3evtv0qgp.cloudfront.net/XNULA/vertical_fiesta-latina-2_3.png
-plex.tv.Todo.Crimen.plex,Todo Crimen,https://image.xumo.com/v1/assets/asset/XM0MF0GGZKE7S7/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889405%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Todo.Crimen.plex,Todo Crimen,https://image.xumo.com/v1/assets/asset/XM09UY4AXB1EZK/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889405%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.La.Fiebre.del.Jade.plex,La Fiebre del Jade,https://image.tmdb.org/t/p/original/unsLi0OEITLMatYrsv1N42CjVaJ.jpg
-plex.tv.Ice.Pilots.NWT.(en.español).plex,Ice Pilots NWT (en español),https://image.xumo.com/v1/assets/asset/XM025SDG82NOZD/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889395%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
+plex.tv.Ice.Pilots.NWT.(en.español).plex,Ice Pilots NWT (en español),https://image.xumo.com/v1/assets/asset/XM0LQDA5D9HOC1/720x1080.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F88889395%2F720x1080.jpg%3Ftype%3DtrcChannelTile2x3
 plex.tv.Stingray.Soul.Storm.plex,Stingray Soul Storm,https://provider-static.plex.tv/epg/cms/production/6af20a2c-c294-4f52-807b-a557ce4fd2bf/13212_SM_Plex_Channel-Art-Vertical_Soul-Storm_2000x3000_V01_-_Olivia_bronfman.jpg
 plex.tv.XITE.Christian.Hits.plex,XITE Christian Hits,https://demp3evtv0qgp.cloudfront.net/XIHVH/vertical_higher-power-hits-2_3.png
 plex.tv.XITE.Reggae.Vibes.plex,XITE Reggae Vibes,https://demp3evtv0qgp.cloudfront.net/XIRGV/vertical_jammin-all-night-2_3.png
-plex.tv.Stingray.Karaoke.plex,Stingray Karaoke,https://metadata-static.plex.tv/6/gracenote/66ebf97763552cb8a8b563c0417adc3a.jpg
+plex.tv.Stingray.Karaoke.plex,Stingray Karaoke,https://metadata-static.plex.tv/6/gracenote/6baae45cc8aec303500b81b296eb046a.jpg
 plex.tv.C4.en.Alerta.plex,C4 en Alerta,https://img.static-ottera.com/prod/mul/show/thumbnails/widescreen/2000x2858/c4_en_alerta.jpg
 plex.tv.El.Conflicto.TV.plex,El Conflicto TV,https://provider-static.plex.tv/epg/cms/production/1cbdf5a8-7c49-4a70-9c60-e89414ff3409/ElConflicto_artwork_vertical.jpg
 plex.tv.FreeTV.Hits.plex,FreeTV Hits,https://provider-static.plex.tv/epg/cms/production/d5db09d5-b9af-4347-9b7d-61cfff3d1512/FreeTVHits_cover_2000x3000_-_Ralph_Campillo.jpg
@@ -690,5 +690,5 @@ plex.tv.Y2K.plex,Y2K,https://provider-static.plex.tv/epg/cms/production/c32d691a
 plex.tv.VR+.plex,VR+,https://provider-static.plex.tv/epg/cms/production/9b03cdff-a723-457b-8a24-5aac618d0cf3/Portrait_1000x1500_VR__red_copy_Juan_M_VelasquezRDX.jpg
 plex.tv.Naturaleza.plex,Naturaleza,
 plex.tv.Ideas.En.5.Minutos.plex,Ideas En 5 Minutos,https://provider-static.plex.tv/epg/cms/production/3d87f5e0-b05c-481a-bda0-a86ca0c12e98/2000x3000_-_Irina_Larionova.jpg
-plex.tv.Women`s.Sports.Network.plex,Women`s Sports Network,https://d2gqmql520my5n.cloudfront.net/WOMCH/LeagueOneVolleyballPortrait.jpg
+plex.tv.Women`s.Sports.Network.plex,Women`s Sports Network,https://d2gqmql520my5n.cloudfront.net/WOMCH/GameOnSpotlightPortrait.png
 plex.tv.Pitufo.TV.plex,Pitufo TV,https://provider-static.plex.tv/epg/cms/production/310185f3-83e1-4823-922e-2548b70a3656/pitufotv_2000x3000_-_Jordan_Warkolrdx.jpg

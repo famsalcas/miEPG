@@ -3,15 +3,6 @@
   <channel id="SanJoseTV.cr">
     <display-name>San Jose TV</display-name>
   </channel>
-  <programme start="20260814000000 -0600" stop="20260814080000 -0600" channel="SanJoseTV.cr">
-    <title>Música y Prédicas</title>
-  </programme>
-  <programme start="20260814080000 -0600" stop="20260814173000 -0600" channel="SanJoseTV.cr">
-    <title>Radio Revista Vida y Esperanza</title>
-  </programme>
-  <programme start="20260814173000 -0600" stop="20260815000000 -0600" channel="SanJoseTV.cr">
-    <title>Santo Rosario y Santa Misa</title>
-  </programme>
   <programme start="20260815000000 -0600" stop="20260815173000 -0600" channel="SanJoseTV.cr">
     <title>Música y Prédicas</title>
   </programme>
@@ -78,7 +69,16 @@
   <programme start="20260820210000 -0600" stop="20260820223000 -0600" channel="SanJoseTV.cr">
     <title>Mi Descanso Eres Tú</title>
   </programme>
-  <programme start="20260820223000 -0600" stop="20260820233000 -0600" channel="SanJoseTV.cr">
+  <programme start="20260820223000 -0600" stop="20260821000000 -0600" channel="SanJoseTV.cr">
     <title>Santo Trisagio y Música</title>
+  </programme>
+  <programme start="20260821000000 -0600" stop="20260821080000 -0600" channel="SanJoseTV.cr">
+    <title>Música y Prédicas</title>
+  </programme>
+  <programme start="20260821080000 -0600" stop="20260821173000 -0600" channel="SanJoseTV.cr">
+    <title>Radio Revista Vida y Esperanza</title>
+  </programme>
+  <programme start="20260821173000 -0600" stop="20260821183000 -0600" channel="SanJoseTV.cr">
+    <title>Santo Rosario y Santa Misa</title>
   </programme>
 </tv>
