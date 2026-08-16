@@ -28,11 +28,11 @@ Martes,12:30,Testigo Directo
 Martes,13:00,Fuera de juego
 Martes,14:00,Central Ahora
 Martes,16:00,Central Mundo
-Martes,17:00,Miss Universe Show
+Martes,17:00,Podcast Nereo Gabriel
 Martes,18:00,Central Noticias
 Martes,19:00,Está Pasando
 Martes,20:00,El Octavo Mandamiento
-Martes,21:30,Repeticion Programa
+Martes,21:30,Podcast Nereo Gabriel
 Martes,22:30,Charlas
 Martes,23:30,Central Noticias
 Miercoles,01:00,El Octavo Mandamiento
@@ -86,15 +86,17 @@ Viernes,22:30,Charlas
 Viernes,23:30,Central Noticias
 Sabado,01:00,El Octavo Mandamiento
 Sabado,10:00,Equilibrio con Yaxún
-Sabado,11:00,Podcast
-Sabado,14:00,Podcast
+Sabado,11:00,Podcast Nereo Gabriel
+Sabado,14:00,Podcast Nereo Gabriel
 Sabado,15:00,Testigo Directo
 Sabado,16:00,A doble nudo
 Sabado,18:00,Está Pasando
-Sabado,20:00,Almaa de mujer
+Sabado,20:00,Alma de mujer
 Sabado,23:00,Charlas
 Domingo,00:00,Charlas
+Domingo,04:00,A doble nudo
 Domingo,13:00,Está Pasando
+Domingo,14:00,Podcast Nereo Gabriel
 Domingo,15:00,Equilibrio con Yaxún
 Domingo,18:00,Está Pasando
 Domingo,20:00,Retransmisiones
