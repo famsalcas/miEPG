@@ -32,6 +32,7 @@ Jueves,17:00,ABCmouse Aprende Inglés
 Jueves,19:00,Instinto Viajero
 Jueves,20:30,Serie
 Jueves,21:00,Blue Bloods
+Jueves,23:00,OFF AIR
 Viernes,08:00,Cocina de hoy
 Jueves,09:00,Animados
 Jueves,09:30,Animados
@@ -50,6 +51,7 @@ Viernes,23:00,OFF AIR
 Sabado,11:00,Serie
 Sabado,13:00,Todo sobre belleza
 Sabado,14:00,Serie
+Sabado,15:00,Serie
 Sabado,17:00,Escuela Teletica
 Sabado,20:00,Biografias con Alvaro Gamboa
 Sabado,20:30,Hacia lo mejor
@@ -57,9 +59,10 @@ Sabado,21:30,Serie
 Sabado,23:00,OFF AIR
 Domingo,12:00,Instinto Viajero
 Domingo,13:00,Hacia lo mejor
+Domingo,14:00,Serie
 Domingo,15:00,Serie
 Domingo,17:00,Misa
 Domingo,20:00,Biografias con Alvaro Gamboa
 Domingo,20:30,Hacia lo mejor
 Domingo,21:30,Serie
-Domingo,15:00,OFF AIR
+Domingo,23:00,OFF AIR
