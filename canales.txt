@@ -1,9 +1,9 @@
 4 de Costa Rica,Canal4.cr,-1
 6 de Costa Rica,Canal6.cr,-1
-7 de Costa Rica Teletica,7_Teletica.cr,-1
-Multimedios Costa Rica,Canal8.cr,-1
+7_Teletica.pa,7_Teletica.cr
+Canal8.cr,Canal8.cr
 11 de Costa Rica,Canal11.cr,-1
-13 de Costa Rica,Canal13.cr,-1
+Canal13.cr,Canal13.cr,-1
 Enlace,Enlace.cr,-1
 Extra TV 42 de Costa Rica,Canal42.cr,-1
 RetroX TV,RetroXTV.ms
@@ -163,7 +163,7 @@ FOX SPORTS 3 AR,FOXSports3.ar
 Fox Sports Cono Norte,FOXSports.mx
 Fox Sports 2,FOXSports2.mx
 Fox Sports 3,FOXSports3.mx
-FUTV,FUTV,-1
+FUTV.cr,FUTV
 GolPlay.es,GolPlay.es
 Golf Channel,GolfChannel.cr
 5c01df1759ee03633e7b272c,LuchaLibreAAA.pluto
@@ -390,7 +390,7 @@ Golden Premier,GoldenPremier.mx
 Golden Premier 2,GoldenPremier2.mx
 HBO Chile,HBO.cl
 HBOHD.Sur,HBO.co
-HBO,HBO.ni,-1
+HBO.cr,HBO.ni
 HBO.East.us2,HBO.us
 HBO 2,BO2Latinoamerica.ni
 HBO.Comedy.HD.us2,HBOComedy.us
