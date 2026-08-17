@@ -117,7 +117,7 @@
 62fa8176b9884200074ef5ae,The Walking Dead Universe,https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png
 62f2ce24f328e00007e7f55a,Stories by AMC,https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png
 5cbf6a868a1bce4a3d52a5e9,Midsomer Murders,https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png
-60f5d389985a0c0007357304,BritBox Mysteries,https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png
+60f5d389985a0c0007357304,BritBox Mysteries,https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG_1786980983531.png
 6a4fd96d7652851fb490204f,Pluto TV Royal Drama,https://images.pluto.tv/channels/6a4fd96d7652851fb490204f/colorLogoPNG_1785178336408.png
 65775af3b3801200084a3aa4,Feel Good Drama,https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png
 5f24662bebe0f0000767de32,Supernatural Drama,https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png
