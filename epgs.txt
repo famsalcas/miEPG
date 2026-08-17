@@ -24,3 +24,5 @@ https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Xpertv.cr.xml
 https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Telefides.cr.xml
 https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/SanJoseTV.cr.xml
 https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Canal1.cr.xml
+https://iptv-epg.org/files/epg-pa.xml
+https://iptv-epg.org/files/epg-cr.xml
