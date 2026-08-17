@@ -1,7 +1,7 @@
 4 de Costa Rica,Canal4.cr,-1
 6 de Costa Rica,Canal6.cr,-1
 7 de Costa Rica Teletica,7_Teletica.cr,-1
-Canal8.cr,Canal8.cr
+Canal8.Cr,Canal8.cr
 11 de Costa Rica,Canal11.cr,-1
 Canal13.cr,Canal13.cr,-1
 Enlace,Enlace.cr,-1
