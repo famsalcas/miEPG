@@ -17,6 +17,7 @@ Telefides.cr,Telefides.cr
 SanJoseTV.cr,SanJoseTV.cr
 Canal1.cr,Canal1.cr
 0535,VMLatino.cr
+Voice Over Radio TV,VoiceOverTV.cr
 Norte Informativo TV,Norte-Informativo.cr
 7 de Antena Latina,Antena7.do
 Azteca Guatemala,AztecaGuatemala.gt
@@ -118,6 +119,8 @@ Thrillers (Rakuten TV),RakutenThrillers.es
 Runtime Comedia,RuntimeComedia.es
 Runtime Romance,RuntimeRomance.es
 Runtime Thriller-Terror,RuntimeTT.es
+Runtime Acción,RuntimeAccion
+RunTime Clásicos,RunTimeClasicos
 349e0f0840cf21b888bff327b41a2413,Scares
 Space Panregional,Space.ni,-1
 Studio Universal Panregional,StudioUniversal.ni,-1
@@ -369,6 +372,7 @@ ab6cd6569bf6557a8c5d9798cfce202b,ViX-Novelasdeoro
 396f57d10b5d5ec98648f810dcbe1f11,ViX-Novelasderomance
 0861,AVI-Rewind
 0870,A3Cine
+Cines Verdi TV,CinesVerdi
 I300.10191.schedulesdirect.org,CRAVE_1
 I301.12222.schedulesdirect.org,CRAVE_2
 I302.12223.schedulesdirect.org,CRAVE_3
