@@ -318,8 +318,6 @@
 65e23f340d4561000821540d,Mister Rogers' Neighborhood,https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png
 5d14fb6c84dd37df3b4290c5,Peppa Pig,https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png
 51c75f7bb6f26ba1cd00002f,Little Stars Universe,https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png
-5eb301b7395671000780d100,Little Angel's Playroom,https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png
-60493283ffc52f000710edae,Little Angel's Playroom en Español,https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png
 66fedd65d7de140008dccd66,El Reino Infantil,https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png
 60faffc3fbbc120007fc4376,Baby Shark TV,https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png
 5ca673e0d0bd6c2689c94ce3,Nickelodeon Pluto TV,https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG_1785344578988.png

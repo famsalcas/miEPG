@@ -3,72 +3,6 @@
   <channel id="Canal1.cr">
     <display-name>Canal 1 (Costa Rica)</display-name>
   </channel>
-  <programme start="20260816000000 -0600" stop="20260816010000 -0600" channel="Canal1.cr">
-    <title>Fiesta La Tica</title>
-  </programme>
-  <programme start="20260816010000 -0600" stop="20260816030000 -0600" channel="Canal1.cr">
-    <title>Dramas</title>
-  </programme>
-  <programme start="20260816030000 -0600" stop="20260816060000 -0600" channel="Canal1.cr">
-    <title>Musicales</title>
-  </programme>
-  <programme start="20260816060000 -0600" stop="20260816063000 -0600" channel="Canal1.cr">
-    <title>Animacion Retro</title>
-  </programme>
-  <programme start="20260816063000 -0600" stop="20260816070000 -0600" channel="Canal1.cr">
-    <title>Animacion Retro</title>
-  </programme>
-  <programme start="20260816070000 -0600" stop="20260816073000 -0600" channel="Canal1.cr">
-    <title>Animacion Retro</title>
-  </programme>
-  <programme start="20260816073000 -0600" stop="20260816080000 -0600" channel="Canal1.cr">
-    <title>Animacion Retro</title>
-  </programme>
-  <programme start="20260816080000 -0600" stop="20260816083000 -0600" channel="Canal1.cr">
-    <title>Cosas que pasan</title>
-  </programme>
-  <programme start="20260816083000 -0600" stop="20260816090000 -0600" channel="Canal1.cr">
-    <title>Movilidad sin mitos</title>
-  </programme>
-  <programme start="20260816090000 -0600" stop="20260816103000 -0600" channel="Canal1.cr">
-    <title>Misa</title>
-  </programme>
-  <programme start="20260816103000 -0600" stop="20260816110000 -0600" channel="Canal1.cr">
-    <title>Animacion Retro</title>
-  </programme>
-  <programme start="20260816110000 -0600" stop="20260816120000 -0600" channel="Canal1.cr">
-    <title>Yo Amo A Lucy</title>
-  </programme>
-  <programme start="20260816120000 -0600" stop="20260816130000 -0600" channel="Canal1.cr">
-    <title>Semanario Olímpico</title>
-  </programme>
-  <programme start="20260816130000 -0600" stop="20260816140000 -0600" channel="Canal1.cr">
-    <title>Videohits</title>
-  </programme>
-  <programme start="20260816140000 -0600" stop="20260816160000 -0600" channel="Canal1.cr">
-    <title>Película: Junior</title>
-  </programme>
-  <programme start="20260816160000 -0600" stop="20260816170000 -0600" channel="Canal1.cr">
-    <title>Magnum</title>
-  </programme>
-  <programme start="20260816170000 -0600" stop="20260816180000 -0600" channel="Canal1.cr">
-    <title>Viaje Al Fondo Del Mar</title>
-  </programme>
-  <programme start="20260816180000 -0600" stop="20260816190000 -0600" channel="Canal1.cr">
-    <title>Los Invasores</title>
-  </programme>
-  <programme start="20260816190000 -0600" stop="20260816200000 -0600" channel="Canal1.cr">
-    <title>Música Bailable</title>
-  </programme>
-  <programme start="20260816200000 -0600" stop="20260816220900 -0600" channel="Canal1.cr">
-    <title>Montaderas</title>
-  </programme>
-  <programme start="20260816220900 -0600" stop="20260816230000 -0600" channel="Canal1.cr">
-    <title>Música En Español</title>
-  </programme>
-  <programme start="20260816230000 -0600" stop="20260817000000 -0600" channel="Canal1.cr">
-    <title>Rep. Video Hits</title>
-  </programme>
   <programme start="20260817000000 -0600" stop="20260817010000 -0600" channel="Canal1.cr">
     <title>Serie Retro</title>
   </programme>
@@ -545,5 +479,71 @@
   </programme>
   <programme start="20260822230000 -0600" stop="20260823000000 -0600" channel="Canal1.cr">
     <title>Retro Hits</title>
+  </programme>
+  <programme start="20260823000000 -0600" stop="20260823010000 -0600" channel="Canal1.cr">
+    <title>Fiesta La Tica</title>
+  </programme>
+  <programme start="20260823010000 -0600" stop="20260823030000 -0600" channel="Canal1.cr">
+    <title>Dramas</title>
+  </programme>
+  <programme start="20260823030000 -0600" stop="20260823060000 -0600" channel="Canal1.cr">
+    <title>Musicales</title>
+  </programme>
+  <programme start="20260823060000 -0600" stop="20260823063000 -0600" channel="Canal1.cr">
+    <title>Animacion Retro</title>
+  </programme>
+  <programme start="20260823063000 -0600" stop="20260823070000 -0600" channel="Canal1.cr">
+    <title>Animacion Retro</title>
+  </programme>
+  <programme start="20260823070000 -0600" stop="20260823073000 -0600" channel="Canal1.cr">
+    <title>Animacion Retro</title>
+  </programme>
+  <programme start="20260823073000 -0600" stop="20260823080000 -0600" channel="Canal1.cr">
+    <title>Animacion Retro</title>
+  </programme>
+  <programme start="20260823080000 -0600" stop="20260823083000 -0600" channel="Canal1.cr">
+    <title>Cosas que pasan</title>
+  </programme>
+  <programme start="20260823083000 -0600" stop="20260823090000 -0600" channel="Canal1.cr">
+    <title>Movilidad sin mitos</title>
+  </programme>
+  <programme start="20260823090000 -0600" stop="20260823103000 -0600" channel="Canal1.cr">
+    <title>Misa</title>
+  </programme>
+  <programme start="20260823103000 -0600" stop="20260823110000 -0600" channel="Canal1.cr">
+    <title>Animacion Retro</title>
+  </programme>
+  <programme start="20260823110000 -0600" stop="20260823120000 -0600" channel="Canal1.cr">
+    <title>Yo Amo A Lucy</title>
+  </programme>
+  <programme start="20260823120000 -0600" stop="20260823130000 -0600" channel="Canal1.cr">
+    <title>Semanario Olímpico</title>
+  </programme>
+  <programme start="20260823130000 -0600" stop="20260823140000 -0600" channel="Canal1.cr">
+    <title>Videohits</title>
+  </programme>
+  <programme start="20260823140000 -0600" stop="20260823160000 -0600" channel="Canal1.cr">
+    <title>Película: Junior</title>
+  </programme>
+  <programme start="20260823160000 -0600" stop="20260823170000 -0600" channel="Canal1.cr">
+    <title>Magnum</title>
+  </programme>
+  <programme start="20260823170000 -0600" stop="20260823180000 -0600" channel="Canal1.cr">
+    <title>Viaje Al Fondo Del Mar</title>
+  </programme>
+  <programme start="20260823180000 -0600" stop="20260823190000 -0600" channel="Canal1.cr">
+    <title>Los Invasores</title>
+  </programme>
+  <programme start="20260823190000 -0600" stop="20260823200000 -0600" channel="Canal1.cr">
+    <title>Música Bailable</title>
+  </programme>
+  <programme start="20260823200000 -0600" stop="20260823220900 -0600" channel="Canal1.cr">
+    <title>Montaderas</title>
+  </programme>
+  <programme start="20260823220900 -0600" stop="20260823230000 -0600" channel="Canal1.cr">
+    <title>Música En Español</title>
+  </programme>
+  <programme start="20260823230000 -0600" stop="20260824000000 -0600" channel="Canal1.cr">
+    <title>Rep. Video Hits</title>
   </programme>
 </tv>
