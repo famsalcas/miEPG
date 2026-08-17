@@ -1,4 +1,4 @@
-# Fuente: https://iptv-epg.org/files/epg-pa.xml
+# Fuente: https://iptv-epg.org/files/epg-pa.xml.gz
 7_Teletica.pa,PA - 7 Teletica,https://iptv-epg.org/images/7yMT__zQ44a1zI-hL2cLb1hmx2TzBzUwV9n7dkKWA6G_IARO-jo3069v6KuEpy7W_EXOZVG-Dwdi15l4G2HFkSsyYgiCjSoCfFNp6ha40L3GZX0
 24Horas_TVE.pa,PA - 24 Horas (TVE),https://iptv-epg.org/images/5tfukNCTRfwvUHbx32Z3Yiop48kwiYy5PCOJF8OE2W7x7c-1WOEbm6cRAlXlf8HIlqrdz92UjcMZlLYQnJdAtJyA9bfGCMlYTOUQnFOUkrt7FtUU
 AAndE.pa,PA - A&amp;E,https://iptv-epg.org/images/Ah2yDPAIrKgGmfoAZg4he-4jrJVI11_9pk_DnwEX7C_PHBOKp75XnFqelyE4LEDTQ-aVlERGEcDHxYs6xephuMADrwcbRAbyNYJ_gQ-L

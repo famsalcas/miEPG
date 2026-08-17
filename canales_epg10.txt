@@ -130,7 +130,6 @@
 608049aefa2b8ae93c2c3a63-68645f7c1a2f321847ec0393,Wineman,https://provider-static.plex.tv/epg/cms/production/9a15a24f-c9ae-40f1-b9e5-16a95f4b650c/Wineman_whiteRDX.png
 608049aefa2b8ae93c2c3a63-69a524507c245b3390e8a4dc,Nature Moments,https://provider-static.plex.tv/epg/cms/production/329d0ebe-0fba-4165-b92a-2bf8dfe3d722/Nature_moments_WHT.png
 608049aefa2b8ae93c2c3a63-60d4edddb2fdec002c141135,WildEarth,https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png
-608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd,Always Funny,https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png
 608049aefa2b8ae93c2c3a63-644b13a3a1c0a5b2024c8403,Strongman Champions,https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png
 608049aefa2b8ae93c2c3a63-68b9f334fc12601028c5651e,World Billiards TV,https://provider-static.plex.tv/epg/cms/production/55d069fe-0219-447a-a712-e3ecaed26241/_Plex__WBT_Logo_Dark_Mode.png
 608049aefa2b8ae93c2c3a63-63ec0b739866d8d2120ac759,PickleTV,https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png

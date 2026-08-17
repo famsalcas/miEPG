@@ -1,4 +1,4 @@
-# Fuente: https://iptv-epg.org/files/epg-cr.xml
+# Fuente: https://iptv-epg.org/files/epg-cr.xml.gz
 AdrenalinaSportsNetwork.cr,CR - Adrenalina Sports Network,https://iptv-epg.org/images/l0sKp-QsKHeMCBjZzxPNnK0C6tdJej_fvAp7xCg8wL77L8W_C0HIQ_-p9LVNVZr-dryMonmHg_mEDbSdd6XsMm8Et4ntF8vmGhhH-GWTtL4nn1lGx7sVDpxJEwXnSPdBwOAxWg
 AgrotendenciaTV.cr,CR - Agrotendencia TV,https://iptv-epg.org/images/klXxnENJ00V5ASbNzPoXliDKtXVaj8ybk643btD383ige4-dTuPju3gPjHVSBn9EtzU6QOHaZC2Cc-ZbgJ9K3mJyXZ7F7rHqatjKOK3j-KVFd4hjp31a_n6ZfjQ
 Antena3.cr,CR - Antena 3,https://iptv-epg.org/images/w_PQkBXajyb2goOkS1XDcrr4f6snrVedF44HODM9FGxTaHSyp5CTN-PpP9M97vULeyuK_9LEG_ILCjweyZLjPjk_8_d1nr5p5JuHa0ypengVsQ-7
