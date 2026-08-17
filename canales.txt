@@ -187,7 +187,7 @@ TyC Sp,TyCSports.cr
 A&amp;E Panregional,AAndE.ni
 Adrenalina Pura TV,AdrenalinaPuraTV
 0624,EnlaceJuvenil.cr
-I26.90653.schedulesdirect.org,AMC
+I26.90653.schedulesdirect.org,AMC,-1
 0619,AMCSeries
 Atreseries Internacional,Atreseries.ar
 AXN Andes,AXN.ni
