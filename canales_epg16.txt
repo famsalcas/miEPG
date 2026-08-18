@@ -1,4 +1,4 @@
 # Fuente: https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/main/playlists/tubi_epg.xml
-400000251,Law&amp;Crime,https://canvas-lb.tubitv.com/opts/BYzaJwTCsR4qOQ==/d4c950c6-5131-47a1-a52b-f0644e28d89a/CHgQeDoFMS4xLjlAAQ==
+555114,FOX LOCAL San Francisco,https://canvas-lb.tubitv.com/opts/NBRBJIrLrI3V0w==/d2175866-3daf-45db-9e2c-043eac4de170/CHgQeDoFMS4xLjlAAQ==
 692073,Women's Sports Network,https://canvas-lb.tubitv.com/opts/4d5Ea4ugACCJXg==/4a1d8a18-5086-438b-9298-7381aee4cb83/CHgQeDoFMS4xLjlAAQ==
 670602,Fear Factor USA,https://canvas-lb.tubitv.com/opts/lnF_d9-y39CI8A==/ae22b756-ab2a-4cb2-bb18-ce281b110449/CHgQeDoFMS4xLjlAAQ==

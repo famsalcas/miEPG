@@ -3,30 +3,6 @@
   <channel id="Xpertv.cr">
     <display-name>XperTV</display-name>
   </channel>
-  <programme start="20260817120000 -0600" stop="20260817130000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20260817130000 -0600" stop="20260817140000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20260817140000 -0600" stop="20260817150000 -0600" channel="Xpertv.cr">
-    <title>Cocina de hoy</title>
-  </programme>
-  <programme start="20260817150000 -0600" stop="20260817163000 -0600" channel="Xpertv.cr">
-    <title>Programa</title>
-  </programme>
-  <programme start="20260817163000 -0600" stop="20260817190000 -0600" channel="Xpertv.cr">
-    <title>Escuela Teletica</title>
-  </programme>
-  <programme start="20260817190000 -0600" stop="20260817210000 -0600" channel="Xpertv.cr">
-    <title>Hacia lo mejor</title>
-  </programme>
-  <programme start="20260817210000 -0600" stop="20260817230000 -0600" channel="Xpertv.cr">
-    <title>Blue Bloods</title>
-  </programme>
-  <programme start="20260817230000 -0600" stop="20260818130000 -0600" channel="Xpertv.cr">
-    <title>OFF AIR</title>
-  </programme>
   <programme start="20260818130000 -0600" stop="20260818140000 -0600" channel="Xpertv.cr">
     <title>Serie</title>
   </programme>
@@ -186,7 +162,31 @@
   <programme start="20260823213000 -0600" stop="20260823230000 -0600" channel="Xpertv.cr">
     <title>Serie</title>
   </programme>
-  <programme start="20260823230000 -0600" stop="20260824000000 -0600" channel="Xpertv.cr">
+  <programme start="20260823230000 -0600" stop="20260824120000 -0600" channel="Xpertv.cr">
+    <title>OFF AIR</title>
+  </programme>
+  <programme start="20260824120000 -0600" stop="20260824130000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20260824130000 -0600" stop="20260824140000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20260824140000 -0600" stop="20260824150000 -0600" channel="Xpertv.cr">
+    <title>Cocina de hoy</title>
+  </programme>
+  <programme start="20260824150000 -0600" stop="20260824163000 -0600" channel="Xpertv.cr">
+    <title>Programa</title>
+  </programme>
+  <programme start="20260824163000 -0600" stop="20260824190000 -0600" channel="Xpertv.cr">
+    <title>Escuela Teletica</title>
+  </programme>
+  <programme start="20260824190000 -0600" stop="20260824210000 -0600" channel="Xpertv.cr">
+    <title>Hacia lo mejor</title>
+  </programme>
+  <programme start="20260824210000 -0600" stop="20260824230000 -0600" channel="Xpertv.cr">
+    <title>Blue Bloods</title>
+  </programme>
+  <programme start="20260824230000 -0600" stop="20260825000000 -0600" channel="Xpertv.cr">
     <title>OFF AIR</title>
   </programme>
 </tv>

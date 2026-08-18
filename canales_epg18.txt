@@ -452,7 +452,7 @@ lch3095.ecu,ECU | Oromar,https://upload.wikimedia.org/wikipedia/commons/thumb/2/
 607,PA | Tropical Moon Salsa TV,
 608,CL | Kanade,https://static.kanade.cl/assets/img/Kanade_Profile.png
 609,CL | ZTV,https://zplay.cl/img/ztv.png
-610,CL | ZTV Kids,https://zplay.cl/img/zkids.png
+610,CL | ZKids,https://zplay.cl/img/zkids.png
 611,CL | ZTV 2,https://zplay.cl/img/ztv2.png
 612,Cl | ZTV AVI,https://zplay.cl/img/avi.png
 613,BO | ATB Digital,
