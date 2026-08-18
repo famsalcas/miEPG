@@ -1,9 +1,9 @@
 4 de Costa Rica,Canal4.cr,-1
 6 de Costa Rica,Canal6.cr,-1
 7 de Costa Rica Teletica,7_Teletica.cr,-1
-Canal8.Cr,Canal8.cr
+Multimedios Costa Rica,Canal8.cr,-1
 11 de Costa Rica,Canal11.cr,-1
-Canal13.cr,Canal13.cr,-1
+C13 CR,Canal13.cr
 Enlace,Enlace.cr,-1
 Extra TV 42 de Costa Rica,Canal42.cr,-1
 RetroX TV,RetroXTV.ms
