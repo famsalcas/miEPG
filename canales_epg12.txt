@@ -12,6 +12,7 @@ ES7000056Z,Yu-Gi-Oh!,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelo
 ES1400001T8,Beyblade,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20241106T142204SQUARE.png
 ES300029LP,Anime Visión,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png
 ES3000288I,Anime Visión Classics,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png
+ES2100003VE,Inazuma Eleven,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2100003VE_20260818T050632SQUARE.png
 ES4300001K6,Chicas Guapas TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300001K6_20251125T101421SQUARE.png
 ES26000025M,¡Hola! Play,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png
 ES4100001XD,Mark Rober TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100001XD_20251111T011941SQUARE.png
@@ -27,9 +28,9 @@ ES4700001VS,2M,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/
 ES4300006I4,El Mueble,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20260609T042943SQUARE.png
 ES4400002LI,Mi Casa,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400002LI_20260707T050954SQUARE.png
 ES1700003C6,CJ ENM K-Novela en Español,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20260804T051153SQUARE.png
-ES3300006QL,RTVE La Promesa,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260804T051221SQUARE.png
+ES33000036Q,RTVE La Moderna,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260818T050638SQUARE.png
 ES400002P5,Cuéntame cómo pasó,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20260707T050933SQUARE.png
-ES33000036Q,RTVE La Moderna,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260310T031635SQUARE.png
+ES3300006QL,RTVE La Promesa,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260818T050647SQUARE.png
 ES500005BP,Águila Roja,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250610T010520SQUARE.png
 ESBD1300003VN,Corazón,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png
 ES440000327,Todo Drama,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260120T031340SQUARE.png
@@ -42,8 +43,8 @@ ES200040YF,Series K DRAMA,https://tvpnlogopeu.samsungcloud.tv/platform/image/sou
 ESBD4100001DU,K-Drama+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20260707T050914SQUARE.png
 ES200041FT,Series K COMEDIA ROMÁNTICA,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png
 ES900001SH,Mr Bean Animated,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png
-ES300034BT,Actualidad 360,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260804T051205SQUARE.png
 ESBC4100004J1,24H,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260707T050921SQUARE.png
+ES300034BT,Actualidad 360,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20260818T050609SQUARE.png
 ESBD3400001AA,Negocios TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20260407T040053SQUARE.png
 ES260000968,Euronews EN DIRECTO,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20260707T050947SQUARE.png
 ESBC39000033J,El País,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png
@@ -98,9 +99,10 @@ ESBA33000262Z,Bob Esponja,https://tvpnlogopeu.samsungcloud.tv/platform/image/sou
 ES4400001N3,Las 3 Mellizas,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400001N3_20260421T125609SQUARE.png
 ESAJ38000046O,Pluto TV Kids,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png
 ESBA3300028OE,iCarly,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png
-ES33000058B,RTVE Somos Cine,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20260804T051232SQUARE.png
+ES500008IU,FreeTV Clásico,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260818T050616SQUARE.png
 ES700004C8,Runtime Familia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20260127T040120SQUARE.png
 ES260001081,En Familia - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png
+ES33000058B,RTVE Somos Cine,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20260818T050656SQUARE.png
 ESBC1700004PX,Trailers,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png
 ESBA2200004G5,MyTime Movie Network,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20260127T040117SQUARE.png
 ESBC2700011AZ,Cines Verdi TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png
@@ -120,7 +122,6 @@ ESBC2700002LO,Grjngo - Películas Del Oeste,https://tvpnlogopeu.samsungcloud.tv/
 ES2300005G7,Cine Western,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png
 ESBC2700003T8,Bigtime - Películas Gratis,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png
 ES2200003DA,Runtime Clásicos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20250916T003539SQUARE.png
-ES500008IU,FreeTV Clásico,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260224T030754SQUARE.png
 ES2800001G7,Planeta de Cine,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png
 ES3000008O8,Cine Español - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png
 ES170000433,NEW K-MOVIES,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png
@@ -156,14 +157,14 @@ ES1800008X7,Ocean Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourc
 ES2200001SF,Fireplace Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20260609T042949SQUARE.png
 ESAJ3800007PC,Pluto TV Cocina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png
 ES300033TI,Viajes &amp; Sabores,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png
-ESBC27000040I,GoUSA TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250610T010506SQUARE.png
+ESBC27000040I,Journy TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20260818T051644SQUARE.png
 ES33000079W,RTVE Cocina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20260721T035618SQUARE.png
+ES12000024R,Historia y Vida,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260818T050625SQUARE.png
 ES24000028L,Ice Pilots,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png
 ES1600002QL,La Fiebre del Jade,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png
 ES2700002YP,Top Gear,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250805T005824SQUARE.png
 ES2800002MM,Mayday: Catástrofe Aérea,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png
 ES1400002CJ,CURIOSITY Now,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png
-ES12000024R,Historia y Vida,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260421T125616SQUARE.png
 ESBD1400003QN,Royalworld - Nobleza y Dinastias,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png
 ES3200001F1,BBC Earth,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260804T051214SQUARE.png
 ESBA22000102A,NatureTime,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png

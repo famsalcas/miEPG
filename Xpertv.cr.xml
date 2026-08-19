@@ -3,24 +3,6 @@
   <channel id="Xpertv.cr">
     <display-name>XperTV</display-name>
   </channel>
-  <programme start="20260818130000 -0600" stop="20260818140000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20260818140000 -0600" stop="20260818160000 -0600" channel="Xpertv.cr">
-    <title>Cocina de hoy</title>
-  </programme>
-  <programme start="20260818160000 -0600" stop="20260818200000 -0600" channel="Xpertv.cr">
-    <title>Animados</title>
-  </programme>
-  <programme start="20260818200000 -0600" stop="20260818210000 -0600" channel="Xpertv.cr">
-    <title>Instinto Viajero</title>
-  </programme>
-  <programme start="20260818210000 -0600" stop="20260818230000 -0600" channel="Xpertv.cr">
-    <title>Blue Bloods</title>
-  </programme>
-  <programme start="20260818230000 -0600" stop="20260819130000 -0600" channel="Xpertv.cr">
-    <title>OFF AIR</title>
-  </programme>
   <programme start="20260819130000 -0600" stop="20260819140000 -0600" channel="Xpertv.cr">
     <title>Serie</title>
   </programme>
@@ -186,7 +168,25 @@
   <programme start="20260824210000 -0600" stop="20260824230000 -0600" channel="Xpertv.cr">
     <title>Blue Bloods</title>
   </programme>
-  <programme start="20260824230000 -0600" stop="20260825000000 -0600" channel="Xpertv.cr">
+  <programme start="20260824230000 -0600" stop="20260825130000 -0600" channel="Xpertv.cr">
+    <title>OFF AIR</title>
+  </programme>
+  <programme start="20260825130000 -0600" stop="20260825140000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20260825140000 -0600" stop="20260825160000 -0600" channel="Xpertv.cr">
+    <title>Cocina de hoy</title>
+  </programme>
+  <programme start="20260825160000 -0600" stop="20260825200000 -0600" channel="Xpertv.cr">
+    <title>Animados</title>
+  </programme>
+  <programme start="20260825200000 -0600" stop="20260825210000 -0600" channel="Xpertv.cr">
+    <title>Instinto Viajero</title>
+  </programme>
+  <programme start="20260825210000 -0600" stop="20260825230000 -0600" channel="Xpertv.cr">
+    <title>Blue Bloods</title>
+  </programme>
+  <programme start="20260825230000 -0600" stop="20260826000000 -0600" channel="Xpertv.cr">
     <title>OFF AIR</title>
   </programme>
 </tv>
