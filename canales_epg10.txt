@@ -67,7 +67,10 @@
 635177ecff6cd5445d7f9b0b-5f6b8e7900b0950040d0f2b2,The World Poker Tour,https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png
 635177ecff6cd5445d7f9b0b-671ffe75769d5ec4bf51d63c,Love The Planet,https://provider-static.plex.tv/epg/cms/production/8f2392be-e81f-49dd-bd33-073d29bea2f1/Logo_LoveThePlanet_1500x1000_DarkBackground_-_Belen_Bruno.png
 635177ecff6cd5445d7f9b0b-6720027229bcfe7b69d4fefb,TRAILERS,https://provider-static.plex.tv/epg/cms/production/4bf76655-4cd4-4b07-a744-4f8a29d84659/Logo_Trailers_Germany_1500x1000_DarkBackground_-_Belen_Bruno.png
+635177ecff6cd5445d7f9b0b-6a63a830a1deb5624927c629,ZDF zu Hause,https://provider-static.plex.tv/epg/cms/production/0e3563c7-26cf-45b4-bf42-489cb5934885/Channel_Logo_ZDF_zu_Hause_Color_for_DarkBG_-_Olivia_Beigh.png
+635177ecff6cd5445d7f9b0b-6a63ac26a1deb5624927c633,H2O &amp; Friends,https://provider-static.plex.tv/epg/cms/production/038d2852-734e-4108-b142-09319a22f8ab/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png
 635177ecff6cd5445d7f9b0b-639b8d803f4612cc150a5721,Smurf TV,https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png
+635177ecff6cd5445d7f9b0b-6a5e97d4ea9f0da81d0962eb,Fix Foxi + Freunde,https://provider-static.plex.tv/epg/cms/production/f4612c04-7a50-495f-a4ae-6b5f7f8236c5/FixFoxiFruende_dark_1500x1000.png
 635177ecff6cd5445d7f9b0b-626c1753ffda6789d20a452e,COPS,https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png
 635177ecff6cd5445d7f9b0b-6578e7b5eef129f30fb38df7,Operation Repo,https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png
 635177ecff6cd5445d7f9b0b-63f914bffe2c3d32e1a7929f,GLORY Kickboxing,https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png
@@ -218,7 +221,6 @@
 635177ecff6cd5445d7f9b0b-621671d05abdd3d5556a1baf,Watch it SCREAM,https://provider-static.plex.tv/epg/cms/production/945765a1-a848-4105-bf4d-5c27192e79ed/WatchitScream_logo_dark.png
 635177ecff6cd5445d7f9b0b-5f0ff263d71dcb00449ec021,People are Awesome,https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png
 635177ecff6cd5445d7f9b0b-6112a9139894c8002c6cb87f,More U,https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png
-635177ecff6cd5445d7f9b0b-61e9d9979da6ee6e05278269,Wellbeing TV,https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png
 635177ecff6cd5445d7f9b0b-5f0ff266d71dcb00449ec030,WeatherSpy,https://provider-static.plex.tv/epg/cms/production/3b058b7e-f61e-4257-ae0c-894dd648565f/jukin_weatherspy_2_white.png
 635177ecff6cd5445d7f9b0b-62fbf36c1567211fdb82e920,Stingray Naturescape,https://provider-static.plex.tv/epg/cms/production/42759e04-9961-44c5-b9ae-585ac62f34ca/Stingray_Naturescape_logo_light.png
 635177ecff6cd5445d7f9b0b-66fd3e25216b603e031725fe,ZenLIFE by Stingray,https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png

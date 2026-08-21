@@ -70,6 +70,7 @@
 643054b1fc3be59477853717-64b1dd6046d96b0c91bb1a42,Yu-Gi-Oh!,https://provider-static.plex.tv/epg/cms/production/e10f9ed3-8112-4287-8355-cc00be4413a8/Wurl_Yu-Gi-Oh_Channel_Logo_light_Astridrdx.png
 643054b1fc3be59477853717-66fd331e216b603e031725f6,Beyblade,https://provider-static.plex.tv/epg/cms/production/154865e3-15a5-4f2f-874c-cfd1affee212/Plex_Beyblade_Color_Logo.png
 643054b1fc3be59477853717-5eea605574085f0040ddc794,Toon Goggles,https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png
+643054b1fc3be59477853717-6a63ab81a1deb5624927c631,H2O &amp; Friends,https://provider-static.plex.tv/epg/cms/production/b4e2190f-3258-400d-9b65-d92806a9e2c6/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png
 643054b1fc3be59477853717-64a355697d24564fba37bab8,Ideas En 5 Minutos,https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png
 643054b1fc3be59477853717-6018913ea15130002b284191,FreeTV Hits,https://provider-static.plex.tv/epg/cms/production/b1c2a69a-6ca6-4c92-b090-53de85f49c8f/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png
 643054b1fc3be59477853717-686462bf1a2f321847ec0395,Comercio TV,https://provider-static.plex.tv/epg/cms/production/f13dd872-9888-4a98-953b-2d2cf306d69a/comercioDark_Logo__1_.png
@@ -161,7 +162,6 @@
 643054b1fc3be59477853717-64b1e1217d4037206787f384,Nolly Africa HD,https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png
 643054b1fc3be59477853717-5ef11487d33ab9004048a1d3,BOOT,https://provider-static.plex.tv/epg/cms/production/5e31e123-a40b-41c6-9153-67c983c6d9e6/boot_all-white_1500X1000_PNG_transparent_background.png
 643054b1fc3be59477853717-63894c1965b848bf2c8a7800,5-Minute Crafts,https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png
-643054b1fc3be59477853717-61e9d9979da6ee6e05278269,Wellbeing TV,https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png
 643054b1fc3be59477853717-60d4edddb2fdec002c141135,WildEarth,https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png
 643054b1fc3be59477853717-63628eb88e4b18ca22f897dc,PursuitUP,https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png
 643054b1fc3be59477853717-62d1a58e520656fda09e609d,Shemaroo Bollywood,https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png

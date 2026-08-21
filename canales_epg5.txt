@@ -153,8 +153,6 @@
 1323,Discovery Kids • Feed 2,https://i.ibb.co/gMhsjXnk/1323.jpg
 0324,Cartoonito,https://i.ibb.co/zVbsHSfN/0324.jpg
 0325,FMH Animotion,https://i.ibb.co/N2fgnYnW/0325.jpg
-0326,CH0326,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-0327,CH0327,https://i.ibb.co/WWzvjzjM/0327.jpg
 0328,ZKids,https://i.ibb.co/Xx1NS2gW/0328.jpg
 0329,Fix y Foxi,https://i.ibb.co/FqXcHkfD/0329.jpg
 0330,Edye TV,https://i.ibb.co/XfvMfys4/0330.jpg
