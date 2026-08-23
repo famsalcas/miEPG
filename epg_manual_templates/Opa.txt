@@ -20,6 +20,7 @@ Lunes,21:30,Equilibrio con Yaxún
 Lunes,22:30,Charlas
 Lunes,23:30,Central Noticias
 Martes,01:00,El Octavo Mandamiento
+Martes,02:00,ECentral Ahora
 Martes,08:00,Central Noticias
 Martes,09:00,Está Pasando
 Martes,10:00,Misa
@@ -36,6 +37,7 @@ Martes,21:30,Podcast Nereo Gabriel
 Martes,22:30,Charlas
 Martes,23:30,Central Noticias
 Miercoles,01:00,El Octavo Mandamiento
+Miercoles,02:00,Central Ahora
 Miercoles,08:00,Central Noticias
 Miercoles,09:00,Está Pasando
 Miercoles,10:00,Misa
@@ -52,6 +54,7 @@ Miercoles,21:30,Alma de Mujer
 Miercoles,22:30,Charlas
 Miercoles,23:30,Central Noticias
 Jueves,01:00,El Octavo Mandamiento
+Jueves,02:00,Central Ahora
 Jueves,08:00,Central Noticias
 Jueves,09:00,Está Pasando
 Jueves,10:00,Misa
@@ -69,6 +72,7 @@ Jueves,22:30,Charlas
 Jueves,23:30,Central Noticias
 Viernes,00:30,Testigo Directo
 Viernes,01:00,El Octavo Mandamiento
+Viernes,02:00,Central Ahora
 Viernes,08:00,Central Noticias
 Viernes,09:00,Está Pasando
 Viernes,10:00,Misa
@@ -85,6 +89,7 @@ Viernes,21:30,Programa
 Viernes,22:30,Charlas
 Viernes,23:30,Central Noticias
 Sabado,01:00,El Octavo Mandamiento
+Sabado,02:00,Central Ahora
 Sabado,10:00,Equilibrio con Yaxún
 Sabado,11:00,Podcast Nereo Gabriel
 Sabado,14:00,Podcast Nereo Gabriel
@@ -92,8 +97,10 @@ Sabado,15:00,Testigo Directo
 Sabado,16:00,A doble nudo
 Sabado,18:00,Está Pasando
 Sabado,20:00,Alma de mujer
+Sabado,22:00,Testigo Directo
 Sabado,23:00,Charlas
 Domingo,00:00,Charlas
+Domingo,01:00,Está Pasando
 Domingo,04:00,A doble nudo
 Domingo,13:00,Está Pasando
 Domingo,14:00,Podcast Nereo Gabriel
