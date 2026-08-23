@@ -6,11 +6,12 @@ dias=7
 
 Lunes,12:00,Serie
 Lunes,13:00,Serie
-Lunes,14:00,Cocina de hoy
+Lunes,13:30,Serie
+Lunes,14:00,Serie
 Lunes,15:00,Programa
 Lunes,16:30,Escuela Teletica
 Lunes,19:00,Hacia lo mejor
-Lunes,21:00,Blue Bloods
+Lunes,22:00,Serie
 Lunes,23:00,OFF AIR
 Martes,13:00,Serie
 Martes,14:00,Cocina de hoy
@@ -53,6 +54,9 @@ Sabado,13:00,Todo sobre belleza
 Sabado,14:00,Serie
 Sabado,15:00,Serie
 Sabado,17:00,Escuela Teletica
+Sabado,18:00,Serie
+Sabado,18:30,Instinto Viajero
+Sabado,19:30,Serie
 Sabado,20:00,Biografias con Alvaro Gamboa
 Sabado,20:30,Hacia lo mejor
 Sabado,21:30,Serie
