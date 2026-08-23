@@ -1,2 +1,2 @@
 # Fuente: https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/main/playlists/tubi_epg.xml
-682634,ION,https://canvas-lb.tubitv.com/opts/LFLNras1Iw825A==/d7bf80e8-e8bc-4883-9c2b-551d1d7ab80c/CHgQeDoFMS4xLjlAAQ==
+555121,FOX LOCAL Washington DC,https://canvas-lb.tubitv.com/opts/_jvGWcGqFs6DhQ==/8c560c21-a9f7-41c7-82ad-df5674fb9692/CHgQeDoFMS4xLjlAAQ==
