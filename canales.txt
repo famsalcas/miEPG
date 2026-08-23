@@ -55,7 +55,7 @@ CINE PREMIUM HD.py,CinePremium
 Cinelatino,Cinelatino.ni,-1
 Cine Mexicano,CineMexicano.mx,-1
 770c7e1794505869b1ce94c84905ecea,CineRomantico
-Cine Sony,CineSONY.us
+Cine Sony,CineSONY.us,-1
 Cinecanal Pacífico,Cinecanal.gt,-1
 CineDinHD.Mx,CinemaDinamita
 Cinema Platino,CinemaPlatino.cr,-1
@@ -66,7 +66,7 @@ Clarocinema,ClaroCinema
 Clover.cl,CloverChannel
 DePeliHD,DePelicula.cr
 DHE,DHE.ni
-Film &amp; Arts,FilmAndArts.ni
+Film &amp; Arts,FilmAndArts.ni,-4
 FilmandCo.es,FilmandCo
 1e2a4ec82eb65f729ad7484337c0bcd4,FILMEX
 f53e794f65b781ff1a0d37843c704827,FILMEX-Accion
@@ -384,7 +384,7 @@ MoreMax.HD.us2,CinemaxHits
 acf637e8292736265712e3be566c0e5a,CinepolisChannel
 400000069,ClassicCinema
 Golden Panregional,Golden.ni,-1
-Golden Edge,GoldenEdge.mx
+Golden Edge,GoldenEdge.mx,-3
 Golden Plus,GoldenPlus.mx
 Golden Premier,GoldenPremier.mx
 Golden Premier 2,GoldenPremier2.mx
