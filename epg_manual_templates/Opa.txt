@@ -17,10 +17,10 @@ Lunes,18:00,Central Noticias
 Lunes,19:00,Está Pasando
 Lunes,20:00,El Octavo Mandamiento
 Lunes,21:30,Equilibrio con Yaxún
-Lunes,22:30,Charlas
-Lunes,23:30,Central Noticias
-Martes,01:00,El Octavo Mandamiento
-Martes,02:00,ECentral Ahora
+Lunes,22:30,Central Noticias
+Lunes,23:30,Testigo Directo
+Martes,00:30,El Octavo Mandamiento
+Martes,02:00,Central Ahora
 Martes,08:00,Central Noticias
 Martes,09:00,Está Pasando
 Martes,10:00,Misa
@@ -34,9 +34,9 @@ Martes,18:00,Central Noticias
 Martes,19:00,Está Pasando
 Martes,20:00,El Octavo Mandamiento
 Martes,21:30,Podcast Nereo Gabriel
-Martes,22:30,Charlas
-Martes,23:30,Central Noticias
-Miercoles,01:00,El Octavo Mandamiento
+Martes,22:30,Central Noticias
+Martes,23:30,Testigo Directo
+Miercoles,00:30,El Octavo Mandamiento
 Miercoles,02:00,Central Ahora
 Miercoles,08:00,Central Noticias
 Miercoles,09:00,Está Pasando
@@ -51,9 +51,9 @@ Miercoles,18:00,Central Mundo
 Miercoles,19:00,Está Pasando
 Miercoles,20:00,El Octavo Mandamiento
 Miercoles,21:30,Alma de Mujer
-Miercoles,22:30,Charlas
-Miercoles,23:30,Central Noticias
-Jueves,01:00,El Octavo Mandamiento
+Miercoles,22:30,Central Noticias
+Miercoles,23:30,Testigo Directo
+Jueves,00:30,El Octavo Mandamiento
 Jueves,02:00,Central Ahora
 Jueves,08:00,Central Noticias
 Jueves,09:00,Está Pasando
@@ -68,10 +68,9 @@ Jueves,18:00,Central Noticias
 Jueves,19:00,Está Pasando
 Jueves,20:00,El Octavo Mandamiento
 Jueves,21:30,A doble nudo
-Jueves,22:30,Charlas
-Jueves,23:30,Central Noticias
-Viernes,00:30,Testigo Directo
-Viernes,01:00,El Octavo Mandamiento
+Jueves,22:30,Central NOticias
+Jueves,23:30,Testigo Directo
+Viernes,00:30,El Octavo Mandamiento
 Viernes,02:00,Central Ahora
 Viernes,08:00,Central Noticias
 Viernes,09:00,Está Pasando
@@ -86,9 +85,9 @@ Viernes,18:00,Central Noticias
 Viernes,19:00,Está Pasando
 Viernes,20:00,El Octavo Mandamiento
 Viernes,21:30,Programa
-Viernes,22:30,Charlas
-Viernes,23:30,Central Noticias
-Sabado,01:00,El Octavo Mandamiento
+Viernes,22:30,Central Noticias
+Viernes,23:30,Testigo Directo
+Sabado,00:30,El Octavo Mandamiento
 Sabado,02:00,Central Ahora
 Sabado,10:00,Equilibrio con Yaxún
 Sabado,11:00,Podcast Nereo Gabriel
