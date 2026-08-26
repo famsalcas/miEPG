@@ -195,17 +195,16 @@ CA800002TN,OUTflix Movies,https://tvpnlogopus.samsungcloud.tv/platform/image/sou
 CA35000078O,Cinevault Westerns,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000078O_20260609T034609SQUARE.png
 CA44000025P,Grjngo,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA44000025P_20250819T224258SQUARE.png
 CAAJ27000159K,FilmRise Western,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000159K_20251125T191326SQUARE.png
-CA4600004EA,Heartland,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600004EA_20260818T061644SQUARE.png
-CABC5200019FS,Degrassi,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200019FS_20260818T061636SQUARE.png
+CA34000033Z,Hearties,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA34000033Z_20260825T040510SQUARE.png
 CABC23000056U,Midsomer Murders,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000056U_20260421T141217SQUARE.png
 CA4600001IG,Murdoch Mysteries,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600001IG_20260818T061700SQUARE.png
 CA2900008Y0,Death Valley Days,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900008Y0_20260421T141127SQUARE.png
 CABC2300007YT,Western Bound,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300007YT_20250623T224837SQUARE.png
 CABB19000010Y,Circle Country,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB19000010Y_20260421T141116SQUARE.png
-CA34000033Z,Hearties,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA34000033Z_20260707T040123SQUARE.png
 CA3500005NS,FilmRise Canadien,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3500005NS_20260303T094703SQUARE.png
 CAAJ2700008QA,FilmRise Classic TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700008QA_20251125T191321SQUARE.png
 CA2100002KI,Dhar Mann TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2100002KI_20260609T034615SQUARE.png
+CA4600004EA,Heartland,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600004EA_20260825T040516SQUARE.png
 CABA3700002ML,Baywatch,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700002ML_20260727T081515SQUARE.png
 CABB26000082J,21 Jump Street,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250826T234604SQUARE.png
 CA4400004GC,Series K Edge,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4400004GC_20251209T010218SQUARE.png
@@ -215,26 +214,27 @@ CA17000023Q,CJ ENM K-Stories,https://tvpnlogopus.samsungcloud.tv/platform/image/
 CA1700004QS,K-Drama+,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700004QS_20260812T022203SQUARE.png
 CA2000007YG,Genie K-Drama,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000007YG_20260819T010738SQUARE.png
 CAAJ34000158F,MHz Now,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ34000158F_20260421T140108SQUARE.png
-CABA3700005AD,Court TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700005AD_20260818T061503SQUARE.png
+CABC5200019FS,Degrassi,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200019FS_20260825T040504SQUARE.png
+CA3900025I5,48 Hours,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3900025I5_20260825T040444SQUARE.png
 CABC23000189A,Cops,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000189A_20260421T140552SQUARE.png
 CAAJ27000079E,FilmRise True Crime,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000079E_20260421T140937SQUARE.png
 CABD1200007HY,True Crime Now,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200007HY_20260421T140646SQUARE.png
 CA4700015P1,Crime 360,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700015P1_20260602T091721SQUARE.png
 CABB2600009WE,Dr. G: Medical Examiner,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600009WE_20260421T140509SQUARE.png
 CA4700017S7,The First 48,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700017S7_20260727T081710SQUARE.png
-CA3900025I5,48 Hours,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3900025I5_20260512T070200SQUARE.png
 CAAJ2700012PP,Forensic Files,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700012PP_20260714T040915SQUARE.png
 CAAJ27000135F,Unsolved Mysteries,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000135F_20260428T032038SQUARE.png
 CA2600003M4,BuzzFeed Unsolved,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2600003M4_20251110T235230SQUARE.png
 CA1400006BZ,Noovo Crime,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400006BZ_20260421T141124SQUARE.png
 CAAJ3400002DI,Law &amp; Crime,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400002DI_20260818T061523SQUARE.png
+CABA3700005AD,Court TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700005AD_20260825T040429SQUARE.png
+CA2100004VD,Challenge Accepted,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2100004VD_20260825T040457SQUARE.png
 CABB2600006SV,Hell's Kitchen,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600006SV_20260622T060126SQUARE.png
 CA18000010N,Fear Factor,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA18000010N_20260505T062326SQUARE.png
 CA1400014EH,American Pickers,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400014EH_20260505T062319SQUARE.png
 CA900009VP,Ax Men,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA900009VP_20260616T032238SQUARE.png
 CA14000105P,CTV Gridlock,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA14000105P_20260602T091710SQUARE.png
 CA35000025N,CTV Gets Real,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000025N_20260505T062309SQUARE.png
-CA2100004VD,Challenge Accepted,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2100004VD_20260528T040853SQUARE.png
 CA900007X0,Little Women: LA,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA900007X0_20260421T140919SQUARE.png
 CA900005B8,Dance Moms,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA900005B8_20260421T140911SQUARE.png
 CABD1200041NC,Cheaters,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200041NC_20250121T094948SQUARE.png
@@ -248,7 +248,7 @@ CA4700018BI,Deal Zone,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcel
 CA470001245,Xtreme Outdoor,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA470001245_20260804T050253SQUARE.png
 CABA800001IQ,INFAST,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20260421T141106SQUARE.png
 CA1300002XC,DangerTV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300002XC_20260421T140243SQUARE.png
-CA1400017PU,Property Brothers,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400017PU_20260602T091754SQUARE.png
+CA1400017PU,Property Brothers,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400017PU_20260825T040522SQUARE.png
 CA14000028T,CTV @ Home,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA14000028T_20260512T070202SQUARE.png
 CA9000103C,Tiny House Nation,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA9000103C_20260421T140929SQUARE.png
 CABB25000248J,This Old House,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB25000248J_20260528T041000SQUARE.png
@@ -300,18 +300,18 @@ CA4400001O0,Game &amp; Fish TV,https://tvpnlogopus.samsungcloud.tv/platform/imag
 CAAJ2700030ON,Outside TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20260421T140954SQUARE.png
 CABB2500034Q4,Waypoint TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500034Q4_20260421T140457SQUARE.png
 CAAJ34000089L,People Are Awesome,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ34000089L_20260421T140223SQUARE.png
-CABD1200015FS,RACER Select,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200015FS_20260818T061707SQUARE.png
 CA700002VS,NASCAR Channel,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA700002VS_20250523T235632SQUARE.png
 CA1000004ZW,MotoAmerica TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1000004ZW_20260818T061654SQUARE.png
 CABC2300004A4,Top Gear,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300004A4_20260421T140527SQUARE.png
+CABD1200015FS,RACER Select,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200015FS_20260825T040526SQUARE.png
 CABD1200016E8,POWERNATION,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200016E8_20250630T232936SQUARE.png
 CABC2300006OP,NHRA TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300006OP_20260421T140531SQUARE.png
 CA1700007YN,Donut,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700007YN_20251125T031020SQUARE.png
 CA290000616,Hagerty,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA290000616_20260421T140404SQUARE.png
+CA4100007AK,AFV with Alfonso Ribeiro,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4100007AK_20260825T040452SQUARE.png
 CABD1700002R4,Conan O'Brien TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20260707T040110SQUARE.png
 CA400003FQ,Animation+,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400003FQ_20260421T140742SQUARE.png
 CA40000064R,Letterman TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA40000064R_20260528T040911SQUARE.png
-CA4100007AK,AFV with Alfonso Ribeiro,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4100007AK_20260701T010300SQUARE.png
 CA2900007ZL,Hot Ones,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900007ZL_20260721T033210SQUARE.png
 CA21000060M,Smosh,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA21000060M_20260310T031516SQUARE.png
 CA2000010EM,The Try Guys,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000010EM_20251021T192258SQUARE.png
@@ -351,12 +351,12 @@ CABA800009T5,Haunt TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcel
 CA47000169X,UnXplained Zone,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA47000169X_20260818T061723SQUARE.png
 CAAJ1700002PA,The Asylum,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ1700002PA_20260303T094519SQUARE.png
 CABC5200021HG,Midnight Pulp,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200021HG_20260421T140628SQUARE.png
-CA2000002N3,Sailor Moon,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000002N3_20260818T061715SQUARE.png
 CA1100002J6,It’s Anime,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1100002J6_20260609T034538SQUARE.png
 CA2000009WX,Crunchyroll,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000009WX_20260804T050203SQUARE.png
 CABC2300012FY,RetroCrush,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300012FY_20260811T043156SQUARE.png
 CA1700006FC,BizaarTV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700006FC_20251028T011222SQUARE.png
 CA20000034S,Naruto,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA20000034S_20260303T070528SQUARE.png
+CA2000002N3,Sailor Moon,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000002N3_20260825T040532SQUARE.png
 CA2700001AQ,Hunter x Hunter,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2700001AQ_20250929T231845SQUARE.png
 CA2700002RF,JoJo's Bizarre Adventure,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2700002RF_20260105T175901SQUARE.png
 CA34000054K,Dungeons &amp; Dragons: Adventures,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA34000054K_20260421T141204SQUARE.png
@@ -374,7 +374,6 @@ CABA800002RW,InWonder,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcel
 CA900003IF,Evolution Earth,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA900003IF_20260421T140904SQUARE.png
 CA900004R3,Modern Marvels,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA900004R3_20260421T140908SQUARE.png
 CA600001C3,History &amp; Warfare,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA600001C3_20260421T140846SQUARE.png
-CABB2500020SS,TED,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500020SS_20260421T140438SQUARE.png
 CAAJ3400007TS,WeatherSpy,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400007TS_20260421T140158SQUARE.png
 CA2000004MI,Mark Rober TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000004MI_20260602T091739SQUARE.png
 CA210000188,Blippi,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA210000188_20260805T004404SQUARE.png
@@ -1994,7 +1993,6 @@ KRBB4200013L5,SBS 순간포착 세상에 이런일이,https://tvpnlogopus.samsun
 KRBB4200018FT,SBS 생활의 달인,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20260422T013822SQUARE.png
 KRBC3500018J9,MBN 휴먼다큐 사노라면,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20260422T013743SQUARE.png
 KR3600006FN,아리랑TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600006FN_20251106T195327SQUARE.png
-KRBD370000134,TED,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20260422T013857SQUARE.png
 KRBD2200001QD,우리의식탁,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20260422T014100SQUARE.png
 KRAH2201403A,SAMSUNG UHD,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH2201403A_20260422T012851SQUARE.png
 KRBD44000025L,Fireplace 4K,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png
@@ -2024,7 +2022,7 @@ KR10000027H,SMTOWN,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo
 KR45000052W,KBS HOT CLIP 음악,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR45000052W_20260422T012517SQUARE.png
 KRAH1801500A,현대홈쇼핑,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20260422T013224SQUARE.png
 KRAH4602000A,현대홈쇼핑+Shop,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20260422T013227SQUARE.png
-USBA370000104,CBS News 24/7,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20260421T133815SQUARE.png
+USBA370000104,CBS News 24/7,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20260826T013607SQUARE.png
 USBC39000171G,ABC News Live,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20260421T133843SQUARE.png
 USBB2200014DK,NBC News NOW,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20260421T133829SQUARE.png
 USBA300024TN,LiveNOW from FOX,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20260707T035825SQUARE.png
@@ -2044,9 +2042,9 @@ US3700004Y0,Salem News Channel,https://tvpnlogopus.samsungcloud.tv/platform/imag
 US1000016Q,The First,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000016Q_20240520T223423SQUARE.png
 USBA30002142,TYT Network,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20250325T020252SQUARE.png
 US3300008FX,The Hill,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300008FX_20260421T133803SQUARE.png
-USBD3500032H0,Movie Hub Action,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260818T061307SQUARE.png
 USBA3000041ZP,Movie Hub,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000041ZP_20260811T043430SQUARE.png
 USBD3500036HP,Movie Hub West,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500036HP_20260421T134120SQUARE.png
+USBD3500032H0,Movie Hub Action,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500032H0_20260825T040236SQUARE.png
 US38000108V,Movie Hub Action West,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US38000108V_20260421T133631SQUARE.png
 USBD3500033U0,Movie Hub Romance,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260727T081434SQUARE.png
 USBD270001633,Hallmark Movies &amp; More,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20260721T032934SQUARE.png
@@ -2080,12 +2078,11 @@ US18000078A,Little House on the Prairie,https://tvpnlogopus.samsungcloud.tv/plat
 USBD1200002PM,get TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200002PM_20260421T134200SQUARE.png
 USBD1200021JM,Shout! TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20250401T004834SQUARE.png
 US3900008GK,The Brady Bunch,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900008GK_20260428T032017SQUARE.png
-US19000072T,Nashville,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US19000072T_20260818T061328SQUARE.png
-USBD2500018X6,Stories by AMC,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20260818T061343SQUARE.png
 US300068X7,Samsung Television Network,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20260818T061336SQUARE.png
 USBB2300001QP,ALL ACTION,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300001QP_20260421T133401SQUARE.png
 USBD300002TU,ION,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20260421T133719SQUARE.png
 USBD300003LK,ION Plus,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20260421T133722SQUARE.png
+USBD2500018X6,Stories by AMC,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20260825T040251SQUARE.png
 US25000075Y,CW FOREVER,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20260310T031307SQUARE.png
 US25000063S,CW Gold,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000063S_20260303T070420SQUARE.png
 USBC6000225M,ElectricNOW,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20250602T231429SQUARE.png
@@ -2101,6 +2098,7 @@ USBC1000004G8,Shades of Black,https://tvpnlogopus.samsungcloud.tv/platform/image
 US150000550,50 Cent Action,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US150000550_20260701T005958SQUARE.png
 US180001143,Las Vegas,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US180001143_20260421T133917SQUARE.png
 US3000006DF,HerSphere by Lionsgate,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000006DF_20260528T042006SQUARE.png
+US19000072T,Nashville,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US19000072T_20260825T040243SQUARE.png
 USAJ26000015Y,Drama Life,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000015Y_20260421T133449SQUARE.png
 US4100005NW,Dawson's Creek,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100005NW_20260421T133907SQUARE.png
 US4100029G5,Felicity,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100029G5_20260421T133634SQUARE.png
@@ -2122,7 +2120,7 @@ USBD700016JY,Dove Channel,https://tvpnlogopus.samsungcloud.tv/platform/image/sou
 US410000230,BYUtv,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US410000230_20250415T005934SQUARE.png
 USBD700010XU,Degrassi,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700010XU_20260428T031958SQUARE.png
 USBC240001823,Brat TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20241014T232222SQUARE.png
-USBA34000049Z,Court TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20260818T061034SQUARE.png
+USBD42000250Q,American Crimes,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20260825T040004SQUARE.png
 USBB36000040M,Crime Zone,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260512T070239SQUARE.png
 USBC24000223S,ION Mystery,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20260421T133716SQUARE.png
 US3700007E4,BritBox Mysteries,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700007E4_20260811T044013SQUARE.png
@@ -2145,7 +2143,6 @@ US4800001W5,ABC 20/20,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcel
 USBB3200001MG,REELZ Famous &amp; Infamous,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png
 US160000159,Live PD Presents,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US160000159_20250805T005823SQUARE.png
 US900059YT,A&amp;E Live PD: Greatest Shifts,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900059YT_20260528T041942SQUARE.png
-USBD42000250Q,American Crimes,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20251202T005858SQUARE.png
 US10000092P,COPS,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000092P_20260421T142126SQUARE.png
 US1900005VB,Oxygen True Crimes Archive,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900005VB_20260707T035819SQUARE.png
 USBB52000236D,Crime ThrillHer,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000236D_20260811T043527SQUARE.png
@@ -2158,8 +2155,10 @@ US37000036P,TruBlu,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo
 US2600022YJ,BuzzFeed Unsolved,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600022YJ_20260421T133748SQUARE.png
 US46000120T,TV One Crime &amp; Justice,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000120T_20260811T043638SQUARE.png
 USAK3508710A,Law &amp; Crime,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20260811T043509SQUARE.png
+USBA34000049Z,Court TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20260825T035901SQUARE.png
+USBB4400016F9,All-Out Reality,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20260825T035956SQUARE.png
+US900002IH,Dog the Bounty Hunter,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20260825T040208SQUARE.png
 US1900023QQ,A&amp;E Alaska State Troopers,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900023QQ_20260727T081400SQUARE.png
-USBB4400016F9,All-Out Reality,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20260505T062537SQUARE.png
 USBA3000042O6,Kitchen Nightmares,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20260804T045733SQUARE.png
 US2900010UT,Bondi Rescue,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900010UT_20260421T133757SQUARE.png
 US2100006EH,Challenge Accepted,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100006EH_20260528T041503SQUARE.png
@@ -2182,7 +2181,6 @@ USBA300020WC,Love &amp; Hip Hop,https://tvpnlogopus.samsungcloud.tv/platform/ima
 USBB2900001P9,CJ ENM K-Reality,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20260811T043505SQUARE.png
 USBD3500031F3,Cheaters,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20260421T133730SQUARE.png
 USBC6000219D,Operation Repo,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20260421T134129SQUARE.png
-US900002IH,Dog the Bounty Hunter,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900002IH_20260117T020339SQUARE.png
 US4700030X8,Untold Stories of the ER,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700030X8_20260421T133657SQUARE.png
 USBD3500040WX,Intervention by A&amp;E,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500040WX_20250805T005815SQUARE.png
 USBD4200009Y4,Hoarders by A&amp;E,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200009Y4_20250805T005802SQUARE.png
@@ -2195,7 +2193,7 @@ USAJ3504708A,DangerTV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcel
 US700007CV,Caught on Tape,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700007CV_20251125T030913SQUARE.png
 US700002ZB,Road Renegades,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700002ZB_20260421T134141SQUARE.png
 US4500001DM,RIG TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500001DM_20260421T143036SQUARE.png
-USBC21000142T,Home Refresh,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20260324T032347SQUARE.png
+USBC21000142T,Home Refresh,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20260825T040219SQUARE.png
 US300067FX,Million Dollar Dream Home,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300067FX_20260421T143252SQUARE.png
 USAJ3000006X5,Home.Made.Nation,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20251219T231926SQUARE.png
 USAJ3400020KC,Tiny House Nation,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400020KC_20260324T032118SQUARE.png
@@ -2240,7 +2238,7 @@ US3600003R7,The NBA Channel,https://tvpnlogopus.samsungcloud.tv/platform/image/s
 US300063BQ,Victory+,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300063BQ_20260421T143250SQUARE.png
 US300062TG,NESN Nation,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300062TG_20260421T143408SQUARE.png
 US4700001B4,SLVR,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700001B4_20260421T143048SQUARE.png
-USBB4800005VO,CBS Sports HQ,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20260421T143318SQUARE.png
+USBB4800005VO,CBS Sports HQ,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20260826T013637SQUARE.png
 US100000704,CBS Sports Golazo Network,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US100000704_20260701T010049SQUARE.png
 US2700001QY,FOX Sports,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20260421T143236SQUARE.png
 USBD420002446,NBC Sports NOW,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250729T010447SQUARE.png
@@ -2335,7 +2333,6 @@ US4700029QM,Gotham Comedy Live,https://tvpnlogopus.samsungcloud.tv/platform/imag
 USBD7000145C,Comedy Dynamics,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000145C_20241210T013825SQUARE.png
 US4500004SQ,Mystery Science Theater 3000,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500004SQ_20260421T143040SQUARE.png
 USAJ3504706A,RiffTrax,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504706A_20260609T214530SQUARE.png
-USBB520002173,Ice Road Truckers,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20260818T061259SQUARE.png
 USBB2900002Z7,Hell's Kitchen,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20260421T142921SQUARE.png
 USBD1700006T2,Storage Wars: LA,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20260818T061223SQUARE.png
 US300003S3,Pawn Stars,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20260701T010121SQUARE.png
@@ -2348,6 +2345,7 @@ US390001557,The Amazing Race,https://tvpnlogopus.samsungcloud.tv/platform/image/
 US3500006VF,America's Got Talent,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500006VF_20251219T231953SQUARE.png
 USBD3500041ZF,American Pickers by History,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20260505T062500SQUARE.png
 USBD2700014QW,Forged In Fire,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20260331T031921SQUARE.png
+USBB520002173,Ice Road Truckers,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20260825T040228SQUARE.png
 USBB5200020Z0,Ax Men,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20250826T234514SQUARE.png
 USBD27000156I,Alone By History,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20260303T070409SQUARE.png
 USBB3500004RC,Project Runway,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500004RC_20260714T040724SQUARE.png
@@ -2366,6 +2364,7 @@ USBA3000100X,Wild 'N Out,https://tvpnlogopus.samsungcloud.tv/platform/image/sour
 US5000053YV,Family Feud,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000053YV_20260818T061216SQUARE.png
 US490000330,Family Feud Classic,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US490000330_20260421T141754SQUARE.png
 US1900010IY,Celebrity Name Game,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900010IY_20260421T142136SQUARE.png
+US370001124,Tony Robbins,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US370001124_20260825T040301SQUARE.png
 US1900021H0,The Ringer from Spotify,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900021H0_20260421T141936SQUARE.png
 US26000201N,Biography: The Icons,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20260616T032055SQUARE.png
 US700005ID,WWE Superstar Central,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20260421T142358SQUARE.png
@@ -2381,7 +2380,6 @@ USBD300006A6,Divorce Court,https://tvpnlogopus.samsungcloud.tv/platform/image/so
 US700020AX,Cutlers Court,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700020AX_20250929T231748SQUARE.png
 US3900016OI,The Judge Judy Channel,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900016OI_20260721T033025SQUARE.png
 USBB1900006NY,VICE,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20240520T214721SQUARE.png
-US370001124,Tony Robbins,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US370001124_20260127T205402SQUARE.png
 USBC10000129R,Complex TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000129R_20260407T042305SQUARE.png
 US1300003SW,Billboard TV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300003SW_20260203T191109SQUARE.png
 USAJ3504701A,Documentary+,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20260421T141824SQUARE.png
@@ -2389,7 +2387,7 @@ USBA300032J7,FOX SOUL,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcel
 USBD70000412,4UV,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000412_20250520T211332SQUARE.png
 USBA3800003VP,Revry,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800003VP_20250603T010704SQUARE.png
 US400006304,BuzzFeed Celeb,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006304_20260310T031304SQUARE.png
-USBA3700002JF,ET,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3700002JF_20260421T142039SQUARE.png
+USBA3700002JF,ET,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3700002JF_20260826T013614SQUARE.png
 USBC2400015DO,Hollywire,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400015DO_20240520T214806SQUARE.png
 USBD70000213,TMZ,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000213_20251125T030856SQUARE.png
 US3900006GL,Envoy FAST,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900006GL_20260421T141718SQUARE.png
@@ -2450,7 +2448,6 @@ USBD35000428O,History 365,https://tvpnlogopus.samsungcloud.tv/platform/image/sou
 USBB5200025DO,Modern Marvels Presented by History,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200025DO_20260622T160720SQUARE.png
 USBD1200009JI,History &amp; Warfare Now,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200009JI_20250401T004831SQUARE.png
 USBC39000204J,Military Heroes,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20260528T041536SQUARE.png
-USBC2100013WI,TED,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20250428T223410SQUARE.png
 USAJ3400014LK,WeatherSpy,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400014LK_20240520T214723SQUARE.png
 USBB800001O7,PBS Digital Studios,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20250325T020244SQUARE.png
 US52000010Y,StarTalk,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US52000010Y_20260421T141805SQUARE.png
