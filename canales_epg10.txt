@@ -59,6 +59,7 @@
 608049aefa2b8ae93c2c3a63-688cf47e324d7b6bc116198d,Teleonce America,https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png
 608049aefa2b8ae93c2c3a63-656fa24bdbcce28c3a417415,The World Poker Tour,https://provider-static.plex.tv/epg/cms/production/dec2021c-78a9-47b9-ae15-5e92623ecbde/wpt_logo__1_.png
 608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e,Clic,https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png
+608049aefa2b8ae93c2c3a63-6a6a83ad7c207c80661b6c1e,4Fangs,https://provider-static.plex.tv/epg/cms/production/d8588702-7fbf-42ab-85ee-4846ba35f609/4fangs_whiteRDX.png
 608049aefa2b8ae93c2c3a63-635195e9ccee3e1547a8831a,Farscape,https://provider-static.plex.tv/epg/cms/production/77115f01-d00a-4ef0-bb00-dcb3896e1c09/f5c7ee72e5a980b3ac2a31fd94e112e8.png
 608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae873,TNA Wrestling Channel,https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png
 608049aefa2b8ae93c2c3a63-691536d338cb396cc8e5b40a,Novelas de Siempre,https://provider-static.plex.tv/epg/cms/production/7d35cdb3-b793-47d0-8c2f-cbe2dc1037da/Novelas_de_Siempre_Channel-Icon_ColorRDX2.png
@@ -72,8 +73,8 @@
 608049aefa2b8ae93c2c3a63-64e6e46f27a915f9b5184e9a,Cine en Español,https://provider-static.plex.tv/epg/cms/production/18be52bf-43c6-4ac0-b3bf-ed51b252cb89/Cine_en_espanol_logo_1500x1000px_WHT.png
 608049aefa2b8ae93c2c3a63-6707d20ab87b5cf57ac33c95,Iron Chef en español,https://provider-static.plex.tv/epg/cms/production/7e7e0544-7004-46ac-bea2-b21a2a7ab166/Plex_xumoTile_FilmRise_IronChefEnEspanol_logo_color_white_text.png
 608049aefa2b8ae93c2c3a63-68645c1f1a2f321847ec0391,Platos Sucios,https://provider-static.plex.tv/epg/cms/production/295bd4d4-c84e-4cb7-a0fe-e96f66ba2c40/PLATOS_SUCIOS_channel_logo_colorRDX.png
+608049aefa2b8ae93c2c3a63-6a8cbec6fc51826f5301a15e,JAIL,https://provider-static.plex.tv/epg/cms/production/b5fceee7-7621-4d5a-9012-92841799b250/Jail_channel_logo_4c_1500x1000RDX.png
 608049aefa2b8ae93c2c3a63-65f0dbeb046e6131ecc31843,Zona Investigación,https://provider-static.plex.tv/epg/cms/production/6f05b595-1f43-4399-896a-789ab42dce75/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png
-608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e,Motorvision TV en Español,https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png
 608049aefa2b8ae93c2c3a63-666e1af3d91d13cb4c8cbb6d,La Fiebre del Jade,https://provider-static.plex.tv/epg/cms/production/fd21a845-1ffb-443d-91de-35d2dc3cb12c/channel_logo_1500x1000_light.png.png
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops en Español,https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png
 608049aefa2b8ae93c2c3a63-666e192cd91d13cb4c8cbb6b,Ice Pilots NWT (en español),https://provider-static.plex.tv/epg/cms/production/cd6eed5a-9ec7-469b-90cd-378bc8e95f3f/pilotos_del_artico_logo_WHT.png
@@ -143,6 +144,7 @@
 608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65,Sports Illustrated TV,https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png
 608049aefa2b8ae93c2c3a63-67f45ef989089d917e1b1634,Unbeaten,https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png
 608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9,Racing America,https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png
+608049aefa2b8ae93c2c3a63-6a8786c4fa0d0293e2681b7c,GrowthDay Network,https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png
 608049aefa2b8ae93c2c3a63-6a3c2c8c14e447db7984cc3a,Billboard Español TV,https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png
 608049aefa2b8ae93c2c3a63-67d9a3d663c5439aeaf61305,The Bold and the Beautiful,https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png
 608049aefa2b8ae93c2c3a63-69bb1f002028859eafc637e1,Legacy,https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png
@@ -209,7 +211,6 @@
 608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c,Journy,https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png
 608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01,ACL Cornhole TV,https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png
 608049aefa2b8ae93c2c3a63-6970fdabbde579fb71262401,Bowling TV,https://provider-static.plex.tv/epg/cms/production/573ed04e-775e-41c9-a367-81b9597eff00/Channel_Logo_Color_Evann_D___AdamoRDX_WHT_LETTERS.png
-608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb,Cirque du Soleil,https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png
 608049aefa2b8ae93c2c3a63-66fd3e25216b603e031725fe,ZenLIFE by Stingray,https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png
 608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607,USA TODAY,https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png
 608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6,CINEPRIDE,https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png
