@@ -1027,7 +1027,7 @@ I245.15939.schedulesdirect.org,CA - CBC Calgary,https://schedulesdirect-api20141
 I251.10100.schedulesdirect.org,CA - CBC Vancouver,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png
 I252.10050.schedulesdirect.org,CA - Global News BC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10050_dark_360w_270h.png
 I253.10136.schedulesdirect.org,CA - City TV Vancouver,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10136_dark_360w_270h.png
-I268.14492.schedulesdirect.org,Knowledge Network,
+I268.14492.schedulesdirect.org,Knowledge Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003JVLHM.png_dark_360w_270h.png
 I286.15997.schedulesdirect.org,TSC shopping channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15997_dark_360w_270h.png
 I300.10191.schedulesdirect.org,CRAVE 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25444_dark_360w_270h.png
 I301.12222.schedulesdirect.org,CRAVE 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12222_dark_360w_270h.png
