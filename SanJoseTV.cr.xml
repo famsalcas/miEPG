@@ -3,12 +3,6 @@
   <channel id="SanJoseTV.cr">
     <display-name>San Jose TV</display-name>
   </channel>
-  <programme start="20260830000000 -0600" stop="20260830173000 -0600" channel="SanJoseTV.cr">
-    <title>Música y Prédicas</title>
-  </programme>
-  <programme start="20260830173000 -0600" stop="20260831010000 -0600" channel="SanJoseTV.cr">
-    <title>Santo Rosario y Santa Misa</title>
-  </programme>
   <programme start="20260831010000 -0600" stop="20260831080000 -0600" channel="SanJoseTV.cr">
     <title>Hermano Salvador Gomez</title>
   </programme>
@@ -78,7 +72,13 @@
   <programme start="20260905000000 -0600" stop="20260905173000 -0600" channel="SanJoseTV.cr">
     <title>Música y Prédicas</title>
   </programme>
-  <programme start="20260905173000 -0600" stop="20260905183000 -0600" channel="SanJoseTV.cr">
+  <programme start="20260905173000 -0600" stop="20260906000000 -0600" channel="SanJoseTV.cr">
+    <title>Santo Rosario y Santa Misa</title>
+  </programme>
+  <programme start="20260906000000 -0600" stop="20260906173000 -0600" channel="SanJoseTV.cr">
+    <title>Música y Prédicas</title>
+  </programme>
+  <programme start="20260906173000 -0600" stop="20260906183000 -0600" channel="SanJoseTV.cr">
     <title>Santo Rosario y Santa Misa</title>
   </programme>
 </tv>

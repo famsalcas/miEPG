@@ -1,2 +1,3 @@
 # Fuente: https://raw.githubusercontent.com/PRENDLYMADAPAKER/ANG-KALAT-MO/main/playlists/tubi_epg.xml
-682634,ION,https://canvas-lb.tubitv.com/opts/LFLNras1Iw825A==/d7bf80e8-e8bc-4883-9c2b-551d1d7ab80c/CHgQeDoFMS4xLjlAAQ==
+555114,FOX LOCAL San Francisco,https://canvas-lb.tubitv.com/opts/NBRBJIrLrI3V0w==/d2175866-3daf-45db-9e2c-043eac4de170/CHgQeDoFMS4xLjlAAQ==
+671073,Unsolved Mysteries,https://canvas-lb.tubitv.com/opts/aKYeZc2Iq7NuYQ==/864892f9-3ab0-4950-9f8b-189ec2d92c20/CHgQeDoFMS4xLjlAAQ==
