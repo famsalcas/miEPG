@@ -16,7 +16,6 @@
 5dfcde52d28b09000a42d7a2,Pluto TV A La Mexicana,https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png
 609059dc63be6e0007b4eca6,Pluto TV Cine Clásico,https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png
 5dd6ddb30a1d8a000908ed4c,Pluto TV Cine Familia,https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1785959252371.png
-5dd6ed41526c77000941411c,Pluto TV Pre-Navidad,https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1781123305546.png
 655f62ff954b020008c91ec6,Pluto TV Series de Crimen,https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png
 63eb9255c111bc0008fe6ec4,CSI: Miami,https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png
 63eb947c4e83e70008ab877b,NCIS,https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png
@@ -120,7 +119,6 @@
 673f7446030a2c0008231bc3,C4 en Alerta,https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png
 5dcde07af1c85b0009b18651,Pluto TV Deportes,https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png
 65cf60d166eec80008724e6f,Azteca Deportes Premium,https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png
-6320d2755e54db000783fd87,Claro Sports Mexico,https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG_1770389965710.png
 63f7e3f9dff38e00082a57af,AYM Sports 3,https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1787686705454.png
 5e98b0447665f200078caded,Pluto TV Peleas,https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png
 6a68cb5a116cd6d17dba0b95,NFL Channel,https://images.pluto.tv/channels/6a68cb5a116cd6d17dba0b95/colorLogoPNG_1785253726745.png
@@ -175,6 +173,7 @@
 5fab09a8749b1a00077d35d2,Nickelodeon Teen,https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png
 620ff0a01f9e8700076c6f9d,Nickelodeon iCarly,https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png
 5fcea93ffcf94500071c4b2f,Kenan y Kel,https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png
+6495c6ad115d060008bf6b52,PAW Patrol Patrulla de Cachorros,https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG_1788198063916.png
 5ddd7cb2cbb9010009b4fe32,Nick Jr. Club,https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png
 619d5e6a093e7c0007489211,Baby Shark TV,https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png
 5ebac49ce4dc8b00078b23bc,Babyfirst,https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png

@@ -73,7 +73,6 @@
 608049aefa2b8ae93c2c3a63-64e6e46f27a915f9b5184e9a,Cine en Español,https://provider-static.plex.tv/epg/cms/production/18be52bf-43c6-4ac0-b3bf-ed51b252cb89/Cine_en_espanol_logo_1500x1000px_WHT.png
 608049aefa2b8ae93c2c3a63-6707d20ab87b5cf57ac33c95,Iron Chef en español,https://provider-static.plex.tv/epg/cms/production/7e7e0544-7004-46ac-bea2-b21a2a7ab166/Plex_xumoTile_FilmRise_IronChefEnEspanol_logo_color_white_text.png
 608049aefa2b8ae93c2c3a63-68645c1f1a2f321847ec0391,Platos Sucios,https://provider-static.plex.tv/epg/cms/production/295bd4d4-c84e-4cb7-a0fe-e96f66ba2c40/PLATOS_SUCIOS_channel_logo_colorRDX.png
-608049aefa2b8ae93c2c3a63-6a8cbec6fc51826f5301a15e,JAIL,https://provider-static.plex.tv/epg/cms/production/b5fceee7-7621-4d5a-9012-92841799b250/Jail_channel_logo_4c_1500x1000RDX.png
 608049aefa2b8ae93c2c3a63-65f0dbeb046e6131ecc31843,Zona Investigación,https://provider-static.plex.tv/epg/cms/production/6f05b595-1f43-4399-896a-789ab42dce75/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png
 608049aefa2b8ae93c2c3a63-666e1af3d91d13cb4c8cbb6d,La Fiebre del Jade,https://provider-static.plex.tv/epg/cms/production/fd21a845-1ffb-443d-91de-35d2dc3cb12c/channel_logo_1500x1000_light.png.png
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops en Español,https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png
