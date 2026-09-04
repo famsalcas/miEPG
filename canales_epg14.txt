@@ -360,7 +360,9 @@
 5f5136317aedfb0007016f93,Cine Amor,https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG_1757957531383.png
 5cf96cc422df39f1a338d165,Telemundo telenovelas clásicas,https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png
 5cf96c0222df39f1a338d163,Pluto TV Novelas,https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png
+6a722821ff94431f8bfbc260,Celia,https://images.pluto.tv/channels/6a722821ff94431f8bfbc260/colorLogoPNG_1788451076389.png
 6a7b7c50307dc8b67b372008,La novia de Estambul,https://images.pluto.tv/channels/6a7b7c50307dc8b67b372008/colorLogoPNG_1786477846466.png
+6a7228e19307bc770a5b440c,El Capo,https://images.pluto.tv/channels/6a7228e19307bc770a5b440c/colorLogoPNG_1788205371519.png
 668c5cb4f01dbe0008dd4082,CBS en español,https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png
 604928d54a4f730007ff76bc,CSI en Español,https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png
 632b5950b515b000079e6b81,CSI: Miami en español,https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png

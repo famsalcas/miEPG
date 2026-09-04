@@ -37,6 +37,7 @@
 608049aefa2b8ae93c2c3a63-64d4e82ac5d4668c9cb7b5df,Novelisima,https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png
 608049aefa2b8ae93c2c3a63-66842f38cd6f1d394094115d,Runtime Romance,https://provider-static.plex.tv/epg/cms/production/854d9834-236a-40f6-9239-a9e6f0ab285c/Runtime_BR_Romance_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo TV,https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png
+608049aefa2b8ae93c2c3a63-66f6b947515e742745f5ca34,21 Jump Street,https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png
 608049aefa2b8ae93c2c3a63-67f82cc411e2a0ebf4b022d8,Los asesinatos de Midsomer,https://provider-static.plex.tv/epg/cms/production/09eae207-0184-4fc6-b1f7-65f5568b9b11/FilmRise_LosAsesinatoesDeMidsomer_Channel_Logo_WhiteRDX.png
 608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff,Cheaters en Español,https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png
 608049aefa2b8ae93c2c3a63-66f6b6baac1a1890ef197a4b,Hunter,https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png
