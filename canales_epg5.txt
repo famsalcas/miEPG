@@ -139,7 +139,7 @@
 0311,Disney Junior • Feed 1,https://i.ibb.co/39mvW3sw/0311.jpg
 1311,Disney Junior • Feed 2,https://i.ibb.co/39mvW3sw/1311.jpg
 0312,Pakapaka,https://i.ibb.co/3m7txbcF/0312.jpg
-0313,EnerGeek Retro,https://i.ibb.co/QjCJSqSt/0313.jpg
+0313,EnerGeek,https://i.ibb.co/cKdbYY8H/0313.jpg
 0314,EnerGeek FAN,https://i.ibb.co/pjcBhJTd/0314.jpg
 0315,Canal Infantil,https://i.ibb.co/sv37V9wX/0315.jpg
 0316,Baby TV,https://i.ibb.co/m5Ny6T6g/0316.jpg
@@ -215,8 +215,6 @@
 0431,DSports • América Latina,https://i.ibb.co/xK8kgbqd/0431.jpg
 0432,DSports 2 • América Latina,https://i.ibb.co/YBKtRdVK/0432.jpg
 0433,DSports Plus • América Latina,https://i.ibb.co/wGKHsBM/0433.jpg
-0434,DSports Fight,https://i.ibb.co/C3gKD84M/0434.jpg
-0435,DSports Radio,https://i.ibb.co/gLYw8tKW/0435.jpg
 1436,Fox Sports • Argentina,https://i.ibb.co/tp1LVnFs/1436.jpg
 1437,Fox Sports 2 • Argentina,https://i.ibb.co/0jhPzzDH/1437.jpg
 1438,Fox Sports 3 • Argentina,https://i.ibb.co/4n7HyBfB/1438.jpg
@@ -246,9 +244,6 @@
 0509,Telehit Música Plus,https://i.ibb.co/3ydMKP8w/0509.jpg
 0510,Quiero Música en mi Idioma,https://i.ibb.co/gLG5ky5G/0510.jpg
 0511,MTV Live • USA,https://i.ibb.co/v4G5zqFx/0511.jpg
-0512,CH0512,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-0513,CH0513,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-0514,CH0514,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0515,Teleritmo,https://i.ibb.co/sdjZt2jg/0515.jpg
 0516,Bandamax,https://i.ibb.co/5xrDsx2Q/0516.jpg
 0517,Mi Música Hits,https://i.ibb.co/DPcy18tG/0517.jpg
@@ -257,9 +252,6 @@
 0520,Mi Música Popular,https://i.ibb.co/gHXqhDf/0520.jpg
 0521,Mi Música Reggaetón,https://i.ibb.co/HfX6fjDF/0521.jpg
 0522,Mi Música Salsa,https://i.ibb.co/PZqV0xhY/0522.jpg
-0523,CH0523,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-0524,CH0524,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-0525,CH0525,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0526,Karavana TV,https://i.ibb.co/JWJ1pDvV/0526.jpg
 0527,Karavana Urbano,https://i.ibb.co/qFF6xsNM/0527.jpg
 0528,OLD Music,https://i.ibb.co/Tz1550x/0528.jpg
@@ -335,7 +327,6 @@
 1642,UniMás • Feed 2,https://i.ibb.co/LzFk2CLK/1642.jpg
 0643,HispanTV,https://i.ibb.co/yT3fqr3/0643.jpg
 0644,Novelísima,https://i.ibb.co/mV1drTPQ/0644.jpg
-0645,CH0645,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0646,Universo • Feed 1,https://i.ibb.co/FLm6g4rV/0646.jpg
 1646,Universo • Feed 2,https://i.ibb.co/FLm6g4rV/1646.jpg
 0647,Telemundo Puerto Rico,https://i.ibb.co/nMDKzP1z/0647.jpg
@@ -372,7 +363,6 @@
 2801,Star Channel • Feed 3,https://i.ibb.co/60W0dCdh/2801.jpg
 3801,Star Channel • Feed 4,https://i.ibb.co/60W0dCdh/3801.jpg
 0802,Canal DHE,https://i.ibb.co/yn7Qr60C/0802.jpg
-0803,CH0803,https://i.ibb.co/dwznwCkD/disponible.jpg
 0804,Universal TV • Feed 1,https://i.ibb.co/N2F312yf/0804.jpg
 1804,Universal TV • Feed 2,https://i.ibb.co/N2F312yf/1804.jpg
 0805,TNT • Feed 1,https://i.ibb.co/JFGJxhnJ/0805.jpg
@@ -480,7 +470,6 @@
 0866,Daystar en Español,https://i.ibb.co/HDq7G2N1/0866.jpg
 0867,De Película Clásico,https://i.ibb.co/fG29CNB5/0867.jpg
 0868,De Película Plus,https://i.ibb.co/7dGrLjjv/0868.jpg
-0869,CH0869,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0870,A3 Cine,https://i.ibb.co/ccFht5DP/0870.jpg
 0901,TV Max • Panamá,https://i.ibb.co/QxWcRmq/0901.jpg
 0902,Caracol TV • Colombia,https://i.ibb.co/99Pj5Z3k/0902.jpg
@@ -551,10 +540,7 @@
 0963,Bravo TV • Argentina,https://i.ibb.co/kgMcfgYY/0963.jpg
 0964,Canal E • Argentina,https://i.ibb.co/SwzYvm31/0964.jpg
 0965,TEST TRACE LATINA FEED CL7302,https://i.ibb.co/vCZ7TtNj/0965.jpg
-0966,CH00966,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-0967,CH00967,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-0968,CH00968,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-0969,CH00969,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0969,TEST SEXYHOT SRC GRACENOTE,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0970,AMERICA2 FEED PY SRC MTVPRGY,https://i.ibb.co/jvtQFKNb/0970.jpg
 0971,A24 FEED PY SRC MTVPRGY,https://i.ibb.co/N2y1jHyx/0971.jpg
 0972,A24 FEED PY SRC RTV1944,https://i.ibb.co/N2y1jHyx/0972.jpg
