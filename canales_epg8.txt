@@ -11,9 +11,11 @@
 5dcddf1ed95e740009fef7ab,Pluto TV Cine Terror,https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG_1730472485648.png
 5f2817d3d7573a00080f9175,Pluto TV Sci-Fi,https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png
 62c5d80dc6de440007e033eb,Runtime,https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png
+6a4436f8e7884b99f287c7b9,MovieSphere by Lionsgate,https://images.pluto.tv/channels/6a4436f8e7884b99f287c7b9/colorLogoPNG_1784227807203.png
 5defde6d6c07b50009cf0757,Pluto TV  Nuestro Cine,https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png
 6806d519fea7414f33f57016,Pluto TV Cine Inspirador,https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png
 5dfcde52d28b09000a42d7a2,Pluto TV A La Mexicana,https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png
+699f405a0c8827936bd287bf,Cinépolis Channel,https://images.pluto.tv/channels/699f405a0c8827936bd287bf/colorLogoPNG_1774560648913.png
 609059dc63be6e0007b4eca6,Pluto TV Cine Clásico,https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png
 5dd6ddb30a1d8a000908ed4c,Pluto TV Cine Familia,https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1785959252371.png
 655f62ff954b020008c91ec6,Pluto TV Series de Crimen,https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png
@@ -36,6 +38,8 @@
 6185a9a88b2ce30007de5128,Pluto TV Dramas Coreanos,https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png
 6661d5424b10960008599fa3,Pluto TV Dramas Coreanos Teen,https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png
 639751f81a36b400072b8f5a,Vive Kanal D Drama,https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png
+6a7b455d0c6744fe86e71bd0,El Capo,https://images.pluto.tv/channels/6a7b455d0c6744fe86e71bd0/colorLogoPNG_1788376331704.png
+6a7b453df5f14c2045f5f00b,Celia,https://images.pluto.tv/channels/6a7b453df5f14c2045f5f00b/colorLogoPNG_1788453319984.png
 5dd837642c6e9300098ad484,Pluto TV Series Latinas,https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png
 5de802659167b10009e7deba,Pluto TV Series Retro,https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png
 67f95fa76b11614ab0caaef3,Hechiceras,https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG_1747414259619.png
@@ -194,6 +198,9 @@
 66a01b52a4ee27000808ea36,MTV Rocks,https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png
 62b218fc511d4b00070ddc0c,MTV Flow Latino,https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png
 63dac1b78795f300086d5ca6,TikTok Radio en Español,https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png
+6a73b9032cf3064bdf7d3b4e,Stingray Pop Mexicano 80's,https://images.pluto.tv/channels/6a73b9032cf3064bdf7d3b4e/colorLogoPNG_1788558035360.png
+6a73b8f1744143378ce88eae,Stingray Éxitos Regional Mexicano,https://images.pluto.tv/channels/6a73b8f1744143378ce88eae/colorLogoPNG_1788376177458.png
+6a739fb3c1842722eaf5eb1f,Stingray Época Dorada del Cine Mexicano,https://images.pluto.tv/channels/6a739fb3c1842722eaf5eb1f/colorLogoPNG_1788376112882.png
 6868152657543d1f8be4ece3,Concert Channel,https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png
 5f85ca40eda1b10007b967cd,Conciertos por Stingray,https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png
 5f85cf621d6d2200079f1de0,Karaoke por Stingray,https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png
