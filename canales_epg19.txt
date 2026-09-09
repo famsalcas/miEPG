@@ -619,12 +619,6 @@ I1306.73129.schedulesdirect.org,UK - Dave,https://schedulesdirect-api20141201-lo
 I1309.82575.schedulesdirect.org,Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82575_dark_360w_270h.png
 I1320.73128.schedulesdirect.org,UK - Watch,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73128_dark_360w_270h.png
 I1337.68073.schedulesdirect.org,UK - UTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68073_dark_360w_270h.png
-I1702.46275.gracenote.com,Yes Network,https://zpmc.tmsimg.com/h3/NowShowing/46275/s46275_ll_h15_aa.png
-I1720.50728.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com/h3/NowShowing/50728/s50728_ll_h15_ac.png
-I1724.75970.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/75970/s12410_ll_h15_ac.png
-I1748.50057.gracenote.com,Fanduel Sports Network Mid West,https://zpmc.tmsimg.com/h3/NowShowing/50057/s50057_ll_h15_ac.png
-I1753.35295.gracenote.com,Fanduel Sports Network South West,https://zpmc.tmsimg.com/h3/NowShowing/35295/s59629_ll_h15_ac.png
-I1774.59625.gracenote.com,Fanduel Sports Network Souther California,https://zpmc.tmsimg.com/h3/NowShowing/59625/s59625_ll_h15_ac.png
 I2.1.19600.gracenote.com,US - FOX News Detroit,https://zpmc.tmsimg.com/h3/NowShowing/19600/s28719_ll_h15_ac.png
 I6.1.25664.gracenote.com,US - CBS Detroit,https://zpmc.tmsimg.com/h3/NowShowing/25664/s28711_ll_h15_ab.png
 I7.1.19601.gracenote.com,US - ABC 7 Detroit,https://zpmc.tmsimg.com/h3/NowShowing/19601/s28708_ll_h15_ac.png

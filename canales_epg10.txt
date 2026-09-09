@@ -52,7 +52,6 @@
 608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13,RCN Más,https://provider-static.plex.tv/epg/cms/production/114ff770-db66-459b-bc19-3ef4bfffe712/rcn-mas.png
 608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f,FreeTV Live,https://provider-static.plex.tv/epg/cms/production/2e25f920-f26d-4a96-ab45-e858830b2b33/FreeTV_Live.png
 608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869,FilmRise Series Gratis,https://provider-static.plex.tv/epg/cms/production/be76f2ee-2a7a-4020-9072-cfb4b8539906/FilmRise_SeriesGratis_1500x1000_logo_light.png
-608049aefa2b8ae93c2c3a63-69b3481702912c2ce7ad9a3d,Caracol Mix,https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png
 608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b,Cine de Horror,https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png
 608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995,Todo Novelas,https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png
 608049aefa2b8ae93c2c3a63-66ccb35278822c7edc4b6e01,Naturaleza Salvaje,https://provider-static.plex.tv/epg/cms/production/80f7a8a5-199f-43a8-a4e7-c678df5efd7f/Plex_NatSalv_Logo_Light.png

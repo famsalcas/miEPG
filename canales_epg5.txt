@@ -155,7 +155,6 @@
 0325,FMH Animotion,https://i.ibb.co/N2fgnYnW/0325.jpg
 0328,ZKids,https://i.ibb.co/Xx1NS2gW/0328.jpg
 0329,Fix y Foxi,https://i.ibb.co/FqXcHkfD/0329.jpg
-0330,Edye TV,https://i.ibb.co/XfvMfys4/0330.jpg
 0401,TNT Sports Premium Chile,https://i.ibb.co/Y4yPxdS0/0401.jpg
 0402,TNT Sports Premium 2,https://i.ibb.co/Y4yPxdS0/0402.jpg
 0403,TNT Sports,https://i.ibb.co/tPLH77vG/0403.jpg
@@ -213,7 +212,9 @@
 0429,Win Sports • Colombia,https://i.ibb.co/DfqrDYy4/0429.jpg
 0430,Win Sports Plus • Colombia,https://i.ibb.co/WZ5zYCx/0430.jpg
 0431,DSports • América Latina,https://i.ibb.co/xK8kgbqd/0431.jpg
+1431,DSports • Argentina,https://i.ibb.co/xK8kgbqd/1431.jpg
 0432,DSports 2 • América Latina,https://i.ibb.co/YBKtRdVK/0432.jpg
+1432,DSports 2 • Argentina,https://i.ibb.co/YBKtRdVK/1432.jpg
 0433,DSports Plus • América Latina,https://i.ibb.co/wGKHsBM/0433.jpg
 1436,Fox Sports • Argentina,https://i.ibb.co/tp1LVnFs/1436.jpg
 1437,Fox Sports 2 • Argentina,https://i.ibb.co/0jhPzzDH/1437.jpg
@@ -226,7 +227,6 @@
 0441,TUDN • Feed 1,https://i.ibb.co/TMqZ5MQ1/0441.jpg
 1441,TUDN • Feed 2,https://i.ibb.co/TMqZ5MQ1/1441.jpg
 0442,Azteca Deportes • México,https://i.ibb.co/XkGhHgrN/0442.jpg
-0443,ViX Deportes,https://i.ibb.co/V0K2nMzj/0443.jpg
 0444,UFC,https://i.ibb.co/8nV8hNqb/0444.jpg
 0445,Tennis Channel • USA,https://i.ibb.co/G4pQ69cv/0445.jpg
 0446,Golf Channel • Latin America,https://i.ibb.co/FbSfZ4Z6/0446.jpg
