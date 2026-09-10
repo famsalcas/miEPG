@@ -39,7 +39,7 @@
 6661d5424b10960008599fa3,Pluto TV Dramas Coreanos Teen,https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png
 639751f81a36b400072b8f5a,Vive Kanal D Drama,https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png
 6a7b455d0c6744fe86e71bd0,El Capo,https://images.pluto.tv/channels/6a7b455d0c6744fe86e71bd0/colorLogoPNG_1788376331704.png
-6a7b453df5f14c2045f5f00b,Celia,https://images.pluto.tv/channels/6a7b453df5f14c2045f5f00b/colorLogoPNG_1788453319984.png
+6a7b453df5f14c2045f5f00b,Celia,https://images.pluto.tv/channels/6a7b453df5f14c2045f5f00b/colorLogoPNG_1788961146717.png
 5dd837642c6e9300098ad484,Pluto TV Series Latinas,https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png
 5de802659167b10009e7deba,Pluto TV Series Retro,https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png
 67f95fa76b11614ab0caaef3,Hechiceras,https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG_1747414259619.png

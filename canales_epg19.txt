@@ -619,6 +619,12 @@ I1306.73129.schedulesdirect.org,UK - Dave,https://schedulesdirect-api20141201-lo
 I1309.82575.schedulesdirect.org,Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82575_dark_360w_270h.png
 I1320.73128.schedulesdirect.org,UK - Watch,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73128_dark_360w_270h.png
 I1337.68073.schedulesdirect.org,UK - UTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68073_dark_360w_270h.png
+I1702.46275.gracenote.com,Yes Network,https://zpmc.tmsimg.com/h3/NowShowing/46275/s46275_ll_h15_aa.png
+I1720.50728.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com/h3/NowShowing/50728/s50728_ll_h15_ac.png
+I1724.75970.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/75970/s12410_ll_h15_ac.png
+I1748.50057.gracenote.com,Fanduel Sports Network Mid West,https://zpmc.tmsimg.com/h3/NowShowing/50057/s50057_ll_h15_ac.png
+I1753.35295.gracenote.com,Fanduel Sports Network South West,https://zpmc.tmsimg.com/h3/NowShowing/35295/s59629_ll_h15_ac.png
+I1774.59625.gracenote.com,Fanduel Sports Network Souther California,https://zpmc.tmsimg.com/h3/NowShowing/59625/s59625_ll_h15_ac.png
 I2.1.19600.gracenote.com,US - FOX News Detroit,https://zpmc.tmsimg.com/h3/NowShowing/19600/s28719_ll_h15_ac.png
 I6.1.25664.gracenote.com,US - CBS Detroit,https://zpmc.tmsimg.com/h3/NowShowing/25664/s28711_ll_h15_ab.png
 I7.1.19601.gracenote.com,US - ABC 7 Detroit,https://zpmc.tmsimg.com/h3/NowShowing/19601/s28708_ll_h15_ac.png
@@ -769,7 +775,7 @@ I259.17927.schedulesdirect.org,FXX East,https://schedulesdirect-api20141201-logo
 I259.66379.schedulesdirect.org,FXX East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66379_dark_360w_270h.png
 I260.16409.schedulesdirect.org,WE TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png
 I261.16125.schedulesdirect.org,Discovery life,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png
-I264.18332.schedulesdirect.org,BBC America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png
+I264.18332.schedulesdirect.org,BBC America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003NJBTW.png_dark_360w_270h.png
 I264.64492.schedulesdirect.org,BBC America HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png
 I265.10035.schedulesdirect.org,A&amp;E East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png
 I265.51529.schedulesdirect.org,A&amp;E East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png
