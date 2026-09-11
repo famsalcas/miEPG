@@ -970,7 +970,7 @@ I562.82446.schedulesdirect.org,DOG TV,https://schedulesdirect-api20141201-logos.
 I564.105723.schedulesdirect.org,Hallmark Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png
 I565.46710.schedulesdirect.org,Hallmark Movies &amp; Mysteries,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46710_dark_360w_270h.png
 I566.33668.schedulesdirect.org,HDnet Movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33668_dark_360w_270h.png
-I570.58532.schedulesdirect.org,Smithsonian Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png
+I570.58532.schedulesdirect.org,Smithsonian Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003NVX6H.png_dark_360w_270h.png
 I571.61469.schedulesdirect.org,Crime &amp; Investigation Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png
 I572.49141.schedulesdirect.org,MTV Live,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png
 I578.38944.schedulesdirect.org,Playboy TV Latin America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38944_dark_360w_270h.png
