@@ -72,13 +72,12 @@ Canal Sur Andalucía,Canal Sur Andalucía,https://raw.githubusercontent.com/davi
 TVG Europa HD,TVG Europa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png
 Canal Extremadura SAT,Canal Extremadura SAT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20SAT.png
 Aragón TV Internacional,Aragón TV Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
-Alquiler HD,Alquiler,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png
-Alquiler 1,Alquiler 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler%201.png
 À Punt,À Punt,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
 Aragón TV,Aragón TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png
 Navarra TV,Navarra TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Navarra%20TV.png
 Navarra TV 2,Navarra TV 2,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
-TPA Asturias,TPA Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA%20Asturias.png
+TPA7 Asturias,TPA7 Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png
+TPA8 Asturias,TPA8 Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA8%20Asturias.png
 CMM TV,CMM TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png
 La 7 CyL,La 7 CyL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20CyL.png
 etb1,etb1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1.png
@@ -289,8 +288,6 @@ Distrito TV,Distrito TV,https://raw.githubusercontent.com/davidmuma/picons_doble
 Escapa TV,Escapa TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Escapa%20TV.png
 Popular TV Región de Murcia,Popular TV Región de Murcia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Popular%20TV%20Regi%C3%B3n%20de%20Murcia.png
 La 7 Rioja,La 7 Rioja,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Rioja.png
-TPA7 Asturias,TPA7 Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png
-TPA8 Asturias,TPA8 Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA8%20Asturias.png
 Levante TV,Levante TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Levante%20TV.png
 Onda Algeciras TV,Onda Algeciras TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20Algeciras%20TV.png
 Tele Elx,Tele Elx,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tele%20Elx.png
@@ -332,6 +329,7 @@ La 2 Cataluña,La 2 Cataluña,https://raw.githubusercontent.com/davidmuma/picons
 La 1 Canarias,La 1 Canarias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Canarias.png
 La 2 Canarias,La 2 Canarias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Canarias.png
 24 horas Canarias,24 horas Canarias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Canarias.png
+En Play,En Play,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/En%20Play.png
 Al cielo con ella,Al cielo con ella,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Al%20cielo%20con%20ella.png
 Cocina,Cocina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cocina.png
 La Promesa,La Promesa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Promesa.png
@@ -482,7 +480,6 @@ DAZN Premier League 5,DAZN Premier League 5,https://image.discovery.indazn.com/e
 DAZN Serie A,DAZN Serie A,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Serie A 2,DAZN Serie A 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g
 DAZN F1,DAZN F1,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1m5x4n07f2kqkiczebja5etiq/fill/center/top/none/100/0/0/png/image/25/g
-DAZN F1 2,DAZN F1 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1m5x4n07f2kqkiczebja5etiq/fill/center/top/none/100/0/0/png/image/25/g
 DAZN MotoGP,DAZN MotoGP,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g
 Sky News International,Sky News International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png

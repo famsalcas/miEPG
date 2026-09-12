@@ -97,7 +97,6 @@
 6419ab7c9189ce000865a469,COPS,https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png
 5f9992c685a2a80007fa414a,Dog el cazarrecompensas,https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png
 5f23102d5e239d00074b092a,Empeños a lo bestia,https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png
-6109ab25b84d6a0007504886,Pluto TV Mi Obsesión Favorita,https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png
 5ddc503ac7ef120009b101a2,Pluto TV Documentales,https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png
 69fcaaa1853a01a827bcd056,I Shouldn't Be Alive,https://images.pluto.tv/channels/69fcaaa1853a01a827bcd056/colorLogoPNG_1778856115341.png
 678533155e0e6a000828cd48,Untold Stories of the ER,https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png
@@ -108,7 +107,6 @@
 5f4d3696d938c900072679fd,Historias de Ultratumba,https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png
 645d1abbe1979c0008779d5a,Archivos Extraterrestres,https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png
 5dcde27ffae9520009c0c75a,Pluto TV Investiga,https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png
-6109a9f5531b840007a4a187,Cazador de Homicidas,https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png
 680bdaf54d7cf165c705f91e,Zona Investigación TV,https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1785345998479.png
 5e67d41b93312100076f3fca,Los archivos del FBI,https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png
 5efb8c19b2678b000780d032,Archivos Forenses,https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png
