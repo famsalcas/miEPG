@@ -523,3 +523,6 @@ FV000141,Peq-Gigantes
 XU321536,Universal-Action
 0159,Puranoticia.pu
 0644,Novelisima.pu
+a133fa81322166df,LG1
+e654e72c6a3f80cb,LG1-plus
+0ba5d5ee8829baaa,LG_Spotlight
