@@ -3,39 +3,6 @@
   <channel id="Opa.cr">
     <display-name>Opa Canal 36</display-name>
   </channel>
-  <programme start="20260912003000 -0600" stop="20260912020000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20260912020000 -0600" stop="20260912100000 -0600" channel="Opa.cr">
-    <title>Central Ahora</title>
-  </programme>
-  <programme start="20260912100000 -0600" stop="20260912110000 -0600" channel="Opa.cr">
-    <title>Equilibrio con Yaxún</title>
-  </programme>
-  <programme start="20260912110000 -0600" stop="20260912140000 -0600" channel="Opa.cr">
-    <title>Podcast Nereo Gabriel</title>
-  </programme>
-  <programme start="20260912140000 -0600" stop="20260912150000 -0600" channel="Opa.cr">
-    <title>Podcast Nereo Gabriel</title>
-  </programme>
-  <programme start="20260912150000 -0600" stop="20260912160000 -0600" channel="Opa.cr">
-    <title>Testigo Directo</title>
-  </programme>
-  <programme start="20260912160000 -0600" stop="20260912180000 -0600" channel="Opa.cr">
-    <title>A doble nudo</title>
-  </programme>
-  <programme start="20260912180000 -0600" stop="20260912200000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20260912200000 -0600" stop="20260912220000 -0600" channel="Opa.cr">
-    <title>Alma de mujer</title>
-  </programme>
-  <programme start="20260912220000 -0600" stop="20260912230000 -0600" channel="Opa.cr">
-    <title>Testigo Directo</title>
-  </programme>
-  <programme start="20260912230000 -0600" stop="20260913000000 -0600" channel="Opa.cr">
-    <title>Charlas</title>
-  </programme>
   <programme start="20260913000000 -0600" stop="20260913010000 -0600" channel="Opa.cr">
     <title>Charlas</title>
   </programme>
@@ -317,5 +284,38 @@
   </programme>
   <programme start="20260918233000 -0600" stop="20260919003000 -0600" channel="Opa.cr">
     <title>Testigo Directo</title>
+  </programme>
+  <programme start="20260919003000 -0600" stop="20260919020000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20260919020000 -0600" stop="20260919100000 -0600" channel="Opa.cr">
+    <title>Central Ahora</title>
+  </programme>
+  <programme start="20260919100000 -0600" stop="20260919110000 -0600" channel="Opa.cr">
+    <title>Equilibrio con Yaxún</title>
+  </programme>
+  <programme start="20260919110000 -0600" stop="20260919140000 -0600" channel="Opa.cr">
+    <title>Podcast Nereo Gabriel</title>
+  </programme>
+  <programme start="20260919140000 -0600" stop="20260919150000 -0600" channel="Opa.cr">
+    <title>Podcast Nereo Gabriel</title>
+  </programme>
+  <programme start="20260919150000 -0600" stop="20260919160000 -0600" channel="Opa.cr">
+    <title>Testigo Directo</title>
+  </programme>
+  <programme start="20260919160000 -0600" stop="20260919180000 -0600" channel="Opa.cr">
+    <title>A doble nudo</title>
+  </programme>
+  <programme start="20260919180000 -0600" stop="20260919200000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20260919200000 -0600" stop="20260919220000 -0600" channel="Opa.cr">
+    <title>Alma de mujer</title>
+  </programme>
+  <programme start="20260919220000 -0600" stop="20260919230000 -0600" channel="Opa.cr">
+    <title>Testigo Directo</title>
+  </programme>
+  <programme start="20260919230000 -0600" stop="20260920000000 -0600" channel="Opa.cr">
+    <title>Charlas</title>
   </programme>
 </tv>
