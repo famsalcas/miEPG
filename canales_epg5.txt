@@ -36,8 +36,6 @@
 0132,Iquique TV,https://i.ibb.co/cX2yfcXk/0132.jpg
 0133,Canal 2 San Antonio,https://i.ibb.co/gMXNrQpC/0133.jpg
 0134,SextaVisión,https://i.ibb.co/prKw6TjM/0134.jpg
-0135,ZTV,https://i.ibb.co/dJMP6psP/0135.jpg
-0136,ZTV 2,https://i.ibb.co/4gjV6cNR/0136.jpg
 0137,Hobikka TV,https://i.ibb.co/sdmLwTMf/0137.jpg
 0138,Tevex,https://i.ibb.co/3msxMR8F/0138.jpg
 0139,ContiVisión,https://i.ibb.co/Wv17tCVw/0139.jpg
@@ -153,7 +151,6 @@
 1323,Discovery Kids • Feed 2,https://i.ibb.co/gMhsjXnk/1323.jpg
 0324,Cartoonito,https://i.ibb.co/zVbsHSfN/0324.jpg
 0325,FMH Animotion,https://i.ibb.co/N2fgnYnW/0325.jpg
-0328,ZKids,https://i.ibb.co/Xx1NS2gW/0328.jpg
 0329,Fix y Foxi,https://i.ibb.co/FqXcHkfD/0329.jpg
 0401,TNT Sports Premium Chile,https://i.ibb.co/Y4yPxdS0/0401.jpg
 0402,TNT Sports Premium 2,https://i.ibb.co/Y4yPxdS0/0402.jpg
@@ -238,7 +235,6 @@
 0503,Concert Channel,https://i.ibb.co/B2Bd9GRL/0503.jpg
 0504,HTV,https://i.ibb.co/bRP33X5W/0504.jpg
 0505,Kids Stars,https://i.ibb.co/ycWq5GQ2/0505.jpg
-0506,Beat Music,https://i.ibb.co/9R8tzCb/0506.jpg
 0507,TeleHit,https://i.ibb.co/xS9pMz6C/0507.jpg
 0508,Telehit Música,https://i.ibb.co/FqyN3XHm/0508.jpg
 0509,Telehit Música Plus,https://i.ibb.co/3ydMKP8w/0509.jpg
@@ -460,9 +456,6 @@
 0857,Canal Claro,https://i.ibb.co/fGTHqCLK/0857.jpg
 0858,Claro Cinema,https://i.ibb.co/BV1xk9ps/0858.jpg
 0859,Mórbido TV,https://i.ibb.co/WNK60cSz/0859.jpg
-0860,AVI,https://i.ibb.co/gLMkqYcG/0860.jpg
-0861,AVI Rewind,https://i.ibb.co/Y4pSDgWW/0861.jpg
-0862,AVI Kids,https://i.ibb.co/3mC5kxtL/0862.jpg
 0863,Five Star Max,https://i.ibb.co/WNhRbwCL/0863.jpg
 0864,Action Max,https://i.ibb.co/Ng3Tfmfk/0864.jpg
 0865,More Max,https://i.ibb.co/S48NBtXx/0865.jpg
@@ -543,6 +536,18 @@
 0970,AMERICA2 FEED PY SRC MTVPRGY,https://i.ibb.co/jvtQFKNb/0970.jpg
 0971,A24 FEED PY SRC MTVPRGY,https://i.ibb.co/N2y1jHyx/0971.jpg
 0972,A24 FEED PY SRC RTV1944,https://i.ibb.co/N2y1jHyx/0972.jpg
+0973,ZTV,https://i.ibb.co/dJMP6psP/0135.jpg
+0974,ZTV 2,https://i.ibb.co/4gjV6cNR/0136.jpg
+0975,ZKids,https://i.ibb.co/Xx1NS2gW/0328.jpg
+0976,AVI,https://i.ibb.co/gLMkqYcG/0860.jpg
+0977,AVI Rewind,https://i.ibb.co/Y4pSDgWW/0861.jpg
+0978,AVI Kids,https://i.ibb.co/3mC5kxtL/0862.jpg
+0979,AVI Toons,
+0980,AVI Action,
+0981,AVI Horizon,
+0982,AVI Garage,
+0983,AVI Music,
+0984,AVI Concert,
 XXX0,Canal para adultos • Portal adultos,https://i.ibb.co/d4wmsb43/XXX0.jpg
 XXX1,Playboy TV • Adultos Desbloqueado,https://i.ibb.co/fGZ0sYcz/XXX1.jpg
 XXX2,Venus • Adultos Desbloqueado,https://i.ibb.co/RnZr2bk/XXX2.jpg
