@@ -27,6 +27,7 @@
 5b4e94282d4ec87bdcbb87cd,Pluto TV Westerns,https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png
 561c5b0dada51f8004c4d855,Classic Movies Channel,https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG_1759790242932.png
 5f4d863b98b41000076cd061,Pluto TV Staff Picks,https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png
+6a7cc5a857bd65df5dadba5f,Pluto TV Hispanic Favorites,https://images.pluto.tv/channels/6a7cc5a857bd65df5dadba5f/colorLogoPNG_1788454948703.png
 58e55b14ad8e9c364d55f717,Flicks of Fury,https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png
 5c665db3e6c01b72c4977bc2,Pluto TV Cult Films,https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png
 633354b63df9700007f6a1b7,Sitcom Legends,https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png
@@ -320,6 +321,7 @@
 5ca6748a37b88b269472dad9,Nick Jr. Pluto TV,https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png
 65e23f340d4561000821540d,Mister Rogers' Neighborhood,https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png
 5d14fb6c84dd37df3b4290c5,Peppa Pig,https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png
+6a70da97a4bf6cded4fdaf53,Dora TV,https://images.pluto.tv/channels/6a70da97a4bf6cded4fdaf53/colorLogoPNG_1786461439766.png
 51c75f7bb6f26ba1cd00002f,Little Stars Universe,https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png
 66fedd65d7de140008dccd66,El Reino Infantil,https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png
 60faffc3fbbc120007fc4376,Baby Shark TV,https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png
