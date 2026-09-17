@@ -219,7 +219,7 @@
 5812bfbe4ced4f7b601b12e6,BUZZR,https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png
 6036e7c385749f00075dbd3b,Pluto TV Game Shows,https://images.pluto.tv/channels/6036e7c385749f00075dbd3b/colorLogoPNG.png
 5e54187aae660e00093561d6,Game Show Central,https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png
-60f760bbdf090700075d7bfe,Best of Dr. Phil,https://images.pluto.tv/channels/60f760bbdf090700075d7bfe/colorLogoPNG.png
+60f760bbdf090700075d7bfe,Best of Dr. Phil,https://images.pluto.tv/channels/60f760bbdf090700075d7bfe/colorLogoPNG_1789593965816.png
 68757effdf333e336be1e49f,Tony Robbins Network,https://images.pluto.tv/channels/68757effdf333e336be1e49f/colorLogoPNG_1754963877109.png
 687ff00ff6bc08130f16ab81,Beyond the Gates,https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png
 5aec96ec5126c2157123c657,Nosey,https://images.pluto.tv/channels/5aec96ec5126c2157123c657/colorLogoPNG.png
