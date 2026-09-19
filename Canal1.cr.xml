@@ -3,87 +3,6 @@
   <channel id="Canal1.cr">
     <display-name>Canal 1 (Costa Rica)</display-name>
   </channel>
-  <programme start="20260918000000 -0600" stop="20260918010000 -0600" channel="Canal1.cr">
-    <title>Serie Retro</title>
-  </programme>
-  <programme start="20260918010000 -0600" stop="20260918020000 -0600" channel="Canal1.cr">
-    <title>Dramas</title>
-  </programme>
-  <programme start="20260918020000 -0600" stop="20260918040000 -0600" channel="Canal1.cr">
-    <title>Cómo han pasado los años</title>
-  </programme>
-  <programme start="20260918040000 -0600" stop="20260918060000 -0600" channel="Canal1.cr">
-    <title>Musicales</title>
-  </programme>
-  <programme start="20260918060000 -0600" stop="20260918073000 -0600" channel="Canal1.cr">
-    <title>Misa</title>
-  </programme>
-  <programme start="20260918073000 -0600" stop="20260918080000 -0600" channel="Canal1.cr">
-    <title>Animado Retro</title>
-  </programme>
-  <programme start="20260918080000 -0600" stop="20260918083000 -0600" channel="Canal1.cr">
-    <title>RT en vivo</title>
-  </programme>
-  <programme start="20260918083000 -0600" stop="20260918093000 -0600" channel="Canal1.cr">
-    <title>Cómo han pasado los años</title>
-  </programme>
-  <programme start="20260918093000 -0600" stop="20260918100000 -0600" channel="Canal1.cr">
-    <title>Animado Retro</title>
-  </programme>
-  <programme start="20260918100000 -0600" stop="20260918110000 -0600" channel="Canal1.cr">
-    <title>Reinventados</title>
-  </programme>
-  <programme start="20260918110000 -0600" stop="20260918120000 -0600" channel="Canal1.cr">
-    <title>Novela China</title>
-  </programme>
-  <programme start="20260918120000 -0600" stop="20260918123000 -0600" channel="Canal1.cr">
-    <title>RT en vivo</title>
-  </programme>
-  <programme start="20260918123000 -0600" stop="20260918130000 -0600" channel="Canal1.cr">
-    <title>Primero Deportes</title>
-  </programme>
-  <programme start="20260918130000 -0600" stop="20260918133000 -0600" channel="Canal1.cr">
-    <title>Serie Retro</title>
-  </programme>
-  <programme start="20260918133000 -0600" stop="20260918140000 -0600" channel="Canal1.cr">
-    <title>Primero Noticias</title>
-  </programme>
-  <programme start="20260918140000 -0600" stop="20260918150000 -0600" channel="Canal1.cr">
-    <title>Dramas</title>
-  </programme>
-  <programme start="20260918150000 -0600" stop="20260918153000 -0600" channel="Canal1.cr">
-    <title>Serie Retro</title>
-  </programme>
-  <programme start="20260918153000 -0600" stop="20260918160000 -0600" channel="Canal1.cr">
-    <title>Serie Retro</title>
-  </programme>
-  <programme start="20260918160000 -0600" stop="20260918163000 -0600" channel="Canal1.cr">
-    <title>Animado Retro</title>
-  </programme>
-  <programme start="20260918163000 -0600" stop="20260918170000 -0600" channel="Canal1.cr">
-    <title>Animado Retro</title>
-  </programme>
-  <programme start="20260918170000 -0600" stop="20260918180000 -0600" channel="Canal1.cr">
-    <title>Cómo han pasado los años</title>
-  </programme>
-  <programme start="20260918180000 -0600" stop="20260918200000 -0600" channel="Canal1.cr">
-    <title>Primero Noticias</title>
-  </programme>
-  <programme start="20260918200000 -0600" stop="20260918203000 -0600" channel="Canal1.cr">
-    <title>Primero Deportes</title>
-  </programme>
-  <programme start="20260918203000 -0600" stop="20260918210000 -0600" channel="Canal1.cr">
-    <title>Serie Retro</title>
-  </programme>
-  <programme start="20260918210000 -0600" stop="20260918220000 -0600" channel="Canal1.cr">
-    <title>Primero Noticias</title>
-  </programme>
-  <programme start="20260918220000 -0600" stop="20260918230000 -0600" channel="Canal1.cr">
-    <title>Kick Off</title>
-  </programme>
-  <programme start="20260918230000 -0600" stop="20260919000000 -0600" channel="Canal1.cr">
-    <title>CGTN en vivo</title>
-  </programme>
   <programme start="20260919000000 -0600" stop="20260919010000 -0600" channel="Canal1.cr">
     <title>Fiesta La Tica</title>
   </programme>
@@ -544,6 +463,87 @@
     <title>Kick Off</title>
   </programme>
   <programme start="20260924230000 -0600" stop="20260925000000 -0600" channel="Canal1.cr">
+    <title>CGTN en vivo</title>
+  </programme>
+  <programme start="20260925000000 -0600" stop="20260925010000 -0600" channel="Canal1.cr">
+    <title>Serie Retro</title>
+  </programme>
+  <programme start="20260925010000 -0600" stop="20260925020000 -0600" channel="Canal1.cr">
+    <title>Dramas</title>
+  </programme>
+  <programme start="20260925020000 -0600" stop="20260925040000 -0600" channel="Canal1.cr">
+    <title>Cómo han pasado los años</title>
+  </programme>
+  <programme start="20260925040000 -0600" stop="20260925060000 -0600" channel="Canal1.cr">
+    <title>Musicales</title>
+  </programme>
+  <programme start="20260925060000 -0600" stop="20260925073000 -0600" channel="Canal1.cr">
+    <title>Misa</title>
+  </programme>
+  <programme start="20260925073000 -0600" stop="20260925080000 -0600" channel="Canal1.cr">
+    <title>Animado Retro</title>
+  </programme>
+  <programme start="20260925080000 -0600" stop="20260925083000 -0600" channel="Canal1.cr">
+    <title>RT en vivo</title>
+  </programme>
+  <programme start="20260925083000 -0600" stop="20260925093000 -0600" channel="Canal1.cr">
+    <title>Cómo han pasado los años</title>
+  </programme>
+  <programme start="20260925093000 -0600" stop="20260925100000 -0600" channel="Canal1.cr">
+    <title>Animado Retro</title>
+  </programme>
+  <programme start="20260925100000 -0600" stop="20260925110000 -0600" channel="Canal1.cr">
+    <title>Reinventados</title>
+  </programme>
+  <programme start="20260925110000 -0600" stop="20260925120000 -0600" channel="Canal1.cr">
+    <title>Novela China</title>
+  </programme>
+  <programme start="20260925120000 -0600" stop="20260925123000 -0600" channel="Canal1.cr">
+    <title>RT en vivo</title>
+  </programme>
+  <programme start="20260925123000 -0600" stop="20260925130000 -0600" channel="Canal1.cr">
+    <title>Primero Deportes</title>
+  </programme>
+  <programme start="20260925130000 -0600" stop="20260925133000 -0600" channel="Canal1.cr">
+    <title>Serie Retro</title>
+  </programme>
+  <programme start="20260925133000 -0600" stop="20260925140000 -0600" channel="Canal1.cr">
+    <title>Primero Noticias</title>
+  </programme>
+  <programme start="20260925140000 -0600" stop="20260925150000 -0600" channel="Canal1.cr">
+    <title>Dramas</title>
+  </programme>
+  <programme start="20260925150000 -0600" stop="20260925153000 -0600" channel="Canal1.cr">
+    <title>Serie Retro</title>
+  </programme>
+  <programme start="20260925153000 -0600" stop="20260925160000 -0600" channel="Canal1.cr">
+    <title>Serie Retro</title>
+  </programme>
+  <programme start="20260925160000 -0600" stop="20260925163000 -0600" channel="Canal1.cr">
+    <title>Animado Retro</title>
+  </programme>
+  <programme start="20260925163000 -0600" stop="20260925170000 -0600" channel="Canal1.cr">
+    <title>Animado Retro</title>
+  </programme>
+  <programme start="20260925170000 -0600" stop="20260925180000 -0600" channel="Canal1.cr">
+    <title>Cómo han pasado los años</title>
+  </programme>
+  <programme start="20260925180000 -0600" stop="20260925200000 -0600" channel="Canal1.cr">
+    <title>Primero Noticias</title>
+  </programme>
+  <programme start="20260925200000 -0600" stop="20260925203000 -0600" channel="Canal1.cr">
+    <title>Primero Deportes</title>
+  </programme>
+  <programme start="20260925203000 -0600" stop="20260925210000 -0600" channel="Canal1.cr">
+    <title>Serie Retro</title>
+  </programme>
+  <programme start="20260925210000 -0600" stop="20260925220000 -0600" channel="Canal1.cr">
+    <title>Primero Noticias</title>
+  </programme>
+  <programme start="20260925220000 -0600" stop="20260925230000 -0600" channel="Canal1.cr">
+    <title>Kick Off</title>
+  </programme>
+  <programme start="20260925230000 -0600" stop="20260926000000 -0600" channel="Canal1.cr">
     <title>CGTN en vivo</title>
   </programme>
 </tv>
