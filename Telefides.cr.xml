@@ -3,138 +3,6 @@
   <channel id="Telefides.cr">
     <display-name>Telefides</display-name>
   </channel>
-  <programme start="20260921000000 -0600" stop="20260921003000 -0600" channel="Telefides.cr">
-    <title>Regina Caeli con el Papa León</title>
-  </programme>
-  <programme start="20260921003000 -0600" stop="20260921010000 -0600" channel="Telefides.cr">
-    <title>Vidas de Santos</title>
-  </programme>
-  <programme start="20260921010000 -0600" stop="20260921013000 -0600" channel="Telefides.cr">
-    <title>Telefides Informe (L)</title>
-  </programme>
-  <programme start="20260921013000 -0600" stop="20260921020000 -0600" channel="Telefides.cr">
-    <title>Informe Provida</title>
-  </programme>
-  <programme start="20260921020000 -0600" stop="20260921030000 -0600" channel="Telefides.cr">
-    <title>Mientras el Mundo Gira</title>
-  </programme>
-  <programme start="20260921030000 -0600" stop="20260921031000 -0600" channel="Telefides.cr">
-    <title>Coronilla de la Divina Misericordia</title>
-  </programme>
-  <programme start="20260921031000 -0600" stop="20260921033000 -0600" channel="Telefides.cr">
-    <title>El Obispo Responde</title>
-  </programme>
-  <programme start="20260921033000 -0600" stop="20260921040000 -0600" channel="Telefides.cr">
-    <title>Rosario de la Confianza</title>
-  </programme>
-  <programme start="20260921040000 -0600" stop="20260921050000 -0600" channel="Telefides.cr">
-    <title>Hermano Salvador Gómez</title>
-  </programme>
-  <programme start="20260921050000 -0600" stop="20260921053000 -0600" channel="Telefides.cr">
-    <title>Santo Rosario</title>
-  </programme>
-  <programme start="20260921053000 -0600" stop="20260921060000 -0600" channel="Telefides.cr">
-    <title>Coronilla De la Divina Misericordia</title>
-  </programme>
-  <programme start="20260921060000 -0600" stop="20260921060500 -0600" channel="Telefides.cr">
-    <title>Regina Caeli</title>
-  </programme>
-  <programme start="20260921060500 -0600" stop="20260921063000 -0600" channel="Telefides.cr">
-    <title>Telefides Informe (L)</title>
-  </programme>
-  <programme start="20260921063000 -0600" stop="20260921070000 -0600" channel="Telefides.cr">
-    <title>Rosario de la Confianza</title>
-  </programme>
-  <programme start="20260921070000 -0600" stop="20260921080000 -0600" channel="Telefides.cr">
-    <title>Tertulias de Fe</title>
-  </programme>
-  <programme start="20260921080000 -0600" stop="20260921083000 -0600" channel="Telefides.cr">
-    <title>EWTN Noticias</title>
-  </programme>
-  <programme start="20260921083000 -0600" stop="20260921090000 -0600" channel="Telefides.cr">
-    <title>Manual para Enamorarse</title>
-  </programme>
-  <programme start="20260921090000 -0600" stop="20260921093000 -0600" channel="Telefides.cr">
-    <title>Santo Rosario</title>
-  </programme>
-  <programme start="20260921093000 -0600" stop="20260921103000 -0600" channel="Telefides.cr">
-    <title>Perspectiva Católica</title>
-  </programme>
-  <programme start="20260921103000 -0600" stop="20260921112500 -0600" channel="Telefides.cr">
-    <title>Santa Misa Capilla María Auxiliadora En VIVO</title>
-  </programme>
-  <programme start="20260921112500 -0600" stop="20260921113000 -0600" channel="Telefides.cr">
-    <title>Compendio del Catecismo</title>
-  </programme>
-  <programme start="20260921113000 -0600" stop="20260921120000 -0600" channel="Telefides.cr">
-    <title>El Credo</title>
-  </programme>
-  <programme start="20260921120000 -0600" stop="20260921120500 -0600" channel="Telefides.cr">
-    <title>Regina Caeli</title>
-  </programme>
-  <programme start="20260921120500 -0600" stop="20260921123000 -0600" channel="Telefides.cr">
-    <title>Ruta Musical Con sello Católico</title>
-  </programme>
-  <programme start="20260921123000 -0600" stop="20260921130000 -0600" channel="Telefides.cr">
-    <title>Vidas de Santos</title>
-  </programme>
-  <programme start="20260921130000 -0600" stop="20260921133000 -0600" channel="Telefides.cr">
-    <title>EWTN Noticias</title>
-  </programme>
-  <programme start="20260921133000 -0600" stop="20260921140000 -0600" channel="Telefides.cr">
-    <title>Cristomnautas</title>
-  </programme>
-  <programme start="20260921140000 -0600" stop="20260921143000 -0600" channel="Telefides.cr">
-    <title>Cambio de Agujas</title>
-  </programme>
-  <programme start="20260921143000 -0600" stop="20260921150000 -0600" channel="Telefides.cr">
-    <title>Manual para Enamorarse</title>
-  </programme>
-  <programme start="20260921150000 -0600" stop="20260921151000 -0600" channel="Telefides.cr">
-    <title>Coronilla de la Divina Misericordia</title>
-  </programme>
-  <programme start="20260921151000 -0600" stop="20260921151500 -0600" channel="Telefides.cr">
-    <title>Oración mensual del Papa Francisco</title>
-  </programme>
-  <programme start="20260921151500 -0600" stop="20260921153000 -0600" channel="Telefides.cr">
-    <title>Un Café con Pepe</title>
-  </programme>
-  <programme start="20260921153000 -0600" stop="20260921160000 -0600" channel="Telefides.cr">
-    <title>Rosario de la Confianza</title>
-  </programme>
-  <programme start="20260921160000 -0600" stop="20260921163000 -0600" channel="Telefides.cr">
-    <title>Santo Rosario</title>
-  </programme>
-  <programme start="20260921163000 -0600" stop="20260921170000 -0600" channel="Telefides.cr">
-    <title>Rosario Infantil</title>
-  </programme>
-  <programme start="20260921170000 -0600" stop="20260921173000 -0600" channel="Telefides.cr">
-    <title>Infantiles Telefides</title>
-  </programme>
-  <programme start="20260921173000 -0600" stop="20260921180000 -0600" channel="Telefides.cr">
-    <title>Cocina Fransciscana</title>
-  </programme>
-  <programme start="20260921180000 -0600" stop="20260921190000 -0600" channel="Telefides.cr">
-    <title>Santa Misa Basílica de los Ángeles VIVO</title>
-  </programme>
-  <programme start="20260921190000 -0600" stop="20260921200000 -0600" channel="Telefides.cr">
-    <title>Tertulias de Fe</title>
-  </programme>
-  <programme start="20260921200000 -0600" stop="20260921203000 -0600" channel="Telefides.cr">
-    <title>Telefides Informe</title>
-  </programme>
-  <programme start="20260921203000 -0600" stop="20260921213000 -0600" channel="Telefides.cr">
-    <title>Conectados</title>
-  </programme>
-  <programme start="20260921213000 -0600" stop="20260921220000 -0600" channel="Telefides.cr">
-    <title>Santo Rosario</title>
-  </programme>
-  <programme start="20260921220000 -0600" stop="20260921230000 -0600" channel="Telefides.cr">
-    <title>Voces de Santos</title>
-  </programme>
-  <programme start="20260921230000 -0600" stop="20260922000000 -0600" channel="Telefides.cr">
-    <title>Mientras el Mundo Gira</title>
-  </programme>
   <programme start="20260922000000 -0600" stop="20260922000500 -0600" channel="Telefides.cr">
     <title>Regina Caeli</title>
   </programme>
@@ -900,7 +768,139 @@
   <programme start="20260927213000 -0600" stop="20260927220000 -0600" channel="Telefides.cr">
     <title>Santo Rosario Dolorosos</title>
   </programme>
-  <programme start="20260927220000 -0600" stop="20260927230000 -0600" channel="Telefides.cr">
+  <programme start="20260927220000 -0600" stop="20260928000000 -0600" channel="Telefides.cr">
     <title>PADRE JUAN JAIME ESCOBAR</title>
+  </programme>
+  <programme start="20260928000000 -0600" stop="20260928003000 -0600" channel="Telefides.cr">
+    <title>Regina Caeli con el Papa León</title>
+  </programme>
+  <programme start="20260928003000 -0600" stop="20260928010000 -0600" channel="Telefides.cr">
+    <title>Vidas de Santos</title>
+  </programme>
+  <programme start="20260928010000 -0600" stop="20260928013000 -0600" channel="Telefides.cr">
+    <title>Telefides Informe (L)</title>
+  </programme>
+  <programme start="20260928013000 -0600" stop="20260928020000 -0600" channel="Telefides.cr">
+    <title>Informe Provida</title>
+  </programme>
+  <programme start="20260928020000 -0600" stop="20260928030000 -0600" channel="Telefides.cr">
+    <title>Mientras el Mundo Gira</title>
+  </programme>
+  <programme start="20260928030000 -0600" stop="20260928031000 -0600" channel="Telefides.cr">
+    <title>Coronilla de la Divina Misericordia</title>
+  </programme>
+  <programme start="20260928031000 -0600" stop="20260928033000 -0600" channel="Telefides.cr">
+    <title>El Obispo Responde</title>
+  </programme>
+  <programme start="20260928033000 -0600" stop="20260928040000 -0600" channel="Telefides.cr">
+    <title>Rosario de la Confianza</title>
+  </programme>
+  <programme start="20260928040000 -0600" stop="20260928050000 -0600" channel="Telefides.cr">
+    <title>Hermano Salvador Gómez</title>
+  </programme>
+  <programme start="20260928050000 -0600" stop="20260928053000 -0600" channel="Telefides.cr">
+    <title>Santo Rosario</title>
+  </programme>
+  <programme start="20260928053000 -0600" stop="20260928060000 -0600" channel="Telefides.cr">
+    <title>Coronilla De la Divina Misericordia</title>
+  </programme>
+  <programme start="20260928060000 -0600" stop="20260928060500 -0600" channel="Telefides.cr">
+    <title>Regina Caeli</title>
+  </programme>
+  <programme start="20260928060500 -0600" stop="20260928063000 -0600" channel="Telefides.cr">
+    <title>Telefides Informe (L)</title>
+  </programme>
+  <programme start="20260928063000 -0600" stop="20260928070000 -0600" channel="Telefides.cr">
+    <title>Rosario de la Confianza</title>
+  </programme>
+  <programme start="20260928070000 -0600" stop="20260928080000 -0600" channel="Telefides.cr">
+    <title>Tertulias de Fe</title>
+  </programme>
+  <programme start="20260928080000 -0600" stop="20260928083000 -0600" channel="Telefides.cr">
+    <title>EWTN Noticias</title>
+  </programme>
+  <programme start="20260928083000 -0600" stop="20260928090000 -0600" channel="Telefides.cr">
+    <title>Manual para Enamorarse</title>
+  </programme>
+  <programme start="20260928090000 -0600" stop="20260928093000 -0600" channel="Telefides.cr">
+    <title>Santo Rosario</title>
+  </programme>
+  <programme start="20260928093000 -0600" stop="20260928103000 -0600" channel="Telefides.cr">
+    <title>Perspectiva Católica</title>
+  </programme>
+  <programme start="20260928103000 -0600" stop="20260928112500 -0600" channel="Telefides.cr">
+    <title>Santa Misa Capilla María Auxiliadora En VIVO</title>
+  </programme>
+  <programme start="20260928112500 -0600" stop="20260928113000 -0600" channel="Telefides.cr">
+    <title>Compendio del Catecismo</title>
+  </programme>
+  <programme start="20260928113000 -0600" stop="20260928120000 -0600" channel="Telefides.cr">
+    <title>El Credo</title>
+  </programme>
+  <programme start="20260928120000 -0600" stop="20260928120500 -0600" channel="Telefides.cr">
+    <title>Regina Caeli</title>
+  </programme>
+  <programme start="20260928120500 -0600" stop="20260928123000 -0600" channel="Telefides.cr">
+    <title>Ruta Musical Con sello Católico</title>
+  </programme>
+  <programme start="20260928123000 -0600" stop="20260928130000 -0600" channel="Telefides.cr">
+    <title>Vidas de Santos</title>
+  </programme>
+  <programme start="20260928130000 -0600" stop="20260928133000 -0600" channel="Telefides.cr">
+    <title>EWTN Noticias</title>
+  </programme>
+  <programme start="20260928133000 -0600" stop="20260928140000 -0600" channel="Telefides.cr">
+    <title>Cristomnautas</title>
+  </programme>
+  <programme start="20260928140000 -0600" stop="20260928143000 -0600" channel="Telefides.cr">
+    <title>Cambio de Agujas</title>
+  </programme>
+  <programme start="20260928143000 -0600" stop="20260928150000 -0600" channel="Telefides.cr">
+    <title>Manual para Enamorarse</title>
+  </programme>
+  <programme start="20260928150000 -0600" stop="20260928151000 -0600" channel="Telefides.cr">
+    <title>Coronilla de la Divina Misericordia</title>
+  </programme>
+  <programme start="20260928151000 -0600" stop="20260928151500 -0600" channel="Telefides.cr">
+    <title>Oración mensual del Papa Francisco</title>
+  </programme>
+  <programme start="20260928151500 -0600" stop="20260928153000 -0600" channel="Telefides.cr">
+    <title>Un Café con Pepe</title>
+  </programme>
+  <programme start="20260928153000 -0600" stop="20260928160000 -0600" channel="Telefides.cr">
+    <title>Rosario de la Confianza</title>
+  </programme>
+  <programme start="20260928160000 -0600" stop="20260928163000 -0600" channel="Telefides.cr">
+    <title>Santo Rosario</title>
+  </programme>
+  <programme start="20260928163000 -0600" stop="20260928170000 -0600" channel="Telefides.cr">
+    <title>Rosario Infantil</title>
+  </programme>
+  <programme start="20260928170000 -0600" stop="20260928173000 -0600" channel="Telefides.cr">
+    <title>Infantiles Telefides</title>
+  </programme>
+  <programme start="20260928173000 -0600" stop="20260928180000 -0600" channel="Telefides.cr">
+    <title>Cocina Fransciscana</title>
+  </programme>
+  <programme start="20260928180000 -0600" stop="20260928190000 -0600" channel="Telefides.cr">
+    <title>Santa Misa Basílica de los Ángeles VIVO</title>
+  </programme>
+  <programme start="20260928190000 -0600" stop="20260928200000 -0600" channel="Telefides.cr">
+    <title>Tertulias de Fe</title>
+  </programme>
+  <programme start="20260928200000 -0600" stop="20260928203000 -0600" channel="Telefides.cr">
+    <title>Telefides Informe</title>
+  </programme>
+  <programme start="20260928203000 -0600" stop="20260928213000 -0600" channel="Telefides.cr">
+    <title>Conectados</title>
+  </programme>
+  <programme start="20260928213000 -0600" stop="20260928220000 -0600" channel="Telefides.cr">
+    <title>Santo Rosario</title>
+  </programme>
+  <programme start="20260928220000 -0600" stop="20260928230000 -0600" channel="Telefides.cr">
+    <title>Voces de Santos</title>
+  </programme>
+  <programme start="20260928230000 -0600" stop="20260929000000 -0600" channel="Telefides.cr">
+    <title>Mientras el Mundo Gira</title>
   </programme>
 </tv>
