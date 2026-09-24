@@ -142,6 +142,7 @@
 608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d,Robot Wars by Mech+,https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png
 608049aefa2b8ae93c2c3a63-67f45ef989089d917e1b1634,Unbeaten,https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png
 608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9,Racing America,https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png
+608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353,Real Emergency,https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png
 608049aefa2b8ae93c2c3a63-6227c215c9f485cc7afe8c41,Surfer TV,https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png
 608049aefa2b8ae93c2c3a63-62280162c9f485cc7afe8c46,Powder TV,https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png
 608049aefa2b8ae93c2c3a63-6a9512a7f534d4312a699c22,SWAC TV,https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png
@@ -222,7 +223,6 @@
 608049aefa2b8ae93c2c3a63-5f170f01b898490041b49dd1,Yahoo Finance,https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png
 608049aefa2b8ae93c2c3a63-61aa9f50784a2161d3caf7fb,Remember the ‘80s,https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png
 608049aefa2b8ae93c2c3a63-61aa9e73784a2161d3caf7f9,Stingray Hot Country,https://provider-static.plex.tv/epg/cms/production/21cb88d9-8ca5-4a3c-b8dc-ca5b42ed351d/13212_SM_Plex_Logos_Hot-Country_1500x1000_V01-white_-_Olivia_bronfman.png
-608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1,Ninja Kidz TV,https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png
 608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a,Kidoodle TV,https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png
 608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f,Brat TV,https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png
 608049aefa2b8ae93c2c3a63-618ab2f275913b296fbe56dd,Eddie's Wonderland,https://provider-static.plex.tv/epg/cms/production/a27f5de6-ea10-48ad-ab05-6a5c3e63d46c/Eddies-Wonderland_logo_dark.png

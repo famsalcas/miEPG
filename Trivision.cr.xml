@@ -3,48 +3,6 @@
   <channel id="Trivision.cr">
     <display-name>Trivisión Canal 36</display-name>
   </channel>
-  <programme start="20260923000000 -0600" stop="20260923013000 -0600" channel="Trivision.cr">
-    <title>La Mujer Maravilla</title>
-  </programme>
-  <programme start="20260923013000 -0600" stop="20260923020000 -0600" channel="Trivision.cr">
-    <title>Blanco Y Negro</title>
-  </programme>
-  <programme start="20260923020000 -0600" stop="20260923040000 -0600" channel="Trivision.cr">
-    <title>Pelicula</title>
-  </programme>
-  <programme start="20260923040000 -0600" stop="20260923050000 -0600" channel="Trivision.cr">
-    <title>Música 90s</title>
-  </programme>
-  <programme start="20260923050000 -0600" stop="20260923070000 -0600" channel="Trivision.cr">
-    <title>Rep. Noticiero</title>
-  </programme>
-  <programme start="20260923070000 -0600" stop="20260923090000 -0600" channel="Trivision.cr">
-    <title>Rep. Nuestro Programa</title>
-  </programme>
-  <programme start="20260923090000 -0600" stop="20260923100000 -0600" channel="Trivision.cr">
-    <title>La Isla De La Fantasía</title>
-  </programme>
-  <programme start="20260923100000 -0600" stop="20260923113000 -0600" channel="Trivision.cr">
-    <title>Tardeando Por La Mañana</title>
-  </programme>
-  <programme start="20260923113000 -0600" stop="20260923150000 -0600" channel="Trivision.cr">
-    <title>Noticias Trivisión</title>
-  </programme>
-  <programme start="20260923150000 -0600" stop="20260923170000 -0600" channel="Trivision.cr">
-    <title>Nuestro Programa</title>
-  </programme>
-  <programme start="20260923170000 -0600" stop="20260923190000 -0600" channel="Trivision.cr">
-    <title>Noticiero Estelar Trivisión</title>
-  </programme>
-  <programme start="20260923190000 -0600" stop="20260923210000 -0600" channel="Trivision.cr">
-    <title>Rep. Nuestro Programa</title>
-  </programme>
-  <programme start="20260923210000 -0600" stop="20260923230000 -0600" channel="Trivision.cr">
-    <title>Rep. Noticiero Estelar</title>
-  </programme>
-  <programme start="20260923230000 -0600" stop="20260924000000 -0600" channel="Trivision.cr">
-    <title>Rep. Tardeando</title>
-  </programme>
   <programme start="20260924000000 -0600" stop="20260924013000 -0600" channel="Trivision.cr">
     <title>La Mujer Maravilla</title>
   </programme>
@@ -346,6 +304,48 @@
     <title>Rep. Noticiero Estelar</title>
   </programme>
   <programme start="20260929230000 -0600" stop="20260930000000 -0600" channel="Trivision.cr">
+    <title>Rep. Tardeando</title>
+  </programme>
+  <programme start="20260930000000 -0600" stop="20260930013000 -0600" channel="Trivision.cr">
+    <title>La Mujer Maravilla</title>
+  </programme>
+  <programme start="20260930013000 -0600" stop="20260930020000 -0600" channel="Trivision.cr">
+    <title>Blanco Y Negro</title>
+  </programme>
+  <programme start="20260930020000 -0600" stop="20260930040000 -0600" channel="Trivision.cr">
+    <title>Pelicula</title>
+  </programme>
+  <programme start="20260930040000 -0600" stop="20260930050000 -0600" channel="Trivision.cr">
+    <title>Música 90s</title>
+  </programme>
+  <programme start="20260930050000 -0600" stop="20260930070000 -0600" channel="Trivision.cr">
+    <title>Rep. Noticiero</title>
+  </programme>
+  <programme start="20260930070000 -0600" stop="20260930090000 -0600" channel="Trivision.cr">
+    <title>Rep. Nuestro Programa</title>
+  </programme>
+  <programme start="20260930090000 -0600" stop="20260930100000 -0600" channel="Trivision.cr">
+    <title>La Isla De La Fantasía</title>
+  </programme>
+  <programme start="20260930100000 -0600" stop="20260930113000 -0600" channel="Trivision.cr">
+    <title>Tardeando Por La Mañana</title>
+  </programme>
+  <programme start="20260930113000 -0600" stop="20260930150000 -0600" channel="Trivision.cr">
+    <title>Noticias Trivisión</title>
+  </programme>
+  <programme start="20260930150000 -0600" stop="20260930170000 -0600" channel="Trivision.cr">
+    <title>Nuestro Programa</title>
+  </programme>
+  <programme start="20260930170000 -0600" stop="20260930190000 -0600" channel="Trivision.cr">
+    <title>Noticiero Estelar Trivisión</title>
+  </programme>
+  <programme start="20260930190000 -0600" stop="20260930210000 -0600" channel="Trivision.cr">
+    <title>Rep. Nuestro Programa</title>
+  </programme>
+  <programme start="20260930210000 -0600" stop="20260930230000 -0600" channel="Trivision.cr">
+    <title>Rep. Noticiero Estelar</title>
+  </programme>
+  <programme start="20260930230000 -0600" stop="20261001000000 -0600" channel="Trivision.cr">
     <title>Rep. Tardeando</title>
   </programme>
 </tv>
