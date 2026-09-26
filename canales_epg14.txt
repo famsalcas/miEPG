@@ -252,6 +252,7 @@
 5e7cf6c7b156d500078c5f44,OAN Plus,https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png
 66a7f0a78561260008c177f2,Salem News Channel,https://images.pluto.tv/channels/66a7f0a78561260008c177f2/colorLogoPNG.png
 5d486acc34ceb37d3c458a64,The First,https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png
+6a03782f2c1c785c1161756c,Zuffa Boxing Prelims,https://images.pluto.tv/channels/6a03782f2c1c785c1161756c/colorLogoPNG_1789054188922.png
 677d9adfa9a51b0008497fa0,UFC,https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png
 5e9f2c05172a0f0007db4786,CBS Sports HQ,https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png
 5ced7d5df64be98e07ed47b6,NFL Channel,https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG_1785344058498.png

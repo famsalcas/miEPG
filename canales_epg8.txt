@@ -191,6 +191,8 @@
 6322099c822bbc00074857db,Los Padrinos Mágicos,https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG_1767810452010.png
 63dd5d7a4e83e700088fbca8,Las Tortugas Ninja,https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG_1768926025035.png
 5dd6dae8ce788b0009eaf77b,Pluto TV Kids,https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png
+6a6ca73147ec53cab451a4e5,MTV VMAs 2026 en Español,https://images.pluto.tv/channels/6a6ca73147ec53cab451a4e5/colorLogoPNG_1789481554152.png
+6a6ca7731b1c90d8bfa90a76,MTV VMAs 2026 en Inglés,https://images.pluto.tv/channels/6a6ca7731b1c90d8bfa90a76/colorLogoPNG_1789481778544.png
 6047fabfce6e8e00070bcc9f,MTV Biggest Pop,https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png
 66a11a21a79dea0008aa90ca,MTV Classic,https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png
 66a01b52a4ee27000808ea36,MTV Rocks,https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png
