@@ -93,7 +93,7 @@
 608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6,Emoción Atres,https://provider-static.plex.tv/epg/cms/production/f8a056a0-536e-4cb9-9a60-f7bd242819d7/EMOCIONATRES_COLORRDX.png
 608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f,Buen Viaje,https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png
 608049aefa2b8ae93c2c3a63-672948f0297d4ea7584a2e13,The Martha Stewart Channel,https://provider-static.plex.tv/epg/cms/production/a0aadc76-1caf-419f-83c7-ff8e066355a7/MSChannel_Logo_Light_-_Kimberly_DumerRDX.png
-608049aefa2b8ae93c2c3a63-66e4cbef38de9754b6b13e90,Dr. Phil,https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png
+608049aefa2b8ae93c2c3a63-66e4cbef38de9754b6b13e90,Dr. Phil,https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png
 608049aefa2b8ae93c2c3a63-66a2e90994b6a49cb5054d7d,Mr. Bean,https://provider-static.plex.tv/epg/cms/production/e8270acf-b6fc-4708-9e35-e45dfc3a4110/MrBean_Logo_Light_1500x1000_-_Harry_Marshall.png
 608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916,Death Valley Days,https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png
 608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e,COPS,https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png
@@ -155,7 +155,6 @@
 608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab,Documentary+,https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png
 608049aefa2b8ae93c2c3a63-688b7f47c8caf40b4a62239f,Newsmax en Español,https://provider-static.plex.tv/epg/cms/production/25db4f88-c689-4bf8-811b-603fb762d4fb/003_WHITE_NEWSMAX_EN_ESPANOL.png
 608049aefa2b8ae93c2c3a63-686462bf1a2f321847ec0395,Comercio TV,https://provider-static.plex.tv/epg/cms/production/f13dd872-9888-4a98-953b-2d2cf306d69a/comercioDark_Logo__1_.png
-608049aefa2b8ae93c2c3a63-65b80306e5cf85050598aba4,Made It Myself TV,https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png
 608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c,Billiard TV,https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png
 608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518,Bloomberg Originals,https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png
 608049aefa2b8ae93c2c3a63-621672e42c2627c068e73ad8,Galxy TV,https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png
