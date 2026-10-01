@@ -30,7 +30,6 @@
 5ec5761aabe4690007f6e047,Pluto TV Star Trek,https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png
 65662f8a2c46f300088a84cc,Pluto TV Series de Sci-Fi,https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png
 66b3af1c3a4ad200081c7d03,Z Nation,https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG_1785345339690.png
-67e5941f0812459cb682d9c6,Relic Hunter,https://images.pluto.tv/channels/67e5941f0812459cb682d9c6/colorLogoPNG_1745511571298.png
 5dcde1317578340009b751d0,Pluto TV Series,https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png
 655f626d57fe4a00085c7c3e,Pluto TV Series de Comedia,https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png
 655f636d954b020008c93299,Pluto TV Series de Drama,https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png
@@ -52,7 +51,6 @@
 686eed4c677f2f98b4a1ccd4,Pluto TV Novelas de Otros Continentes,https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png
 69b32974814d27f4aed90fdd,Madre,https://images.pluto.tv/channels/69b32974814d27f4aed90fdd/colorLogoPNG_1775832484542.png
 6474a7958e3c0a0008b97cae,Pluto TV Novelas de México,https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1785345561974.png
-646ccdd0939a5900088a1980,Corazón,https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png
 699769fa19ac123965833fd3,Cuando los Ángeles Caen,https://images.pluto.tv/channels/699769fa19ac123965833fd3/colorLogoPNG_1773786938217.png
 604bdf4e6d0abc0007ba77ad,Sin Tetas No Hay Paraíso,https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG_1785345745095.png
 63211ba9cad976000794f988,La Selección,https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png
@@ -107,7 +105,6 @@
 5f4d3696d938c900072679fd,Historias de Ultratumba,https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png
 645d1abbe1979c0008779d5a,Archivos Extraterrestres,https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png
 5dcde27ffae9520009c0c75a,Pluto TV Investiga,https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png
-680bdaf54d7cf165c705f91e,Zona Investigación TV,https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1785345998479.png
 5e67d41b93312100076f3fca,Los archivos del FBI,https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png
 5efb8c19b2678b000780d032,Archivos Forenses,https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png
 697c9bc2a7ce9d5a3d83504a,Dr. G,https://images.pluto.tv/channels/697c9bc2a7ce9d5a3d83504a/colorLogoPNG_1771861519995.png
@@ -154,7 +151,6 @@
 68b88712e777774982269ce9,Tastemade Viajes,https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png
 69fcdc73488e575cff213adc,Hermanos a la Obra,https://images.pluto.tv/channels/69fcdc73488e575cff213adc/colorLogoPNG_1778601459828.png
 64fb1f6e6625510008c00848,Homeful,https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png
-68b887c2e77777498226a0de,Tastemade Hogar,https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png
 5dcde0657444a40009cd2422,Pluto TV Estilo de Vida,https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1778796418782.png
 5f998c1fc54853000797bacd,Tastemade,https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png
 6894fc3f66f164e402f4fd14,Dulce by elGourmet,https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG_1756447016242.png
@@ -176,10 +172,8 @@
 5fab09a8749b1a00077d35d2,Nickelodeon Teen,https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png
 620ff0a01f9e8700076c6f9d,Nickelodeon iCarly,https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png
 5fcea93ffcf94500071c4b2f,Kenan y Kel,https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png
-6495c6ad115d060008bf6b52,PAW Patrol Patrulla de Cachorros,https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG_1788198063916.png
 5ddd7cb2cbb9010009b4fe32,Nick Jr. Club,https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png
 619d5e6a093e7c0007489211,Baby Shark TV,https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png
-5ebac49ce4dc8b00078b23bc,Babyfirst,https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png
 5dcde2ac4bc6c500094ab45b,Pluto TV Junior,https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png
 5f4d3d06fb60d8000781fce8,El Reino Infantil,https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png
 6824cda00101510f9eeaa011,Nickelodeon Clásico,https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG_1750110888810.png
@@ -201,4 +195,3 @@
 6a739fb3c1842722eaf5eb1f,Stingray Época Dorada del Cine Mexicano,https://images.pluto.tv/channels/6a739fb3c1842722eaf5eb1f/colorLogoPNG_1788376112882.png
 6868152657543d1f8be4ece3,Concert Channel,https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png
 5f85ca40eda1b10007b967cd,Conciertos por Stingray,https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png
-5f85cf621d6d2200079f1de0,Karaoke por Stingray,https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png

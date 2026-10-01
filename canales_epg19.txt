@@ -289,8 +289,8 @@ I489.109612.schedulesdirect.org,MMTVS,https://schedulesdirect-api20141201-logos.
 I490.91505.schedulesdirect.org,MULTVHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png
 I491.50500.schedulesdirect.org,MULTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91505_dark_360w_270h.png
 I492.18169.schedulesdirect.org,MPREL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png
-I495.15213.schedulesdirect.org,MVSTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15213_dark_360w_270h.png
-I497.109982.schedulesdirect.org,MVSTVDI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15213_dark_360w_270h.png
+I495.15213.schedulesdirect.org,MVSTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003R7F4C.png_dark_360w_270h.png
+I497.109982.schedulesdirect.org,MVSTVDI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003R7F4C.png_dark_360w_270h.png
 I501.105877.schedulesdirect.org,Nat Geo KIDS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104524_dark_360w_270h.png
 I502.105878.schedulesdirect.org,NGKCMHD,
 I503.88533.schedulesdirect.org,National Geographic LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png
