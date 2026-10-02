@@ -8,6 +8,7 @@
 608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8,Azteca Internacional,https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png
 608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3,Runtime Acción,https://provider-static.plex.tv/epg/cms/production/9da5683e-30e8-4b78-99b5-a30c8f665f63/Runtime_ES_Accion_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-657222390c7d9b1f1ebc515d,Survivor Mexico,https://provider-static.plex.tv/epg/cms/production/06b112af-4009-4830-9313-6e393ee8e579/SurvivorMexico_Logo_Light_1500x1000_-_Harry_Marshall.png
+608049aefa2b8ae93c2c3a63-6ab3fab35364aa2377195423,COPS en Español,https://provider-static.plex.tv/epg/cms/production/f5005232-2087-4db6-a2bc-840d059fee60/Cops_channel_logo_white_1500x1000RDX.png
 608049aefa2b8ae93c2c3a63-6a3b12103c90c489ea1f17e0,Deal Or No Deal,https://provider-static.plex.tv/epg/cms/production/14bef4ec-a974-42e7-b499-474a71978f65/DOND_Logo_White_1500x1000_-_Harry_Marshall__1_.png
 608049aefa2b8ae93c2c3a63-67db3546d66f778a752f7eaa,PeliMex,https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png
 608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277,FilmRise Crimenes Verdaderos,https://provider-static.plex.tv/epg/cms/production/80f31fb0-3481-4e89-877a-3d2f0bb80215/FilmRise_CrimenesVerdaderos_1500x1000_Light_Logo.png
@@ -32,6 +33,7 @@
 608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f,Azteca Deportes Network,https://provider-static.plex.tv/epg/cms/production/cd600751-74ec-4aa1-a9c7-b0dabbf87677/Az_dep_blanco.png
 608049aefa2b8ae93c2c3a63-6154a863e3e4d9577f96b31a,Nosey Escándalos,https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png
 608049aefa2b8ae93c2c3a63-66843849a017b7e51aeb28d7,Runtime Comedia,https://provider-static.plex.tv/epg/cms/production/c3208e7c-cc1c-4e9a-9304-5070368a7cc7/Runtime_ES_Comedia_Dark_Mode_Logordx.png
+608049aefa2b8ae93c2c3a63-6ab3fd895364aa237719542b,JAIL en Español,https://provider-static.plex.tv/epg/cms/production/232386fe-c283-4eec-a787-2227cf46bc99/Jail_channel_logo_4c_1500x1000RDX.png
 608049aefa2b8ae93c2c3a63-60240f57676235002df19f49,FreeTV Familia,https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png
 608049aefa2b8ae93c2c3a63-688d3402a6fe30698ab42007,ITV Deportes,https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png
 608049aefa2b8ae93c2c3a63-64d4e82ac5d4668c9cb7b5df,Novelisima,https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png
@@ -96,21 +98,19 @@
 608049aefa2b8ae93c2c3a63-66e4cbef38de9754b6b13e90,Dr. Phil,https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png
 608049aefa2b8ae93c2c3a63-66a2e90994b6a49cb5054d7d,Mr. Bean,https://provider-static.plex.tv/epg/cms/production/e8270acf-b6fc-4708-9e35-e45dfc3a4110/MrBean_Logo_Light_1500x1000_-_Harry_Marshall.png
 608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916,Death Valley Days,https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png
-608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e,COPS,https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png
+608049aefa2b8ae93c2c3a63-6ab19140e7969627826876a6,COPS,https://provider-static.plex.tv/epg/cms/production/93b42a63-bebc-4948-be5d-3ddcba89f2b9/Cops_channel_logo_white_1500x1000RDX.png
 608049aefa2b8ae93c2c3a63-64ac687b4192b4e1bab96279,PokerGO,https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png
 608049aefa2b8ae93c2c3a63-6041643175c115002dc51259,Toon Goggles en Español,https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png
-608049aefa2b8ae93c2c3a63-68c98e7460586565cc56baab,Crime Beat TV,https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png
 608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f,Poker Night TV,https://provider-static.plex.tv/epg/cms/production/e081c886-d798-4438-855b-2f1fb10c50ee/poker-night-tv.png
 608049aefa2b8ae93c2c3a63-63f914bffe2c3d32e1a7929f,GLORY Kickboxing,https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png
 608049aefa2b8ae93c2c3a63-66be944f8711311880995280,Action Hollywood Movies,https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png
-608049aefa2b8ae93c2c3a63-6448ba1baf92c31f4a190c27,JAIL,https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png
+608049aefa2b8ae93c2c3a63-6ab56966177d989ab41dfd51,JAIL,https://provider-static.plex.tv/epg/cms/production/39ee5559-7aff-46ee-a95b-37a40ebd4056/Jail_channel_logo_4c_1500x1000RDX.png
 608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7,Tastemade en Español,https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png
 608049aefa2b8ae93c2c3a63-6995ef6821d3ea5c24827b1b,Homeful,https://provider-static.plex.tv/epg/cms/production/dd243471-e956-4dec-a099-2f3351e1bf3a/Plex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones__1_.png
 608049aefa2b8ae93c2c3a63-68b74890b5b437bf872b6b72,TV5MONDE Chefs,https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png
 608049aefa2b8ae93c2c3a63-6a90b2b5c0870218305e909b,Tennis TV,https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png
 608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c,Tennis+,https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png
 608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e,FailArmy,https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png
-608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2,FUEL TV,https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png
 608049aefa2b8ae93c2c3a63-60aeb5cd87f9b1002ce12323,NHRA TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png
 608049aefa2b8ae93c2c3a63-5fd115bdb7ef8d002dcf1820,Hard Knocks,https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png
 608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec015,Nosey,https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png
@@ -119,6 +119,7 @@
 608049aefa2b8ae93c2c3a63-614398a08f30fa61e0da7c97,True History,https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png
 608049aefa2b8ae93c2c3a63-6a109c56b05301ef36a6a8e4,Sobrévivi,https://provider-static.plex.tv/epg/cms/production/667c853d-a1fe-4a08-8318-c3727ffcdb0a/Sobr__vivi_Logo_White_1500x1000_-_Harry_Marshall.png
 608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0,Aym Sports TV,https://provider-static.plex.tv/epg/cms/production/94b95e02-4cd5-4739-bb43-cd2a26158a85/aym_sports_logo_light_-_Jordan_Warkol.png
+608049aefa2b8ae93c2c3a63-6a951958f534d4312a699c27,FUEL TV,https://provider-static.plex.tv/epg/cms/production/962f9563-b48d-4760-a1d2-dbc6cfb8aae1/FUELTVf3a8f9f9404c975495b093c73598d7baRDRED.png
 608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca,SportsGrid,https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png
 608049aefa2b8ae93c2c3a63-6582a1316b91be4547aa153c,Hot Ones,https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png
 608049aefa2b8ae93c2c3a63-684c2379e32026b0c1f53793,Million Dollar Dream Home,https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png

@@ -1,7 +1,523 @@
 # Fuente: https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
+ArizonaCardinals.nfl,NFL - ARIZONA: CARDINALS,https://a.espncdn.com/i/teamlogos/nfl/500/ari.png
+AtlantaFalcons.nfl,NFL - ATLANTA: FALCONS,https://a.espncdn.com/i/teamlogos/nfl/500/atl.png
+BaltimoreRavens.nfl,NFL - BALTIMORE: RAVENS,https://a.espncdn.com/i/teamlogos/nfl/500/bal.png
+BuffaloBills.nfl,NFL - BUFFALO: BILLS,https://a.espncdn.com/i/teamlogos/nfl/500/buf.png
+CarolinaPanthers.nfl,NFL - CAROLINA: PANTERS,https://a.espncdn.com/i/teamlogos/nfl/500/car.png
+ChicagoBears.nfl,NFL - CHICAGO: BEARS,https://a.espncdn.com/i/teamlogos/nfl/500/chi.png
+CincinnatiBengals.nfl,NFL - CINCINNATI: BENGALS,https://a.espncdn.com/i/teamlogos/nfl/500/cin.png
+ClevelandBrowns.nfl,NFL - CLEVELAND: BROWNS,https://a.espncdn.com/i/teamlogos/nfl/500/cle.png
+DallasCowboys.nfl,NFL - DALLAS: COWBOYS,https://a.espncdn.com/i/teamlogos/nfl/500/dal.png
+DenverBroncos.nfl,NFL - DENVER: BRONCOS,https://a.espncdn.com/i/teamlogos/nfl/500/den.png
+DetroitLions.nfl,NFL - DETROIT: LIONS,https://a.espncdn.com/i/teamlogos/nfl/500/det.png
+GreenBayPackers.nfl,NFL - GREENBAY: PACKERS,https://a.espncdn.com/i/teamlogos/nfl/500/gb.png
+HoustonTexans.nfl,NFL - HOUSTON: TEXANS,https://a.espncdn.com/i/teamlogos/nfl/500/hou.png
+IndianapolisColts.nfl,NFL - INDIANAPOLIS: COLTS,https://a.espncdn.com/i/teamlogos/nfl/500/ind.png
+JacksonvilleJaguars.nfl,NFL - JACKSONVILLE: JAGUARS,https://a.espncdn.com/i/teamlogos/nfl/500/jax.png
+KansasCityChiefs.nfl,NFL - KANSAS CITY: CHIEFS,https://a.espncdn.com/i/teamlogos/nfl/500/kc.png
+LasVegasRaiders.nfl,NFL - LAS VEGAS: RAIDERS,https://a.espncdn.com/i/teamlogos/nfl/500/lv.png
+LosAngelesChargers.nfl,NFL - LOS ANGELES: CHARGERS,https://a.espncdn.com/i/teamlogos/nfl/500/lac.png
+LosAngelesRams.nfl,NFL - LOS ANGELES: RAMS,https://a.espncdn.com/i/teamlogos/nfl/500/lar.png
+MiamiDolphins.nfl,NFL - MIAMI: DOLPHINS,https://a.espncdn.com/i/teamlogos/nfl/500/mia.png
+MinnesotaVikings.nfl,NFL - MINNESOTA: VIKINGS,https://a.espncdn.com/i/teamlogos/nfl/500/min.png
+NewEnglandPatriots.nfl,NFL - NEW ENGLAND: PATRIOTS,https://a.espncdn.com/i/teamlogos/nfl/500/ne.png
+NewOrleansSaints.nfl,NFL - NEW ORLEANS: SAINTS,https://a.espncdn.com/i/teamlogos/nfl/500/no.png
+NewYorkGiants.nfl,NFL - NEW YORK: GIANTS,https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png
+NewYorkJets.nfl,NFL - NEW YORK: JETS,https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png
+PhiladelphiaEagles.nfl,NFL - PHILADELPHIA: EAGLES,https://a.espncdn.com/i/teamlogos/nfl/500/phi.png
+PittsburghSteelers.nfl,NFL - PITTSBURGH: STEELERS,https://a.espncdn.com/i/teamlogos/nfl/500/pit.png
+SanFrancisco49ers.nfl,NFL - SAN FRANCISCO: 49ERS,https://a.espncdn.com/i/teamlogos/nfl/500/sf.png
+SeattleSeahawks.nfl,NFL - SEATTLE: SEAHAWKS,https://a.espncdn.com/i/teamlogos/nfl/500/sea.png
+TampaBayBuccaneers.nfl,NFL - TAMPA BAY: BUCCANEERS,https://a.espncdn.com/i/teamlogos/nfl/500/tb.png
+TennesseeTitans.nfl,NFL - TENNESSEE: TITANS,https://a.espncdn.com/i/teamlogos/nfl/500/ten.png
+WashingtonCommanders.nfl,NFL - WASHINGTON: COMMANDERS,https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png
+AtlantaHawks.nba,NBA - ATLANTA HAWKS,https://a.espncdn.com/i/teamlogos/nba/500/atl.png
+BostonCeltics.nba,NBA - BOSTON CELTICS,https://a.espncdn.com/i/teamlogos/nba/500/bos.png
+BrooklynNets.nba,NBA - BROOKLYN NETS,https://a.espncdn.com/i/teamlogos/nba/500/bkn.png
+CharlotteHornets.nba,NBA - CHARLOTTE HORNETS,https://a.espncdn.com/i/teamlogos/nba/500/cha.png
+ChicagoBulls.nba,NBA - CHICAGO BULLS,https://a.espncdn.com/i/teamlogos/nba/500/chi.png
+ClevelandCavaliers.nba,NBA - CLEVELAND CAVALIERS,https://a.espncdn.com/i/teamlogos/nba/500/cle.png
+DallasMavericks.nba,NBA - DALLAS MAVERICKS,https://a.espncdn.com/i/teamlogos/nba/500/dal.png
+DenverNuggets.nba,NBA - DENVER NUGGETS,https://a.espncdn.com/i/teamlogos/nba/500/den.png
+DetroitPistons.nba,NBA - DETROIT PISTONS,https://a.espncdn.com/i/teamlogos/nba/500/det.png
+GoldenStateWarriors.nba,NBA - GOLDEN STATE WARRIORS,https://a.espncdn.com/i/teamlogos/nba/500/gs.png
+HoustonRockets.nba,NBA - HOUSTON ROCKETS,https://a.espncdn.com/i/teamlogos/nba/500/hou.png
+IndianaPacers.nba,NBA - INDIANA PACERS,https://a.espncdn.com/i/teamlogos/nba/500/ind.png
+LAClippers.nba,NBA - LA CLIPPERS,https://a.espncdn.com/i/teamlogos/nba/500/lac.png
+LosAngelesLakers.nba,NBA - LOS ANGELES LAKERS,https://a.espncdn.com/i/teamlogos/nba/500/lal.png
+MemphisGrizzlies.nba,NBA - MEMPHIS GRIZZLIES,https://a.espncdn.com/i/teamlogos/nba/500/mem.png
+MiamiHeat.nba,NBA - MIAMI HEAT,https://a.espncdn.com/i/teamlogos/nba/500/mia.png
+MilwaukeeBucks.nba,NBA - MILWAUKEE BUCKS,https://a.espncdn.com/i/teamlogos/nba/500/mil.png
+MinnesotaTimberwolves.nba,NBA - MINNESOTA TIMBERWOLVES,https://a.espncdn.com/i/teamlogos/nba/500/min.png
+NewOrleansPelicans.nba,NBA - NEW ORLEANS PELICANS,https://a.espncdn.com/i/teamlogos/nba/500/no.png
+NewYorkKnicks.nba,NBA - NEW YORK KNICKS,https://a.espncdn.com/i/teamlogos/nba/500/ny.png
+OklahomaCityThunder.nba,NBA - OKLAHOMA CITY THUNDER,https://a.espncdn.com/i/teamlogos/nba/500/okc.png
+OrlandoMagic.nba,NBA - ORLANDO MAGIC,https://a.espncdn.com/i/teamlogos/nba/500/orl.png
+Philadelphia76ers.nba,NBA - PHILADELPHIA 76ERS,https://a.espncdn.com/i/teamlogos/nba/500/phi.png
+PhoenixSuns.nba,NBA - PHOENIX SUNS,https://a.espncdn.com/i/teamlogos/nba/500/phx.png
+PortlandTrailBlazers.nba,NBA - PORTLAND TRAIL BLAZERS,https://a.espncdn.com/i/teamlogos/nba/500/por.png
+SacramentoKings.nba,NBA - SACRAMENTO KINGS,https://a.espncdn.com/i/teamlogos/nba/500/sac.png
+SanAntonioSpurs.nba,NBA - SAN ANTONIO SPURS,https://a.espncdn.com/i/teamlogos/nba/500/sa.png
+TorontoRaptors.nba,NBA - TORONTO RAPTORS,https://a.espncdn.com/i/teamlogos/nba/500/tor.png
+UtahJazz.nba,NBA - UTAH JAZZ,https://a.espncdn.com/i/teamlogos/nba/500/utah.png
+WashingtonWizards.nba,NBA - WASHINGTON WIZARDS,https://a.espncdn.com/i/teamlogos/nba/500/wsh.png
+AtlantaDream.wnba,WNBA - Atlanta Dream,https://a.espncdn.com/i/teamlogos/wnba/500/atl.png
+ChicagoSky.wnba,WNBA - Chicago Sky,https://a.espncdn.com/i/teamlogos/wnba/500/chi.png
+ConnecticutSun.wnba,WNBA - Connecticut Sun,https://a.espncdn.com/i/teamlogos/wnba/500/con.png
+DallasWings.wnba,WNBA - Dallas Wings,https://a.espncdn.com/i/teamlogos/wnba/500/dal.png
+GoldenStateValkyries.wnba,WNBA - Golden State Valkyries,https://a.espncdn.com/i/teamlogos/wnba/500/gs.png
+IndianaFever.wnba,WNBA - Indiana Fever,https://a.espncdn.com/i/teamlogos/wnba/500/ind.png
+LasVegasAces.wnba,WNBA - Las Vegas Aces,https://a.espncdn.com/i/teamlogos/wnba/500/lv.png
+LosAngelesSparks.wnba,WNBA - Los Angeles Sparks,https://a.espncdn.com/i/teamlogos/wnba/500/la.png
+MinnesotaLynx.wnba,WNBA - Minnesota Lynx,https://a.espncdn.com/i/teamlogos/wnba/500/min.png
+NewYorkLiberty.wnba,WNBA - New York Liberty,https://a.espncdn.com/i/teamlogos/wnba/500/ny.png
+PhoenixMercury.wnba,WNBA - Phoenix Mercury,https://a.espncdn.com/i/teamlogos/wnba/500/phx.png
+PortlandFire.wnba,WNBA - Portland Fire,https://a.espncdn.com/i/teamlogos/wnba/500/por.png
+SeattleStorm.wnba,WNBA - Seattle Storm,https://a.espncdn.com/i/teamlogos/wnba/500/sea.png
+TorontoTempo.wnba,WNBA - Toronto Tempo,https://a.espncdn.com/i/teamlogos/wnba/500/tor.png
+WashingtonMystics.wnba,WNBA - Washington Mystics,https://a.espncdn.com/i/teamlogos/wnba/500/wsh.png
+ArizonaDiamondbacks.mlb,MLB - D BACKS,https://a.espncdn.com/i/teamlogos/mlb/500/ari.png
+Athletics.mlb,MLB - ATHLETICS,https://a.espncdn.com/i/teamlogos/mlb/500/ath.png
+AtlantaBraves.mlb,MLB - BRAVES,https://a.espncdn.com/i/teamlogos/mlb/500/atl.png
+BaltimoreOrioles.mlb,MLB - ORIOLES,https://a.espncdn.com/i/teamlogos/mlb/500/bal.png
+BostonRedSox.mlb,MLB - RED SOX,https://a.espncdn.com/i/teamlogos/mlb/500/bos.png
+ChicagoCubs.mlb,MLB - CUBS,https://a.espncdn.com/i/teamlogos/mlb/500/chc.png
+ChicagoWhiteSox.mlb,MLB - WHITE SOX,https://a.espncdn.com/i/teamlogos/mlb/500/chw.png
+CincinnatiReds.mlb,MLB - REDS,https://a.espncdn.com/i/teamlogos/mlb/500/cin.png
+ClevelandGuardians.mlb,MLB - GUARDIANS,https://a.espncdn.com/i/teamlogos/mlb/500/cle.png
+ColoradoRockies.mlb,MLB - ROCKIES,https://a.espncdn.com/i/teamlogos/mlb/500/col.png
+DetroitTigers.mlb,MLB - TIGERS,https://a.espncdn.com/i/teamlogos/mlb/500/det.png
+HoustonAstros.mlb,MLB - ASTROS,https://a.espncdn.com/i/teamlogos/mlb/500/hou.png
+KansasCityRoyals.mlb,MLB - ROYALS,https://a.espncdn.com/i/teamlogos/mlb/500/kc.png
+LosAngelesAngels.mlb,MLB - ANGELS,https://a.espncdn.com/i/teamlogos/mlb/500/laa.png
+LosAngelesDodgers.mlb,MLB - DODGERS,https://a.espncdn.com/i/teamlogos/mlb/500/lad.png
+MiamiMarlins.mlb,MLB - MARLINS,https://a.espncdn.com/i/teamlogos/mlb/500/mia.png
+MilwaukeeBrewers.mlb,MLB - BREWERS,https://a.espncdn.com/i/teamlogos/mlb/500/mil.png
+MinnesotaTwins.mlb,MLB - TWINS,https://a.espncdn.com/i/teamlogos/mlb/500/min.png
+NewYorkMets.mlb,MLB - METS,https://a.espncdn.com/i/teamlogos/mlb/500/nym.png
+NewYorkYankees.mlb,MLB - YANKEES,https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png
+PhiladelphiaPhillies.mlb,MLB - PHILLIES,https://a.espncdn.com/i/teamlogos/mlb/500/phi.png
+PittsburghPirates.mlb,MLB - PIRATES,https://a.espncdn.com/i/teamlogos/mlb/500/pit.png
+SanDiegoPadres.mlb,MLB - PADRES,https://a.espncdn.com/i/teamlogos/mlb/500/sd.png
+SanFranciscoGiants.mlb,MLB - GIANTS,https://a.espncdn.com/i/teamlogos/mlb/500/sf.png
+SeattleMariners.mlb,MLB - MARINERS,https://a.espncdn.com/i/teamlogos/mlb/500/sea.png
+StLouisCardinals.mlb,MLB - CARDINALS,https://a.espncdn.com/i/teamlogos/mlb/500/stl.png
+TampaBayRays.mlb,MLB - RAYS,https://a.espncdn.com/i/teamlogos/mlb/500/tb.png
+TexasRangers.mlb,MLB - RANGERS,https://a.espncdn.com/i/teamlogos/mlb/500/tex.png
+TorontoBlueJays.mlb,MLB - BLUE JAYS,https://a.espncdn.com/i/teamlogos/mlb/500/tor.png
+WashingtonNationals.mlb,MLB - NATIONALS,https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png
+AnaheimDucks.nhl,NHL - ANAHEIM DUCKS,https://a.espncdn.com/i/teamlogos/nhl/500/ana.png
+BostonBruins.nhl,NHL - BOSTON BRUINS,https://a.espncdn.com/i/teamlogos/nhl/500/bos.png
+BuffaloSabres.nhl,NHL - BUFFALO SABRES,https://a.espncdn.com/i/teamlogos/nhl/500/buf.png
+CalgaryFlames.nhl,NHL - CALGARY FLAMES,https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png
+CarolinaHurricanes.nhl,NHL - CAROLINA HURRICANES,https://a.espncdn.com/i/teamlogos/nhl/500/car.png
+ChicagoBlackhawks.nhl,NHL - CHICAGO BLACKHAWKS,https://a.espncdn.com/i/teamlogos/nhl/500/chi.png
+ColoradoAvalanche.nhl,NHL - COLORADO AVALANCHE,https://a.espncdn.com/i/teamlogos/nhl/500/col.png
+ColumbusBlueJackets.nhl,NHL - COLUMBUS BLUE JACKETS,https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png
+DallasStars.nhl,NHL - DALLAS STARS,https://a.espncdn.com/i/teamlogos/nhl/500/dal.png
+DetroitRedWings.nhl,NHL - DETROIT RED WINGS,https://a.espncdn.com/i/teamlogos/nhl/500/det.png
+EdmontonOilers.nhl,NHL - EDMONTON OILERS,https://a.espncdn.com/i/teamlogos/nhl/500/edm.png
+FloridaPanthers.nhl,NHL - FLORIDA PANTHERS,https://a.espncdn.com/i/teamlogos/nhl/500/fla.png
+LosAngelesKings.nhl,NHL - LOS ANGELES KINGS,https://a.espncdn.com/i/teamlogos/nhl/500/la.png
+MinnesotaWild.nhl,NHL - MINNESOTA WILD,https://a.espncdn.com/i/teamlogos/nhl/500/min.png
+MontrealCanadiens.nhl,NHL - MONTREAL CANADIENS,https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png
+NashvillePredators.nhl,NHL - NASHVILLE PREDATORS,https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png
+NewJerseyDevils.nhl,NHL - NEW JERSEY DEVILS,https://a.espncdn.com/i/teamlogos/nhl/500/nj.png
+NewYorkIslanders.nhl,NHL - NEW YORK ISLANDERS,https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png
+NewYorkRangers.nhl,NHL - NEW YORK RANGERS,https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png
+OttawaSenators.nhl,NHL - OTTAWA SENATORS,https://a.espncdn.com/i/teamlogos/nhl/500/ott.png
+PhiladelphiaFlyers.nhl,NHL - PHILADELPHIA FLYERS,https://a.espncdn.com/i/teamlogos/nhl/500/phi.png
+PittsburghPenguins.nhl,NHL - PITTSBURGH PENGUINS,https://a.espncdn.com/i/teamlogos/nhl/500/pit.png
+SanJoseSharks.nhl,NHL - SAN JOSE SHARKS,https://a.espncdn.com/i/teamlogos/nhl/500/sj.png
+SeattleKraken.nhl,NHL - SEATTLE KRAKEN,https://a.espncdn.com/i/teamlogos/nhl/500/sea.png
+StLouisBlues.nhl,NHL - ST. LOUIS BLUES,https://a.espncdn.com/i/teamlogos/nhl/500/stl.png
+TampaBayLightning.nhl,NHL - TAMPA BAY LIGHTNING,https://a.espncdn.com/i/teamlogos/nhl/500/tb.png
+TorontoMapleLeafs.nhl,NHL - TORONTO MAPLE LEAFS,https://a.espncdn.com/i/teamlogos/nhl/500/tor.png
+UtahMammoth.nhl,NHL - UTAH MAMMOTH,https://a.espncdn.com/i/teamlogos/nhl/500/utah.png
+VancouverCanucks.nhl,NHL - VANCOUVER CANUCKS,https://a.espncdn.com/i/teamlogos/nhl/500/van.png
+VegasGoldenKnights.nhl,NHL - VEGAS GOLDEN KNIGHTS,https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png
+WashingtonCapitals.nhl,NHL - WASHINGTON CAPITALS,https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png
+WinnipegJets.nhl,NHL - WINNIPEG JETS,https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png
+AtlantaUnitedFC.mls,MLS - Atlanta United FC,https://a.espncdn.com/i/teamlogos/soccer/500/18418.png
+AustinFC.mls,MLS - Austin FC,https://a.espncdn.com/i/teamlogos/soccer/500/20906.png
+CFMontral.mls,MLS - CF Montréal,https://a.espncdn.com/i/teamlogos/soccer/500/9720.png
+CharlotteFC.mls,MLS - Charlotte FC,https://a.espncdn.com/i/teamlogos/soccer/500/21300.png
+ChicagoFireFC.mls,MLS - Chicago Fire FC,https://a.espncdn.com/i/teamlogos/soccer/500/182.png
+ColoradoRapids.mls,MLS - Colorado Rapids,https://a.espncdn.com/i/teamlogos/soccer/500/184.png
+ColumbusCrew.mls,MLS - Columbus Crew,https://a.espncdn.com/i/teamlogos/soccer/500/183.png
+DCUnited.mls,MLS - D.C. United,https://a.espncdn.com/i/teamlogos/soccer/500/193.png
+FCCincinnati.mls,MLS - FC Cincinnati,https://a.espncdn.com/i/teamlogos/soccer/500/18267.png
+FCDallas.mls,MLS - FC Dallas,https://a.espncdn.com/i/teamlogos/soccer/500/185.png
+HoustonDynamoFC.mls,MLS - Houston Dynamo FC,https://a.espncdn.com/i/teamlogos/soccer/500/6077.png
+InterMiamiCF.mls,MLS - Inter Miami CF,https://a.espncdn.com/i/teamlogos/soccer/500/20232.png
+LAGalaxy.mls,MLS - LA Galaxy,https://a.espncdn.com/i/teamlogos/soccer/500/187.png
+LAFC.mls,MLS - LAFC,https://a.espncdn.com/i/teamlogos/soccer/500/18966.png
+MinnesotaUnitedFC.mls,MLS - Minnesota United FC,https://a.espncdn.com/i/teamlogos/soccer/500/17362.png
+NashvilleSC.mls,MLS - Nashville SC,https://a.espncdn.com/i/teamlogos/soccer/500/18986.png
+NewEnglandRevolution.mls,MLS - New England Revolution,https://a.espncdn.com/i/teamlogos/soccer/500/189.png
+NewYorkCityFC.mls,MLS - New York City FC,https://a.espncdn.com/i/teamlogos/soccer/500/17606.png
+OrlandoCitySC.mls,MLS - Orlando City SC,https://a.espncdn.com/i/teamlogos/soccer/500/12011.png
+PhiladelphiaUnion.mls,MLS - Philadelphia Union,https://a.espncdn.com/i/teamlogos/soccer/500/10739.png
+PortlandTimbers.mls,MLS - Portland Timbers,https://a.espncdn.com/i/teamlogos/soccer/500/9723.png
+RealSaltLake.mls,MLS - Real Salt Lake,https://a.espncdn.com/i/teamlogos/soccer/500/4771.png
+RedBullNewYork.mls,MLS - Red Bull New York,https://a.espncdn.com/i/teamlogos/soccer/500/190.png
+SanDiegoFC.mls,MLS - San Diego FC,https://a.espncdn.com/i/teamlogos/soccer/500/22529.png
+SanJoseEarthquakes.mls,MLS - San Jose Earthquakes,https://a.espncdn.com/i/teamlogos/soccer/500/191.png
+SeattleSoundersFC.mls,MLS - Seattle Sounders FC,https://a.espncdn.com/i/teamlogos/soccer/500/9726.png
+SportingKansasCity.mls,MLS - Sporting Kansas City,https://a.espncdn.com/i/teamlogos/soccer/500/186.png
+StLouisCITYSC.mls,MLS - St. Louis CITY SC,https://a.espncdn.com/i/teamlogos/soccer/500/21812.png
+TorontoFC.mls,MLS - Toronto FC,https://a.espncdn.com/i/teamlogos/soccer/500/7318.png
+VancouverWhitecaps.mls,MLS - Vancouver Whitecaps,https://a.espncdn.com/i/teamlogos/soccer/500/9727.png
+AFCBournemouth.epl,Premier League - AFC Bournemouth,https://a.espncdn.com/i/teamlogos/soccer/500/349.png
+Arsenal.epl,Premier League - Arsenal,https://a.espncdn.com/i/teamlogos/soccer/500/359.png
+AstonVilla.epl,Premier League - Aston Villa,https://a.espncdn.com/i/teamlogos/soccer/500/362.png
+Brentford.epl,Premier League - Brentford,https://a.espncdn.com/i/teamlogos/soccer/500/337.png
+BrightonHoveAlbion.epl,Premier League - Brighton &amp; Hove Albion,https://a.espncdn.com/i/teamlogos/soccer/500/331.png
+Chelsea.epl,Premier League - Chelsea,https://a.espncdn.com/i/teamlogos/soccer/500/363.png
+CoventryCity.epl,Premier League - Coventry City,https://a.espncdn.com/i/teamlogos/soccer/500/388.png
+CrystalPalace.epl,Premier League - Crystal Palace,https://a.espncdn.com/i/teamlogos/soccer/500/384.png
+Everton.epl,Premier League - Everton,https://a.espncdn.com/i/teamlogos/soccer/500/368.png
+Fulham.epl,Premier League - Fulham,https://a.espncdn.com/i/teamlogos/soccer/500/370.png
+HullCity.epl,Premier League - Hull City,https://a.espncdn.com/i/teamlogos/soccer/500/306.png
+IpswichTown.epl,Premier League - Ipswich Town,https://a.espncdn.com/i/teamlogos/soccer/500/373.png
+LeedsUnited.epl,Premier League - Leeds United,https://a.espncdn.com/i/teamlogos/soccer/500/357.png
+Liverpool.epl,Premier League - Liverpool,https://a.espncdn.com/i/teamlogos/soccer/500/364.png
+ManchesterCity.epl,Premier League - Manchester City,https://a.espncdn.com/i/teamlogos/soccer/500/382.png
+ManchesterUnited.epl,Premier League - Manchester United,https://a.espncdn.com/i/teamlogos/soccer/500/360.png
+NewcastleUnited.epl,Premier League - Newcastle United,https://a.espncdn.com/i/teamlogos/soccer/500/361.png
+NottinghamForest.epl,Premier League - Nottingham Forest,https://a.espncdn.com/i/teamlogos/soccer/500/393.png
+Sunderland.epl,Premier League - Sunderland,https://a.espncdn.com/i/teamlogos/soccer/500/366.png
+TottenhamHotspur.epl,Premier League - Tottenham Hotspur,https://a.espncdn.com/i/teamlogos/soccer/500/367.png
+Alavs.laliga,LaLiga - Alavés,https://a.espncdn.com/i/teamlogos/soccer/500/96.png
+AthleticClub.laliga,LaLiga - Athletic Club,https://a.espncdn.com/i/teamlogos/soccer/500/93.png
+AtlticoMadrid.laliga,LaLiga - Atlético Madrid,https://a.espncdn.com/i/teamlogos/soccer/500/1068.png
+Barcelona.laliga,LaLiga - Barcelona,https://a.espncdn.com/i/teamlogos/soccer/500/83.png
+CeltaVigo.laliga,LaLiga - Celta Vigo,https://a.espncdn.com/i/teamlogos/soccer/500/85.png
+Deportivo.laliga,LaLiga - Deportivo,https://a.espncdn.com/i/teamlogos/soccer/500/90.png
+Elche.laliga,LaLiga - Elche,https://a.espncdn.com/i/teamlogos/soccer/500/3751.png
+Espanyol.laliga,LaLiga - Espanyol,https://a.espncdn.com/i/teamlogos/soccer/500/88.png
+Getafe.laliga,LaLiga - Getafe,https://a.espncdn.com/i/teamlogos/soccer/500/2922.png
+Levante.laliga,LaLiga - Levante,https://a.espncdn.com/i/teamlogos/soccer/500/1538.png
+Mlaga.laliga,LaLiga - Málaga,https://a.espncdn.com/i/teamlogos/soccer/500/99.png
+Osasuna.laliga,LaLiga - Osasuna,https://a.espncdn.com/i/teamlogos/soccer/500/97.png
+RacingSantander.laliga,LaLiga - Racing Santander,https://a.espncdn.com/i/teamlogos/soccer/500/87.png
+RayoVallecano.laliga,LaLiga - Rayo Vallecano,https://a.espncdn.com/i/teamlogos/soccer/500/101.png
+RealBetis.laliga,LaLiga - Real Betis,https://a.espncdn.com/i/teamlogos/soccer/500/244.png
+RealMadrid.laliga,LaLiga - Real Madrid,https://a.espncdn.com/i/teamlogos/soccer/500/86.png
+RealSociedad.laliga,LaLiga - Real Sociedad,https://a.espncdn.com/i/teamlogos/soccer/500/89.png
+Sevilla.laliga,LaLiga - Sevilla,https://a.espncdn.com/i/teamlogos/soccer/500/243.png
+Valencia.laliga,LaLiga - Valencia,https://a.espncdn.com/i/teamlogos/soccer/500/94.png
+Villarreal.laliga,LaLiga - Villarreal,https://a.espncdn.com/i/teamlogos/soccer/500/102.png
+Amrica.ligamx,Liga MX - América,https://a.espncdn.com/i/teamlogos/soccer/500/227.png
+Atlante.ligamx,Liga MX - Atlante,https://a.espncdn.com/i/teamlogos/soccer/500/226.png
+Atlas.ligamx,Liga MX - Atlas,https://a.espncdn.com/i/teamlogos/soccer/500/216.png
+AtlticodeSanLuis.ligamx,Liga MX - Atlético de San Luis,https://a.espncdn.com/i/teamlogos/soccer/500/15720.png
+CruzAzul.ligamx,Liga MX - Cruz Azul,https://a.espncdn.com/i/teamlogos/soccer/500/218.png
+FCJurez.ligamx,Liga MX - FC Juárez,https://a.espncdn.com/i/teamlogos/soccer/500/17851.png
+Guadalajara.ligamx,Liga MX - Guadalajara,https://a.espncdn.com/i/teamlogos/soccer/500/219.png
+Len.ligamx,Liga MX - León,https://a.espncdn.com/i/teamlogos/soccer/500/228.png
+Monterrey.ligamx,Liga MX - Monterrey,https://a.espncdn.com/i/teamlogos/soccer/500/220.png
+Necaxa.ligamx,Liga MX - Necaxa,https://a.espncdn.com/i/teamlogos/soccer/500/229.png
+Pachuca.ligamx,Liga MX - Pachuca,https://a.espncdn.com/i/teamlogos/soccer/500/234.png
+Puebla.ligamx,Liga MX - Puebla,https://a.espncdn.com/i/teamlogos/soccer/500/231.png
+PumasUNAM.ligamx,Liga MX - Pumas UNAM,https://a.espncdn.com/i/teamlogos/soccer/500/233.png
+Quertaro.ligamx,Liga MX - Querétaro,https://a.espncdn.com/i/teamlogos/soccer/500/222.png
+Santos.ligamx,Liga MX - Santos,https://a.espncdn.com/i/teamlogos/soccer/500/225.png
+TigresUANL.ligamx,Liga MX - Tigres UANL,https://a.espncdn.com/i/teamlogos/soccer/500/232.png
+Tijuana.ligamx,Liga MX - Tijuana,https://a.espncdn.com/i/teamlogos/soccer/500/10125.png
+Toluca.ligamx,Liga MX - Toluca,https://a.espncdn.com/i/teamlogos/soccer/500/223.png
+1FCUnionBerlin.bundesliga,Bundesliga - 1. FC Union Berlin,https://a.espncdn.com/i/teamlogos/soccer/500/598.png
+BayerLeverkusen.bundesliga,Bundesliga - Bayer Leverkusen,https://a.espncdn.com/i/teamlogos/soccer/500/131.png
+BayernMunich.bundesliga,Bundesliga - Bayern Munich,https://a.espncdn.com/i/teamlogos/soccer/500/132.png
+BorussiaDortmund.bundesliga,Bundesliga - Borussia Dortmund,https://a.espncdn.com/i/teamlogos/soccer/500/124.png
+BorussiaMnchengladbach.bundesliga,Bundesliga - Borussia Mönchengladbach,https://a.espncdn.com/i/teamlogos/soccer/500/268.png
+EintrachtFrankfurt.bundesliga,Bundesliga - Eintracht Frankfurt,https://a.espncdn.com/i/teamlogos/soccer/500/125.png
+FCAugsburg.bundesliga,Bundesliga - FC Augsburg,https://a.espncdn.com/i/teamlogos/soccer/500/3841.png
+FCCologne.bundesliga,Bundesliga - FC Cologne,https://a.espncdn.com/i/teamlogos/soccer/500/122.png
+HamburgSV.bundesliga,Bundesliga - Hamburg SV,https://a.espncdn.com/i/teamlogos/soccer/500/127.png
+Mainz.bundesliga,Bundesliga - Mainz,https://a.espncdn.com/i/teamlogos/soccer/500/2950.png
+RBLeipzig.bundesliga,Bundesliga - RB Leipzig,https://a.espncdn.com/i/teamlogos/soccer/500/11420.png
+SCFreiburg.bundesliga,Bundesliga - SC Freiburg,https://a.espncdn.com/i/teamlogos/soccer/500/126.png
+SCPaderborn07.bundesliga,Bundesliga - SC Paderborn 07,https://a.espncdn.com/i/teamlogos/soccer/500/3307.png
+SVElversberg.bundesliga,Bundesliga - SV Elversberg,https://a.espncdn.com/i/teamlogos/soccer/500/10388.png
+Schalke04.bundesliga,Bundesliga - Schalke 04,https://a.espncdn.com/i/teamlogos/soccer/500/133.png
+TSGHoffenheim.bundesliga,Bundesliga - TSG Hoffenheim,https://a.espncdn.com/i/teamlogos/soccer/500/7911.png
+VfBStuttgart.bundesliga,Bundesliga - VfB Stuttgart,https://a.espncdn.com/i/teamlogos/soccer/500/134.png
+WerderBremen.bundesliga,Bundesliga - Werder Bremen,https://a.espncdn.com/i/teamlogos/soccer/500/137.png
+ACMilan.seriea,Serie A - AC Milan,https://a.espncdn.com/i/teamlogos/soccer/500/103.png
+ASRoma.seriea,Serie A - AS Roma,https://a.espncdn.com/i/teamlogos/soccer/500/104.png
+Atalanta.seriea,Serie A - Atalanta,https://a.espncdn.com/i/teamlogos/soccer/500/105.png
+Bologna.seriea,Serie A - Bologna,https://a.espncdn.com/i/teamlogos/soccer/500/107.png
+Cagliari.seriea,Serie A - Cagliari,https://a.espncdn.com/i/teamlogos/soccer/500/2925.png
+Como.seriea,Serie A - Como,https://a.espncdn.com/i/teamlogos/soccer/500/2572.png
+Fiorentina.seriea,Serie A - Fiorentina,https://a.espncdn.com/i/teamlogos/soccer/500/109.png
+Frosinone.seriea,Serie A - Frosinone,https://a.espncdn.com/i/teamlogos/soccer/500/4057.png
+Genoa.seriea,Serie A - Genoa,https://a.espncdn.com/i/teamlogos/soccer/500/3263.png
+Internazionale.seriea,Serie A - Internazionale,https://a.espncdn.com/i/teamlogos/soccer/500/110.png
+Juventus.seriea,Serie A - Juventus,https://a.espncdn.com/i/teamlogos/soccer/500/111.png
+Lazio.seriea,Serie A - Lazio,https://a.espncdn.com/i/teamlogos/soccer/500/112.png
+Lecce.seriea,Serie A - Lecce,https://a.espncdn.com/i/teamlogos/soccer/500/113.png
+Monza.seriea,Serie A - Monza,https://a.espncdn.com/i/teamlogos/soccer/500/4007.png
+Napoli.seriea,Serie A - Napoli,https://a.espncdn.com/i/teamlogos/soccer/500/114.png
+Parma.seriea,Serie A - Parma,https://a.espncdn.com/i/teamlogos/soccer/500/115.png
+Sassuolo.seriea,Serie A - Sassuolo,https://a.espncdn.com/i/teamlogos/soccer/500/3997.png
+Torino.seriea,Serie A - Torino,https://a.espncdn.com/i/teamlogos/soccer/500/239.png
+Udinese.seriea,Serie A - Udinese,https://a.espncdn.com/i/teamlogos/soccer/500/118.png
+Venezia.seriea,Serie A - Venezia,https://a.espncdn.com/i/teamlogos/soccer/500/17530.png
+AJAuxerre.ligue1,Ligue 1 - AJ Auxerre,https://a.espncdn.com/i/teamlogos/soccer/500/172.png
+ASMonaco.ligue1,Ligue 1 - AS Monaco,https://a.espncdn.com/i/teamlogos/soccer/500/174.png
+Angers.ligue1,Ligue 1 - Angers,https://a.espncdn.com/i/teamlogos/soccer/500/7868.png
+Brest.ligue1,Ligue 1 - Brest,https://a.espncdn.com/i/teamlogos/soccer/500/6997.png
+LeHavreAC.ligue1,Ligue 1 - Le Havre AC,https://a.espncdn.com/i/teamlogos/soccer/500/3236.png
+LeMans.ligue1,Ligue 1 - Le Mans,https://a.espncdn.com/i/teamlogos/soccer/500/2697.png
+Lens.ligue1,Ligue 1 - Lens,https://a.espncdn.com/i/teamlogos/soccer/500/175.png
+Lille.ligue1,Ligue 1 - Lille,https://a.espncdn.com/i/teamlogos/soccer/500/166.png
+Lorient.ligue1,Ligue 1 - Lorient,https://a.espncdn.com/i/teamlogos/soccer/500/273.png
+Lyon.ligue1,Ligue 1 - Lyon,https://a.espncdn.com/i/teamlogos/soccer/500/167.png
+Marseille.ligue1,Ligue 1 - Marseille,https://a.espncdn.com/i/teamlogos/soccer/500/176.png
+Nice.ligue1,Ligue 1 - Nice,https://a.espncdn.com/i/teamlogos/soccer/500/2502.png
+ParisFC.ligue1,Ligue 1 - Paris FC,https://a.espncdn.com/i/teamlogos/soccer/500/6851.png
+ParisSaintGermain.ligue1,Ligue 1 - Paris Saint-Germain,https://a.espncdn.com/i/teamlogos/soccer/500/160.png
+StadeRennais.ligue1,Ligue 1 - Stade Rennais,https://a.espncdn.com/i/teamlogos/soccer/500/169.png
+Strasbourg.ligue1,Ligue 1 - Strasbourg,https://a.espncdn.com/i/teamlogos/soccer/500/180.png
+Toulouse.ligue1,Ligue 1 - Toulouse,https://a.espncdn.com/i/teamlogos/soccer/500/179.png
+Troyes.ligue1,Ligue 1 - Troyes,https://a.espncdn.com/i/teamlogos/soccer/500/170.png
+Algeria.intl,Intl Soccer - Algeria,https://a.espncdn.com/i/teamlogos/countries/500/alg.png
+Argentina.intl,Intl Soccer - Argentina,https://a.espncdn.com/i/teamlogos/countries/500/arg.png
+Australia.intl,Intl Soccer - Australia,https://a.espncdn.com/i/teamlogos/countries/500/aus.png
+Austria.intl,Intl Soccer - Austria,https://a.espncdn.com/i/teamlogos/countries/500/aut.png
+Belgium.intl,Intl Soccer - Belgium,https://a.espncdn.com/i/teamlogos/countries/500/bel.png
+BosniaHerzegovina.intl,Intl Soccer - Bosnia-Herzegovina,https://a.espncdn.com/i/teamlogos/countries/500/bih.png
+Brazil.intl,Intl Soccer - Brazil,https://a.espncdn.com/i/teamlogos/countries/500/bra.png
+Canada.intl,Intl Soccer - Canada,https://a.espncdn.com/i/teamlogos/countries/500/can.png
+CapeVerde.intl,Intl Soccer - Cape Verde,https://a.espncdn.com/i/teamlogos/countries/500/cpv.png
+Colombia.intl,Intl Soccer - Colombia,https://a.espncdn.com/i/teamlogos/countries/500/col.png
+CongoDR.intl,Intl Soccer - Congo DR,https://a.espncdn.com/i/teamlogos/countries/500/rdc.png
+Croatia.intl,Intl Soccer - Croatia,https://a.espncdn.com/i/teamlogos/countries/500/cro.png
+Curaao.intl,Intl Soccer - Curaçao,https://a.espncdn.com/i/teamlogos/soccer/500/11678.png
+Czechia.intl,Intl Soccer - Czechia,https://a.espncdn.com/i/teamlogos/countries/500/cze.png
+Ecuador.intl,Intl Soccer - Ecuador,https://a.espncdn.com/i/teamlogos/countries/500/ecu.png
+Egypt.intl,Intl Soccer - Egypt,https://a.espncdn.com/i/teamlogos/countries/500/egy.png
+England.intl,Intl Soccer - England,https://a.espncdn.com/i/teamlogos/countries/500/eng.png
+France.intl,Intl Soccer - France,https://a.espncdn.com/i/teamlogos/countries/500/fra.png
+Germany.intl,Intl Soccer - Germany,https://a.espncdn.com/i/teamlogos/countries/500/ger.png
+Ghana.intl,Intl Soccer - Ghana,https://a.espncdn.com/i/teamlogos/countries/500/gha.png
+Haiti.intl,Intl Soccer - Haiti,https://a.espncdn.com/i/teamlogos/countries/500/hai.png
+Iran.intl,Intl Soccer - Iran,https://a.espncdn.com/i/teamlogos/countries/500/irn.png
+Iraq.intl,Intl Soccer - Iraq,https://a.espncdn.com/i/teamlogos/countries/500/irq.png
+IvoryCoast.intl,Intl Soccer - Ivory Coast,https://a.espncdn.com/i/teamlogos/countries/500/civ.png
+Japan.intl,Intl Soccer - Japan,https://a.espncdn.com/i/teamlogos/countries/500/jpn.png
+Jordan.intl,Intl Soccer - Jordan,https://a.espncdn.com/i/teamlogos/countries/500/jor.png
+Mexico.intl,Intl Soccer - Mexico,https://a.espncdn.com/i/teamlogos/countries/500/mex.png
+Morocco.intl,Intl Soccer - Morocco,https://a.espncdn.com/i/teamlogos/countries/500/mar.png
+Netherlands.intl,Intl Soccer - Netherlands,https://a.espncdn.com/i/teamlogos/countries/500/ned.png
+NewZealand.intl,Intl Soccer - New Zealand,https://a.espncdn.com/i/teamlogos/countries/500/nzl.png
+Norway.intl,Intl Soccer - Norway,https://a.espncdn.com/i/teamlogos/countries/500/nor.png
+Panama.intl,Intl Soccer - Panama,https://a.espncdn.com/i/teamlogos/countries/500/pan.png
+Paraguay.intl,Intl Soccer - Paraguay,https://a.espncdn.com/i/teamlogos/countries/500/par.png
+Portugal.intl,Intl Soccer - Portugal,https://a.espncdn.com/i/teamlogos/countries/500/por.png
+Qatar.intl,Intl Soccer - Qatar,https://a.espncdn.com/i/teamlogos/countries/500/qat.png
+SaudiArabia.intl,Intl Soccer - Saudi Arabia,https://a.espncdn.com/i/teamlogos/countries/500/ksa.png
+Scotland.intl,Intl Soccer - Scotland,https://a.espncdn.com/i/teamlogos/countries/500/sco.png
+Senegal.intl,Intl Soccer - Senegal,https://a.espncdn.com/i/teamlogos/countries/500/sen.png
+SouthAfrica.intl,Intl Soccer - South Africa,https://a.espncdn.com/i/teamlogos/countries/500/rsa.png
+SouthKorea.intl,Intl Soccer - South Korea,https://a.espncdn.com/i/teamlogos/countries/500/kors.png
+Spain.intl,Intl Soccer - Spain,https://a.espncdn.com/i/teamlogos/countries/500/esp.png
+Sweden.intl,Intl Soccer - Sweden,https://a.espncdn.com/i/teamlogos/countries/500/swe.png
+Switzerland.intl,Intl Soccer - Switzerland,https://a.espncdn.com/i/teamlogos/countries/500/sui.png
+Tunisia.intl,Intl Soccer - Tunisia,https://a.espncdn.com/i/teamlogos/countries/500/tun.png
+Trkiye.intl,Intl Soccer - Türkiye,https://a.espncdn.com/i/teamlogos/countries/500/tur.png
+UnitedStates.intl,Intl Soccer - United States,https://a.espncdn.com/i/teamlogos/countries/500/usa.png
+Uruguay.intl,Intl Soccer - Uruguay,https://a.espncdn.com/i/teamlogos/countries/500/uru.png
+Uzbekistan.intl,Intl Soccer - Uzbekistan,https://a.espncdn.com/i/teamlogos/countries/500/uzb.png
+AlabamaCrimsonTide.ncaaf,NCAAF - Alabama Crimson Tide,https://a.espncdn.com/i/teamlogos/ncaa/500/333.png
+ArizonaStateSunDevils.ncaaf,NCAAF - Arizona State Sun Devils,https://a.espncdn.com/i/teamlogos/ncaa/500/9.png
+ArizonaWildcats.ncaaf,NCAAF - Arizona Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/12.png
+ArkansasRazorbacks.ncaaf,NCAAF - Arkansas Razorbacks,https://a.espncdn.com/i/teamlogos/ncaa/500/8.png
+AuburnTigers.ncaaf,NCAAF - Auburn Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/2.png
+BYUCougars.ncaaf,NCAAF - BYU Cougars,https://a.espncdn.com/i/teamlogos/ncaa/500/252.png
+BaylorBears.ncaaf,NCAAF - Baylor Bears,https://a.espncdn.com/i/teamlogos/ncaa/500/239.png
+BoiseStateBroncos.ncaaf,NCAAF - Boise State Broncos,https://a.espncdn.com/i/teamlogos/ncaa/500/68.png
+BostonCollegeEagles.ncaaf,NCAAF - Boston College Eagles,https://a.espncdn.com/i/teamlogos/ncaa/500/103.png
+CaliforniaGoldenBears.ncaaf,NCAAF - California Golden Bears,https://a.espncdn.com/i/teamlogos/ncaa/500/25.png
+CincinnatiBearcats.ncaaf,NCAAF - Cincinnati Bearcats,https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
+ClemsonTigers.ncaaf,NCAAF - Clemson Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+ColoradoBuffaloes.ncaaf,NCAAF - Colorado Buffaloes,https://a.espncdn.com/i/teamlogos/ncaa/500/38.png
+DukeBlueDevils.ncaaf,NCAAF - Duke Blue Devils,https://a.espncdn.com/i/teamlogos/ncaa/500/150.png
+FloridaGators.ncaaf,NCAAF - Florida Gators,https://a.espncdn.com/i/teamlogos/ncaa/500/57.png
+FloridaStateSeminoles.ncaaf,NCAAF - Florida State Seminoles,https://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+GeorgiaBulldogs.ncaaf,NCAAF - Georgia Bulldogs,https://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+GeorgiaTechYellowJackets.ncaaf,NCAAF - Georgia Tech Yellow Jackets,https://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+HoustonCougars.ncaaf,NCAAF - Houston Cougars,https://a.espncdn.com/i/teamlogos/ncaa/500/248.png
+IllinoisFightingIllini.ncaaf,NCAAF - Illinois Fighting Illini,https://a.espncdn.com/i/teamlogos/ncaa/500/356.png
+IndianaHoosiers.ncaaf,NCAAF - Indiana Hoosiers,https://a.espncdn.com/i/teamlogos/ncaa/500/84.png
+IowaHawkeyes.ncaaf,NCAAF - Iowa Hawkeyes,https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png
+IowaStateCyclones.ncaaf,NCAAF - Iowa State Cyclones,https://a.espncdn.com/i/teamlogos/ncaa/500/66.png
+KansasJayhawks.ncaaf,NCAAF - Kansas Jayhawks,https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png
+KansasStateWildcats.ncaaf,NCAAF - Kansas State Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
+KentuckyWildcats.ncaaf,NCAAF - Kentucky Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+LSUTigers.ncaaf,NCAAF - LSU Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+LouisvilleCardinals.ncaaf,NCAAF - Louisville Cardinals,https://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+MarylandTerrapins.ncaaf,NCAAF - Maryland Terrapins,https://a.espncdn.com/i/teamlogos/ncaa/500/120.png
+MiamiHurricanes.ncaaf,NCAAF - Miami Hurricanes,https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
+MichiganStateSpartans.ncaaf,NCAAF - Michigan State Spartans,https://a.espncdn.com/i/teamlogos/ncaa/500/127.png
+MichiganWolverines.ncaaf,NCAAF - Michigan Wolverines,https://a.espncdn.com/i/teamlogos/ncaa/500/130.png
+MinnesotaGoldenGophers.ncaaf,NCAAF - Minnesota Golden Gophers,https://a.espncdn.com/i/teamlogos/ncaa/500/135.png
+MississippiStateBulldogs.ncaaf,NCAAF - Mississippi State Bulldogs,https://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+MissouriTigers.ncaaf,NCAAF - Missouri Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/142.png
+NCStateWolfpack.ncaaf,NCAAF - NC State Wolfpack,https://a.espncdn.com/i/teamlogos/ncaa/500/152.png
+NebraskaCornhuskers.ncaaf,NCAAF - Nebraska Cornhuskers,https://a.espncdn.com/i/teamlogos/ncaa/500/158.png
+NorthCarolinaTarHeels.ncaaf,NCAAF - North Carolina Tar Heels,https://a.espncdn.com/i/teamlogos/ncaa/500/153.png
+NorthwesternWildcats.ncaaf,NCAAF - Northwestern Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/77.png
+NotreDameFightingIrish.ncaaf,NCAAF - Notre Dame Fighting Irish,https://a.espncdn.com/i/teamlogos/ncaa/500/87.png
+OhioStateBuckeyes.ncaaf,NCAAF - Ohio State Buckeyes,https://a.espncdn.com/i/teamlogos/ncaa/500/194.png
+OklahomaSooners.ncaaf,NCAAF - Oklahoma Sooners,https://a.espncdn.com/i/teamlogos/ncaa/500/201.png
+OklahomaStateCowboys.ncaaf,NCAAF - Oklahoma State Cowboys,https://a.espncdn.com/i/teamlogos/ncaa/500/197.png
+OleMissRebels.ncaaf,NCAAF - Ole Miss Rebels,https://a.espncdn.com/i/teamlogos/ncaa/500/145.png
+OregonDucks.ncaaf,NCAAF - Oregon Ducks,https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+PennStateNittanyLions.ncaaf,NCAAF - Penn State Nittany Lions,https://a.espncdn.com/i/teamlogos/ncaa/500/213.png
+PittsburghPanthers.ncaaf,NCAAF - Pittsburgh Panthers,https://a.espncdn.com/i/teamlogos/ncaa/500/221.png
+PurdueBoilermakers.ncaaf,NCAAF - Purdue Boilermakers,https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png
+RutgersScarletKnights.ncaaf,NCAAF - Rutgers Scarlet Knights,https://a.espncdn.com/i/teamlogos/ncaa/500/164.png
+SMUMustangs.ncaaf,NCAAF - SMU Mustangs,https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+SouthCarolinaGamecocks.ncaaf,NCAAF - South Carolina Gamecocks,https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+StanfordCardinal.ncaaf,NCAAF - Stanford Cardinal,https://a.espncdn.com/i/teamlogos/ncaa/500/24.png
+SyracuseOrange.ncaaf,NCAAF - Syracuse Orange,https://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+TCUHornedFrogs.ncaaf,NCAAF - TCU Horned Frogs,https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png
+TennesseeVolunteers.ncaaf,NCAAF - Tennessee Volunteers,https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
+TexasAMAggies.ncaaf,NCAAF - Texas A&amp;M Aggies,https://a.espncdn.com/i/teamlogos/ncaa/500/245.png
+TexasLonghorns.ncaaf,NCAAF - Texas Longhorns,https://a.espncdn.com/i/teamlogos/ncaa/500/251.png
+TexasTechRedRaiders.ncaaf,NCAAF - Texas Tech Red Raiders,https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png
+UCFKnights.ncaaf,NCAAF - UCF Knights,https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png
+UCLABruins.ncaaf,NCAAF - UCLA Bruins,https://a.espncdn.com/i/teamlogos/ncaa/500/26.png
+USCTrojans.ncaaf,NCAAF - USC Trojans,https://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+UtahUtes.ncaaf,NCAAF - Utah Utes,https://a.espncdn.com/i/teamlogos/ncaa/500/254.png
+VanderbiltCommodores.ncaaf,NCAAF - Vanderbilt Commodores,https://a.espncdn.com/i/teamlogos/ncaa/500/238.png
+VirginiaCavaliers.ncaaf,NCAAF - Virginia Cavaliers,https://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+VirginiaTechHokies.ncaaf,NCAAF - Virginia Tech Hokies,https://a.espncdn.com/i/teamlogos/ncaa/500/259.png
+WakeForestDemonDeacons.ncaaf,NCAAF - Wake Forest Demon Deacons,https://a.espncdn.com/i/teamlogos/ncaa/500/154.png
+WashingtonHuskies.ncaaf,NCAAF - Washington Huskies,https://a.espncdn.com/i/teamlogos/ncaa/500/264.png
+WestVirginiaMountaineers.ncaaf,NCAAF - West Virginia Mountaineers,https://a.espncdn.com/i/teamlogos/ncaa/500/277.png
+WisconsinBadgers.ncaaf,NCAAF - Wisconsin Badgers,https://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+AlabamaCrimsonTide.ncaam,NCAAM - Alabama Crimson Tide,https://a.espncdn.com/i/teamlogos/ncaa/500/333.png
+ArizonaStateSunDevils.ncaam,NCAAM - Arizona State Sun Devils,https://a.espncdn.com/i/teamlogos/ncaa/500/9.png
+ArizonaWildcats.ncaam,NCAAM - Arizona Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/12.png
+ArkansasRazorbacks.ncaam,NCAAM - Arkansas Razorbacks,https://a.espncdn.com/i/teamlogos/ncaa/500/8.png
+AuburnTigers.ncaam,NCAAM - Auburn Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/2.png
+BYUCougars.ncaam,NCAAM - BYU Cougars,https://a.espncdn.com/i/teamlogos/ncaa/500/252.png
+BaylorBears.ncaam,NCAAM - Baylor Bears,https://a.espncdn.com/i/teamlogos/ncaa/500/239.png
+BostonCollegeEagles.ncaam,NCAAM - Boston College Eagles,https://a.espncdn.com/i/teamlogos/ncaa/500/103.png
+ButlerBulldogs.ncaam,NCAAM - Butler Bulldogs,https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png
+CaliforniaGoldenBears.ncaam,NCAAM - California Golden Bears,https://a.espncdn.com/i/teamlogos/ncaa/500/25.png
+CincinnatiBearcats.ncaam,NCAAM - Cincinnati Bearcats,https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
+ClemsonTigers.ncaam,NCAAM - Clemson Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/228.png
+ColoradoBuffaloes.ncaam,NCAAM - Colorado Buffaloes,https://a.espncdn.com/i/teamlogos/ncaa/500/38.png
+CreightonBluejays.ncaam,NCAAM - Creighton Bluejays,https://a.espncdn.com/i/teamlogos/ncaa/500/156.png
+DePaulBlueDemons.ncaam,NCAAM - DePaul Blue Demons,https://a.espncdn.com/i/teamlogos/ncaa/500/305.png
+DukeBlueDevils.ncaam,NCAAM - Duke Blue Devils,https://a.espncdn.com/i/teamlogos/ncaa/500/150.png
+FloridaGators.ncaam,NCAAM - Florida Gators,https://a.espncdn.com/i/teamlogos/ncaa/500/57.png
+FloridaStateSeminoles.ncaam,NCAAM - Florida State Seminoles,https://a.espncdn.com/i/teamlogos/ncaa/500/52.png
+GeorgetownHoyas.ncaam,NCAAM - Georgetown Hoyas,https://a.espncdn.com/i/teamlogos/ncaa/500/46.png
+GeorgiaBulldogs.ncaam,NCAAM - Georgia Bulldogs,https://a.espncdn.com/i/teamlogos/ncaa/500/61.png
+GeorgiaTechYellowJackets.ncaam,NCAAM - Georgia Tech Yellow Jackets,https://a.espncdn.com/i/teamlogos/ncaa/500/59.png
+GonzagaBulldogs.ncaam,NCAAM - Gonzaga Bulldogs,https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png
+HoustonCougars.ncaam,NCAAM - Houston Cougars,https://a.espncdn.com/i/teamlogos/ncaa/500/248.png
+IllinoisFightingIllini.ncaam,NCAAM - Illinois Fighting Illini,https://a.espncdn.com/i/teamlogos/ncaa/500/356.png
+IndianaHoosiers.ncaam,NCAAM - Indiana Hoosiers,https://a.espncdn.com/i/teamlogos/ncaa/500/84.png
+IowaHawkeyes.ncaam,NCAAM - Iowa Hawkeyes,https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png
+IowaStateCyclones.ncaam,NCAAM - Iowa State Cyclones,https://a.espncdn.com/i/teamlogos/ncaa/500/66.png
+KansasJayhawks.ncaam,NCAAM - Kansas Jayhawks,https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png
+KansasStateWildcats.ncaam,NCAAM - Kansas State Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
+KentuckyWildcats.ncaam,NCAAM - Kentucky Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/96.png
+LSUTigers.ncaam,NCAAM - LSU Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+LouisvilleCardinals.ncaam,NCAAM - Louisville Cardinals,https://a.espncdn.com/i/teamlogos/ncaa/500/97.png
+MarquetteGoldenEagles.ncaam,NCAAM - Marquette Golden Eagles,https://a.espncdn.com/i/teamlogos/ncaa/500/269.png
+MarylandTerrapins.ncaam,NCAAM - Maryland Terrapins,https://a.espncdn.com/i/teamlogos/ncaa/500/120.png
+MiamiHurricanes.ncaam,NCAAM - Miami Hurricanes,https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png
+MichiganStateSpartans.ncaam,NCAAM - Michigan State Spartans,https://a.espncdn.com/i/teamlogos/ncaa/500/127.png
+MichiganWolverines.ncaam,NCAAM - Michigan Wolverines,https://a.espncdn.com/i/teamlogos/ncaa/500/130.png
+MinnesotaGoldenGophers.ncaam,NCAAM - Minnesota Golden Gophers,https://a.espncdn.com/i/teamlogos/ncaa/500/135.png
+MississippiStateBulldogs.ncaam,NCAAM - Mississippi State Bulldogs,https://a.espncdn.com/i/teamlogos/ncaa/500/344.png
+MissouriTigers.ncaam,NCAAM - Missouri Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/142.png
+NCStateWolfpack.ncaam,NCAAM - NC State Wolfpack,https://a.espncdn.com/i/teamlogos/ncaa/500/152.png
+NebraskaCornhuskers.ncaam,NCAAM - Nebraska Cornhuskers,https://a.espncdn.com/i/teamlogos/ncaa/500/158.png
+NorthCarolinaTarHeels.ncaam,NCAAM - North Carolina Tar Heels,https://a.espncdn.com/i/teamlogos/ncaa/500/153.png
+NorthwesternWildcats.ncaam,NCAAM - Northwestern Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/77.png
+NotreDameFightingIrish.ncaam,NCAAM - Notre Dame Fighting Irish,https://a.espncdn.com/i/teamlogos/ncaa/500/87.png
+OhioStateBuckeyes.ncaam,NCAAM - Ohio State Buckeyes,https://a.espncdn.com/i/teamlogos/ncaa/500/194.png
+OklahomaSooners.ncaam,NCAAM - Oklahoma Sooners,https://a.espncdn.com/i/teamlogos/ncaa/500/201.png
+OklahomaStateCowboys.ncaam,NCAAM - Oklahoma State Cowboys,https://a.espncdn.com/i/teamlogos/ncaa/500/197.png
+OleMissRebels.ncaam,NCAAM - Ole Miss Rebels,https://a.espncdn.com/i/teamlogos/ncaa/500/145.png
+OregonDucks.ncaam,NCAAM - Oregon Ducks,https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png
+PennStateNittanyLions.ncaam,NCAAM - Penn State Nittany Lions,https://a.espncdn.com/i/teamlogos/ncaa/500/213.png
+PittsburghPanthers.ncaam,NCAAM - Pittsburgh Panthers,https://a.espncdn.com/i/teamlogos/ncaa/500/221.png
+ProvidenceFriars.ncaam,NCAAM - Providence Friars,https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png
+PurdueBoilermakers.ncaam,NCAAM - Purdue Boilermakers,https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png
+RutgersScarletKnights.ncaam,NCAAM - Rutgers Scarlet Knights,https://a.espncdn.com/i/teamlogos/ncaa/500/164.png
+SMUMustangs.ncaam,NCAAM - SMU Mustangs,https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png
+SetonHallPirates.ncaam,NCAAM - Seton Hall Pirates,https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png
+SouthCarolinaGamecocks.ncaam,NCAAM - South Carolina Gamecocks,https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png
+StJohnsRedStorm.ncaam,NCAAM - St. John's Red Storm,https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png
+StanfordCardinal.ncaam,NCAAM - Stanford Cardinal,https://a.espncdn.com/i/teamlogos/ncaa/500/24.png
+SyracuseOrange.ncaam,NCAAM - Syracuse Orange,https://a.espncdn.com/i/teamlogos/ncaa/500/183.png
+TCUHornedFrogs.ncaam,NCAAM - TCU Horned Frogs,https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png
+TennesseeVolunteers.ncaam,NCAAM - Tennessee Volunteers,https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png
+TexasAMAggies.ncaam,NCAAM - Texas A&amp;M Aggies,https://a.espncdn.com/i/teamlogos/ncaa/500/245.png
+TexasLonghorns.ncaam,NCAAM - Texas Longhorns,https://a.espncdn.com/i/teamlogos/ncaa/500/251.png
+TexasTechRedRaiders.ncaam,NCAAM - Texas Tech Red Raiders,https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png
+UCFKnights.ncaam,NCAAM - UCF Knights,https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png
+UCLABruins.ncaam,NCAAM - UCLA Bruins,https://a.espncdn.com/i/teamlogos/ncaa/500/26.png
+UConnHuskies.ncaam,NCAAM - UConn Huskies,https://a.espncdn.com/i/teamlogos/ncaa/500/41.png
+USCTrojans.ncaam,NCAAM - USC Trojans,https://a.espncdn.com/i/teamlogos/ncaa/500/30.png
+UtahUtes.ncaam,NCAAM - Utah Utes,https://a.espncdn.com/i/teamlogos/ncaa/500/254.png
+VanderbiltCommodores.ncaam,NCAAM - Vanderbilt Commodores,https://a.espncdn.com/i/teamlogos/ncaa/500/238.png
+VillanovaWildcats.ncaam,NCAAM - Villanova Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/222.png
+VirginiaCavaliers.ncaam,NCAAM - Virginia Cavaliers,https://a.espncdn.com/i/teamlogos/ncaa/500/258.png
+VirginiaTechHokies.ncaam,NCAAM - Virginia Tech Hokies,https://a.espncdn.com/i/teamlogos/ncaa/500/259.png
+WakeForestDemonDeacons.ncaam,NCAAM - Wake Forest Demon Deacons,https://a.espncdn.com/i/teamlogos/ncaa/500/154.png
+WashingtonHuskies.ncaam,NCAAM - Washington Huskies,https://a.espncdn.com/i/teamlogos/ncaa/500/264.png
+WestVirginiaMountaineers.ncaam,NCAAM - West Virginia Mountaineers,https://a.espncdn.com/i/teamlogos/ncaa/500/277.png
+WisconsinBadgers.ncaam,NCAAM - Wisconsin Badgers,https://a.espncdn.com/i/teamlogos/ncaa/500/275.png
+XavierMusketeers.ncaam,NCAAM - Xavier Musketeers,https://a.espncdn.com/i/teamlogos/ncaa/500/2752.png
+MLS1.slots,MLS 1,
+MLS2.slots,MLS 2,
+MLS3.slots,MLS 3,
+MLS4.slots,MLS 4,
+MLS5.slots,MLS 5,
+MLS6.slots,MLS 6,
+MLS7.slots,MLS 7,
+MLS8.slots,MLS 8,
+MLS9.slots,MLS 9,
+MLS10.slots,MLS 10,
+MLS11.slots,MLS 11,
+MLS12.slots,MLS 12,
+MLS13.slots,MLS 13,
+MLS14.slots,MLS 14,
+NHL1.slots,NHL 1,
+NHL2.slots,NHL 2,
+NHL3.slots,NHL 3,
+NHL4.slots,NHL 4,
+NHL5.slots,NHL 5,
+NHL6.slots,NHL 6,
+NHL7.slots,NHL 7,
+NHL8.slots,NHL 8,
+NHL9.slots,NHL 9,
+NHL10.slots,NHL 10,
+NHL11.slots,NHL 11,
+NHL12.slots,NHL 12,
+NHL13.slots,NHL 13,
+NHL14.slots,NHL 14,
+NHL15.slots,NHL 15,
+NHL16.slots,NHL 16,
+NHL17.slots,NHL 17,
+UFC.sports,UFC,
+F1.sports,Formula 1,
+NASCAR.sports,NASCAR Cup Series,
+PGA.sports,PGA Tour,
 I1.82970.schedulesdirect.org,HOLALA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png
 I2.92054.schedulesdirect.org,HOLALAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png
 I3.62161.schedulesdirect.org,HOLATV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png
+I4.10002.schedulesdirect.org,3ANGELS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10002_dark_360w_270h.png
 I5.104892.schedulesdirect.org,AMAS70,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116157_dark_360w_270h.png
 I7.87004.schedulesdirect.org,AEMXHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png
 I8.18955.schedulesdirect.org,A&amp;E Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png
@@ -78,7 +594,6 @@ I128.91071.schedulesdirect.org,CNL22HD,https://schedulesdirect-api20141201-logos
 I129.20742.schedulesdirect.org,CAN24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20742_dark_360w_270h.png
 I133.47604.schedulesdirect.org,CANL7,
 I134.20548.schedulesdirect.org,CONG,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20548_dark_360w_270h.png
-I135.81622.schedulesdirect.org,DHE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png
 I137.47425.schedulesdirect.org,CLOCAL,
 I141.70312.schedulesdirect.org,Sony Movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png
 I142.19385.schedulesdirect.org,Sony Movies HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png
@@ -87,8 +602,6 @@ I146.16141.schedulesdirect.org,Cartoon Network Latinoamerica,https://schedulesdi
 I147.101735.schedulesdirect.org,Cartoon Network LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png
 I149.60048.schedulesdirect.org,TOONHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60048_dark_360w_270h.png
 I152.10098.schedulesdirect.org,CBS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png
-I154.93334.schedulesdirect.org,CCTVI,
-I155.104529.schedulesdirect.org,CGTNEU,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104529_dark_360w_270h.png
 I156.44479.schedulesdirect.org,CGTN Español,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_dark_360w_270h.png
 I159.15296.schedulesdirect.org,CineLatino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png
 I161.44714.schedulesdirect.org,CMEX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44714_dark_360w_270h.png
@@ -306,7 +819,6 @@ I515.101731.schedulesdirect.org,Nickelodeon Latinoamerica,https://schedulesdirec
 I516.60295.schedulesdirect.org,NICKJLM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png
 I517.84412.schedulesdirect.org,NICKJMH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png
 I519.90209.schedulesdirect.org,Nickmusic,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png
-I522.61988.schedulesdirect.org,NTN24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61988_dark_360w_270h.png
 I523.91644.schedulesdirect.org,NU,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png
 I525.36139.schedulesdirect.org,CANAL11,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003NY4FK.png_dark_360w_270h.png
 I526.105162.schedulesdirect.org,CNL11HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003NY4FK.png_dark_360w_270h.png
@@ -387,7 +899,6 @@ I716.10153.schedulesdirect.org,Tru TV Latinoamerica,https://schedulesdirect-api2
 I717.38683.schedulesdirect.org,TUDNM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png
 I718.65129.schedulesdirect.org,TUDNMH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png
 I719.77068.schedulesdirect.org,TUDNC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89113_dark_360w_270h.png
-I720.16046.schedulesdirect.org,TVNI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png
 I722.47558.schedulesdirect.org,HIDALGO,
 I723.28440.schedulesdirect.org,TXMEXI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28440_dark_360w_270h.png
 I725.47664.schedulesdirect.org,TVT,
@@ -409,8 +920,8 @@ I754.11118.schedulesdirect.org,UNI,https://schedulesdirect-api20141201-logos.s3.
 I755.75951.schedulesdirect.org,UTDN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png
 I756.56727.schedulesdirect.org,USALA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png
 I759.16498.schedulesdirect.org,VNUS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png
-I760.42567.schedulesdirect.org,VH1 Latinoamerica,
-I761.88942.schedulesdirect.org,VH1 LatinoAmerica HD,
+I760.42567.schedulesdirect.org,VH1 Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42567_white_360w_270h.png
+I761.88942.schedulesdirect.org,VH1 LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42567_white_360w_270h.png
 I762.74162.schedulesdirect.org,VH1MGAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74162_dark_360w_270h.png
 I766.25615.schedulesdirect.org,Video Rola,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25615_dark_360w_270h.png
 I767.88813.schedulesdirect.org,VROLAHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25615_dark_360w_270h.png
@@ -430,17 +941,19 @@ I1010.106094.schedulesdirect.org,H2 Hisotry LatinoAmerica,https://schedulesdirec
 I1013.68119.schedulesdirect.org,MUNLA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png
 I1014.102301.schedulesdirect.org,GAMETN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102301_dark_360w_270h.png
 I1019.61404.schedulesdirect.org,CORAZ,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61404_dark_360w_270h.png
-I1024.15036.schedulesdirect.org,TMAX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15036_dark_360w_270h.png
 I1036.82003.schedulesdirect.org,HBO Plus LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png
 I1037.80550.schedulesdirect.org,HBO Family East Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png
+I1063.10145.schedulesdirect.org,HLN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png
 I1091.98192.schedulesdirect.org,CANL14,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023XQ3W.png_dark_360w_270h.png
 I1234.100564.schedulesdirect.org,ZEEMUN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100564_dark_360w_270h.png
 I1235.111684.schedulesdirect.org,ZEEMUNH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100564_dark_360w_270h.png
 I1236.89973.schedulesdirect.org,ZOOMOSP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89920_dark_360w_270h.png
-I5.83545.schedulesdirect.org,3SATHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83545_dark_360w_270h.png
 I9.89562.schedulesdirect.org,4SEVENH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89562_dark_360w_270h.png
+I12.109246.schedulesdirect.org,UK - 5 Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109246_dark_360w_270h.png
 I15.52336.schedulesdirect.org,UK - 5 Star,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52336_dark_360w_270h.png
+I18.56888.schedulesdirect.org,UK - 5 Select,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56888_dark_360w_270h.png
 I22.52335.schedulesdirect.org,UK - 5 USA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52335_dark_360w_270h.png
+I23.56890.schedulesdirect.org,UK - 5 USA +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56890_dark_360w_270h.png
 I28.56894.schedulesdirect.org,UK - AJ TAK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56894_dark_360w_270h.png
 I29.60438.schedulesdirect.org,UK - Aastha,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60438_dark_360w_270h.png
 I35.66975.schedulesdirect.org,UK - Adult Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66975_dark_360w_270h.png
@@ -473,80 +986,80 @@ I273.118525.schedulesdirect.org,UK - Best Direct,https://schedulesdirect-api2014
 I279.101972.schedulesdirect.org,UK - BLAZE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101972_dark_360w_270h.png
 I284.48928.schedulesdirect.org,UK - Boomerang+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48928_dark_360w_270h.png
 I288.73823.schedulesdirect.org,BoxNation,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73823_dark_360w_270h.png
-I306.17667.schedulesdirect.org,UK - Cartoon Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17667_dark_360w_270h.png
+I306.17667.schedulesdirect.org,CRTOON,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17667_dark_360w_270h.png
 I319.113656.schedulesdirect.org,CGTN Documentary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113656_dark_360w_270h.png
 I321.21793.schedulesdirect.org,UK - Challenge,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21793_dark_360w_270h.png
-I326.117175.schedulesdirect.org,UK - Channel 4 Midlands,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117175_dark_360w_270h.png
-I329.117176.schedulesdirect.org,UK - Channel 4 North HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117176_dark_360w_270h.png
+I326.117175.schedulesdirect.org,C4MIDL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117175_dark_360w_270h.png
+I329.117176.schedulesdirect.org,C4NORTH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117176_dark_360w_270h.png
 I351.50717.schedulesdirect.org,UK - Channel 5,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50717_dark_360w_270h.png
 I375.97304.schedulesdirect.org,UK - Clubland TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97304_dark_360w_270h.png
 I377.68892.schedulesdirect.org,UK - CNBC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NFM71.png_dark_360w_270h.png
 I378.113145.schedulesdirect.org,UK - CNBC HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NFJQ7.png_dark_360w_270h.png
 I380.17664.schedulesdirect.org,UKn: CNN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17664_dark_360w_270h.png
-I385.119186.schedulesdirect.org,UK - Colors Gujarati,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119186_dark_360w_270h.png
-I387.103000.schedulesdirect.org,UK - COLORS HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103000_dark_360w_270h.png
-I388.77777.schedulesdirect.org,UK - Colors Rishtey,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77777_dark_360w_270h.png
-I389.66615.schedulesdirect.org,UK - Comedy Cent HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66615_dark_360w_270h.png
-I391.34230.schedulesdirect.org,UK - Comedy Xtra,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34230_dark_360w_270h.png
-I393.47480.schedulesdirect.org,UK - Comedy Central+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47480_dark_360w_270h.png
-I401.61621.schedulesdirect.org,UK - Crime+Inv,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61621_dark_360w_270h.png
-I425.17444.schedulesdirect.org,UK - Discovery,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17444_dark_360w_270h.png
-I426.21557.schedulesdirect.org,UK - Discovery +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21557_dark_360w_270h.png
-I428.24280.schedulesdirect.org,UK - Discovery History,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24280_dark_360w_270h.png
-I429.60582.schedulesdirect.org,UK - Discovery History +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60582_dark_360w_270h.png
-I431.24282.schedulesdirect.org,UK - Discovery Science,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png
-I432.56266.schedulesdirect.org,UK - Discovery Science +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56266_dark_360w_270h.png
-I434.24284.schedulesdirect.org,UK - Discovery Turbo,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24284_dark_360w_270h.png
-I435.110284.schedulesdirect.org,UK - Discovery Turbo +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110284_dark_360w_270h.png
+I385.119186.schedulesdirect.org,COLOGUJ,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119186_dark_360w_270h.png
+I387.103000.schedulesdirect.org,COLORHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103000_dark_360w_270h.png
+I388.77777.schedulesdirect.org,COLRISH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77777_dark_360w_270h.png
+I389.66615.schedulesdirect.org,CCDE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66615_dark_360w_270h.png
+I391.34230.schedulesdirect.org,COMCXUK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34230_dark_360w_270h.png
+I393.47480.schedulesdirect.org,COMCUKP1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47480_dark_360w_270h.png
+I401.61621.schedulesdirect.org,CIHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61621_dark_360w_270h.png
+I425.17444.schedulesdirect.org,DISCOV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17444_dark_360w_270h.png
+I426.21557.schedulesdirect.org,DISC1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21557_dark_360w_270h.png
+I428.24280.schedulesdirect.org,DISHIST,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24280_dark_360w_270h.png
+I429.60582.schedulesdirect.org,DISHIS1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60582_dark_360w_270h.png
+I431.24282.schedulesdirect.org,DISSCI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png
+I432.56266.schedulesdirect.org,DISSCI1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56266_dark_360w_270h.png
+I434.24284.schedulesdirect.org,DITURBO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24284_dark_360w_270h.png
+I435.110284.schedulesdirect.org,DISTUP1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110284_dark_360w_270h.png
 I437.83579.schedulesdirect.org,UK - DMAX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83579_dark_360w_270h.png
 I438.58793.schedulesdirect.org,Dmax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58793_dark_360w_270h.png
-I439.58792.schedulesdirect.org,UK - DMAX +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58792_dark_360w_270h.png
-I444.118530.schedulesdirect.org,UK - Dunamis TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118530_dark_360w_270h.png
+I439.58792.schedulesdirect.org,DMAXP1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58792_dark_360w_270h.png
+I444.118530.schedulesdirect.org,DUNAMIS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118530_dark_360w_270h.png
 I449.65931.schedulesdirect.org,UK - E4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65931_dark_360w_270h.png
-I482.118531.schedulesdirect.org,UK - Faith UK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118531_dark_360w_270h.png
-I487.21494.schedulesdirect.org,UK - Film4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21494_dark_360w_270h.png
+I482.118531.schedulesdirect.org,FAITHUK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118531_dark_360w_270h.png
+I487.21494.schedulesdirect.org,FILM4UK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21494_dark_360w_270h.png
 I489.68051.schedulesdirect.org,FFOURHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68051_dark_360w_270h.png
 I506.118853.schedulesdirect.org,GB News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118853_dark_360w_270h.png
-I513.36118.schedulesdirect.org,UK - GEO TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023CTWJ.png_dark_360w_270h.png
-I532.59406.schedulesdirect.org,UK - GREAT! action+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027EKH4.png_dark_360w_270h.png
-I533.81450.schedulesdirect.org,UK - GREAT! movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BMCL.png_dark_360w_270h.png
-I552.21257.schedulesdirect.org,UK - HGTV UK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png
-I557.118534.schedulesdirect.org,UK - High Street TV 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118534_dark_360w_270h.png
-I577.91013.schedulesdirect.org,UK - HUM EUROPE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91013_dark_360w_270h.png
-I578.116975.schedulesdirect.org,UK - HUM Masala,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116975_dark_360w_270h.png
-I581.79036.schedulesdirect.org,UK - ID Discovery +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79036_dark_360w_270h.png
-I598.42539.schedulesdirect.org,UK - Islam Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42539_dark_360w_270h.png
-I605.112077.schedulesdirect.org,UK - ITV1 Anglia West HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112077_dark_360w_270h.png
+I513.36118.schedulesdirect.org,GEOTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023CTWJ.png_dark_360w_270h.png
+I532.59406.schedulesdirect.org,GRTMAP1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027EKH4.png_dark_360w_270h.png
+I533.81450.schedulesdirect.org,GRETMYS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BMCL.png_dark_360w_270h.png
+I552.21257.schedulesdirect.org,HGTVUK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png
+I557.118534.schedulesdirect.org,HIGHSTR2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118534_dark_360w_270h.png
+I577.91013.schedulesdirect.org,HUMEUR,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91013_dark_360w_270h.png
+I578.116975.schedulesdirect.org,HUMMAEU,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116975_dark_360w_270h.png
+I581.79036.schedulesdirect.org,INVDIP1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79036_dark_360w_270h.png
+I598.42539.schedulesdirect.org,ISLAM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42539_dark_360w_270h.png
+I605.112077.schedulesdirect.org,UK - ITV HD Anglia West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112077_dark_360w_270h.png
 I615.112073.schedulesdirect.org,UK - ITV Meridian South Coast,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112073_dark_360w_270h.png
 I623.112083.schedulesdirect.org,UK - ITV HD Yorkshire west,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112083_dark_360w_270h.png
 I630.68143.schedulesdirect.org,UK - ITV1 Central West HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68143_dark_360w_270h.png
 I635.17468.schedulesdirect.org,UK - ITV 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17468_dark_360w_270h.png
-I640.68162.schedulesdirect.org,UK - ITV1 Meridian South HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68162_dark_360w_270h.png
+I640.68162.schedulesdirect.org,ITV1ST2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68162_dark_360w_270h.png
 I650.29194.schedulesdirect.org,UK - ITV1 Border Scotland HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29194_dark_360w_270h.png
-I654.67372.schedulesdirect.org,UK - ITV1 Central HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67372_dark_360w_270h.png
-I656.50523.schedulesdirect.org,UK - ITV1 HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50523_dark_360w_270h.png
-I658.96374.schedulesdirect.org,UK - ITV1 Wales HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s96374_dark_360w_270h.png
+I654.67372.schedulesdirect.org,ITV1HDC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67372_dark_360w_270h.png
+I656.50523.schedulesdirect.org,ITV1HDL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50523_dark_360w_270h.png
+I658.96374.schedulesdirect.org,ITV1WAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s96374_dark_360w_270h.png
 I664.69228.schedulesdirect.org,UK - ITV 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69228_dark_360w_270h.png
-I667.53060.schedulesdirect.org,UK - ITV3+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53060_dark_360w_270h.png
+I667.53060.schedulesdirect.org,ITV3P1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53060_dark_360w_270h.png
 I669.69374.schedulesdirect.org,UK - ITV 3,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69374_dark_360w_270h.png
-I672.61806.schedulesdirect.org,UK - ITV4+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61806_dark_360w_270h.png
-I674.69375.schedulesdirect.org,UK - ITV4 HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69375_dark_360w_270h.png
-I680.29067.schedulesdirect.org,UK - Jewellery Maker,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29067_dark_360w_270h.png
-I712.73970.schedulesdirect.org,UK - LEGEND,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73970_dark_360w_270h.png
-I714.49608.schedulesdirect.org,UK - LEGEND XTRA+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49608_dark_360w_270h.png
-I732.33883.schedulesdirect.org,UK - MATV Natioanl,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33883_dark_360w_270h.png
-I747.47657.schedulesdirect.org,UK - More4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47657_dark_360w_270h.png
+I672.61806.schedulesdirect.org,ITV4P1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61806_dark_360w_270h.png
+I674.69375.schedulesdirect.org,UK - ITV 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69375_dark_360w_270h.png
+I680.29067.schedulesdirect.org,JEWELMK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29067_dark_360w_270h.png
+I712.73970.schedulesdirect.org,LEGENDVM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73970_dark_360w_270h.png
+I714.49608.schedulesdirect.org,LEEXPL1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49608_dark_360w_270h.png
+I732.33883.schedulesdirect.org,APNAMTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33883_dark_360w_270h.png
+I747.47657.schedulesdirect.org,MORE4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47657_dark_360w_270h.png
 I748.82858.schedulesdirect.org,UK - More 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82858_dark_360w_270h.png
-I749.47658.schedulesdirect.org,UK - More4+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47658_dark_360w_270h.png
-I754.24170.schedulesdirect.org,UK - MTV 80s,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24170_dark_360w_270h.png
-I758.80924.schedulesdirect.org,UK - MTV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png
-I759.24214.schedulesdirect.org,UK - MTV HITS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24214_dark_360w_270h.png
-I762.58695.schedulesdirect.org,UK - MTV MUSIC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58695_dark_360w_270h.png
+I749.47658.schedulesdirect.org,MORE4P1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47658_dark_360w_270h.png
+I754.24170.schedulesdirect.org,MTV80UK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24170_dark_360w_270h.png
+I758.80924.schedulesdirect.org,MTVUKHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png
+I759.24214.schedulesdirect.org,CLMTVUK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24214_dark_360w_270h.png
+I762.58695.schedulesdirect.org,MTVMSUK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58695_dark_360w_270h.png
 I780.23305.schedulesdirect.org,UKd: Nat Geo Wild,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s23305_dark_360w_270h.png
-I792.74025.schedulesdirect.org,UK - NDTV World,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74025_dark_360w_270h.png
-I826.110745.schedulesdirect.org,UK - NOW 70s,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110745_dark_360w_270h.png
-I828.108488.schedulesdirect.org,UK - NOW 80s,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108488_dark_360w_270h.png
-I832.110742.schedulesdirect.org,UK - NOW ROCK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110742_dark_360w_270h.png
+I792.74025.schedulesdirect.org,NDT247V,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74025_dark_360w_270h.png
+I826.110745.schedulesdirect.org,NOW70UK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110745_dark_360w_270h.png
+I828.108488.schedulesdirect.org,NOW80UK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s108488_dark_360w_270h.png
+I832.110742.schedulesdirect.org,NOWROCK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110742_dark_360w_270h.png
 I867.79027.schedulesdirect.org,Premier Sports 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png
 I869.109162.schedulesdirect.org,Premier Sports 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png
 I886.62391.schedulesdirect.org,UKd: Quest,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62391_dark_360w_270h.png
@@ -556,7 +1069,7 @@ I939.99521.schedulesdirect.org,UK - RTE 2,https://schedulesdirect-api20141201-lo
 I948.25554.schedulesdirect.org,UK - RTE ONE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25554_dark_360w_270h.png
 I995.70433.schedulesdirect.org,UK - SKY Atlantic,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70433_dark_360w_270h.png
 I998.115495.schedulesdirect.org,UKm: Sky Cinema Animation,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115495_dark_360w_270h.png
-I1000.162072.schedulesdirect.org,UK - Must Have Ideas HD,
+I1000.162072.schedulesdirect.org,MUHAID,
 I1000.61179.schedulesdirect.org,SKY Cinema Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61179_dark_360w_270h.png
 I1000.110540.schedulesdirect.org,UK - BBC Scotland HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110540_dark_360w_270h.png
 I1000.49609.schedulesdirect.org,Sky Sports Main Event,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49609_dark_360w_270h.png
@@ -565,8 +1078,8 @@ I1001.48021.schedulesdirect.org,UK - Pick,https://schedulesdirect-api20141201-lo
 I1002.67695.schedulesdirect.org,Sky Sports Golf,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67695_dark_360w_270h.png
 I1002.61177.schedulesdirect.org,SKY Cinema Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61177_dark_360w_270h.png
 I1003.50059.schedulesdirect.org,UK - BBC TWO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50059_dark_360w_270h.png
-I1003.24032.schedulesdirect.org,SKY Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24032_dark_360w_270h.png
 I1003.49453.schedulesdirect.org,Sky Cinema Hits,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49453_dark_360w_270h.png
+I1003.24032.schedulesdirect.org,SKY Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24032_dark_360w_270h.png
 I1004.46306.schedulesdirect.org,UK - Great Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027ESGV.png_dark_360w_270h.png
 I1005.50176.schedulesdirect.org,Sky Cinema Thriller,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50176_dark_360w_270h.png
 I1005.24040.schedulesdirect.org,SKY Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24040_dark_360w_270h.png
@@ -574,14 +1087,16 @@ I1006.122534.schedulesdirect.org,WildEarth,https://schedulesdirect-api20141201-l
 I1006.50589.schedulesdirect.org,UKm: Movies 24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50589_dark_360w_270h.png
 I1007.61178.schedulesdirect.org,SKY Cinema Scifi &amp; Horror,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61178_dark_360w_270h.png
 I1008.59691.schedulesdirect.org,Sky Cinema Premiere,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59691_dark_360w_270h.png
-I1009.61181.schedulesdirect.org,SKY Cinema Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61181_dark_360w_270h.png
 I1009.33882.schedulesdirect.org,UK - E4+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33882_dark_360w_270h.png
 I1009.24341.schedulesdirect.org,UK - Boomerang,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24341_dark_360w_270h.png
+I1009.61181.schedulesdirect.org,SKY Cinema Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61181_dark_360w_270h.png
 I1010.61180.schedulesdirect.org,SKY Cinema Greats,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61180_dark_360w_270h.png
 I1011.21107.schedulesdirect.org,SCINPRE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21107_dark_360w_270h.png
 I1011.61182.schedulesdirect.org,SKY Cinema Comedy,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61182_dark_360w_270h.png
+I1012.97290.schedulesdirect.org,UK - 5 Star +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97290_dark_360w_270h.png
 I1014.122089.schedulesdirect.org,UK - BBC Three HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122089_dark_360w_270h.png
 I1015.49139.schedulesdirect.org,SCINSEL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49139_dark_360w_270h.png
+I1017.75804.schedulesdirect.org,UK - 4 Seven,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75804_dark_360w_270h.png
 I1017.105776.schedulesdirect.org,UK - Gold,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002JG6DK.png_dark_360w_270h.png
 I1019.120545.schedulesdirect.org,UK - SKY Max,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002YY17Q.png_dark_360w_270h.png
 I1020.113612.schedulesdirect.org,SKY Comedy,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113612_dark_360w_270h.png
@@ -618,9 +1133,9 @@ I1250.64572.schedulesdirect.org,TNT Sports 4,https://schedulesdirect-api20141201
 I1266.116570.schedulesdirect.org,UKs: TNT Sport Box Office,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116570_dark_360w_270h.png
 I1284.104305.schedulesdirect.org,TRT World,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104305_dark_360w_270h.png
 I1287.57827.schedulesdirect.org,CBS Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57827_dark_360w_270h.png
-I1306.73129.schedulesdirect.org,UK - Dave,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73129_dark_360w_270h.png
-I1309.82575.schedulesdirect.org,Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82575_dark_360w_270h.png
-I1320.73128.schedulesdirect.org,UK - Watch,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73128_dark_360w_270h.png
+I1306.73129.schedulesdirect.org,UDAHDVM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73129_dark_360w_270h.png
+I1309.82575.schedulesdirect.org,UDRAMHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82575_dark_360w_270h.png
+I1320.73128.schedulesdirect.org,UWHDVM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73128_dark_360w_270h.png
 I1337.68073.schedulesdirect.org,UK - UTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68073_dark_360w_270h.png
 I602.21345.gracenote.com,Fanduel TV,https://zpmc.tmsimg.com/h3/NowShowing/21345/s21345_ll_h15_ab.png
 I646.71286.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/71286/s12410_ll_h15_ac.png
@@ -633,8 +1148,8 @@ I654.71236.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com/
 I654.71238.gracenote.com,Fanduel Sports Network Florida HD,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
 I660.101518.gracenote.com,Fanduel Sports Network Ohio,https://zpmc.tmsimg.com/h3/NowShowing/101518/s49691_ll_h15_ac.png
 I660.101522.gracenote.com,Fanduel Sports Network Ohio HD,https://zpmc.tmsimg.com/h3/NowShowing/101522/s11106_ll_h15_ac.png
-I663.71234.gracenote.com,Fanduel Sports Network Detroit HD,https://zpmc.tmsimg.com/h3/NowShowing/71234/s17619_ll_h15_ac.png
 I663.71232.gracenote.com,Fanduel Sports Network Detroit,https://zpmc.tmsimg.com/h3/NowShowing/71232/s17619_ll_h15_ac.png
+I663.71234.gracenote.com,Fanduel Sports Network Detroit HD,https://zpmc.tmsimg.com/h3/NowShowing/71234/s17619_ll_h15_ac.png
 I668.71260.gracenote.com,Fanduel Sports Network North,https://zpmc.tmsimg.com/h3/NowShowing/71260/s10977_ll_h15_ac.png
 I668.71264.gracenote.com,Fanduel Sports Network North HD,https://zpmc.tmsimg.com/h3/NowShowing/71264/s10977_ll_h15_ac.png
 I669.71253.gracenote.com,Fanduel Sports Network Wisconsin,https://zpmc.tmsimg.com/h3/NowShowing/71253/s16348_ll_h15_ac.png
@@ -715,23 +1230,23 @@ I428.49882.gracenote.com,Sportsnet Pittsburgh,https://zpmc.tmsimg.com/h3/NowShow
 I432.59607.gracenote.com,Masn,https://zpmc.tmsimg.com/h3/NowShowing/59607/GNLZZGG002QC98G.png
 I434.35038.gracenote.com,NESN,https://zpmc.tmsimg.com/h3/NowShowing/35038/s35038_ll_h15_ac.png
 I438.73565.gracenote.com,NBC Sports California,https://zpmc.tmsimg.com/h3/NowShowing/73565/s45540_ll_h15_ad.png
-I70.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png
 I70.60222.schedulesdirect.org,QVC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0037GYJC.png_dark_360w_270h.png
+I70.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png
 I77.70436.schedulesdirect.org,Me TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png
 I80.78851.schedulesdirect.org,COZI TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png
 I81.89922.schedulesdirect.org,Grit,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002FEPTV.png_dark_360w_270h.png
 I82.73067.schedulesdirect.org,Bounce,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png
-I202.58646.schedulesdirect.org,CNN US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png
 I202.10142.schedulesdirect.org,CNN US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_dark_360w_270h.png
-I204.64549.schedulesdirect.org,CNN Headline News HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64549_dark_360w_270h.png
+I202.58646.schedulesdirect.org,CNN US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png
 I204.10145.schedulesdirect.org,CNN Headline News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png
+I204.64549.schedulesdirect.org,CNN Headline News HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64549_dark_360w_270h.png
 I205.94102.schedulesdirect.org,Sports Mix US,
 I206.10179.schedulesdirect.org,ESPN US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png
 I206.32645.schedulesdirect.org,ESPN US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32645_dark_360w_270h.png
 I207.16485.schedulesdirect.org,ESPNews US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png
 I207.59976.schedulesdirect.org,ESPNews US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59976_dark_360w_270h.png
-I208.45654.schedulesdirect.org,ESPNU,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png
 I208.60696.schedulesdirect.org,ESPNU HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60696_dark_360w_270h.png
+I208.45654.schedulesdirect.org,ESPNU,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png
 I209.12444.schedulesdirect.org,ESPN 2 US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png
 I209.45507.schedulesdirect.org,ESPN 2 US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45507_dark_360w_270h.png
 I211.65025.schedulesdirect.org,NFL Redzone,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65025_dark_360w_270h.png
@@ -740,8 +1255,8 @@ I212.45399.schedulesdirect.org,NFL Network HD,https://schedulesdirect-api2014120
 I213.62081.schedulesdirect.org,MLB Network HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png
 I213.62079.schedulesdirect.org,MLB Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62079_dark_360w_270h.png
 I214.61036.schedulesdirect.org,MAVTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61036_dark_360w_270h.png
-I215.58690.schedulesdirect.org,NHL Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58690_dark_360w_270h.png
 I215.58570.schedulesdirect.org,NHL Network USA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png
+I215.58690.schedulesdirect.org,NHL Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58690_dark_360w_270h.png
 I216.32281.schedulesdirect.org,NBA TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png
 I216.45526.schedulesdirect.org,NBA TV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45526_dark_360w_270h.png
 I217.33395.schedulesdirect.org,Tennis Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002ES74T.png_dark_360w_270h.png
@@ -766,8 +1281,8 @@ I236.10989.schedulesdirect.org,E!,https://schedulesdirect-api20141201-logos.s3.d
 I236.61812.schedulesdirect.org,E! HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61812_dark_360w_270h.png
 I237.10057.schedulesdirect.org,Bravo,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png
 I237.58625.schedulesdirect.org,BRAVOHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58625_dark_360w_270h.png
-I238.68385.schedulesdirect.org,Reelz Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002HWGQ0.png_dark_360w_270h.png
 I238.52199.schedulesdirect.org,Reelz Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002HWGYL.png_dark_360w_270h.png
+I238.68385.schedulesdirect.org,Reelz Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002HWGQ0.png_dark_360w_270h.png
 I239.16108.schedulesdirect.org,Sundance TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png
 I239.71280.schedulesdirect.org,Sundance TV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71280_dark_360w_270h.png
 I240.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png
@@ -793,8 +1308,8 @@ I252.10918.schedulesdirect.org,Lifetime East,https://schedulesdirect-api20141201
 I252.60150.schedulesdirect.org,Lifetime East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60150_dark_360w_270h.png
 I253.18480.schedulesdirect.org,Lifetime Movie Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png
 I253.55887.schedulesdirect.org,Lifetime Movie Network HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55887_dark_360w_270h.png
-I254.59337.schedulesdirect.org,AMC East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59337_dark_360w_270h.png
 I254.10021.schedulesdirect.org,AMC East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png
+I254.59337.schedulesdirect.org,AMC East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59337_dark_360w_270h.png
 I256.12852.schedulesdirect.org,TCM US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png
 I256.64312.schedulesdirect.org,TCM US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64312_dark_360w_270h.png
 I258.14988.schedulesdirect.org,FXM retro,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14988_dark_360w_270h.png
@@ -805,8 +1320,8 @@ I260.16409.schedulesdirect.org,WE TV,https://schedulesdirect-api20141201-logos.s
 I261.16125.schedulesdirect.org,Discovery life,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png
 I264.18332.schedulesdirect.org,BBC America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003NJBTW.png_dark_360w_270h.png
 I264.64492.schedulesdirect.org,BBC America HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png
-I265.10035.schedulesdirect.org,A&amp;E East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png
 I265.51529.schedulesdirect.org,A&amp;E East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png
+I265.10035.schedulesdirect.org,A&amp;E East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png
 I266.58988.schedulesdirect.org,FYI Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58988_dark_360w_270h.png
 I269.57708.schedulesdirect.org,History HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57708_dark_360w_270h.png
 I269.14771.schedulesdirect.org,History,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14771_dark_360w_270h.png
@@ -822,8 +1337,8 @@ I276.49438.schedulesdirect.org,National Geographic East,https://schedulesdirect-
 I277.11180.schedulesdirect.org,Travel Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11180_dark_360w_270h.png
 I278.11150.schedulesdirect.org,Discovery Channel US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png
 I278.56905.schedulesdirect.org,Discovery Channel US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56905_dark_360w_270h.png
-I279.70388.schedulesdirect.org,OWN HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70388_dark_360w_270h.png
 I279.70387.schedulesdirect.org,OWN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70387_dark_360w_270h.png
+I279.70388.schedulesdirect.org,OWN HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70388_dark_360w_270h.png
 I281.31046.schedulesdirect.org,MotorTrend,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RMTEG.png_dark_360w_270h.png
 I282.16331.schedulesdirect.org,Animal Planet,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png
 I282.57394.schedulesdirect.org,Animal Planet HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57394_dark_360w_270h.png
@@ -831,8 +1346,8 @@ I283.66804.schedulesdirect.org,Nat Geo Wild East,https://schedulesdirect-api2014
 I283.67331.schedulesdirect.org,Nat Geo Wild East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67331_dark_360w_270h.png
 I284.57390.schedulesdirect.org,Science Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57390_dark_360w_270h.png
 I284.16616.schedulesdirect.org,Science Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16616_dark_360w_270h.png
-I285.65342.schedulesdirect.org,Discovery ID East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png
 I285.16615.schedulesdirect.org,Discovery ID US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png
+I285.65342.schedulesdirect.org,Discovery ID East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png
 I286.60468.schedulesdirect.org,Destination America HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60468_dark_360w_270h.png
 I286.16617.schedulesdirect.org,Destination America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16617_dark_360w_270h.png
 I287.18284.schedulesdirect.org,American Heroes Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0022LF21.png_dark_360w_270h.png
@@ -893,8 +1408,8 @@ I355.58780.schedulesdirect.org,CNBC US HD,https://schedulesdirect-api20141201-lo
 I356.64241.schedulesdirect.org,MSNBC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002H5PTK.png_dark_360w_270h.png
 I357.26849.schedulesdirect.org,CNBC World,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NF46G.png_dark_360w_270h.png
 I358.10146.schedulesdirect.org,CNN International,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10146_dark_360w_270h.png
-I359.58718.schedulesdirect.org,Fox Business HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58718_dark_360w_270h.png
 I359.58649.schedulesdirect.org,Fox Business,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png
+I359.58718.schedulesdirect.org,Fox Business HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58718_dark_360w_270h.png
 I360.16374.schedulesdirect.org,Fox News Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png
 I360.60179.schedulesdirect.org,Fox News Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60179_dark_360w_270h.png
 I361.91994.schedulesdirect.org,AccuWeather Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91994_dark_360w_270h.png
@@ -909,8 +1424,8 @@ I386.72094.schedulesdirect.org,Fuse Music,https://schedulesdirect-api20141201-lo
 I402.11118.schedulesdirect.org,Univision,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png
 I402.68049.schedulesdirect.org,Univision HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png
 I403.14762.schedulesdirect.org,Univision West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png
-I404.68367.schedulesdirect.org,Galavision,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68367_dark_360w_270h.png
 I404.10222.schedulesdirect.org,Galavision,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10222_dark_360w_270h.png
+I404.68367.schedulesdirect.org,Galavision,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68367_dark_360w_270h.png
 I405.58698.schedulesdirect.org,Mega TV Puerto Rico,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58698_dark_360w_270h.png
 I406.77606.schedulesdirect.org,Telemundo Internacional,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10239_dark_360w_270h.png
 I408.68040.schedulesdirect.org,UniMAS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png
@@ -947,8 +1462,8 @@ I504.19566.schedulesdirect.org,HBO West,https://schedulesdirect-api20141201-logo
 I506.59839.schedulesdirect.org,HBO Comedy East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png
 I511.24553.schedulesdirect.org,HBO East Latino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24553_dark_360w_270h.png
 I511.59837.schedulesdirect.org,HBO East Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24553_dark_360w_270h.png
-I515.34933.schedulesdirect.org,Cinemax East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png
 I515.10120.schedulesdirect.org,MAX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png
+I515.34933.schedulesdirect.org,Cinemax East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png
 I516.12508.schedulesdirect.org,Cinemax West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png
 I516.35975.schedulesdirect.org,Cinemax West HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png
 I517.59373.schedulesdirect.org,MoreMax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029CKC8.png_dark_360w_270h.png
