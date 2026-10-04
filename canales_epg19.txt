@@ -514,7 +514,16 @@ NHL17.slots,NHL 17,
 UFC.sports,UFC,
 F1.sports,Formula 1,
 NASCAR.sports,NASCAR Cup Series,
+NASCAR2.sports,NASCAR O'Reilly Series,
+NASCARTRUCK.sports,NASCAR Truck Series,
 PGA.sports,PGA Tour,
+LPGA.sports,LPGA Tour,
+LIV.sports,LIV Golf,
+DPWT.sports,DP World Tour,
+INDYCAR.sports,IndyCar Series,
+PFL.sports,PFL,
+ATP.sports,ATP Tour,
+WTA.sports,WTA Tour,
 I1.82970.schedulesdirect.org,HOLALA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png
 I2.92054.schedulesdirect.org,HOLALAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png
 I3.62161.schedulesdirect.org,HOLATV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png

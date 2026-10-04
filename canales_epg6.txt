@@ -1,5 +1,5 @@
 # Fuente: https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml
-ADULT SWIM.ar,Adult Swim.ar,
+ADULT SWIM.ar,Adult Swim Ar,
 America TV.ar,America TV,
 C5N.ar,C5N,
 Canal Rural.ar,Canal Rural ,

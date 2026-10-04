@@ -3,78 +3,6 @@
   <channel id="Canal1.cr">
     <display-name>Canal 1 (Costa Rica)</display-name>
   </channel>
-  <programme start="20261003000000 -0600" stop="20261003010000 -0600" channel="Canal1.cr">
-    <title>Fiesta La Tica</title>
-  </programme>
-  <programme start="20261003010000 -0600" stop="20261003020000 -0600" channel="Canal1.cr">
-    <title>Dramas</title>
-  </programme>
-  <programme start="20261003020000 -0600" stop="20261003030000 -0600" channel="Canal1.cr">
-    <title>Serie Retro</title>
-  </programme>
-  <programme start="20261003030000 -0600" stop="20261003060000 -0600" channel="Canal1.cr">
-    <title>Musicales</title>
-  </programme>
-  <programme start="20261003060000 -0600" stop="20261003080000 -0600" channel="Canal1.cr">
-    <title>Conciertos</title>
-  </programme>
-  <programme start="20261003080000 -0600" stop="20261003083000 -0600" channel="Canal1.cr">
-    <title>Animacion Retro</title>
-  </programme>
-  <programme start="20261003083000 -0600" stop="20261003090000 -0600" channel="Canal1.cr">
-    <title>Animacion Retro</title>
-  </programme>
-  <programme start="20261003090000 -0600" stop="20261003093000 -0600" channel="Canal1.cr">
-    <title>Animacion Retro</title>
-  </programme>
-  <programme start="20261003093000 -0600" stop="20261003100000 -0600" channel="Canal1.cr">
-    <title>Animacion Retro</title>
-  </programme>
-  <programme start="20261003100000 -0600" stop="20261003103000 -0600" channel="Canal1.cr">
-    <title>Animacion Retro</title>
-  </programme>
-  <programme start="20261003103000 -0600" stop="20261003110000 -0600" channel="Canal1.cr">
-    <title>Back Up</title>
-  </programme>
-  <programme start="20261003110000 -0600" stop="20261003113000 -0600" channel="Canal1.cr">
-    <title>Mas que musica</title>
-  </programme>
-  <programme start="20261003113000 -0600" stop="20261003120000 -0600" channel="Canal1.cr">
-    <title>Mas que musica</title>
-  </programme>
-  <programme start="20261003120000 -0600" stop="20261003123000 -0600" channel="Canal1.cr">
-    <title>Retro Hits</title>
-  </programme>
-  <programme start="20261003123000 -0600" stop="20261003140000 -0600" channel="Canal1.cr">
-    <title>Retro Hits</title>
-  </programme>
-  <programme start="20261003140000 -0600" stop="20261003160000 -0600" channel="Canal1.cr">
-    <title>Cine del 1</title>
-  </programme>
-  <programme start="20261003160000 -0600" stop="20261003163000 -0600" channel="Canal1.cr">
-    <title>Serie Retro</title>
-  </programme>
-  <programme start="20261003163000 -0600" stop="20261003170000 -0600" channel="Canal1.cr">
-    <title>Serie Retro</title>
-  </programme>
-  <programme start="20261003170000 -0600" stop="20261003173000 -0600" channel="Canal1.cr">
-    <title>Cosas que pasan</title>
-  </programme>
-  <programme start="20261003173000 -0600" stop="20261003180000 -0600" channel="Canal1.cr">
-    <title>Movilidad sin mitos</title>
-  </programme>
-  <programme start="20261003180000 -0600" stop="20261003190000 -0600" channel="Canal1.cr">
-    <title>Cómo han pasado los años</title>
-  </programme>
-  <programme start="20261003190000 -0600" stop="20261003200000 -0600" channel="Canal1.cr">
-    <title>Marcelo Castro Presenta</title>
-  </programme>
-  <programme start="20261003200000 -0600" stop="20261003230000 -0600" channel="Canal1.cr">
-    <title>Cine del 1</title>
-  </programme>
-  <programme start="20261003230000 -0600" stop="20261004000000 -0600" channel="Canal1.cr">
-    <title>Retro Hits</title>
-  </programme>
   <programme start="20261004000000 -0600" stop="20261004010000 -0600" channel="Canal1.cr">
     <title>Fiesta La Tica</title>
   </programme>
@@ -545,5 +473,77 @@
   </programme>
   <programme start="20261009230000 -0600" stop="20261010000000 -0600" channel="Canal1.cr">
     <title>CGTN en vivo</title>
+  </programme>
+  <programme start="20261010000000 -0600" stop="20261010010000 -0600" channel="Canal1.cr">
+    <title>Fiesta La Tica</title>
+  </programme>
+  <programme start="20261010010000 -0600" stop="20261010020000 -0600" channel="Canal1.cr">
+    <title>Dramas</title>
+  </programme>
+  <programme start="20261010020000 -0600" stop="20261010030000 -0600" channel="Canal1.cr">
+    <title>Serie Retro</title>
+  </programme>
+  <programme start="20261010030000 -0600" stop="20261010060000 -0600" channel="Canal1.cr">
+    <title>Musicales</title>
+  </programme>
+  <programme start="20261010060000 -0600" stop="20261010080000 -0600" channel="Canal1.cr">
+    <title>Conciertos</title>
+  </programme>
+  <programme start="20261010080000 -0600" stop="20261010083000 -0600" channel="Canal1.cr">
+    <title>Animacion Retro</title>
+  </programme>
+  <programme start="20261010083000 -0600" stop="20261010090000 -0600" channel="Canal1.cr">
+    <title>Animacion Retro</title>
+  </programme>
+  <programme start="20261010090000 -0600" stop="20261010093000 -0600" channel="Canal1.cr">
+    <title>Animacion Retro</title>
+  </programme>
+  <programme start="20261010093000 -0600" stop="20261010100000 -0600" channel="Canal1.cr">
+    <title>Animacion Retro</title>
+  </programme>
+  <programme start="20261010100000 -0600" stop="20261010103000 -0600" channel="Canal1.cr">
+    <title>Animacion Retro</title>
+  </programme>
+  <programme start="20261010103000 -0600" stop="20261010110000 -0600" channel="Canal1.cr">
+    <title>Back Up</title>
+  </programme>
+  <programme start="20261010110000 -0600" stop="20261010113000 -0600" channel="Canal1.cr">
+    <title>Mas que musica</title>
+  </programme>
+  <programme start="20261010113000 -0600" stop="20261010120000 -0600" channel="Canal1.cr">
+    <title>Mas que musica</title>
+  </programme>
+  <programme start="20261010120000 -0600" stop="20261010123000 -0600" channel="Canal1.cr">
+    <title>Retro Hits</title>
+  </programme>
+  <programme start="20261010123000 -0600" stop="20261010140000 -0600" channel="Canal1.cr">
+    <title>Retro Hits</title>
+  </programme>
+  <programme start="20261010140000 -0600" stop="20261010160000 -0600" channel="Canal1.cr">
+    <title>Cine del 1</title>
+  </programme>
+  <programme start="20261010160000 -0600" stop="20261010163000 -0600" channel="Canal1.cr">
+    <title>Serie Retro</title>
+  </programme>
+  <programme start="20261010163000 -0600" stop="20261010170000 -0600" channel="Canal1.cr">
+    <title>Serie Retro</title>
+  </programme>
+  <programme start="20261010170000 -0600" stop="20261010173000 -0600" channel="Canal1.cr">
+    <title>Cosas que pasan</title>
+  </programme>
+  <programme start="20261010173000 -0600" stop="20261010180000 -0600" channel="Canal1.cr">
+    <title>Movilidad sin mitos</title>
+  </programme>
+  <programme start="20261010180000 -0600" stop="20261010190000 -0600" channel="Canal1.cr">
+    <title>Cómo han pasado los años</title>
+  </programme>
+  <programme start="20261010190000 -0600" stop="20261010200000 -0600" channel="Canal1.cr">
+    <title>Marcelo Castro Presenta</title>
+  </programme>
+  <programme start="20261010200000 -0600" stop="20261010230000 -0600" channel="Canal1.cr">
+    <title>Cine del 1</title>
+  </programme>
+  <programme start="20261010230000 -0600" stop="20261011000000 -0600" channel="Canal1.cr">
+    <title>Retro Hits</title>
   </programme>
 </tv>
