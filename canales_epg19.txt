@@ -1148,6 +1148,9 @@ I1309.82575.schedulesdirect.org,UDRAMHD,https://schedulesdirect-api20141201-logo
 I1320.73128.schedulesdirect.org,UWHDVM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73128_dark_360w_270h.png
 I1337.68073.schedulesdirect.org,UK - UTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68073_dark_360w_270h.png
 I602.21345.gracenote.com,Fanduel TV,https://zpmc.tmsimg.com/h3/NowShowing/21345/s21345_ll_h15_ab.png
+I630.71465.gracenote.com,NBC Sports Boston,https://zpmc.tmsimg.com/h3/NowShowing/71465/s11104_ll_h15_ac.png
+I634.80169.gracenote.com,MSG Network,https://zpmc.tmsimg.com/h3/NowShowing/80169/s10979_ll_h15_ab.png
+I639.51654.gracenote.com,SNY SportsNet New York,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
 I646.71288.gracenote.com,Fanduel Sports Network South HD,https://zpmc.tmsimg.com/h3/NowShowing/71288/s12410_ll_h15_ac.png
 I646.71286.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/71286/s12410_ll_h15_ac.png
 I649.71271.gracenote.com,Fanduel Sports Network Southeast HD,https://zpmc.tmsimg.com/h3/NowShowing/71271/s20789_ll_h15_ac.png
@@ -1166,8 +1169,12 @@ I669.71258.gracenote.com,Fanduel Sports Network Wisconsin HD,https://zpmc.tmsimg
 I669.71253.gracenote.com,Fanduel Sports Network Wisconsin,https://zpmc.tmsimg.com/h3/NowShowing/71253/s16348_ll_h15_ac.png
 I671.71244.gracenote.com,Fanduel Sports Network Midwest HD,https://zpmc.tmsimg.com/h3/NowShowing/71244/s11058_ll_h15_ac.png
 I671.71240.gracenote.com,Fanduel Sports Network Midwest,https://zpmc.tmsimg.com/h3/NowShowing/71240/s11058_ll_h15_ac.png
+I674.178238.gracenote.com,Space City Home Network,https://zpmc.tmsimg.com/h3/NowShowing/178238/s77744_ll_h15_ac.png
+I675.181304.gracenote.com,Fanduel Sports Network Oklahoma,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
 I676.71292.gracenote.com,Fanduel Sports Network Southwest HD,https://zpmc.tmsimg.com/h3/NowShowing/71292/s59629_ll_h15_ac.png
 I676.71290.gracenote.com,Fanduel Sports Network Southwest,https://zpmc.tmsimg.com/h3/NowShowing/71290/s59629_ll_h15_ac.png
+I690.87106.gracenote.com,Spectrum SportsNet LA,https://zpmc.tmsimg.com/h3/NowShowing/87106/s77422_ll_h15_ac.png
+I691.77423.gracenote.com,Spectrum SportsNet,https://zpmc.tmsimg.com/h3/NowShowing/77423/s77423_ll_h15_ac.png
 I692.71284.gracenote.com,Fanduel Sports Network West HD,https://zpmc.tmsimg.com/h3/NowShowing/71284/GNLZZGG0033CBPK.png
 I692.71282.gracenote.com,Fanduel Sports Network West,https://zpmc.tmsimg.com/h3/NowShowing/71282/GNLZZGG0033CBPK.png
 I693.71276.gracenote.com,Fanduel Sports Network SoCal HD,https://zpmc.tmsimg.com/h3/NowShowing/71276/s16743_ll_h15_ac.png
@@ -1184,6 +1191,7 @@ I7.1.19601.gracenote.com,US - ABC 7 Detroit,https://zpmc.tmsimg.com/h3/NowShowin
 I13.7.113774.gracenote.com,WeatherNation,https://zpmc.tmsimg.com/h3/NowShowing/113774/s72413_ll_h15_aa.png
 I24.3.46785.gracenote.com,Comet TV,https://zpmc.tmsimg.com/h3/NowShowing/46785/s97051_ll_h15_ab.png
 I50.5.113685.gracenote.com,Nosey,https://zpmc.tmsimg.com/h3/NowShowing/113685/s157427_ll_h15_aa.png
+I56.2.45325.gracenote.com,PBS Kids,https://zpmc.tmsimg.com/h3/NowShowing/45325/s101364_ll_h15_ac.png
 I25.183131.gracenote.com,Chicago Sports Network,https://zpmc.tmsimg.com/h3/NowShowing/183131/s166708_ll_h15_aa.png
 I111.26643.gracenote.com,Gem Shopping Network,https://zpmc.tmsimg.com/h3/NowShowing/26643/GNLZZGG0025V1KJ.png
 I142.30419.gracenote.com,BET Jams,https://zpmc.tmsimg.com/h3/NowShowing/30419/s30419_ll_h15_ac.png
@@ -1240,6 +1248,7 @@ I428.49882.gracenote.com,Sportsnet Pittsburgh,https://zpmc.tmsimg.com/h3/NowShow
 I432.59607.gracenote.com,Masn,https://zpmc.tmsimg.com/h3/NowShowing/59607/GNLZZGG002QC98G.png
 I434.35038.gracenote.com,NESN,https://zpmc.tmsimg.com/h3/NowShowing/35038/s35038_ll_h15_ac.png
 I438.73565.gracenote.com,NBC Sports California,https://zpmc.tmsimg.com/h3/NowShowing/73565/s45540_ll_h15_ad.png
+I835.10239.gracenote.com,Telemundo East,https://zpmc.tmsimg.com/h3/NowShowing/10239/s10239_ll_h15_ab.png
 I70.60222.schedulesdirect.org,QVC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0037GYJC.png_dark_360w_270h.png
 I70.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png
 I77.70436.schedulesdirect.org,Me TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png
@@ -1431,6 +1440,7 @@ I382.82470.schedulesdirect.org,Comedy TV,https://schedulesdirect-api20141201-log
 I383.78850.schedulesdirect.org,Justice Central,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78850_dark_360w_270h.png
 I384.83098.schedulesdirect.org,Revolt Music,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83098_dark_360w_270h.png
 I386.72094.schedulesdirect.org,Fuse Music,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72094_dark_360w_270h.png
+I395.10724.schedulesdirect.org,KTLA 5 Los Angeles,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51306_dark_360w_270h.png
 I402.11118.schedulesdirect.org,Univision,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png
 I402.68049.schedulesdirect.org,Univision HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png
 I403.14762.schedulesdirect.org,Univision West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png
@@ -1467,9 +1477,12 @@ I466.71914.schedulesdirect.org,ESPN Deportes,https://schedulesdirect-api20141201
 I469.111046.schedulesdirect.org,TyC Sports,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png
 I501.10240.schedulesdirect.org,HBO East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png
 I501.19548.schedulesdirect.org,HBO East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19548_dark_360w_270h.png
+I502.59368.schedulesdirect.org,HBO Hits,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BBSD.png_dark_360w_270h.png
+I503.59363.schedulesdirect.org,HBO Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BBV5.png_dark_360w_270h.png
 I504.10244.schedulesdirect.org,HBOP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png
 I504.19566.schedulesdirect.org,HBO West,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19548_dark_360w_270h.png
 I506.59839.schedulesdirect.org,HBO Comedy East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png
+I509.59845.schedulesdirect.org,HBO Movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BBX8.png_dark_360w_270h.png
 I511.24553.schedulesdirect.org,HBO East Latino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24553_dark_360w_270h.png
 I511.59837.schedulesdirect.org,HBO East Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24553_dark_360w_270h.png
 I515.10120.schedulesdirect.org,MAX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png
@@ -1574,10 +1587,12 @@ I216.31558.schedulesdirect.org,Omni 2,https://schedulesdirect-api20141201-logos.
 I217.10114.schedulesdirect.org,CA - Global News Peterborough,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10114_dark_360w_270h.png
 I218.60123.schedulesdirect.org,CHCH Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60123_dark_360w_270h.png
 I226.13834.schedulesdirect.org,CA - Global News Winnipeg,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png
+I229.68025.schedulesdirect.org,CA - CTV Ottawa,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10108_dark_360w_270h.png
 I233.10137.schedulesdirect.org,CA - Global News Kingston,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10137_dark_360w_270h.png
 I234.17406.schedulesdirect.org,CA - Global News Montreal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17406_dark_360w_270h.png
 I236.15993.schedulesdirect.org,CA - Global News Saskatoon,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15993_dark_360w_270h.png
 I245.15939.schedulesdirect.org,CA - CBC Calgary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15939_dark_360w_270h.png
+I250.44786.schedulesdirect.org,CA - CTV Vancouver,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44786_dark_360w_270h.png
 I251.10100.schedulesdirect.org,CA - CBC Vancouver,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png
 I252.10050.schedulesdirect.org,CA - Global News BC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10050_dark_360w_270h.png
 I253.10136.schedulesdirect.org,CA - City TV Vancouver,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10136_dark_360w_270h.png
@@ -1621,6 +1636,7 @@ I722.21063.schedulesdirect.org,RT International,https://schedulesdirect-api20141
 I800.44784.schedulesdirect.org,CA - CTV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44784_dark_360w_270h.png
 I802.46245.schedulesdirect.org,CA - CBC Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46245_dark_360w_270h.png
 I803.34200.schedulesdirect.org,CA - CITY TV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34200_dark_360w_270h.png
+I806.44786.schedulesdirect.org,CA - CTV Vancouver,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44786_dark_360w_270h.png
 I810.52745.schedulesdirect.org,Love Nature,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52745_dark_360w_270h.png
 I811.53128.schedulesdirect.org,BBC Earth,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53128_dark_360w_270h.png
 I845.49952.schedulesdirect.org,Sportsnet 360,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png
@@ -1631,6 +1647,7 @@ I1010.72723.schedulesdirect.org,CA - CBC Halifax,https://schedulesdirect-api2014
 I1011.72780.schedulesdirect.org,CA - CTV Halifax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10108_dark_360w_270h.png
 I1031.65995.schedulesdirect.org,CA - CTV Montreal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65995_dark_360w_270h.png
 I1033.72895.schedulesdirect.org,CA - City TV Montreal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72895_dark_360w_270h.png
+I1041.68025.schedulesdirect.org,CA - CTV Ottawa,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10108_dark_360w_270h.png
 I1050.46245.schedulesdirect.org,CA - CBC Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46245_dark_360w_270h.png
 I1051.44784.schedulesdirect.org,CA - CTV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44784_dark_360w_270h.png
 I1053.34200.schedulesdirect.org,CA - CITY TV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34200_dark_360w_270h.png
@@ -1639,11 +1656,14 @@ I1057.60123.schedulesdirect.org,CHCH Channel,https://schedulesdirect-api20141201
 I1090.72940.schedulesdirect.org,CA - CBC Winnipeg,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72940_dark_360w_270h.png
 I1131.62890.schedulesdirect.org,CA - CTV Calgary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62890_dark_360w_270h.png
 I1133.69551.schedulesdirect.org,CA - CITY TV Calgary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69551_dark_360w_270h.png
+I1151.44786.schedulesdirect.org,CA - CTV Vancouver,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44786_dark_360w_270h.png
 I1405.62111.schedulesdirect.org,Sportsnet Ontario,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62111_dark_360w_270h.png
 I1410.49952.schedulesdirect.org,Sportsnet 360,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png
 I1412.91308.schedulesdirect.org,beIN Sports,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91308_dark_360w_270h.png
+I1501.44786.schedulesdirect.org,CA - CTV Vancouver,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44786_dark_360w_270h.png
 I1502.62890.schedulesdirect.org,CA - CTV Calgary,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62890_dark_360w_270h.png
 I1510.44784.schedulesdirect.org,CA - CTV Toronto,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44784_dark_360w_270h.png
+I1511.68025.schedulesdirect.org,CA - CTV Ottawa,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10108_dark_360w_270h.png
 I1512.65995.schedulesdirect.org,CA - CTV Montreal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65995_dark_360w_270h.png
 I1515.72780.schedulesdirect.org,CA - CTV Halifax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10108_dark_360w_270h.png
 I1625.52745.schedulesdirect.org,Love Nature,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52745_dark_360w_270h.png

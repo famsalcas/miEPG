@@ -30,6 +30,8 @@
 5ec5761aabe4690007f6e047,Pluto TV Star Trek,https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png
 65662f8a2c46f300088a84cc,Pluto TV Series de Sci-Fi,https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png
 66b3af1c3a4ad200081c7d03,Z Nation,https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG_1785345339690.png
+6a904349f9b764ea89e9a92a,Pluto TV Series de Terror y Suspenso,https://images.pluto.tv/channels/6a904349f9b764ea89e9a92a/colorLogoPNG_1790171616604.png
+6aa7f375fad33265452a5658,Dead Zone,https://images.pluto.tv/channels/6aa7f375fad33265452a5658/colorLogoPNG_1790789032232.png
 5dcde1317578340009b751d0,Pluto TV Series,https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png
 655f626d57fe4a00085c7c3e,Pluto TV Series de Comedia,https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png
 655f636d954b020008c93299,Pluto TV Series de Drama,https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png

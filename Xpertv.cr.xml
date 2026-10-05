@@ -3,33 +3,6 @@
   <channel id="Xpertv.cr">
     <display-name>XperTV</display-name>
   </channel>
-  <programme start="20261004120000 -0600" stop="20261004130000 -0600" channel="Xpertv.cr">
-    <title>Instinto Viajero</title>
-  </programme>
-  <programme start="20261004130000 -0600" stop="20261004140000 -0600" channel="Xpertv.cr">
-    <title>Hacia lo mejor</title>
-  </programme>
-  <programme start="20261004140000 -0600" stop="20261004150000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261004150000 -0600" stop="20261004170000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261004170000 -0600" stop="20261004200000 -0600" channel="Xpertv.cr">
-    <title>Misa</title>
-  </programme>
-  <programme start="20261004200000 -0600" stop="20261004203000 -0600" channel="Xpertv.cr">
-    <title>Biografias con Alvaro Gamboa</title>
-  </programme>
-  <programme start="20261004203000 -0600" stop="20261004213000 -0600" channel="Xpertv.cr">
-    <title>Hacia lo mejor</title>
-  </programme>
-  <programme start="20261004213000 -0600" stop="20261004230000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261004230000 -0600" stop="20261005120000 -0600" channel="Xpertv.cr">
-    <title>OFF AIR</title>
-  </programme>
   <programme start="20261005120000 -0600" stop="20261005130000 -0600" channel="Xpertv.cr">
     <title>Serie</title>
   </programme>
@@ -198,7 +171,34 @@
   <programme start="20261010213000 -0600" stop="20261010230000 -0600" channel="Xpertv.cr">
     <title>Serie</title>
   </programme>
-  <programme start="20261010230000 -0600" stop="20261011000000 -0600" channel="Xpertv.cr">
+  <programme start="20261010230000 -0600" stop="20261011120000 -0600" channel="Xpertv.cr">
+    <title>OFF AIR</title>
+  </programme>
+  <programme start="20261011120000 -0600" stop="20261011130000 -0600" channel="Xpertv.cr">
+    <title>Instinto Viajero</title>
+  </programme>
+  <programme start="20261011130000 -0600" stop="20261011140000 -0600" channel="Xpertv.cr">
+    <title>Hacia lo mejor</title>
+  </programme>
+  <programme start="20261011140000 -0600" stop="20261011150000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261011150000 -0600" stop="20261011170000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261011170000 -0600" stop="20261011200000 -0600" channel="Xpertv.cr">
+    <title>Misa</title>
+  </programme>
+  <programme start="20261011200000 -0600" stop="20261011203000 -0600" channel="Xpertv.cr">
+    <title>Biografias con Alvaro Gamboa</title>
+  </programme>
+  <programme start="20261011203000 -0600" stop="20261011213000 -0600" channel="Xpertv.cr">
+    <title>Hacia lo mejor</title>
+  </programme>
+  <programme start="20261011213000 -0600" stop="20261011230000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261011230000 -0600" stop="20261012000000 -0600" channel="Xpertv.cr">
     <title>OFF AIR</title>
   </programme>
 </tv>
