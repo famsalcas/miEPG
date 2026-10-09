@@ -36,6 +36,7 @@
 0132,Iquique TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0132.jpg
 0133,Canal 2 San Antonio,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0133.jpg
 0134,SextaVisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0134.jpg
+0135,UCV2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0000.jpg
 0137,Hobikka TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0137.jpg
 0138,Tevex,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0138.jpg
 0139,ContiVisión,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0139.jpg
