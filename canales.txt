@@ -23,22 +23,22 @@ Norte Informativo TV,Norte-Informativo.cr
 Azteca Guatemala,AztecaGuatemala.gt
 2 de El Salvador,Canal2.sv
 2 de Nicaragua Televicentro,Canal2Televicentro.ni
-3 de Guatemala,Canal3.gt,-1
-4 de El Salvador,Canal4.sv,-1
+3 de Guatemala,Canal3.gt
+4 de El Salvador,Canal4.sv
 5 El Líder,Canal5.hn
-6 de El Salvador,Canal6.sv,-1
+6 de El Salvador,Canal6.sv
 6 Nica,Canal6.ni
-7 de Guatemala,Canal7-Televisiete.gt,-1
+7 de Guatemala,Canal7-Televisiete.gt
 Teleonce,Canal11-Teleonce.gt
 C11.Hon,Honduras,Canal11.hn
-12 de El Salvador,Canal12.sv,-1
+12 de El Salvador,Canal12.sv
 Trecevision,Guatemala,Canal13.gt
 13 Nica,Canal13.ni
 21 de El Salvador Megavision,Canal21.sv
 Antigua Guatemala,CanalAntigua.gt
 guatevision,Guatevision.gt
 15 Digital Quince Telemicro República Dominicana,Canal15.do
-2 de República Dominicana Teleantillas,TeleAntillas.dr,-1
+2 de República Dominicana Teleantillas,TeleAntillas.dr
 Teleceiba.hn,Teleceiba
 VTV.hon,VTV.hn
 RPC Pa,RPC
@@ -52,21 +52,21 @@ b015fcbafb496320954672321e746f8a,Canela.TodoCine
 CINE FAMILIAR HD.py,CineFamiliar
 CINE HISPANO HD.py,CineHispano
 CINE PREMIUM HD.py,CinePremium
-Cinelatino,Cinelatino.ni,-1
-Cine Mexicano,CineMexicano.mx,-1
+Cinelatino,Cinelatino.ni
+Cine Mexicano,CineMexicano.mx
 770c7e1794505869b1ce94c84905ecea,CineRomantico
-Cine Sony,CineSONY.us,-1
-Cinecanal Pacífico,Cinecanal.gt,-1
+Cine Sony,CineSONY.us
+Cinecanal Pacífico,Cinecanal.gt
 CineDinHD.Mx,CinemaDinamita
-Cinema Platino,CinemaPlatino.cr,-1
-Cinemax Panregional,Cinemax.ni,-1
+Cinema Platino,CinemaPlatino.cr
+Cinemax Panregional,Cinemax.ni
 Cinemax,Cinemax.mx
 643054b1fc3be59477853717-62167144ab2095ca85353ad6,CinePride
 Clarocinema,ClaroCinema
 Clover.cl,CloverChannel
 DePeliHD,DePelicula.cr
 DHE,DHE.ni
-Film &amp; Arts,FilmAndArts.ni,-4
+Film &amp; Arts,FilmAndArts.ni,-3
 FilmandCo.es,FilmandCo
 1e2a4ec82eb65f729ad7484337c0bcd4,FILMEX
 f53e794f65b781ff1a0d37843c704827,FILMEX-Accion
@@ -77,7 +77,7 @@ Great.American.Family.HD.us2,GreatAmericanCountry.us
 Hallmark.Channel.HD.us2,HallmarkChannel.us
 Hallmark.Family.us2,HallmarkFamily.us
 Hallmark.Mystery.HD.us2,HallmarkMoviesMysteries.us
-Lifetime Panregional,Lifetime.ni,-1
+Lifetime Panregional,Lifetime.ni
 Lifetime.Mx,Lifetime.mx
 0839,MC
 Multipr,Multipremier
@@ -122,11 +122,11 @@ Runtime Thriller-Terror,RuntimeTT.es
 Runtime Acción,RuntimeAccion
 RunTime Clásicos,RunTimeClasicos
 349e0f0840cf21b888bff327b41a2413,Scares
-Space Panregional,Space.ni,-1
-Studio Universal Panregional,StudioUniversal.ni,-1
+Space Panregional,Space.ni
+Studio Universal Panregional,StudioUniversal.ni
 Canal.Sundance.TV.(España).sv,SundanceTV
 TCM,TCM.cr
-TNT Centroamérica y Caribe,TNT.ni,-1
+TNT Centroamérica y Caribe,TNT.ni
 TNT.Mx,TNT.mx
 AYM Sports,AYMSports.mx
 735c2b7253c551ae9f07b07ea5278b75,Canela.TVDeportes
@@ -138,32 +138,32 @@ Combate,CombaTV
 DAZN 1,DAZN 1
 0431,DIRECTVSports.pe
 0433,DIRECTVSportsPlus.pe
-ESPN Sur,ESPN.ar,-1
+ESPN Sur,ESPN.ar
 4411,ESPN.ni
-ESPN 2 Sur,ESPN2.ar,-1
-ESPN 2 Norte,ESPN2.ni,-1
-ESPN 3 Sur,ESPN3.ar,-1
+ESPN 2 Sur,ESPN2.ar
+ESPN 2 Norte,ESPN2.ni
+ESPN 3 Sur,ESPN3.ar
 ESPN 3,ESPN3.ni,-1
-ESPN 4 Centroamérica y Caribe,ESPN4.ni,-1
-ESPN 4 Sur,ESPN4.ar,-1
-ESPN 5,ESPN5.co,-1
+ESPN 4 Centroamérica y Caribe,ESPN4.ni
+ESPN 4 Sur,ESPN4.ar
+ESPN 5,ESPN5.co
 ESPN 6 HD.cl,ESPN6.pe
 ESPN 7 HD.cl,ESPN7.pe
 ESPN Deportes,ESPNDeportes.us
 ESPN Premium,ESPNPremium.pe
 eurosport 1,eurosport 1,Eurosport4K.es
 FIFA+,FIFAplus
-Fox Costa Rica,Fox.cr,-1
-FOX+ Centroamérica,FoxPlus.cr,-1
-Fox Nicaragua,Fox.ni,-1
-Fox Guatemala,Fox.gt,-1
+Fox Costa Rica,Fox.cr
+FOX+ Centroamérica,FoxPlus.cr
+Fox Nicaragua,Fox.ni
+Fox Guatemala,Fox.gt
 FOX SPORTS AR,FOXSportsConoSur.ar
 FOX SPORTS 2 AR,FOXSports2.ar
 FOX SPORTS 3 AR,FOXSports3.ar
 Fox Sports Cono Norte,FOXSports.mx
 Fox Sports 2,FOXSports2.mx
 Fox Sports 3,FOXSports3.mx
-FUTV,FUTV,-1
+FUTV,FUTV
 GolPlay.es,GolPlay.es
 Golf Channel,GolfChannel.cr
 5c01df1759ee03633e7b272c,LuchaLibreAAA.pluto
