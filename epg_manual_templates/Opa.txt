@@ -16,8 +16,8 @@ Lunes,17:00,Programa
 Lunes,18:00,Central Noticias
 Lunes,19:00,Está Pasando
 Lunes,20:00,El Octavo Mandamiento
-Lunes,21:30,Equilibrio con Yaxún
-Lunes,22:30,Central Noticias
+Lunes,21:30,Central Noticias
+Lunes,22:30,Equilibrio con Yaxún
 Lunes,23:30,Testigo Directo
 Martes,00:30,El Octavo Mandamiento
 Martes,02:00,Central Ahora
@@ -33,8 +33,8 @@ Martes,17:00,Podcast Nereo Gabriel
 Martes,18:00,Central Noticias
 Martes,19:00,Está Pasando
 Martes,20:00,El Octavo Mandamiento
-Martes,21:30,Podcast Nereo Gabriel
-Martes,22:30,Central Noticias
+Martes,21:30,Central Noticias
+Martes,22:30,Podcast Nereo Gabriel
 Martes,23:30,Testigo Directo
 Miercoles,00:30,El Octavo Mandamiento
 Miercoles,02:00,Central Ahora
@@ -50,8 +50,8 @@ Miercoles,17:00,Alma de Mujer
 Miercoles,18:00,Central Mundo
 Miercoles,19:00,Está Pasando
 Miercoles,20:00,El Octavo Mandamiento
-Miercoles,21:30,Alma de Mujer
-Miercoles,22:30,Central Noticias
+Miercoles,21:30,Central Noticias
+Miercoles,22:30,Alma de Mujer
 Miercoles,23:30,Testigo Directo
 Jueves,00:30,El Octavo Mandamiento
 Jueves,02:00,Central Ahora
@@ -67,8 +67,8 @@ Jueves,17:00,A doble nudo
 Jueves,18:00,Central Noticias
 Jueves,19:00,Está Pasando
 Jueves,20:00,El Octavo Mandamiento
-Jueves,21:30,A doble nudo
-Jueves,22:30,Central NOticias
+Jueves,21:30,Central Noticias
+Jueves,22:30,A doble nudo
 Jueves,23:30,Testigo Directo
 Viernes,00:30,El Octavo Mandamiento
 Viernes,02:00,Central Ahora
@@ -80,12 +80,12 @@ Viernes,12:30,Testigo Directo
 Viernes,13:00,Fuera de juego
 Viernes,14:00,Central Ahora
 Viernes,16:00,Central Mundo
-Viernes,17:00,Eco Latinoamerica
+Viernes,17:00,Se vive la
 Viernes,18:00,Central Noticias
 Viernes,19:00,Está Pasando
 Viernes,20:00,El Octavo Mandamiento
-Viernes,21:30,Programa
-Viernes,22:30,Central Noticias
+Viernes,21:30,Central Noticias
+Viernes,22:30,Se vive la
 Viernes,23:30,Testigo Directo
 Sabado,00:30,El Octavo Mandamiento
 Sabado,02:00,Central Ahora
