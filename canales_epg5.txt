@@ -281,7 +281,9 @@
 0605,Love Nature,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0605.jpg
 0606,E! Entertainment TV,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0606.jpg
 0607,Discovery World,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0607.jpg
-0608,Food Network,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0608.jpg
+0608,Food Network • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0608.jpg
+1608,Food Network • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0608.jpg
+2608,Food Network • Feed 3,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0608.jpg
 0609,Lifetime • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0609.jpg
 1609,Lifetime • Feed 2,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0609.jpg
 0610,El Gourmet • Feed 1,https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/homero/0610.jpg
