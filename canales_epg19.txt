@@ -1052,7 +1052,6 @@ I658.96374.schedulesdirect.org,UK - ITV1 Wales HD,https://schedulesdirect-api201
 I664.69228.schedulesdirect.org,UK - ITV 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69228_dark_360w_270h.png
 I667.53060.schedulesdirect.org,UK - ITV3+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53060_dark_360w_270h.png
 I669.69374.schedulesdirect.org,UK - ITV 3,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69374_dark_360w_270h.png
-I672.61806.schedulesdirect.org,UK - ITV4+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61806_dark_360w_270h.png
 I674.69375.schedulesdirect.org,UK - ITV4 HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69375_dark_360w_270h.png
 I680.29067.schedulesdirect.org,UK - Jewellery Maker,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29067_dark_360w_270h.png
 I712.73970.schedulesdirect.org,UK - LEGEND,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73970_dark_360w_270h.png
