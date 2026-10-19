@@ -27,14 +27,13 @@
 5b4e94282d4ec87bdcbb87cd,Pluto TV Westerns,https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png
 561c5b0dada51f8004c4d855,Classic Movies Channel,https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG_1759790242932.png
 5f4d863b98b41000076cd061,Pluto TV Staff Picks,https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png
-6a7cc5a857bd65df5dadba5f,Pluto TV Hispanic Favorites,https://images.pluto.tv/channels/6a7cc5a857bd65df5dadba5f/colorLogoPNG_1788454948703.png
 58e55b14ad8e9c364d55f717,Flicks of Fury,https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png
 5c665db3e6c01b72c4977bc2,Pluto TV Cult Films,https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png
 6ab165fdeae99d62d7e541ff,Pluto TV Halloween,https://images.pluto.tv/channels/6ab165fdeae99d62d7e541ff/colorLogoPNG_1790715914846.png
+5c2d64ffbdf11b71587184b8,TV Land Sitcoms,https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png
 633354b63df9700007f6a1b7,Sitcom Legends,https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png
 6a28827ef4a627f3b07df1ea,Cheers,https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png
 66ba495ffe11e5000881f049,Frasier,https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG_1782142982491.png
-5c2d64ffbdf11b71587184b8,TV Land Sitcoms,https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png
 6a5ff6d9c868f8fd984e005c,Ghosts,https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785791941652.png
 6132619f9ddaa50007e7dd86,More TV Sitcoms,https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png
 66e0b4a3f0f17500085cc268,Hit Sitcoms,https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png
@@ -119,7 +118,6 @@
 613260e4bdb71c00070d63fa,More TV Drama,https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png
 654933e253fc970008390114,Universal Action,https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png
 62fa8176b9884200074ef5ae,The Walking Dead Universe,https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png
-62f2ce24f328e00007e7f55a,Stories by AMC,https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG_1787093171101.png
 5cbf6a868a1bce4a3d52a5e9,Midsomer Murders,https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png
 60f5d389985a0c0007357304,BritBox Mysteries,https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG_1786980983531.png
 6a4fd96d7652851fb490204f,Pluto TV Royal Drama,https://images.pluto.tv/channels/6a4fd96d7652851fb490204f/colorLogoPNG_1785178336408.png
@@ -235,7 +233,7 @@
 63d025db4e83e700086eaa96,LiveNOW from FOX,https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png
 5dc9b8223687ff000936ed79,CBS News New York,https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png
 5dc9b875e280c80009a8a44a,CBS News Los Angeles,https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png
-62cdcd05b9e7a10007399603,CBS News Sacramento,https://images.pluto.tv/channels/62cdcd05b9e7a10007399603/colorLogoPNG.png
+62cdca1cda044a00077b903d,CBS News Philadelphia,https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png
 55b179af994403942f3061d6,Newsmax2,https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png
 5d695f7db53adf96b78e7ce3,TODAY All Day,https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png
 5459795fc9f133a519bc0bef,Scripps News,https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png

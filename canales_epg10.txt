@@ -143,6 +143,7 @@
 608049aefa2b8ae93c2c3a63-67f45ef989089d917e1b1634,Unbeaten,https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png
 608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9,Racing America,https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png
 608049aefa2b8ae93c2c3a63-6aa9c4a3083227098739435b,Man City 24/7,https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png
+608049aefa2b8ae93c2c3a63-6abd4743e1b65dffbc995e44,NEWSMAX,https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png
 608049aefa2b8ae93c2c3a63-6aaa2279083227098739435f,Nomad Travel,https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png
 608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353,Real Emergency,https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png
 608049aefa2b8ae93c2c3a63-6227c215c9f485cc7afe8c41,Surfer TV,https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png
@@ -198,7 +199,7 @@
 608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8,TG Junior,https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png
 608049aefa2b8ae93c2c3a63-689e1f0dd84bfb3d54b6756f,Bizaar,https://provider-static.plex.tv/epg/cms/production/f40521f6-1074-4664-b673-96a2eab164a0/Bizaar_Logo_For_Dark_Background_-_1500_x_1000_-_Michael_Bromberg.png
 608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a661,pocket.watch Game-On,https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png
-608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png
+608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png
 608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb,123GO!,https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png
 608049aefa2b8ae93c2c3a63-654eb862dde2222e8ba551f1,Stingray Holidayscapes,https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png
 608049aefa2b8ae93c2c3a63-5fd115b8b7ef8d002dcf1817,Waypoint TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png
@@ -210,6 +211,7 @@
 608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0,Made In Hollywood,https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png
 608049aefa2b8ae93c2c3a63-652875586425fdb1f32d2169,World Surf League 24/7,https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png
 608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
+608049aefa2b8ae93c2c3a63-6aaa1f33083227098739435d,VEEPS Concert Pass,https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png
 608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c,Journy,https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png
 608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01,ACL Cornhole TV,https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png
 608049aefa2b8ae93c2c3a63-6970fdabbde579fb71262401,Bowling TV,https://provider-static.plex.tv/epg/cms/production/573ed04e-775e-41c9-a367-81b9597eff00/Channel_Logo_Color_Evann_D___AdamoRDX_WHT_LETTERS.png
@@ -219,7 +221,6 @@
 608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299,Euronews,https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png
 608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f,More U,https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png
 608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc,The Reuters 60,https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png
-608049aefa2b8ae93c2c3a63-5fb81660b7ad2d002dcb7335,Newsmax2,https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png
 608049aefa2b8ae93c2c3a63-5f170f01b898490041b49dd1,Yahoo Finance,https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png
 608049aefa2b8ae93c2c3a63-61aa9f50784a2161d3caf7fb,Remember the ‘80s,https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png
 608049aefa2b8ae93c2c3a63-61aa9e73784a2161d3caf7f9,Stingray Hot Country,https://provider-static.plex.tv/epg/cms/production/21cb88d9-8ca5-4a3c-b8dc-ca5b42ed351d/13212_SM_Plex_Logos_Hot-Country_1500x1000_V01-white_-_Olivia_bronfman.png

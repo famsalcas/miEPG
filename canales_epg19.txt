@@ -1253,7 +1253,7 @@ I70.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.d
 I77.70436.schedulesdirect.org,Me TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png
 I80.78851.schedulesdirect.org,COZI TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png
 I81.89922.schedulesdirect.org,Grit,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002FEPTV.png_dark_360w_270h.png
-I82.73067.schedulesdirect.org,Bounce,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png
+I82.73067.schedulesdirect.org,Bounce,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003S4G28.png_dark_360w_270h.png
 I202.10142.schedulesdirect.org,CNN US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_dark_360w_270h.png
 I202.58646.schedulesdirect.org,CNN US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png
 I204.10145.schedulesdirect.org,CNN Headline News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png
