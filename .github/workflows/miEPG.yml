@@ -1,7 +1,7 @@
 name: miEPG
 on:
   schedule:
-    - cron: '0 10 * * *' # 4:00 AM hora Costa Rica (UTC-6, todo el año sin cambio de horario)
+    - cron: '17 10 * * *' # 4:00 AM hora Costa Rica (UTC-6, todo el año sin cambio de horario)
   workflow_dispatch:
 permissions:
    contents: write
