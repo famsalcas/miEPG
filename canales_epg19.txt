@@ -608,8 +608,8 @@ I137.47425.schedulesdirect.org,CLOCAL,
 I141.70312.schedulesdirect.org,Sony Movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png
 I142.19385.schedulesdirect.org,Sony Movies HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png
 I143.88517.schedulesdirect.org,SENTTVH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png
-I146.16141.schedulesdirect.org,Cartoon Network Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png
-I147.101735.schedulesdirect.org,Cartoon Network LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png
+I146.16141.schedulesdirect.org,Cartoon Network Latinoamerica,
+I147.101735.schedulesdirect.org,Cartoon Network LatinoAmerica HD,
 I149.60048.schedulesdirect.org,TOONHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60048_dark_360w_270h.png
 I152.10098.schedulesdirect.org,CBS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png
 I156.44479.schedulesdirect.org,CGTN Español,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_dark_360w_270h.png
@@ -961,7 +961,6 @@ I1236.89973.schedulesdirect.org,ZOOMOSP,https://schedulesdirect-api20141201-logo
 I9.89562.schedulesdirect.org,4SEVENH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89562_dark_360w_270h.png
 I12.109246.schedulesdirect.org,UK - 5 Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109246_dark_360w_270h.png
 I15.52336.schedulesdirect.org,UK - 5 Star,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52336_dark_360w_270h.png
-I18.56888.schedulesdirect.org,UK - 5 Select,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56888_dark_360w_270h.png
 I22.52335.schedulesdirect.org,UK - 5 USA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52335_dark_360w_270h.png
 I23.56890.schedulesdirect.org,UK - 5 USA +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56890_dark_360w_270h.png
 I28.56894.schedulesdirect.org,UK - AJ TAK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56894_dark_360w_270h.png
@@ -1150,34 +1149,34 @@ I602.21345.gracenote.com,Fanduel TV,https://zpmc.tmsimg.com/h3/NowShowing/21345/
 I630.71465.gracenote.com,NBC Sports Boston,https://zpmc.tmsimg.com/h3/NowShowing/71465/s11104_ll_h15_ac.png
 I634.80169.gracenote.com,MSG Network,https://zpmc.tmsimg.com/h3/NowShowing/80169/s10979_ll_h15_ab.png
 I639.51654.gracenote.com,SNY SportsNet New York,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
-I646.71288.gracenote.com,Fanduel Sports Network South HD,https://zpmc.tmsimg.com/h3/NowShowing/71288/s12410_ll_h15_ac.png
 I646.71286.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/71286/s12410_ll_h15_ac.png
-I649.71271.gracenote.com,Fanduel Sports Network Southeast HD,https://zpmc.tmsimg.com/h3/NowShowing/71271/s20789_ll_h15_ac.png
+I646.71288.gracenote.com,Fanduel Sports Network South HD,https://zpmc.tmsimg.com/h3/NowShowing/71288/s12410_ll_h15_ac.png
 I649.71268.gracenote.com,Fanduel Sports Network Southeast,https://zpmc.tmsimg.com/h3/NowShowing/71268/s61138_ll_h15_ac.png
-I653.71266.gracenote.com,Fanduel Sports Network Sun HD,https://zpmc.tmsimg.com/h3/NowShowing/71266/s61084_ll_h15_ac.png
+I649.71271.gracenote.com,Fanduel Sports Network Southeast HD,https://zpmc.tmsimg.com/h3/NowShowing/71271/s20789_ll_h15_ac.png
 I653.71262.gracenote.com,Fanduel Sports Network Sun,https://zpmc.tmsimg.com/h3/NowShowing/71262/s61084_ll_h15_ac.png
-I654.71238.gracenote.com,Fanduel Sports Network Florida HD,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
+I653.71266.gracenote.com,Fanduel Sports Network Sun HD,https://zpmc.tmsimg.com/h3/NowShowing/71266/s61084_ll_h15_ac.png
 I654.71236.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
-I660.101522.gracenote.com,Fanduel Sports Network Ohio HD,https://zpmc.tmsimg.com/h3/NowShowing/101522/s11106_ll_h15_ac.png
+I654.71238.gracenote.com,Fanduel Sports Network Florida HD,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
 I660.101518.gracenote.com,Fanduel Sports Network Ohio,https://zpmc.tmsimg.com/h3/NowShowing/101518/s49691_ll_h15_ac.png
-I663.71234.gracenote.com,Fanduel Sports Network Detroit HD,https://zpmc.tmsimg.com/h3/NowShowing/71234/s17619_ll_h15_ac.png
+I660.101522.gracenote.com,Fanduel Sports Network Ohio HD,https://zpmc.tmsimg.com/h3/NowShowing/101522/s11106_ll_h15_ac.png
 I663.71232.gracenote.com,Fanduel Sports Network Detroit,https://zpmc.tmsimg.com/h3/NowShowing/71232/s17619_ll_h15_ac.png
-I668.71264.gracenote.com,Fanduel Sports Network North HD,https://zpmc.tmsimg.com/h3/NowShowing/71264/s10977_ll_h15_ac.png
+I663.71234.gracenote.com,Fanduel Sports Network Detroit HD,https://zpmc.tmsimg.com/h3/NowShowing/71234/s17619_ll_h15_ac.png
 I668.71260.gracenote.com,Fanduel Sports Network North,https://zpmc.tmsimg.com/h3/NowShowing/71260/s10977_ll_h15_ac.png
-I669.71258.gracenote.com,Fanduel Sports Network Wisconsin HD,https://zpmc.tmsimg.com/h3/NowShowing/71258/s16348_ll_h15_ac.png
+I668.71264.gracenote.com,Fanduel Sports Network North HD,https://zpmc.tmsimg.com/h3/NowShowing/71264/s10977_ll_h15_ac.png
 I669.71253.gracenote.com,Fanduel Sports Network Wisconsin,https://zpmc.tmsimg.com/h3/NowShowing/71253/s16348_ll_h15_ac.png
-I671.71244.gracenote.com,Fanduel Sports Network Midwest HD,https://zpmc.tmsimg.com/h3/NowShowing/71244/s11058_ll_h15_ac.png
+I669.71258.gracenote.com,Fanduel Sports Network Wisconsin HD,https://zpmc.tmsimg.com/h3/NowShowing/71258/s16348_ll_h15_ac.png
 I671.71240.gracenote.com,Fanduel Sports Network Midwest,https://zpmc.tmsimg.com/h3/NowShowing/71240/s11058_ll_h15_ac.png
+I671.71244.gracenote.com,Fanduel Sports Network Midwest HD,https://zpmc.tmsimg.com/h3/NowShowing/71244/s11058_ll_h15_ac.png
 I674.178238.gracenote.com,Space City Home Network,https://zpmc.tmsimg.com/h3/NowShowing/178238/s77744_ll_h15_ac.png
 I675.181304.gracenote.com,Fanduel Sports Network Oklahoma,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
-I676.71292.gracenote.com,Fanduel Sports Network Southwest HD,https://zpmc.tmsimg.com/h3/NowShowing/71292/s59629_ll_h15_ac.png
 I676.71290.gracenote.com,Fanduel Sports Network Southwest,https://zpmc.tmsimg.com/h3/NowShowing/71290/s59629_ll_h15_ac.png
+I676.71292.gracenote.com,Fanduel Sports Network Southwest HD,https://zpmc.tmsimg.com/h3/NowShowing/71292/s59629_ll_h15_ac.png
 I690.87106.gracenote.com,Spectrum SportsNet LA,https://zpmc.tmsimg.com/h3/NowShowing/87106/s77422_ll_h15_ac.png
 I691.77423.gracenote.com,Spectrum SportsNet,https://zpmc.tmsimg.com/h3/NowShowing/77423/s77423_ll_h15_ac.png
-I692.71284.gracenote.com,Fanduel Sports Network West HD,https://zpmc.tmsimg.com/h3/NowShowing/71284/GNLZZGG0033CBPK.png
 I692.71282.gracenote.com,Fanduel Sports Network West,https://zpmc.tmsimg.com/h3/NowShowing/71282/GNLZZGG0033CBPK.png
-I693.71276.gracenote.com,Fanduel Sports Network SoCal HD,https://zpmc.tmsimg.com/h3/NowShowing/71276/s16743_ll_h15_ac.png
+I692.71284.gracenote.com,Fanduel Sports Network West HD,https://zpmc.tmsimg.com/h3/NowShowing/71284/GNLZZGG0033CBPK.png
 I693.71274.gracenote.com,Fanduel Sports Network SoCal,https://zpmc.tmsimg.com/h3/NowShowing/71274/s16743_ll_h15_ac.png
+I693.71276.gracenote.com,Fanduel Sports Network SoCal HD,https://zpmc.tmsimg.com/h3/NowShowing/71276/s16743_ll_h15_ac.png
 I1702.46275.gracenote.com,Yes Network,https://zpmc.tmsimg.com/h3/NowShowing/46275/s46275_ll_h15_aa.png
 I1720.50728.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com/h3/NowShowing/50728/s50728_ll_h15_ac.png
 I1724.75970.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/75970/s12410_ll_h15_ac.png
@@ -1247,7 +1246,6 @@ I428.49882.gracenote.com,Sportsnet Pittsburgh,https://zpmc.tmsimg.com/h3/NowShow
 I432.59607.gracenote.com,Masn,https://zpmc.tmsimg.com/h3/NowShowing/59607/GNLZZGG002QC98G.png
 I434.35038.gracenote.com,NESN,https://zpmc.tmsimg.com/h3/NowShowing/35038/s35038_ll_h15_ac.png
 I438.73565.gracenote.com,NBC Sports California,https://zpmc.tmsimg.com/h3/NowShowing/73565/s45540_ll_h15_ad.png
-I835.10239.gracenote.com,Telemundo East,https://zpmc.tmsimg.com/h3/NowShowing/10239/s10239_ll_h15_ab.png
 I70.60222.schedulesdirect.org,QVC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0037GYJC.png_dark_360w_270h.png
 I70.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png
 I77.70436.schedulesdirect.org,Me TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png

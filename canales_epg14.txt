@@ -30,6 +30,7 @@
 58e55b14ad8e9c364d55f717,Flicks of Fury,https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png
 5c665db3e6c01b72c4977bc2,Pluto TV Cult Films,https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png
 6ab165fdeae99d62d7e541ff,Pluto TV Halloween,https://images.pluto.tv/channels/6ab165fdeae99d62d7e541ff/colorLogoPNG_1790715914846.png
+66ff1d5a565d3a000892bdcd,Stingray Holidayscapes,https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/colorLogoPNG_1792078736408.png
 5c2d64ffbdf11b71587184b8,TV Land Sitcoms,https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png
 633354b63df9700007f6a1b7,Sitcom Legends,https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png
 6a28827ef4a627f3b07df1ea,Cheers,https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png
@@ -131,6 +132,7 @@
 6532e6a9bdf3cf000887ab29,More True Crime,https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png
 6887aaade3703b7d42b64be8,The First 48 by A&amp;E,https://images.pluto.tv/channels/6887aaade3703b7d42b64be8/colorLogoPNG_1754999153420.png
 6887a4e01067b66fa16966ec,Live PD Presents,https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png
+6aab1ec6f2eaa8924745678e,A&amp;E Live PD: Greatest Shifts,https://images.pluto.tv/channels/6aab1ec6f2eaa8924745678e/colorLogoPNG_1790808102594.png
 65492fc7056b9700088560b5,American Crimes,https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png
 637413d8531e0c0007442d6d,Dateline 24/7,https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png
 6176f39e709f160007ec61c3,48 Hours,https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png
@@ -144,13 +146,15 @@
 6000a5a9e767980007b497ca,A&amp;E Crime 360,https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogoPNG_1767745470551.png
 5e1f7e089f23700009d66303,COPS,https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png
 65244c403fd33c0008ffff31,Car Chase,https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png
+6aab1ea02cfd341eb5036c5a,A&amp;E’s Alaska State Troopers,https://images.pluto.tv/channels/6aab1ea02cfd341eb5036c5a/colorLogoPNG_1791210755629.png
 5bee1a7359ee03633e780238,Dog the Bounty Hunter,https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG_1767736765611.png
 6887a8fd8e92b5e0a7244e88,Ancient Aliens,https://images.pluto.tv/channels/6887a8fd8e92b5e0a7244e88/colorLogoPNG_1753992701393.png
 5ef3958c66ac540007d6e6a7,Dark Shadows,https://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png
 5812bcc8237a6ff45d16c407,Spike Pluto TV,https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png
 5d8bf0b06d2d855ee15115e3,Pluto TV Reality,https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png
 60a3d889a5b3690008dc7fe8,Bar Rescue,https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG_1780596469446.png
-6565413e4261ca0008215320,Pickers &amp; Pawn,https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG.png
+6aab1f18c349e6a78bb489ad,Pawn Stars Plus by History,https://images.pluto.tv/channels/6aab1f18c349e6a78bb489ad/colorLogoPNG_1790808022808.png
+6565413e4261ca0008215320,American Pickers Plus by History,https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG_1792511758070.png
 6887aaf4e3703b7d42b71a1e,Storage Wars by A&amp;E,https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/colorLogoPNG_1784129527094.png
 6000a6f4c3f8550008fc9b91,Xtreme Outdoor by HISTORY,https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG_1767745185882.png
 5c393cad2de254456f7ef8c2,Spike Outdoors,https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png
@@ -162,6 +166,7 @@
 5adf96e3e738977e2c31cb04,Pluto TV Paranormal,https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png
 64e561a4354251000823a0e0,Ghost Hunters,https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png
 5812b3a4249444e05d09cc46,Pluto TV Cars,https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png
+6aab1ef220ec28a21adca712,Torque by History,https://images.pluto.tv/channels/6aab1ef220ec28a21adca712/colorLogoPNG_1791210850118.png
 636adc255bcf470007d6e0e2,Top Gear,https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png
 627d355aa95efd00077afcc7,Cheaters,https://images.pluto.tv/channels/627d355aa95efd00077afcc7/colorLogoPNG.png
 651f239d9c7aeb0008286823,Dating Disasters,https://images.pluto.tv/channels/651f239d9c7aeb0008286823/colorLogoPNG.png

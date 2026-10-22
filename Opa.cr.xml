@@ -3,153 +3,6 @@
   <channel id="Opa.cr">
     <display-name>Opa Canal 36</display-name>
   </channel>
-  <programme start="20261019080000 -0600" stop="20261019090000 -0600" channel="Opa.cr">
-    <title>Central Noticias</title>
-  </programme>
-  <programme start="20261019090000 -0600" stop="20261019100000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20261019100000 -0600" stop="20261019110000 -0600" channel="Opa.cr">
-    <title>Misa</title>
-  </programme>
-  <programme start="20261019110000 -0600" stop="20261019123000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20261019123000 -0600" stop="20261019130000 -0600" channel="Opa.cr">
-    <title>Testigo Directo</title>
-  </programme>
-  <programme start="20261019130000 -0600" stop="20261019140000 -0600" channel="Opa.cr">
-    <title>Fuera de juego</title>
-  </programme>
-  <programme start="20261019140000 -0600" stop="20261019160000 -0600" channel="Opa.cr">
-    <title>Central Ahora</title>
-  </programme>
-  <programme start="20261019160000 -0600" stop="20261019170000 -0600" channel="Opa.cr">
-    <title>Central Mundo</title>
-  </programme>
-  <programme start="20261019170000 -0600" stop="20261019180000 -0600" channel="Opa.cr">
-    <title>Programa</title>
-  </programme>
-  <programme start="20261019180000 -0600" stop="20261019190000 -0600" channel="Opa.cr">
-    <title>Central Noticias</title>
-  </programme>
-  <programme start="20261019190000 -0600" stop="20261019200000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20261019200000 -0600" stop="20261019213000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20261019213000 -0600" stop="20261019223000 -0600" channel="Opa.cr">
-    <title>Central Noticias</title>
-  </programme>
-  <programme start="20261019223000 -0600" stop="20261019233000 -0600" channel="Opa.cr">
-    <title>Equilibrio con Yaxún</title>
-  </programme>
-  <programme start="20261019233000 -0600" stop="20261020003000 -0600" channel="Opa.cr">
-    <title>Testigo Directo</title>
-  </programme>
-  <programme start="20261020003000 -0600" stop="20261020020000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20261020020000 -0600" stop="20261020080000 -0600" channel="Opa.cr">
-    <title>Central Ahora</title>
-  </programme>
-  <programme start="20261020080000 -0600" stop="20261020090000 -0600" channel="Opa.cr">
-    <title>Central Noticias</title>
-  </programme>
-  <programme start="20261020090000 -0600" stop="20261020100000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20261020100000 -0600" stop="20261020110000 -0600" channel="Opa.cr">
-    <title>Misa</title>
-  </programme>
-  <programme start="20261020110000 -0600" stop="20261020123000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20261020123000 -0600" stop="20261020130000 -0600" channel="Opa.cr">
-    <title>Testigo Directo</title>
-  </programme>
-  <programme start="20261020130000 -0600" stop="20261020140000 -0600" channel="Opa.cr">
-    <title>Fuera de juego</title>
-  </programme>
-  <programme start="20261020140000 -0600" stop="20261020160000 -0600" channel="Opa.cr">
-    <title>Central Ahora</title>
-  </programme>
-  <programme start="20261020160000 -0600" stop="20261020170000 -0600" channel="Opa.cr">
-    <title>Central Mundo</title>
-  </programme>
-  <programme start="20261020170000 -0600" stop="20261020180000 -0600" channel="Opa.cr">
-    <title>Podcast Nereo Gabriel</title>
-  </programme>
-  <programme start="20261020180000 -0600" stop="20261020190000 -0600" channel="Opa.cr">
-    <title>Central Noticias</title>
-  </programme>
-  <programme start="20261020190000 -0600" stop="20261020200000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20261020200000 -0600" stop="20261020213000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20261020213000 -0600" stop="20261020223000 -0600" channel="Opa.cr">
-    <title>Central Noticias</title>
-  </programme>
-  <programme start="20261020223000 -0600" stop="20261020233000 -0600" channel="Opa.cr">
-    <title>Podcast Nereo Gabriel</title>
-  </programme>
-  <programme start="20261020233000 -0600" stop="20261021003000 -0600" channel="Opa.cr">
-    <title>Testigo Directo</title>
-  </programme>
-  <programme start="20261021003000 -0600" stop="20261021020000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20261021020000 -0600" stop="20261021080000 -0600" channel="Opa.cr">
-    <title>Central Ahora</title>
-  </programme>
-  <programme start="20261021080000 -0600" stop="20261021090000 -0600" channel="Opa.cr">
-    <title>Central Noticias</title>
-  </programme>
-  <programme start="20261021090000 -0600" stop="20261021100000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20261021100000 -0600" stop="20261021110000 -0600" channel="Opa.cr">
-    <title>Misa</title>
-  </programme>
-  <programme start="20261021110000 -0600" stop="20261021123000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20261021123000 -0600" stop="20261021130000 -0600" channel="Opa.cr">
-    <title>Testigo Directo</title>
-  </programme>
-  <programme start="20261021130000 -0600" stop="20261021140000 -0600" channel="Opa.cr">
-    <title>Fuera de juego</title>
-  </programme>
-  <programme start="20261021140000 -0600" stop="20261021160000 -0600" channel="Opa.cr">
-    <title>Central Ahora</title>
-  </programme>
-  <programme start="20261021160000 -0600" stop="20261021170000 -0600" channel="Opa.cr">
-    <title>Central Mundo</title>
-  </programme>
-  <programme start="20261021170000 -0600" stop="20261021180000 -0600" channel="Opa.cr">
-    <title>Alma de Mujer</title>
-  </programme>
-  <programme start="20261021180000 -0600" stop="20261021190000 -0600" channel="Opa.cr">
-    <title>Central Mundo</title>
-  </programme>
-  <programme start="20261021190000 -0600" stop="20261021200000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20261021200000 -0600" stop="20261021213000 -0600" channel="Opa.cr">
-    <title>El Octavo Mandamiento</title>
-  </programme>
-  <programme start="20261021213000 -0600" stop="20261021223000 -0600" channel="Opa.cr">
-    <title>Central Noticias</title>
-  </programme>
-  <programme start="20261021223000 -0600" stop="20261021233000 -0600" channel="Opa.cr">
-    <title>Alma de Mujer</title>
-  </programme>
-  <programme start="20261021233000 -0600" stop="20261022003000 -0600" channel="Opa.cr">
-    <title>Testigo Directo</title>
-  </programme>
   <programme start="20261022003000 -0600" stop="20261022020000 -0600" channel="Opa.cr">
     <title>El Octavo Mandamiento</title>
   </programme>
@@ -315,7 +168,154 @@
   <programme start="20261025220000 -0600" stop="20261025230000 -0600" channel="Opa.cr">
     <title>Está Pasando</title>
   </programme>
-  <programme start="20261025230000 -0600" stop="20261026000000 -0600" channel="Opa.cr">
+  <programme start="20261025230000 -0600" stop="20261026080000 -0600" channel="Opa.cr">
     <title>Charlas</title>
+  </programme>
+  <programme start="20261026080000 -0600" stop="20261026090000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20261026090000 -0600" stop="20261026100000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20261026100000 -0600" stop="20261026110000 -0600" channel="Opa.cr">
+    <title>Misa</title>
+  </programme>
+  <programme start="20261026110000 -0600" stop="20261026123000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20261026123000 -0600" stop="20261026130000 -0600" channel="Opa.cr">
+    <title>Testigo Directo</title>
+  </programme>
+  <programme start="20261026130000 -0600" stop="20261026140000 -0600" channel="Opa.cr">
+    <title>Fuera de juego</title>
+  </programme>
+  <programme start="20261026140000 -0600" stop="20261026160000 -0600" channel="Opa.cr">
+    <title>Central Ahora</title>
+  </programme>
+  <programme start="20261026160000 -0600" stop="20261026170000 -0600" channel="Opa.cr">
+    <title>Central Mundo</title>
+  </programme>
+  <programme start="20261026170000 -0600" stop="20261026180000 -0600" channel="Opa.cr">
+    <title>Programa</title>
+  </programme>
+  <programme start="20261026180000 -0600" stop="20261026190000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20261026190000 -0600" stop="20261026200000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20261026200000 -0600" stop="20261026213000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20261026213000 -0600" stop="20261026223000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20261026223000 -0600" stop="20261026233000 -0600" channel="Opa.cr">
+    <title>Equilibrio con Yaxún</title>
+  </programme>
+  <programme start="20261026233000 -0600" stop="20261027003000 -0600" channel="Opa.cr">
+    <title>Testigo Directo</title>
+  </programme>
+  <programme start="20261027003000 -0600" stop="20261027020000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20261027020000 -0600" stop="20261027080000 -0600" channel="Opa.cr">
+    <title>Central Ahora</title>
+  </programme>
+  <programme start="20261027080000 -0600" stop="20261027090000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20261027090000 -0600" stop="20261027100000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20261027100000 -0600" stop="20261027110000 -0600" channel="Opa.cr">
+    <title>Misa</title>
+  </programme>
+  <programme start="20261027110000 -0600" stop="20261027123000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20261027123000 -0600" stop="20261027130000 -0600" channel="Opa.cr">
+    <title>Testigo Directo</title>
+  </programme>
+  <programme start="20261027130000 -0600" stop="20261027140000 -0600" channel="Opa.cr">
+    <title>Fuera de juego</title>
+  </programme>
+  <programme start="20261027140000 -0600" stop="20261027160000 -0600" channel="Opa.cr">
+    <title>Central Ahora</title>
+  </programme>
+  <programme start="20261027160000 -0600" stop="20261027170000 -0600" channel="Opa.cr">
+    <title>Central Mundo</title>
+  </programme>
+  <programme start="20261027170000 -0600" stop="20261027180000 -0600" channel="Opa.cr">
+    <title>Podcast Nereo Gabriel</title>
+  </programme>
+  <programme start="20261027180000 -0600" stop="20261027190000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20261027190000 -0600" stop="20261027200000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20261027200000 -0600" stop="20261027213000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20261027213000 -0600" stop="20261027223000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20261027223000 -0600" stop="20261027233000 -0600" channel="Opa.cr">
+    <title>Podcast Nereo Gabriel</title>
+  </programme>
+  <programme start="20261027233000 -0600" stop="20261028003000 -0600" channel="Opa.cr">
+    <title>Testigo Directo</title>
+  </programme>
+  <programme start="20261028003000 -0600" stop="20261028020000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20261028020000 -0600" stop="20261028080000 -0600" channel="Opa.cr">
+    <title>Central Ahora</title>
+  </programme>
+  <programme start="20261028080000 -0600" stop="20261028090000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20261028090000 -0600" stop="20261028100000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20261028100000 -0600" stop="20261028110000 -0600" channel="Opa.cr">
+    <title>Misa</title>
+  </programme>
+  <programme start="20261028110000 -0600" stop="20261028123000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20261028123000 -0600" stop="20261028130000 -0600" channel="Opa.cr">
+    <title>Testigo Directo</title>
+  </programme>
+  <programme start="20261028130000 -0600" stop="20261028140000 -0600" channel="Opa.cr">
+    <title>Fuera de juego</title>
+  </programme>
+  <programme start="20261028140000 -0600" stop="20261028160000 -0600" channel="Opa.cr">
+    <title>Central Ahora</title>
+  </programme>
+  <programme start="20261028160000 -0600" stop="20261028170000 -0600" channel="Opa.cr">
+    <title>Central Mundo</title>
+  </programme>
+  <programme start="20261028170000 -0600" stop="20261028180000 -0600" channel="Opa.cr">
+    <title>Alma de Mujer</title>
+  </programme>
+  <programme start="20261028180000 -0600" stop="20261028190000 -0600" channel="Opa.cr">
+    <title>Central Mundo</title>
+  </programme>
+  <programme start="20261028190000 -0600" stop="20261028200000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20261028200000 -0600" stop="20261028213000 -0600" channel="Opa.cr">
+    <title>El Octavo Mandamiento</title>
+  </programme>
+  <programme start="20261028213000 -0600" stop="20261028223000 -0600" channel="Opa.cr">
+    <title>Central Noticias</title>
+  </programme>
+  <programme start="20261028223000 -0600" stop="20261028233000 -0600" channel="Opa.cr">
+    <title>Alma de Mujer</title>
+  </programme>
+  <programme start="20261028233000 -0600" stop="20261029003000 -0600" channel="Opa.cr">
+    <title>Testigo Directo</title>
   </programme>
 </tv>

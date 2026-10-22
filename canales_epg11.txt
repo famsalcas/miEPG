@@ -360,7 +360,8 @@ USBD700012OA,The Bob Ross Channel,https://tvpnlogopus.samsungcloud.tv/platform/i
 USBB32000251N,TODAY All Day,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000251N_20260421T142054SQUARE.png
 USAJ3504714A,Cheddar News,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20260610T182304SQUARE.png
 USBB1500001GD,USA Today,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20250325T020255SQUARE.png
-USAJ34000022E,Nosey,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000022E_20260609T214522SQUARE.png
+USAJ34000022E,Nosey,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000022E_20261021T010920SQUARE.png
+US2300002A6,Confess by Nosey,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2300002A6_20261020T100515SQUARE.png
 USBD300006A6,Divorce Court,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300006A6_20260421T141839SQUARE.png
 US700020AX,Cutlers Court,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700020AX_20250929T231748SQUARE.png
 US3900016OI,The Judge Judy Channel,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900016OI_20260721T033025SQUARE.png
@@ -523,7 +524,7 @@ USAJ1700009QJ,FreeTV Estelar,https://tvpnlogopus.samsungcloud.tv/platform/image/
 USBD3300004RH,XITE Hits,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20260421T141846SQUARE.png
 USBB320000647,XITE 80s Flashback,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20260512T070257SQUARE.png
 USBB3200007AK,XITE 90s Throwback,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png
-USBD350003932,XITE The Beatles,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20261006T051013SQUARE.png
+USBD350003932,XITE Celebrates,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20261020T100511SQUARE.png
 USBD3300006O3,XITE Country Today,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20260421T141848SQUARE.png
 USBD3300011UT,XITE Classic Country,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20260421T141856SQUARE.png
 US46000072L,XITE Christian Hits,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000072L_20260421T141745SQUARE.png

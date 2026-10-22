@@ -3,69 +3,6 @@
   <channel id="Xpertv.cr">
     <display-name>XperTV</display-name>
   </channel>
-  <programme start="20261019120000 -0600" stop="20261019130000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261019130000 -0600" stop="20261019133000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261019133000 -0600" stop="20261019140000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261019140000 -0600" stop="20261019150000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261019150000 -0600" stop="20261019163000 -0600" channel="Xpertv.cr">
-    <title>Programa</title>
-  </programme>
-  <programme start="20261019163000 -0600" stop="20261019190000 -0600" channel="Xpertv.cr">
-    <title>Escuela Teletica</title>
-  </programme>
-  <programme start="20261019190000 -0600" stop="20261019220000 -0600" channel="Xpertv.cr">
-    <title>Hacia lo mejor</title>
-  </programme>
-  <programme start="20261019220000 -0600" stop="20261019230000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261019230000 -0600" stop="20261020130000 -0600" channel="Xpertv.cr">
-    <title>OFF AIR</title>
-  </programme>
-  <programme start="20261020130000 -0600" stop="20261020140000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261020140000 -0600" stop="20261020160000 -0600" channel="Xpertv.cr">
-    <title>Cocina de hoy</title>
-  </programme>
-  <programme start="20261020160000 -0600" stop="20261020200000 -0600" channel="Xpertv.cr">
-    <title>Animados</title>
-  </programme>
-  <programme start="20261020200000 -0600" stop="20261020210000 -0600" channel="Xpertv.cr">
-    <title>Instinto Viajero</title>
-  </programme>
-  <programme start="20261020210000 -0600" stop="20261020230000 -0600" channel="Xpertv.cr">
-    <title>Blue Bloods</title>
-  </programme>
-  <programme start="20261020230000 -0600" stop="20261021130000 -0600" channel="Xpertv.cr">
-    <title>OFF AIR</title>
-  </programme>
-  <programme start="20261021130000 -0600" stop="20261021140000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261021140000 -0600" stop="20261021160000 -0600" channel="Xpertv.cr">
-    <title>Instinto Viajero</title>
-  </programme>
-  <programme start="20261021160000 -0600" stop="20261021210000 -0600" channel="Xpertv.cr">
-    <title>Animados</title>
-  </programme>
-  <programme start="20261021210000 -0600" stop="20261021223000 -0600" channel="Xpertv.cr">
-    <title>Blue Bloods</title>
-  </programme>
-  <programme start="20261021223000 -0600" stop="20261021230000 -0600" channel="Xpertv.cr">
-    <title>Biografias con Alvaro Gamboa</title>
-  </programme>
-  <programme start="20261021230000 -0600" stop="20261022090000 -0600" channel="Xpertv.cr">
-    <title>OFF AIR</title>
-  </programme>
   <programme start="20261022090000 -0600" stop="20261022093000 -0600" channel="Xpertv.cr">
     <title>Animados</title>
   </programme>
@@ -198,7 +135,70 @@
   <programme start="20261025213000 -0600" stop="20261025230000 -0600" channel="Xpertv.cr">
     <title>Serie</title>
   </programme>
-  <programme start="20261025230000 -0600" stop="20261026000000 -0600" channel="Xpertv.cr">
+  <programme start="20261025230000 -0600" stop="20261026120000 -0600" channel="Xpertv.cr">
+    <title>OFF AIR</title>
+  </programme>
+  <programme start="20261026120000 -0600" stop="20261026130000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261026130000 -0600" stop="20261026133000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261026133000 -0600" stop="20261026140000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261026140000 -0600" stop="20261026150000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261026150000 -0600" stop="20261026163000 -0600" channel="Xpertv.cr">
+    <title>Programa</title>
+  </programme>
+  <programme start="20261026163000 -0600" stop="20261026190000 -0600" channel="Xpertv.cr">
+    <title>Escuela Teletica</title>
+  </programme>
+  <programme start="20261026190000 -0600" stop="20261026220000 -0600" channel="Xpertv.cr">
+    <title>Hacia lo mejor</title>
+  </programme>
+  <programme start="20261026220000 -0600" stop="20261026230000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261026230000 -0600" stop="20261027130000 -0600" channel="Xpertv.cr">
+    <title>OFF AIR</title>
+  </programme>
+  <programme start="20261027130000 -0600" stop="20261027140000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261027140000 -0600" stop="20261027160000 -0600" channel="Xpertv.cr">
+    <title>Cocina de hoy</title>
+  </programme>
+  <programme start="20261027160000 -0600" stop="20261027200000 -0600" channel="Xpertv.cr">
+    <title>Animados</title>
+  </programme>
+  <programme start="20261027200000 -0600" stop="20261027210000 -0600" channel="Xpertv.cr">
+    <title>Instinto Viajero</title>
+  </programme>
+  <programme start="20261027210000 -0600" stop="20261027230000 -0600" channel="Xpertv.cr">
+    <title>Blue Bloods</title>
+  </programme>
+  <programme start="20261027230000 -0600" stop="20261028130000 -0600" channel="Xpertv.cr">
+    <title>OFF AIR</title>
+  </programme>
+  <programme start="20261028130000 -0600" stop="20261028140000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261028140000 -0600" stop="20261028160000 -0600" channel="Xpertv.cr">
+    <title>Instinto Viajero</title>
+  </programme>
+  <programme start="20261028160000 -0600" stop="20261028210000 -0600" channel="Xpertv.cr">
+    <title>Animados</title>
+  </programme>
+  <programme start="20261028210000 -0600" stop="20261028223000 -0600" channel="Xpertv.cr">
+    <title>Blue Bloods</title>
+  </programme>
+  <programme start="20261028223000 -0600" stop="20261028230000 -0600" channel="Xpertv.cr">
+    <title>Biografias con Alvaro Gamboa</title>
+  </programme>
+  <programme start="20261028230000 -0600" stop="20261029000000 -0600" channel="Xpertv.cr">
     <title>OFF AIR</title>
   </programme>
 </tv>
