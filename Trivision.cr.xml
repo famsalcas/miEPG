@@ -3,48 +3,6 @@
   <channel id="Trivision.cr">
     <display-name>Trivisión Canal 36</display-name>
   </channel>
-  <programme start="20261022000000 -0600" stop="20261022013000 -0600" channel="Trivision.cr">
-    <title>La Mujer Maravilla</title>
-  </programme>
-  <programme start="20261022013000 -0600" stop="20261022020000 -0600" channel="Trivision.cr">
-    <title>Blanco Y Negro</title>
-  </programme>
-  <programme start="20261022020000 -0600" stop="20261022040000 -0600" channel="Trivision.cr">
-    <title>Pelicula</title>
-  </programme>
-  <programme start="20261022040000 -0600" stop="20261022050000 -0600" channel="Trivision.cr">
-    <title>Música En Español</title>
-  </programme>
-  <programme start="20261022050000 -0600" stop="20261022070000 -0600" channel="Trivision.cr">
-    <title>Rep. Noticiero</title>
-  </programme>
-  <programme start="20261022070000 -0600" stop="20261022090000 -0600" channel="Trivision.cr">
-    <title>Rep. Nuestro Programa</title>
-  </programme>
-  <programme start="20261022090000 -0600" stop="20261022100000 -0600" channel="Trivision.cr">
-    <title>Misión Imposible</title>
-  </programme>
-  <programme start="20261022100000 -0600" stop="20261022113000 -0600" channel="Trivision.cr">
-    <title>Tardeando Por La Mañana</title>
-  </programme>
-  <programme start="20261022113000 -0600" stop="20261022150000 -0600" channel="Trivision.cr">
-    <title>Noticias Trivisión</title>
-  </programme>
-  <programme start="20261022150000 -0600" stop="20261022170000 -0600" channel="Trivision.cr">
-    <title>Nuestro Programa</title>
-  </programme>
-  <programme start="20261022170000 -0600" stop="20261022190000 -0600" channel="Trivision.cr">
-    <title>Noticiero Estelar Trivisión</title>
-  </programme>
-  <programme start="20261022190000 -0600" stop="20261022210000 -0600" channel="Trivision.cr">
-    <title>Rep. Nuestro Programa</title>
-  </programme>
-  <programme start="20261022210000 -0600" stop="20261022230000 -0600" channel="Trivision.cr">
-    <title>Rep. Noticiero Estelar</title>
-  </programme>
-  <programme start="20261022230000 -0600" stop="20261023000000 -0600" channel="Trivision.cr">
-    <title>Rep. Tardeando</title>
-  </programme>
   <programme start="20261023000000 -0600" stop="20261023013000 -0600" channel="Trivision.cr">
     <title>La Mujer Maravilla</title>
   </programme>
@@ -346,6 +304,48 @@
     <title>Rep. Noticiero Estelar</title>
   </programme>
   <programme start="20261028230000 -0600" stop="20261029000000 -0600" channel="Trivision.cr">
+    <title>Rep. Tardeando</title>
+  </programme>
+  <programme start="20261029000000 -0600" stop="20261029013000 -0600" channel="Trivision.cr">
+    <title>La Mujer Maravilla</title>
+  </programme>
+  <programme start="20261029013000 -0600" stop="20261029020000 -0600" channel="Trivision.cr">
+    <title>Blanco Y Negro</title>
+  </programme>
+  <programme start="20261029020000 -0600" stop="20261029040000 -0600" channel="Trivision.cr">
+    <title>Pelicula</title>
+  </programme>
+  <programme start="20261029040000 -0600" stop="20261029050000 -0600" channel="Trivision.cr">
+    <title>Música En Español</title>
+  </programme>
+  <programme start="20261029050000 -0600" stop="20261029070000 -0600" channel="Trivision.cr">
+    <title>Rep. Noticiero</title>
+  </programme>
+  <programme start="20261029070000 -0600" stop="20261029090000 -0600" channel="Trivision.cr">
+    <title>Rep. Nuestro Programa</title>
+  </programme>
+  <programme start="20261029090000 -0600" stop="20261029100000 -0600" channel="Trivision.cr">
+    <title>Misión Imposible</title>
+  </programme>
+  <programme start="20261029100000 -0600" stop="20261029113000 -0600" channel="Trivision.cr">
+    <title>Tardeando Por La Mañana</title>
+  </programme>
+  <programme start="20261029113000 -0600" stop="20261029150000 -0600" channel="Trivision.cr">
+    <title>Noticias Trivisión</title>
+  </programme>
+  <programme start="20261029150000 -0600" stop="20261029170000 -0600" channel="Trivision.cr">
+    <title>Nuestro Programa</title>
+  </programme>
+  <programme start="20261029170000 -0600" stop="20261029190000 -0600" channel="Trivision.cr">
+    <title>Noticiero Estelar Trivisión</title>
+  </programme>
+  <programme start="20261029190000 -0600" stop="20261029210000 -0600" channel="Trivision.cr">
+    <title>Rep. Nuestro Programa</title>
+  </programme>
+  <programme start="20261029210000 -0600" stop="20261029230000 -0600" channel="Trivision.cr">
+    <title>Rep. Noticiero Estelar</title>
+  </programme>
+  <programme start="20261029230000 -0600" stop="20261030000000 -0600" channel="Trivision.cr">
     <title>Rep. Tardeando</title>
   </programme>
 </tv>

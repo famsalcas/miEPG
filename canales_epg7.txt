@@ -1,7 +1,7 @@
 # Fuente: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
+6a9a8fbd8cc64f2b2b40c83c,Rebelde,https://images.pluto.tv/channels/6a9a8fbd8cc64f2b2b40c83c/colorLogoPNG_1789113326784.png
 6a6a031b10c8f12ffc3adbb5,Series made in Spain de Pluto TV,https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/colorLogoPNG_1790242819581.png
 6a9fc2af17c0d8c7a37697d0,Cenando con Pablo,https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png
-6a43d63071cbfff7dca61d23,Los Misteriosos asesinatos de Miss Fisher,https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png
 657868a7a620e30008fdbfeb,Embrujadas,https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png
 6578808014fbe400086e21bc,Medium,https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png
 612ce5214bb5790007ad3016,Pluto TV Paranormal,https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png
@@ -17,11 +17,12 @@
 64ddcbb14c5ed80008fad416,Crimen &amp; Historia,https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png
 654a35ce346f420008d5c36e,Pluto TV Invasión Alien,https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG_1781530240161.png
 6682bd9b8768aa0008f25be5,Los misterios de Murdoch,https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG_1764691773450.png
+6a43d63071cbfff7dca61d23,Los Misteriosos asesinatos de Miss Fisher,https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png
 6304f530440dc90007f514d3,Poirot &amp; Miss Marple,https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png
 60c343007bcabe0007242aa6,El Comisario,https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png
 6a43d3bae0c1a33841302952,Noche y día,https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png
-5f1aca8310a30e00074fab92,Los Asesinatos de Midsomer,https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png
 61bb2814ac085a00074309a6,Unidad de investigación,https://images.pluto.tv/channels/61bb2814ac085a00074309a6/colorLogoPNG.png
+5f1aca8310a30e00074fab92,Los Asesinatos de Midsomer,https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png
 66d71f8ee5de930008016f83,Alice Nevers,https://images.pluto.tv/channels/66d71f8ee5de930008016f83/colorLogoPNG_1730816120590.png
 6964d2179ba4ac18051a18ce,Léo Mattéï: Brigada de protección,https://images.pluto.tv/channels/6964d2179ba4ac18051a18ce/colorLogoPNG_1777976845815.png
 66d71c656b63480008cf0427,Cherif,https://images.pluto.tv/channels/66d71c656b63480008cf0427/colorLogoPNG.png
@@ -133,8 +134,8 @@
 65f96cd34e01740008ef1c97,Realmadrid TV,https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png
 6793ac47f5c74bff95d18a99,TOP BARÇA,https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG.png
 660c29f80cd4630008f1547c,FIFA+,https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png
-6a43c8e19d516ba88f728627,Tennis Channel,https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png
 67921b873de7c8cf94233f52,UFC,https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png
+6a43c8e19d516ba88f728627,Tennis Channel,https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png
 696e02423b9ce349c90edef9,Rally TV,https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png
 6a6a02ae3ee9d966427e62c4,NFL Channel,https://images.pluto.tv/channels/6a6a02ae3ee9d966427e62c4/colorLogoPNG_1785333367393.png
 69148c470155f9b136b5d856,Pluto TV Snooker 900,https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png
