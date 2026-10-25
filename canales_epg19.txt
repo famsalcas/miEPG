@@ -961,6 +961,7 @@ I1236.89973.schedulesdirect.org,ZOOMOSP,https://schedulesdirect-api20141201-logo
 I9.89562.schedulesdirect.org,4SEVENH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89562_dark_360w_270h.png
 I12.109246.schedulesdirect.org,UK - 5 Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109246_dark_360w_270h.png
 I15.52336.schedulesdirect.org,UK - 5 Star,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52336_dark_360w_270h.png
+I18.56888.schedulesdirect.org,UK - 5Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56888_dark_360w_270h.png
 I22.52335.schedulesdirect.org,UK - 5 USA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52335_dark_360w_270h.png
 I23.56890.schedulesdirect.org,UK - 5 USA +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56890_dark_360w_270h.png
 I28.56894.schedulesdirect.org,UK - AJ TAK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56894_dark_360w_270h.png
@@ -1001,10 +1002,12 @@ I321.21793.schedulesdirect.org,UK - Challenge,https://schedulesdirect-api2014120
 I326.117175.schedulesdirect.org,UK - Channel 4 Midlands,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117175_dark_360w_270h.png
 I329.117176.schedulesdirect.org,UK - Channel 4 North HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117176_dark_360w_270h.png
 I351.50717.schedulesdirect.org,UK - Channel 5,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50717_dark_360w_270h.png
+I370.117250.schedulesdirect.org,UK - Channels 24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117250_dark_360w_270h.png
 I375.97304.schedulesdirect.org,UK - Clubland TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97304_dark_360w_270h.png
 I377.68892.schedulesdirect.org,UK - CNBC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NFM71.png_dark_360w_270h.png
 I378.113145.schedulesdirect.org,UK - CNBC HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NFJQ7.png_dark_360w_270h.png
 I380.17664.schedulesdirect.org,UKn: CNN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17664_dark_360w_270h.png
+I383.212031.schedulesdirect.org,UK - COLORS,
 I385.119186.schedulesdirect.org,UK - Colors Gujarati,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119186_dark_360w_270h.png
 I387.103000.schedulesdirect.org,UK - COLORS HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103000_dark_360w_270h.png
 I388.77777.schedulesdirect.org,UK - Colors Rishtey,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77777_dark_360w_270h.png
@@ -1012,6 +1015,7 @@ I389.66615.schedulesdirect.org,UK - Comedy Cent HD,https://schedulesdirect-api20
 I391.34230.schedulesdirect.org,UK - Comedy Xtra,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34230_dark_360w_270h.png
 I393.47480.schedulesdirect.org,UK - Comedy Central+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47480_dark_360w_270h.png
 I401.61621.schedulesdirect.org,UK - Crime+Inv,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61621_dark_360w_270h.png
+I422.69389.schedulesdirect.org,UK - Deen TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69389_dark_360w_270h.png
 I425.17444.schedulesdirect.org,UK - Discovery,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17444_dark_360w_270h.png
 I426.21557.schedulesdirect.org,UK - Discovery +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21557_dark_360w_270h.png
 I428.24280.schedulesdirect.org,UK - Discovery History,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24280_dark_360w_270h.png
@@ -1024,19 +1028,28 @@ I437.83579.schedulesdirect.org,UK - DMAX,https://schedulesdirect-api20141201-log
 I438.58793.schedulesdirect.org,Dmax,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58793_dark_360w_270h.png
 I439.58792.schedulesdirect.org,UK - DMAX +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58792_dark_360w_270h.png
 I444.118530.schedulesdirect.org,UK - Dunamis TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118530_dark_360w_270h.png
+I448.31786.schedulesdirect.org,UK - E4 Extra,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31786_dark_360w_270h.png
 I449.65931.schedulesdirect.org,UK - E4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65931_dark_360w_270h.png
+I462.66603.schedulesdirect.org,Eurosport 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66603_dark_360w_270h.png
+I477.46612.schedulesdirect.org,UK - EWTN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46612_dark_360w_270h.png
 I482.118531.schedulesdirect.org,UK - Faith UK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118531_dark_360w_270h.png
 I487.21494.schedulesdirect.org,UK - Film4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21494_dark_360w_270h.png
 I489.68051.schedulesdirect.org,FFOURHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68051_dark_360w_270h.png
+I491.44718.schedulesdirect.org,UK - Food Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png
+I493.55670.schedulesdirect.org,UK - Food Network +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55670_dark_360w_270h.png
 I506.118853.schedulesdirect.org,GB News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118853_dark_360w_270h.png
 I513.36118.schedulesdirect.org,UK - GEO TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023CTWJ.png_dark_360w_270h.png
+I527.97281.schedulesdirect.org,UK - Great! Mystery +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BN02.png_dark_360w_270h.png
+I530.89657.schedulesdirect.org,UK - GREAT! tv+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89657_dark_360w_270h.png
 I532.59406.schedulesdirect.org,UK - GREAT! action+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027EKH4.png_dark_360w_270h.png
 I533.81450.schedulesdirect.org,UK - GREAT! movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BMCL.png_dark_360w_270h.png
 I552.21257.schedulesdirect.org,UK - HGTV UK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png
 I557.118534.schedulesdirect.org,UK - High Street TV 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118534_dark_360w_270h.png
+I559.118535.schedulesdirect.org,UK - High Street TV 3,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118535_dark_360w_270h.png
 I577.91013.schedulesdirect.org,UK - HUM EUROPE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91013_dark_360w_270h.png
 I578.116975.schedulesdirect.org,UK - HUM Masala,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116975_dark_360w_270h.png
 I581.79036.schedulesdirect.org,UK - ID Discovery +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79036_dark_360w_270h.png
+I583.118536.schedulesdirect.org,UK - Ideal World,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s118536_dark_360w_270h.png
 I598.42539.schedulesdirect.org,UK - Islam Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42539_dark_360w_270h.png
 I605.112077.schedulesdirect.org,UK - ITV1 Anglia West HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112077_dark_360w_270h.png
 I615.112073.schedulesdirect.org,UK - ITV Meridian South Coast,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112073_dark_360w_270h.png
@@ -1053,8 +1066,10 @@ I667.53060.schedulesdirect.org,UK - ITV3+1,https://schedulesdirect-api20141201-l
 I669.69374.schedulesdirect.org,UK - ITV 3,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69374_dark_360w_270h.png
 I674.69375.schedulesdirect.org,UK - ITV4 HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69375_dark_360w_270h.png
 I680.29067.schedulesdirect.org,UK - Jewellery Maker,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29067_dark_360w_270h.png
+I689.116920.schedulesdirect.org,UK - Kanshi TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116920_dark_360w_270h.png
 I712.73970.schedulesdirect.org,UK - LEGEND,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73970_dark_360w_270h.png
 I714.49608.schedulesdirect.org,UK - LEGEND XTRA+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49608_dark_360w_270h.png
+I725.116318.schedulesdirect.org,UK - Madani Channel,
 I732.33883.schedulesdirect.org,UK - MATV Natioanl,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33883_dark_360w_270h.png
 I747.47657.schedulesdirect.org,UK - More4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47657_dark_360w_270h.png
 I748.82858.schedulesdirect.org,UK - More 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82858_dark_360w_270h.png
@@ -1076,8 +1091,11 @@ I910.24226.schedulesdirect.org,Racing TV,https://schedulesdirect-api20141201-log
 I939.99521.schedulesdirect.org,UK - RTE 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99521_dark_360w_270h.png
 I948.25554.schedulesdirect.org,UK - RTE ONE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25554_dark_360w_270h.png
 I995.70433.schedulesdirect.org,UK - SKY Atlantic,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70433_dark_360w_270h.png
+I996.24031.schedulesdirect.org,UK - Sky Cinema Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24031_dark_360w_270h.png
 I998.115495.schedulesdirect.org,UKm: Sky Cinema Animation,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115495_dark_360w_270h.png
+I1000.117210.schedulesdirect.org,UK - ITV Wales HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117210_dark_360w_270h.png
 I1000.162072.schedulesdirect.org,UK - Must Have Ideas HD,
+I1000.25630.schedulesdirect.org,UK - Film4+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25630_dark_360w_270h.png
 I1000.61179.schedulesdirect.org,SKY Cinema Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61179_dark_360w_270h.png
 I1000.110540.schedulesdirect.org,UK - BBC Scotland HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110540_dark_360w_270h.png
 I1000.49609.schedulesdirect.org,Sky Sports Main Event,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49609_dark_360w_270h.png
@@ -1089,7 +1107,9 @@ I1003.50059.schedulesdirect.org,UK - BBC TWO,https://schedulesdirect-api20141201
 I1003.49453.schedulesdirect.org,Sky Cinema Hits,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49453_dark_360w_270h.png
 I1003.24032.schedulesdirect.org,SKY Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24032_dark_360w_270h.png
 I1004.46306.schedulesdirect.org,UK - Great Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027ESGV.png_dark_360w_270h.png
+I1005.61806.schedulesdirect.org,UK - ITV4+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61806_dark_360w_270h.png
 I1005.50176.schedulesdirect.org,Sky Cinema Thriller,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50176_dark_360w_270h.png
+I1005.199471.schedulesdirect.org,Great Movies,
 I1005.24040.schedulesdirect.org,SKY Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24040_dark_360w_270h.png
 I1006.122534.schedulesdirect.org,WildEarth,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131702_dark_360w_270h.png
 I1006.50589.schedulesdirect.org,UKm: Movies 24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50589_dark_360w_270h.png
@@ -1102,26 +1122,42 @@ I1010.61180.schedulesdirect.org,SKY Cinema Greats,https://schedulesdirect-api201
 I1011.21107.schedulesdirect.org,SCINPRE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21107_dark_360w_270h.png
 I1011.61182.schedulesdirect.org,SKY Cinema Comedy,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61182_dark_360w_270h.png
 I1012.97290.schedulesdirect.org,UK - 5 Star +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97290_dark_360w_270h.png
+I1013.24041.schedulesdirect.org,UK - Sky Cinema Sci Fi &amp; Horror,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24041_dark_360w_270h.png
 I1014.122089.schedulesdirect.org,UK - BBC Three HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122089_dark_360w_270h.png
+I1015.26215.schedulesdirect.org,UK - God,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26215_dark_360w_270h.png
 I1015.49139.schedulesdirect.org,SCINSEL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49139_dark_360w_270h.png
+I1016.61458.schedulesdirect.org,UK - U&amp;W,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61458_dark_360w_270h.png
 I1017.75804.schedulesdirect.org,UK - 4 Seven,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75804_dark_360w_270h.png
 I1017.105776.schedulesdirect.org,UK - Gold,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002JG6DK.png_dark_360w_270h.png
+I1018.57747.schedulesdirect.org,UK - GREAT! tv,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002GB9YS.png_dark_360w_270h.png
 I1019.120545.schedulesdirect.org,UK - SKY Max,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002YY17Q.png_dark_360w_270h.png
 I1020.113612.schedulesdirect.org,SKY Comedy,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113612_dark_360w_270h.png
 I1021.50716.schedulesdirect.org,UK - Channel 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50716_dark_360w_270h.png
 I1022.45005.schedulesdirect.org,SKY Cinema Crime,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45005_dark_360w_270h.png
 I1022.122614.schedulesdirect.org,Talk,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122614_dark_360w_270h.png
 I1024.112396.schedulesdirect.org,SKY Crime &amp; Thriller,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112396_dark_360w_270h.png
+I1025.77749.schedulesdirect.org,UK - 5 +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77749_dark_360w_270h.png
 I1025.114274.schedulesdirect.org,Sky Documentaries,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114274_dark_360w_270h.png
 I1026.114273.schedulesdirect.org,Sky Documentaries,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114273_dark_360w_270h.png
 I1027.75803.schedulesdirect.org,UK - Alibi,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002HXBFE.png_dark_360w_270h.png
+I1029.53059.schedulesdirect.org,UK - ITV2+1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53059_dark_360w_270h.png
+I1031.170965.schedulesdirect.org,UK - Cruise1st TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s170965_dark_360w_270h.png
+I1031.60500.schedulesdirect.org,MysteryX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60500_dark_360w_270h.png
+I1031.100015.schedulesdirect.org,UK - GINX TV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100015_dark_360w_270h.png
+I1032.97203.schedulesdirect.org,MysteryX HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97203_dark_360w_270h.png
 I1037.28452.schedulesdirect.org,UK - Arirang TV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28452_dark_360w_270h.png
+I1040.25958.schedulesdirect.org,UK - High Street TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25958_dark_360w_270h.png
 I1041.29324.schedulesdirect.org,UK - CBBC HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29324_dark_360w_270h.png
 I1042.77775.schedulesdirect.org,Al Jazeera,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77775_dark_360w_270h.png
+I1044.42762.schedulesdirect.org,UK - LEGEND XTRA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42762_dark_360w_270h.png
+I1046.112086.schedulesdirect.org,UK - ITV Border (England) HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112086_dark_360w_270h.png
 I1046.114269.schedulesdirect.org,UKd: Sky Nature,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114269_dark_360w_270h.png
 I1046.131428.schedulesdirect.org,PBS America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s131428_dark_360w_270h.png
+I1049.147156.schedulesdirect.org,UK - Hobby Maker HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s147156_dark_360w_270h.png
 I1049.16234.schedulesdirect.org,SKY News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16234_dark_360w_270h.png
+I1052.27993.schedulesdirect.org,UK - GEMPORIA HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27993_dark_360w_270h.png
 I1053.138444.schedulesdirect.org,UK - U&amp;Yesterday,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138444_dark_360w_270h.png
+I1054.44717.schedulesdirect.org,UK - Great! Christmas,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0029BNQD.png_dark_360w_270h.png
 I1056.35806.schedulesdirect.org,UKd: Eden,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35806_dark_360w_270h.png
 I1074.104322.schedulesdirect.org,Sky Sports Arena,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0032Y4GN.png_dark_360w_270h.png
 I1079.51204.schedulesdirect.org,Sky Sports Cricket,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51204_dark_360w_270h.png
@@ -1149,34 +1185,34 @@ I602.21345.gracenote.com,Fanduel TV,https://zpmc.tmsimg.com/h3/NowShowing/21345/
 I630.71465.gracenote.com,NBC Sports Boston,https://zpmc.tmsimg.com/h3/NowShowing/71465/s11104_ll_h15_ac.png
 I634.80169.gracenote.com,MSG Network,https://zpmc.tmsimg.com/h3/NowShowing/80169/s10979_ll_h15_ab.png
 I639.51654.gracenote.com,SNY SportsNet New York,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
-I646.71286.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/71286/s12410_ll_h15_ac.png
 I646.71288.gracenote.com,Fanduel Sports Network South HD,https://zpmc.tmsimg.com/h3/NowShowing/71288/s12410_ll_h15_ac.png
-I649.71268.gracenote.com,Fanduel Sports Network Southeast,https://zpmc.tmsimg.com/h3/NowShowing/71268/s61138_ll_h15_ac.png
+I646.71286.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/71286/s12410_ll_h15_ac.png
 I649.71271.gracenote.com,Fanduel Sports Network Southeast HD,https://zpmc.tmsimg.com/h3/NowShowing/71271/s20789_ll_h15_ac.png
-I653.71262.gracenote.com,Fanduel Sports Network Sun,https://zpmc.tmsimg.com/h3/NowShowing/71262/s61084_ll_h15_ac.png
+I649.71268.gracenote.com,Fanduel Sports Network Southeast,https://zpmc.tmsimg.com/h3/NowShowing/71268/s61138_ll_h15_ac.png
 I653.71266.gracenote.com,Fanduel Sports Network Sun HD,https://zpmc.tmsimg.com/h3/NowShowing/71266/s61084_ll_h15_ac.png
-I654.71236.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
+I653.71262.gracenote.com,Fanduel Sports Network Sun,https://zpmc.tmsimg.com/h3/NowShowing/71262/s61084_ll_h15_ac.png
 I654.71238.gracenote.com,Fanduel Sports Network Florida HD,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
-I660.101518.gracenote.com,Fanduel Sports Network Ohio,https://zpmc.tmsimg.com/h3/NowShowing/101518/s49691_ll_h15_ac.png
+I654.71236.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
 I660.101522.gracenote.com,Fanduel Sports Network Ohio HD,https://zpmc.tmsimg.com/h3/NowShowing/101522/s11106_ll_h15_ac.png
-I663.71232.gracenote.com,Fanduel Sports Network Detroit,https://zpmc.tmsimg.com/h3/NowShowing/71232/s17619_ll_h15_ac.png
+I660.101518.gracenote.com,Fanduel Sports Network Ohio,https://zpmc.tmsimg.com/h3/NowShowing/101518/s49691_ll_h15_ac.png
 I663.71234.gracenote.com,Fanduel Sports Network Detroit HD,https://zpmc.tmsimg.com/h3/NowShowing/71234/s17619_ll_h15_ac.png
-I668.71260.gracenote.com,Fanduel Sports Network North,https://zpmc.tmsimg.com/h3/NowShowing/71260/s10977_ll_h15_ac.png
+I663.71232.gracenote.com,Fanduel Sports Network Detroit,https://zpmc.tmsimg.com/h3/NowShowing/71232/s17619_ll_h15_ac.png
 I668.71264.gracenote.com,Fanduel Sports Network North HD,https://zpmc.tmsimg.com/h3/NowShowing/71264/s10977_ll_h15_ac.png
-I669.71253.gracenote.com,Fanduel Sports Network Wisconsin,https://zpmc.tmsimg.com/h3/NowShowing/71253/s16348_ll_h15_ac.png
+I668.71260.gracenote.com,Fanduel Sports Network North,https://zpmc.tmsimg.com/h3/NowShowing/71260/s10977_ll_h15_ac.png
 I669.71258.gracenote.com,Fanduel Sports Network Wisconsin HD,https://zpmc.tmsimg.com/h3/NowShowing/71258/s16348_ll_h15_ac.png
-I671.71240.gracenote.com,Fanduel Sports Network Midwest,https://zpmc.tmsimg.com/h3/NowShowing/71240/s11058_ll_h15_ac.png
+I669.71253.gracenote.com,Fanduel Sports Network Wisconsin,https://zpmc.tmsimg.com/h3/NowShowing/71253/s16348_ll_h15_ac.png
 I671.71244.gracenote.com,Fanduel Sports Network Midwest HD,https://zpmc.tmsimg.com/h3/NowShowing/71244/s11058_ll_h15_ac.png
+I671.71240.gracenote.com,Fanduel Sports Network Midwest,https://zpmc.tmsimg.com/h3/NowShowing/71240/s11058_ll_h15_ac.png
 I674.178238.gracenote.com,Space City Home Network,https://zpmc.tmsimg.com/h3/NowShowing/178238/s77744_ll_h15_ac.png
 I675.181304.gracenote.com,Fanduel Sports Network Oklahoma,https://zpmc.tmsimg.com/sources/generic/generic_sources_h3.png
-I676.71290.gracenote.com,Fanduel Sports Network Southwest,https://zpmc.tmsimg.com/h3/NowShowing/71290/s59629_ll_h15_ac.png
 I676.71292.gracenote.com,Fanduel Sports Network Southwest HD,https://zpmc.tmsimg.com/h3/NowShowing/71292/s59629_ll_h15_ac.png
+I676.71290.gracenote.com,Fanduel Sports Network Southwest,https://zpmc.tmsimg.com/h3/NowShowing/71290/s59629_ll_h15_ac.png
 I690.87106.gracenote.com,Spectrum SportsNet LA,https://zpmc.tmsimg.com/h3/NowShowing/87106/s77422_ll_h15_ac.png
 I691.77423.gracenote.com,Spectrum SportsNet,https://zpmc.tmsimg.com/h3/NowShowing/77423/s77423_ll_h15_ac.png
-I692.71282.gracenote.com,Fanduel Sports Network West,https://zpmc.tmsimg.com/h3/NowShowing/71282/GNLZZGG0033CBPK.png
 I692.71284.gracenote.com,Fanduel Sports Network West HD,https://zpmc.tmsimg.com/h3/NowShowing/71284/GNLZZGG0033CBPK.png
-I693.71274.gracenote.com,Fanduel Sports Network SoCal,https://zpmc.tmsimg.com/h3/NowShowing/71274/s16743_ll_h15_ac.png
+I692.71282.gracenote.com,Fanduel Sports Network West,https://zpmc.tmsimg.com/h3/NowShowing/71282/GNLZZGG0033CBPK.png
 I693.71276.gracenote.com,Fanduel Sports Network SoCal HD,https://zpmc.tmsimg.com/h3/NowShowing/71276/s16743_ll_h15_ac.png
+I693.71274.gracenote.com,Fanduel Sports Network SoCal,https://zpmc.tmsimg.com/h3/NowShowing/71274/s16743_ll_h15_ac.png
 I1702.46275.gracenote.com,Yes Network,https://zpmc.tmsimg.com/h3/NowShowing/46275/s46275_ll_h15_aa.png
 I1720.50728.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com/h3/NowShowing/50728/s50728_ll_h15_ac.png
 I1724.75970.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/75970/s12410_ll_h15_ac.png
