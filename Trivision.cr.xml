@@ -3,72 +3,6 @@
   <channel id="Trivision.cr">
     <display-name>Trivisión Canal 36</display-name>
   </channel>
-  <programme start="20261025000000 -0600" stop="20261025010000 -0600" channel="Trivision.cr">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261025010000 -0600" stop="20261025030000 -0600" channel="Trivision.cr">
-    <title>Rep. Montaderas</title>
-  </programme>
-  <programme start="20261025030000 -0600" stop="20261025040000 -0600" channel="Trivision.cr">
-    <title>Rep. Montaderas</title>
-  </programme>
-  <programme start="20261025040000 -0600" stop="20261025050000 -0600" channel="Trivision.cr">
-    <title>Música En Español</title>
-  </programme>
-  <programme start="20261025050000 -0600" stop="20261025060000 -0600" channel="Trivision.cr">
-    <title>Los 3 Chiflados</title>
-  </programme>
-  <programme start="20261025060000 -0600" stop="20261025070000 -0600" channel="Trivision.cr">
-    <title>La Pantera Rosa</title>
-  </programme>
-  <programme start="20261025070000 -0600" stop="20261025073000 -0600" channel="Trivision.cr">
-    <title>El Pato Lucas</title>
-  </programme>
-  <programme start="20261025073000 -0600" stop="20261025080000 -0600" channel="Trivision.cr">
-    <title>Los Autos Locos</title>
-  </programme>
-  <programme start="20261025080000 -0600" stop="20261025090000 -0600" channel="Trivision.cr">
-    <title>El Escuadrón Diabólico</title>
-  </programme>
-  <programme start="20261025090000 -0600" stop="20261025100000 -0600" channel="Trivision.cr">
-    <title>Sakura Card Captor</title>
-  </programme>
-  <programme start="20261025100000 -0600" stop="20261025110000 -0600" channel="Trivision.cr">
-    <title>Los Locos Addams</title>
-  </programme>
-  <programme start="20261025110000 -0600" stop="20261025120000 -0600" channel="Trivision.cr">
-    <title>Yo Amo A Lucy</title>
-  </programme>
-  <programme start="20261025120000 -0600" stop="20261025130000 -0600" channel="Trivision.cr">
-    <title>Semanario Olímpico</title>
-  </programme>
-  <programme start="20261025130000 -0600" stop="20261025140000 -0600" channel="Trivision.cr">
-    <title>Videohits</title>
-  </programme>
-  <programme start="20261025140000 -0600" stop="20261025160000 -0600" channel="Trivision.cr">
-    <title>Película: Junior</title>
-  </programme>
-  <programme start="20261025160000 -0600" stop="20261025170000 -0600" channel="Trivision.cr">
-    <title>Magnum</title>
-  </programme>
-  <programme start="20261025170000 -0600" stop="20261025180000 -0600" channel="Trivision.cr">
-    <title>Viaje Al Fondo Del Mar</title>
-  </programme>
-  <programme start="20261025180000 -0600" stop="20261025190000 -0600" channel="Trivision.cr">
-    <title>Los Invasores</title>
-  </programme>
-  <programme start="20261025190000 -0600" stop="20261025200000 -0600" channel="Trivision.cr">
-    <title>Música Bailable</title>
-  </programme>
-  <programme start="20261025200000 -0600" stop="20261025220900 -0600" channel="Trivision.cr">
-    <title>Montaderas</title>
-  </programme>
-  <programme start="20261025220900 -0600" stop="20261025230000 -0600" channel="Trivision.cr">
-    <title>Música En Español</title>
-  </programme>
-  <programme start="20261025230000 -0600" stop="20261026000000 -0600" channel="Trivision.cr">
-    <title>Rep. Video Hits</title>
-  </programme>
   <programme start="20261026000000 -0600" stop="20261026013000 -0600" channel="Trivision.cr">
     <title>Concierto</title>
   </programme>
@@ -347,5 +281,71 @@
   </programme>
   <programme start="20261031230000 -0600" stop="20261101000000 -0600" channel="Trivision.cr">
     <title>Programac</title>
+  </programme>
+  <programme start="20261101000000 -0600" stop="20261101010000 -0600" channel="Trivision.cr">
+    <title>Documental</title>
+  </programme>
+  <programme start="20261101010000 -0600" stop="20261101030000 -0600" channel="Trivision.cr">
+    <title>Rep. Montaderas</title>
+  </programme>
+  <programme start="20261101030000 -0600" stop="20261101040000 -0600" channel="Trivision.cr">
+    <title>Rep. Montaderas</title>
+  </programme>
+  <programme start="20261101040000 -0600" stop="20261101050000 -0600" channel="Trivision.cr">
+    <title>Música En Español</title>
+  </programme>
+  <programme start="20261101050000 -0600" stop="20261101060000 -0600" channel="Trivision.cr">
+    <title>Los 3 Chiflados</title>
+  </programme>
+  <programme start="20261101060000 -0600" stop="20261101070000 -0600" channel="Trivision.cr">
+    <title>La Pantera Rosa</title>
+  </programme>
+  <programme start="20261101070000 -0600" stop="20261101073000 -0600" channel="Trivision.cr">
+    <title>El Pato Lucas</title>
+  </programme>
+  <programme start="20261101073000 -0600" stop="20261101080000 -0600" channel="Trivision.cr">
+    <title>Los Autos Locos</title>
+  </programme>
+  <programme start="20261101080000 -0600" stop="20261101090000 -0600" channel="Trivision.cr">
+    <title>El Escuadrón Diabólico</title>
+  </programme>
+  <programme start="20261101090000 -0600" stop="20261101100000 -0600" channel="Trivision.cr">
+    <title>Sakura Card Captor</title>
+  </programme>
+  <programme start="20261101100000 -0600" stop="20261101110000 -0600" channel="Trivision.cr">
+    <title>Los Locos Addams</title>
+  </programme>
+  <programme start="20261101110000 -0600" stop="20261101120000 -0600" channel="Trivision.cr">
+    <title>Yo Amo A Lucy</title>
+  </programme>
+  <programme start="20261101120000 -0600" stop="20261101130000 -0600" channel="Trivision.cr">
+    <title>Semanario Olímpico</title>
+  </programme>
+  <programme start="20261101130000 -0600" stop="20261101140000 -0600" channel="Trivision.cr">
+    <title>Videohits</title>
+  </programme>
+  <programme start="20261101140000 -0600" stop="20261101160000 -0600" channel="Trivision.cr">
+    <title>Película: Junior</title>
+  </programme>
+  <programme start="20261101160000 -0600" stop="20261101170000 -0600" channel="Trivision.cr">
+    <title>Magnum</title>
+  </programme>
+  <programme start="20261101170000 -0600" stop="20261101180000 -0600" channel="Trivision.cr">
+    <title>Viaje Al Fondo Del Mar</title>
+  </programme>
+  <programme start="20261101180000 -0600" stop="20261101190000 -0600" channel="Trivision.cr">
+    <title>Los Invasores</title>
+  </programme>
+  <programme start="20261101190000 -0600" stop="20261101200000 -0600" channel="Trivision.cr">
+    <title>Música Bailable</title>
+  </programme>
+  <programme start="20261101200000 -0600" stop="20261101220900 -0600" channel="Trivision.cr">
+    <title>Montaderas</title>
+  </programme>
+  <programme start="20261101220900 -0600" stop="20261101230000 -0600" channel="Trivision.cr">
+    <title>Música En Español</title>
+  </programme>
+  <programme start="20261101230000 -0600" stop="20261102000000 -0600" channel="Trivision.cr">
+    <title>Rep. Video Hits</title>
   </programme>
 </tv>
