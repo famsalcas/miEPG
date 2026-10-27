@@ -3,33 +3,6 @@
   <channel id="Xpertv.cr">
     <display-name>XperTV</display-name>
   </channel>
-  <programme start="20261026120000 -0600" stop="20261026130000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261026130000 -0600" stop="20261026133000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261026133000 -0600" stop="20261026140000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261026140000 -0600" stop="20261026150000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261026150000 -0600" stop="20261026163000 -0600" channel="Xpertv.cr">
-    <title>Programa</title>
-  </programme>
-  <programme start="20261026163000 -0600" stop="20261026190000 -0600" channel="Xpertv.cr">
-    <title>Escuela Teletica</title>
-  </programme>
-  <programme start="20261026190000 -0600" stop="20261026220000 -0600" channel="Xpertv.cr">
-    <title>Hacia lo mejor</title>
-  </programme>
-  <programme start="20261026220000 -0600" stop="20261026230000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261026230000 -0600" stop="20261027130000 -0600" channel="Xpertv.cr">
-    <title>OFF AIR</title>
-  </programme>
   <programme start="20261027130000 -0600" stop="20261027140000 -0600" channel="Xpertv.cr">
     <title>Serie</title>
   </programme>
@@ -198,7 +171,34 @@
   <programme start="20261101213000 -0600" stop="20261101230000 -0600" channel="Xpertv.cr">
     <title>Serie</title>
   </programme>
-  <programme start="20261101230000 -0600" stop="20261102000000 -0600" channel="Xpertv.cr">
+  <programme start="20261101230000 -0600" stop="20261102120000 -0600" channel="Xpertv.cr">
+    <title>OFF AIR</title>
+  </programme>
+  <programme start="20261102120000 -0600" stop="20261102130000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261102130000 -0600" stop="20261102133000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261102133000 -0600" stop="20261102140000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261102140000 -0600" stop="20261102150000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261102150000 -0600" stop="20261102163000 -0600" channel="Xpertv.cr">
+    <title>Programa</title>
+  </programme>
+  <programme start="20261102163000 -0600" stop="20261102190000 -0600" channel="Xpertv.cr">
+    <title>Escuela Teletica</title>
+  </programme>
+  <programme start="20261102190000 -0600" stop="20261102220000 -0600" channel="Xpertv.cr">
+    <title>Hacia lo mejor</title>
+  </programme>
+  <programme start="20261102220000 -0600" stop="20261102230000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261102230000 -0600" stop="20261103000000 -0600" channel="Xpertv.cr">
     <title>OFF AIR</title>
   </programme>
 </tv>
