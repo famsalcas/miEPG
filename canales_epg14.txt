@@ -200,6 +200,7 @@
 65453f30085df200085883d8,ION,https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png
 63335b193583440007c859fb,Lifetime Movie Favorites,https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG_1767722325837.png
 628e685ba3811100070551a8,Hallmark Movies &amp; More,https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG_1767639054863.png
+6a304723ff3691f8e68a2e74,Penn &amp; Teller: Fool Us (CW),https://images.pluto.tv/channels/6a304723ff3691f8e68a2e74/colorLogoPNG_1790612769194.png
 6176fd25e83a5f0007a464c9,Bounce XL,https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png
 6793ea255225b515b4ba91a7,ALLBLK Gems,https://images.pluto.tv/channels/6793ea255225b515b4ba91a7/colorLogoPNG.png
 5ca672f515a62078d2ec0ad2,MTV Pluto TV,https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png
@@ -269,6 +270,7 @@
 649b6898f2ec0000081a9460,DAZN Ringside,https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png
 5ebc8688f3697d00072f7cf8,Bellator MMA,https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png
 6334a574605f140007e233c4,PFL MMA,https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png
+6a30478d0be0264f4a4e227c,CW Presents WWE NXT,https://images.pluto.tv/channels/6a30478d0be0264f4a4e227c/colorLogoPNG_1789664021838.png
 59b722526996084038c01e1b,TNA Wrestling,https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG_1784129596431.png
 682e43b21295f98347710917,AWSN,https://images.pluto.tv/channels/682e43b21295f98347710917/colorLogoPNG_1748886692805.png
 686d8dd294a028da3ac59566,Women's Sports Network,https://images.pluto.tv/channels/686d8dd294a028da3ac59566/colorLogoPNG_1753992941899.png
