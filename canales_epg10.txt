@@ -34,7 +34,6 @@
 608049aefa2b8ae93c2c3a63-6154a863e3e4d9577f96b31a,Nosey Escándalos,https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png
 608049aefa2b8ae93c2c3a63-66843849a017b7e51aeb28d7,Runtime Comedia,https://provider-static.plex.tv/epg/cms/production/c3208e7c-cc1c-4e9a-9304-5070368a7cc7/Runtime_ES_Comedia_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-6ab3fd895364aa237719542b,JAIL en Español,https://provider-static.plex.tv/epg/cms/production/232386fe-c283-4eec-a787-2227cf46bc99/Jail_channel_logo_4c_1500x1000RDX.png
-608049aefa2b8ae93c2c3a63-60240f57676235002df19f49,FreeTV Familia,https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png
 608049aefa2b8ae93c2c3a63-688d3402a6fe30698ab42007,ITV Deportes,https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png
 608049aefa2b8ae93c2c3a63-64d4e82ac5d4668c9cb7b5df,Novelisima,https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png
 608049aefa2b8ae93c2c3a63-66842f38cd6f1d394094115d,Runtime Romance,https://provider-static.plex.tv/epg/cms/production/854d9834-236a-40f6-9239-a9e6f0ab285c/Runtime_BR_Romance_Dark_Mode_Logordx.png
