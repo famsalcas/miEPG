@@ -89,7 +89,6 @@
 608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647,Andromeda,https://provider-static.plex.tv/epg/cms/production/1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78/FilmRise_Andromeda_Color_Logo.png
 608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75,Naturaleza,https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png
 608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295,FreeTV Drama,https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png
-608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,El Conflicto TV,https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png
 608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6,Emoción Atres,https://provider-static.plex.tv/epg/cms/production/f8a056a0-536e-4cb9-9a60-f7bd242819d7/EMOCIONATRES_COLORRDX.png
 608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f,Buen Viaje,https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png
 608049aefa2b8ae93c2c3a63-672948f0297d4ea7584a2e13,The Martha Stewart Channel,https://provider-static.plex.tv/epg/cms/production/a0aadc76-1caf-419f-83c7-ff8e066355a7/MSChannel_Logo_Light_-_Kimberly_DumerRDX.png
