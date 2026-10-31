@@ -451,10 +451,10 @@ lch3095.ecu,ECU | Oromar,https://upload.wikimedia.org/wikipedia/commons/thumb/2/
 606,PA | Tropical Moon Cultura TV,
 607,PA | Tropical Moon Salsa TV,
 608,CL | Kanade,https://static.kanade.cl/assets/img/Kanade_Profile.png
-609,CL | ZTV,https://zplay.cl/img/ztv.png
+609,CL | ZTV,https://i.ibb.co/qYWq24h7/ZTV.png
 610,CL | ZKids,https://zplay.cl/img/zkids.png
-611,CL | ZTV 2,https://zplay.cl/img/ztv2.png
-612,Cl | ZTV AVI,https://zplay.cl/img/avi.png
+611,CL | ZTV 2,https://i.ibb.co/jvHvwrgr/ZTV2.png
+612,Cl | ZTV AVI,https://i.ibb.co/VW63NCMz/AVI.png
 613,BO | ATB Digital,
 614,CL | Suyai TV II,https://radio.suyaitv.cl/wp-content/uploads/2025/03/radio-en-blanco.png
 615,CL | Radio Suyai TV,https://suyaitv.cl/wp-content/uploads/2025/06/radio-en-blanco.png
@@ -471,8 +471,8 @@ lch3095.ecu,ECU | Oromar,https://upload.wikimedia.org/wikipedia/commons/thumb/2/
 629,TELEVISA | Distrito Comedia,
 630,CL | Bombi TV,
 631,CL | Maulevisión,
-632,ZTV | AVI Kids,https://zplay.cl/img/avikids.png
-633,ZTV | REWIND,https://zplay.cl/img/rewind.png
+632,ZTV | AVI Kids,https://i.ibb.co/gL9kFJvP/AVI-KIDS.png
+633,ZTV | AVI REWIND,https://i.ibb.co/bgVZ8910/AVI-REWINDS.png
 634,mvstr | AE,
 635,texto: Cine Acción,
 636,Texto: Cine Comedia,
@@ -505,3 +505,9 @@ lch3095.ecu,ECU | Oromar,https://upload.wikimedia.org/wikipedia/commons/thumb/2/
 663,FMH Farwest,
 664,FMH Flash Back,
 665,Programación músical,
+666,CL | ZTV AVI ACTION,http://programacion.zplay.cl/api/watermarks/image/wm_mssh4ggf_b6be461c.png
+667,CL | ZTV AVI CONCERT,https://i.ibb.co/B5m5ZRr5/AVI-CONCERT.png
+668,CL | ZTV AVI GARAGE,https://i.ibb.co/ynSwk175/AVI-GARAGE.png
+669,CL | ZTV AVI HORIZON,https://i.ibb.co/G4PTcTMC/AVI-HORIZON.png
+670,CL | ZTV AVI JR,http://programacion.zplay.cl/api/watermarks/image/wm_mu7hw4z5_0f6a7b9b.gif
+671,CL | ZTV AVI TOONs,http://programacion.zplay.cl/api/watermarks/image/wm_mt6mtr2u_90d47c97.png
