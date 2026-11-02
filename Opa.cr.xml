@@ -3,39 +3,6 @@
   <channel id="Opa.cr">
     <display-name>Opa Canal 36</display-name>
   </channel>
-  <programme start="20261101000000 -0600" stop="20261101010000 -0600" channel="Opa.cr">
-    <title>Charlas</title>
-  </programme>
-  <programme start="20261101010000 -0600" stop="20261101040000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20261101040000 -0600" stop="20261101130000 -0600" channel="Opa.cr">
-    <title>A doble nudo</title>
-  </programme>
-  <programme start="20261101130000 -0600" stop="20261101140000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20261101140000 -0600" stop="20261101150000 -0600" channel="Opa.cr">
-    <title>Podcast Nereo Gabriel</title>
-  </programme>
-  <programme start="20261101150000 -0600" stop="20261101180000 -0600" channel="Opa.cr">
-    <title>Equilibrio con Yaxún</title>
-  </programme>
-  <programme start="20261101180000 -0600" stop="20261101200000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20261101200000 -0600" stop="20261101210000 -0600" channel="Opa.cr">
-    <title>Retransmisiones</title>
-  </programme>
-  <programme start="20261101210000 -0600" stop="20261101220000 -0600" channel="Opa.cr">
-    <title>A doble nudo</title>
-  </programme>
-  <programme start="20261101220000 -0600" stop="20261101230000 -0600" channel="Opa.cr">
-    <title>Está Pasando</title>
-  </programme>
-  <programme start="20261101230000 -0600" stop="20261102080000 -0600" channel="Opa.cr">
-    <title>Charlas</title>
-  </programme>
   <programme start="20261102080000 -0600" stop="20261102090000 -0600" channel="Opa.cr">
     <title>Central Noticias</title>
   </programme>
@@ -316,6 +283,39 @@
     <title>Testigo Directo</title>
   </programme>
   <programme start="20261107230000 -0600" stop="20261108000000 -0600" channel="Opa.cr">
+    <title>Charlas</title>
+  </programme>
+  <programme start="20261108000000 -0600" stop="20261108010000 -0600" channel="Opa.cr">
+    <title>Charlas</title>
+  </programme>
+  <programme start="20261108010000 -0600" stop="20261108040000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20261108040000 -0600" stop="20261108130000 -0600" channel="Opa.cr">
+    <title>A doble nudo</title>
+  </programme>
+  <programme start="20261108130000 -0600" stop="20261108140000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20261108140000 -0600" stop="20261108150000 -0600" channel="Opa.cr">
+    <title>Podcast Nereo Gabriel</title>
+  </programme>
+  <programme start="20261108150000 -0600" stop="20261108180000 -0600" channel="Opa.cr">
+    <title>Equilibrio con Yaxún</title>
+  </programme>
+  <programme start="20261108180000 -0600" stop="20261108200000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20261108200000 -0600" stop="20261108210000 -0600" channel="Opa.cr">
+    <title>Retransmisiones</title>
+  </programme>
+  <programme start="20261108210000 -0600" stop="20261108220000 -0600" channel="Opa.cr">
+    <title>A doble nudo</title>
+  </programme>
+  <programme start="20261108220000 -0600" stop="20261108230000 -0600" channel="Opa.cr">
+    <title>Está Pasando</title>
+  </programme>
+  <programme start="20261108230000 -0600" stop="20261109000000 -0600" channel="Opa.cr">
     <title>Charlas</title>
   </programme>
 </tv>

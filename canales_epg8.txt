@@ -126,7 +126,7 @@
 64f6163a30ab3300083d870e,PFL MMA,https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png
 67a52cd4ec91870008a62164,UFC,https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png
 66997d18a1b69e00082ee85f,FIFA+,https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png
-67a52c8397782f00081879aa,Top Barça,https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png
+67a52c8397782f00081879aa,Barça 24H,https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG_1793619685355.png
 67813f893886aa863497733d,Red Bull TV,https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png
 65df731cec9fda0008b7aa8d,South Park: Colección Cartman,https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png
 65df7272ec9fda0008b7a970,South Park: Colección Kenny,https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png
