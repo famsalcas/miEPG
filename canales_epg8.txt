@@ -1,5 +1,5 @@
 # Fuente: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/mx.xml
-5dcde437229eff00091b6c30,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1791579490743.png
+5dcde437229eff00091b6c30,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1793741871709.png
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción,https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png
 5e972a21ad709d00074195ba,Estrellas de Acción,https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png
 61b793ccf571b80007b7a610,Adrenalina Pura TV,https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png
@@ -150,11 +150,11 @@
 652e91fd6208700008dcaf7b,Canal 6 CdMX,https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG_1785346412851.png
 68224482c5d53e1351aaf2f2,Canal Claro,https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png
 68ba0910e1d03fec7d5c084f,Al Ritmo del Jaripeo,https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/colorLogoPNG_1760471497704.png
-68b88712e777774982269ce9,Tastemade Viajes,https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png
+68b88712e777774982269ce9,Tastemade Home &amp; Travel,https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1793803234766.png
 69fcdc73488e575cff213adc,Hermanos a la Obra,https://images.pluto.tv/channels/69fcdc73488e575cff213adc/colorLogoPNG_1778601459828.png
 64fb1f6e6625510008c00848,Homeful,https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png
 5dcde0657444a40009cd2422,Pluto TV Estilo de Vida,https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1778796418782.png
-5f998c1fc54853000797bacd,Tastemade,https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png
+5f998c1fc54853000797bacd,Tastemade Food,https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1793802456063.png
 6894fc3f66f164e402f4fd14,Dulce by elGourmet,https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG_1756447016242.png
 6894febddbd49c964f3b66c8,Plato del Dia by elGourmet,https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png
 5dcde17bf6591d0009839e02,Pluto TV Anime,https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG_1785346475723.png

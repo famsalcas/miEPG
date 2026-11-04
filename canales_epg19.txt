@@ -368,7 +368,6 @@ MississippiStateBulldogs.ncaaf,NCAAF - Mississippi State Bulldogs,https://a.espn
 MissouriTigers.ncaaf,NCAAF - Missouri Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/142.png
 NCStateWolfpack.ncaaf,NCAAF - NC State Wolfpack,https://a.espncdn.com/i/teamlogos/ncaa/500/152.png
 NebraskaCornhuskers.ncaaf,NCAAF - Nebraska Cornhuskers,https://a.espncdn.com/i/teamlogos/ncaa/500/158.png
-NewMexicoLobos.ncaaf,NCAAF - New Mexico Lobos,https://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 NorthCarolinaTarHeels.ncaaf,NCAAF - North Carolina Tar Heels,https://a.espncdn.com/i/teamlogos/ncaa/500/153.png
 NorthwesternWildcats.ncaaf,NCAAF - Northwestern Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/77.png
 NotreDameFightingIrish.ncaaf,NCAAF - Notre Dame Fighting Irish,https://a.espncdn.com/i/teamlogos/ncaa/500/87.png
