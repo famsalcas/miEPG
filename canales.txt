@@ -269,7 +269,7 @@ La 2,La2
 CGTN en Espanol,CGTNESPANOL.uy
 DW,DW.ni
 0643,HispanTV.ar
-RUSSIATODAY,RussiaToday.mx
+I566.69367.schedulesdirect.org,RussiaToday.mx
 a mas,Mexico,Amas.mx
 Canal 5,Canal5.mx
 Multimedios Plus,Canal6CDMX.mx
