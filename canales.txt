@@ -394,15 +394,15 @@ hboHD.Mx,HBO.ni
 HBO.East.us2,HBO.us
 HBO 2,BO2Latinoamerica.ni
 HBO.Comedy.HD.us2,HBOComedy.us
-HBO Family,HBOFamilyLatinoamerica.ni
+I391.34879.schedulesdirect.org,HBOFamilyLatinoamerica.ni
 HBO.Hits.us2,HBOHits.us
 HBO Latino Este,HBOLatinoEste.ni
 HBO.Zone.HD.us2,HBOMovies.us
 HBO Mundi,HBOMundi.ni
 HBOPlHD.Mx,HBOPlus.ni 
 HBOPop.Lat,HBOPop.ni
-HBOSign.lat,HBOSignatureLatinoamerica.ni
-HBOXtremeHD.Lat,HBOXtreme.ni
+I407.80120.schedulesdirect.org,HBOSignatureLatinoamerica.ni
+I410.80115.schedulesdirect.org,HBOXtreme.ni
 MGM.Presents.us2,MGMPresents.us
 MGM.Presents.Action.us2,MGMPresentsAction.us
 MGM.Presents:.Horror.us2,MGMPresentsHorror.us
