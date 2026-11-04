@@ -72,7 +72,7 @@ FilmandCo.es,FilmandCo
 f53e794f65b781ff1a0d37843c704827,FILMEX-Accion
 50cd4d6c632d5172834eb5b77fa395c6,FILMEX-Clasico
 8b2c97d22c7fed4d9d302a1796d5e009,FILMEX-Comedia
-Great.American.Family.HD.us2,GreatAmericanCountry.us
+I326.82892.schedulesdirect.org,GreatAmericanCountry.us
 77672e0655c5540095b1c492c91c37d3,GreatAmericanRomComs
 Hallmark.Channel.HD.us2,HallmarkChannel.us
 Hallmark.Family.us2,HallmarkFamily.us
@@ -348,11 +348,11 @@ BBC Series,BBC-Series
 0202,CNN.cl
 CNN en Español,CNNespanol.us
 0215,CNNInternacional.cr
-euronews,Euronews
+I305.40704.schedulesdirect.org,Euronews
 ForoTV,FOROtv.mx
 Fox News,FoxNews.ni
 El Toro TV,ElToro
-France 24 en Español,France24-ES
+I348.105781.schedulesdirect.org,France24-ES
 tlformula,Teleformula
 24H.Cl,24Chile
 0631,AZCorazon
