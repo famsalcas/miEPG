@@ -131,7 +131,7 @@ TNT.Mx,TNT.mx
 AYM Sports,AYMSports.mx
 735c2b7253c551ae9f07b07ea5278b75,Canela.TVDeportes
 CDN Deportes,CDNDeportes
-CLAROSPORTS,ClaroSports
+I181.72291.schedulesdirect.org,ClaroSports
 0420,ClaroSports2
 Combate,CombaTV
 0443,ECDF
@@ -187,8 +187,8 @@ TyC Sp,TyCSports.cr
 A&amp;E Panregional,AAndE.ni
 Adrenalina Pura TV,AdrenalinaPuraTV
 0624,EnlaceJuvenil.cr
-I26.90653.schedulesdirect.org,AMC,-2
-0619,AMCSeries
+I25.90852.schedulesdirect.org,AMC-ni
+I88.17484.schedulesdirect.org,AMCSeries
 Atreseries Internacional,Atreseries.ar
 AXN Andes,AXN.ni
 Claro TV.sv,ClaroTV.ni
@@ -377,6 +377,7 @@ I300.10191.schedulesdirect.org,CRAVE_1
 I301.12222.schedulesdirect.org,CRAVE_2
 I302.12223.schedulesdirect.org,CRAVE_3
 I303.21351.schedulesdirect.org,CRAVE_4
+I168.105154.schedulesdirect.org,az-cinema
 Cinemax.HD.us2,CineMAX.us
 ActionMAX.HD.us2,CinemaxAction.us
 5.StarMAX.HD.East.us2,CinemaxClassics.us
