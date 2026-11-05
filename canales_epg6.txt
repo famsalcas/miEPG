@@ -590,6 +590,7 @@ Loco,Loco,http://locomotiontv.com/locomotion/logo.png
 Magic Kids Tv,Magic Kids Tv,
 Magic Kids,Magic Kids,https://i.imgur.com/Uu8dciU.png
 Mi TV Television Clasica,Mi TV Television Clasica,
+My Jetix Retro,My Jetix Retro,
 Moni TV,Moni TV,https://i.imgur.com/Wct9jsp.png
 PS Television,PS Television,https://i.imgur.com/X0ooVPY.png
 Retro Magico,Retro Magico,https://static-cdn.jtvnw.net/jtv_user_pictures/2b903ff4-40ae-4b68-8726-53095a95cc89-profile_image-70x70.png

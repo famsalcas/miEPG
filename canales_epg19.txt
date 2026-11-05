@@ -608,8 +608,6 @@ I137.47425.schedulesdirect.org,CLOCAL,
 I141.70312.schedulesdirect.org,Sony Movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png
 I142.19385.schedulesdirect.org,Sony Movies HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png
 I143.88517.schedulesdirect.org,SENTTVH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png
-I146.16141.schedulesdirect.org,Cartoon Network Latinoamerica,
-I147.101735.schedulesdirect.org,Cartoon Network LatinoAmerica HD,
 I149.60048.schedulesdirect.org,TOONHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60048_dark_360w_270h.png
 I152.10098.schedulesdirect.org,CBS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png
 I156.44479.schedulesdirect.org,CGTN Español,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_dark_360w_270h.png
@@ -676,7 +674,6 @@ I256.29912.schedulesdirect.org,RBCLAS,https://schedulesdirect-api20141201-logos.
 I257.19007.schedulesdirect.org,SILKYSL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50415_dark_360w_270h.png
 I267.102415.schedulesdirect.org,DPXEIMT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116168_dark_360w_270h.png
 I268.102405.schedulesdirect.org,DPXEIPN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003NY4FK.png_dark_360w_270h.png
-I269.97020.schedulesdirect.org,DUPXEQ,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116171_dark_360w_270h.png
 I270.102406.schedulesdirect.org,DPXHIMT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png
 I272.79318.schedulesdirect.org,Deutsche Welle,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G6N.png_dark_360w_270h.png
 I273.64230.schedulesdirect.org,Deutsche Welle Español,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png
@@ -950,8 +947,10 @@ I1010.106094.schedulesdirect.org,H2 Hisotry LatinoAmerica,https://schedulesdirec
 I1013.68119.schedulesdirect.org,MUNLA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png
 I1014.102301.schedulesdirect.org,GAMETN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102301_dark_360w_270h.png
 I1019.61404.schedulesdirect.org,CORAZ,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61404_dark_360w_270h.png
+I1028.118937.schedulesdirect.org,Claro Sports 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119143_dark_360w_270h.png
 I1036.82003.schedulesdirect.org,HBO Plus LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png
 I1037.80550.schedulesdirect.org,HBO Family East Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png
+I1040.101735.schedulesdirect.org,Cartoon Network LatinoAmerica HD,
 I1058.99621.schedulesdirect.org,MMEDPHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99620_dark_360w_270h.png
 I1063.10145.schedulesdirect.org,HLN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png
 I1091.98192.schedulesdirect.org,CANL14,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023XQ3W.png_dark_360w_270h.png
@@ -1218,7 +1217,6 @@ I1720.50728.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com
 I1724.75970.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/75970/s12410_ll_h15_ac.png
 I1748.50057.gracenote.com,Fanduel Sports Network Mid West,https://zpmc.tmsimg.com/h3/NowShowing/50057/s50057_ll_h15_ac.png
 I1753.35295.gracenote.com,Fanduel Sports Network South West,https://zpmc.tmsimg.com/h3/NowShowing/35295/s59629_ll_h15_ac.png
-I1774.59625.gracenote.com,Fanduel Sports Network Souther California,https://zpmc.tmsimg.com/h3/NowShowing/59625/s59625_ll_h15_ac.png
 I2.1.19600.gracenote.com,US - FOX News Detroit,https://zpmc.tmsimg.com/h3/NowShowing/19600/s28719_ll_h15_ac.png
 I6.1.25664.gracenote.com,US - CBS Detroit,https://zpmc.tmsimg.com/h3/NowShowing/25664/s28711_ll_h15_ab.png
 I7.1.19601.gracenote.com,US - ABC 7 Detroit,https://zpmc.tmsimg.com/h3/NowShowing/19601/s28708_ll_h15_ac.png

@@ -138,15 +138,15 @@
 5812be1c249444e05d09cc50,Pluto TV True Crime,https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png
 6532e6a9bdf3cf000887ab29,More True Crime,https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png
 6887aaade3703b7d42b64be8,The First 48 by A&amp;E,https://images.pluto.tv/channels/6887aaade3703b7d42b64be8/colorLogoPNG_1754999153420.png
-6887a4e01067b66fa16966ec,Live PD Presents,https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png
+637413d8531e0c0007442d6d,Dateline 24/7,https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png
 6aab1ec6f2eaa8924745678e,A&amp;E Live PD: Greatest Shifts,https://images.pluto.tv/channels/6aab1ec6f2eaa8924745678e/colorLogoPNG_1790808102594.png
-65492fc7056b9700088560b5,American Crimes,https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png
 6ac5067030fb504db0658842,See It Now Studios True Crime,https://images.pluto.tv/channels/6ac5067030fb504db0658842/colorLogoPNG_1793642003281.png
 6ad7a23d0f04c58afc0110ad,I (Almost) Got Away With It,https://images.pluto.tv/channels/6ad7a23d0f04c58afc0110ad/colorLogoPNG_1793382563465.png
-637413d8531e0c0007442d6d,Dateline 24/7,https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png
+6887a4e01067b66fa16966ec,Live PD Presents,https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png
 6176f39e709f160007ec61c3,48 Hours,https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png
-68bb164fb3900870ec368759,Living With Evil,https://images.pluto.tv/channels/68bb164fb3900870ec368759/colorLogoPNG_1785342013286.png
 6ad79f775db95e3dac2ae44c,Crime Scenes,https://images.pluto.tv/channels/6ad79f775db95e3dac2ae44c/colorLogoPNG_1793381685424.png
+65492fc7056b9700088560b5,American Crimes,https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png
+68bb164fb3900870ec368759,Living With Evil,https://images.pluto.tv/channels/68bb164fb3900870ec368759/colorLogoPNG_1785342013286.png
 5b4e96a0423e067bd6df6901,Unsolved Mysteries,https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png
 5aea40b35126c2157123aa64,The New Detectives,https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png
 5c37d6712de254456f7ec340,Cold Case Files by A&amp;E,https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG_1767744689997.png
