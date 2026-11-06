@@ -2,6 +2,7 @@
 0000,Sin información disponible,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 0001,Programación Variada,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0001.jpg
 0002,PPV Eventos,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0002.jpg
+0003,Teletón TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 0101,Telecanal,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0101.jpg
 0102,La Red,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0102.jpg
 0103,TV Más,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0103.jpg

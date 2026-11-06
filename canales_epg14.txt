@@ -159,7 +159,6 @@
 6aab1ea02cfd341eb5036c5a,A&amp;E’s Alaska State Troopers,https://images.pluto.tv/channels/6aab1ea02cfd341eb5036c5a/colorLogoPNG_1791210755629.png
 5bee1a7359ee03633e780238,Dog the Bounty Hunter,https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG_1767736765611.png
 6887a8fd8e92b5e0a7244e88,Ancient Aliens,https://images.pluto.tv/channels/6887a8fd8e92b5e0a7244e88/colorLogoPNG_1753992701393.png
-5ef3958c66ac540007d6e6a7,Dark Shadows,https://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png
 5812bcc8237a6ff45d16c407,Spike Pluto TV,https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png
 5d8bf0b06d2d855ee15115e3,Pluto TV Reality,https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png
 60a3d889a5b3690008dc7fe8,Bar Rescue,https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG_1780596469446.png
