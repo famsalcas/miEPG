@@ -31,7 +31,7 @@
 58e55b14ad8e9c364d55f717,Flicks of Fury,https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png
 5c665db3e6c01b72c4977bc2,Pluto TV Cult Films,https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png
 63335df531a7590007c226b9,Pluto TV Christmas,https://images.pluto.tv/channels/63335df531a7590007c226b9/colorLogoPNG_1793115157565.png
-5d9ccd538661290009ecbdb7,Pluto TV Mistletoe,https://images.pluto.tv/channels/5d9ccd538661290009ecbdb7/colorLogoPNG_1792768625587.png
+5d9ccd538661290009ecbdb7,Pluto TV Mistletoe,https://images.pluto.tv/channels/5d9ccd538661290009ecbdb7/colorLogoPNG_1793983999979.png
 68f690e7a25ba0aab32bed92,BET Holiday Movies,https://images.pluto.tv/channels/68f690e7a25ba0aab32bed92/colorLogoPNG_1760989733981.png
 5c2d64ffbdf11b71587184b8,TV Land Sitcoms,https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png
 633354b63df9700007f6a1b7,Sitcom Legends,https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png
@@ -119,6 +119,7 @@
 6a065830853a01a827f6dd65,Pluto TV Action Drama,https://images.pluto.tv/channels/6a065830853a01a827f6dd65/colorLogoPNG_1781131099315.png
 5f31fd1b4c510e00071c3103,Pluto TV Crime Drama,https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png
 69d6c7befde57cd5ba0160c3,Pluto TV Hometown Drama,https://images.pluto.tv/channels/69d6c7befde57cd5ba0160c3/colorLogoPNG_1777488284970.png
+6ad12962e6621e77d3b88502,BET Drama Hits,https://images.pluto.tv/channels/6ad12962e6621e77d3b88502/colorLogoPNG_1793913080406.png
 666b38a5efa2a10008b15b3a,BET x Tyler Perry Drama,https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG_1785341580263.png
 6675c713fc3a46000863dde7,Ebony TV Drama,https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png
 5d40bebc5e3d2750a2239d7e,TV Land Drama,https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png
@@ -139,10 +140,10 @@
 6532e6a9bdf3cf000887ab29,More True Crime,https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png
 6887aaade3703b7d42b64be8,The First 48 by A&amp;E,https://images.pluto.tv/channels/6887aaade3703b7d42b64be8/colorLogoPNG_1754999153420.png
 637413d8531e0c0007442d6d,Dateline 24/7,https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png
-6aab1ec6f2eaa8924745678e,A&amp;E Live PD: Greatest Shifts,https://images.pluto.tv/channels/6aab1ec6f2eaa8924745678e/colorLogoPNG_1790808102594.png
 6ac5067030fb504db0658842,See It Now Studios True Crime,https://images.pluto.tv/channels/6ac5067030fb504db0658842/colorLogoPNG_1793642003281.png
 6ad7a23d0f04c58afc0110ad,I (Almost) Got Away With It,https://images.pluto.tv/channels/6ad7a23d0f04c58afc0110ad/colorLogoPNG_1793382563465.png
 6887a4e01067b66fa16966ec,Live PD Presents,https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png
+6aab1ec6f2eaa8924745678e,A&amp;E Live PD: Greatest Shifts,https://images.pluto.tv/channels/6aab1ec6f2eaa8924745678e/colorLogoPNG_1790808102594.png
 6176f39e709f160007ec61c3,48 Hours,https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png
 6ad79f775db95e3dac2ae44c,Crime Scenes,https://images.pluto.tv/channels/6ad79f775db95e3dac2ae44c/colorLogoPNG_1793381685424.png
 65492fc7056b9700088560b5,American Crimes,https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png
@@ -266,12 +267,13 @@
 5e7cf6c7b156d500078c5f44,OAN Plus,https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png
 66a7f0a78561260008c177f2,Salem News Channel,https://images.pluto.tv/channels/66a7f0a78561260008c177f2/colorLogoPNG.png
 5d486acc34ceb37d3c458a64,The First,https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png
+6a03782f2c1c785c1161756c,Zuffa Boxing Prelims,https://images.pluto.tv/channels/6a03782f2c1c785c1161756c/colorLogoPNG_1789054188922.png
 677d9adfa9a51b0008497fa0,UFC,https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png
 5e9f2c05172a0f0007db4786,CBS Sports HQ,https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png
 5ced7d5df64be98e07ed47b6,NFL Channel,https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG_1785344058498.png
 5a74b8e1e22a61737979c6bf,FOX Sports,https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png
 6549306c83595c000815a696,NBC Sports NOW,https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png
-6792c30abc03978b9b8bb832,The NBA Channel,https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1747950897785.png
+6792c30abc03978b9b8bb832,The NBA Channel,https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1793984084091.png
 5e66968a70f34c0007d050be,MLB,https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png
 5de94dacb394a300099fa22a,PGA TOUR,https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png
 65493029ab052400089e9d2f,GolfPass,https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG_1766432879705.png
@@ -310,8 +312,8 @@
 68bb16e7f89c82a68bcc4397,Chip &amp; Jo: Feels Like Home by Magnolia Network,https://images.pluto.tv/channels/68bb16e7f89c82a68bcc4397/colorLogoPNG_1758697632132.png
 5d51e791b7dba3b2ae990ab2,This Old House,https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png
 66df8aa7abec540008ca8cb6,Homeful,https://images.pluto.tv/channels/66df8aa7abec540008ca8cb6/colorLogoPNG.png
-66e0b265dd2d690008c5496b,Places &amp; Spaces,https://images.pluto.tv/channels/66e0b265dd2d690008c5496b/colorLogoPNG_1793200524996.png
 68bb162bb3900870ec364cbe,Beach Day,https://images.pluto.tv/channels/68bb162bb3900870ec364cbe/colorLogoPNG_1757977922278.png
+66e0b265dd2d690008c5496b,Places &amp; Spaces,https://images.pluto.tv/channels/66e0b265dd2d690008c5496b/colorLogoPNG_1793200524996.png
 656542ae4261ca00082154a8,Ultimate Builds,https://images.pluto.tv/channels/656542ae4261ca00082154a8/colorLogoPNG.png
 6565430c9d5ac4000822f508,Rustic Retreats,https://images.pluto.tv/channels/6565430c9d5ac4000822f508/colorLogoPNG.png
 601a0342dcf4370007566891,Tiny House Nation,https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG_1775171305009.png
