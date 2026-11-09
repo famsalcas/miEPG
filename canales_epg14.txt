@@ -253,7 +253,7 @@
 63d025db4e83e700086eaa96,LiveNOW from FOX,https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png
 5dc9b8223687ff000936ed79,CBS News New York,https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png
 5dc9b875e280c80009a8a44a,CBS News Los Angeles,https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png
-634f24cf3ce5fa0007c68f39,CBS News Detroit,https://images.pluto.tv/channels/634f24cf3ce5fa0007c68f39/colorLogoPNG.png
+62cdc7c2a3e6270007f3f2f3,CBS News Boston,https://images.pluto.tv/channels/62cdc7c2a3e6270007f3f2f3/colorLogoPNG.png
 55b179af994403942f3061d6,Newsmax2,https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png
 5d695f7db53adf96b78e7ce3,TODAY All Day,https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png
 5459795fc9f133a519bc0bef,Scripps News,https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png
@@ -360,7 +360,7 @@
 667f393836a2f90008fd17c0,Strawberry Shortcake and Friends,https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG_1753982261322.png
 60fb040d4795a6000762fe8f,Kartoon Channel!,https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png
 5fb584b7613a31000789de5a,Ryan and Friends,https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png
-56171fafada51f8004c4b40f,Forever Kids,https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png
+56171fafada51f8004c4b40f,Y2Kids TV,https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG_1794244162895.png
 60faf9ddfcc1f200070a5932,Garfield and Friends,https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png
 5812b7d3249444e05d09cc49,Pluto TV Anime,https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png
 67ed8f7e443f0671bc2b2368,Pluto TV Anime Movies,https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG_1747069531459.png
