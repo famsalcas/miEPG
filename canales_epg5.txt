@@ -2,7 +2,6 @@
 0000,Sin información disponible,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 0001,Programación Variada,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0001.jpg
 0002,PPV Eventos,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0002.jpg
-0003,Teletón TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 0101,Telecanal,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0101.jpg
 0102,La Red,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0102.jpg
 0103,TV Más,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0103.jpg
@@ -499,12 +498,6 @@
 0941,Canal 10 Córdoba • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0941.jpg
 0942,Doce TV Posadas • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0942.jpg
 0944,Teleislas • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0944.jpg
-0945,City TV • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0945.jpg
-0946,Trece • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0946.jpg
-0947,Telecafé • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0947.jpg
-0948,Telecaribe • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0948.jpg
-0949,Telepacífico • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0949.jpg
-0950,Canal TRO • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0950.jpg
 0951,TV Agro • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0951.jpg
 0952,Teleamiga • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0952.jpg
 0953,Telemedellín • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0953.jpg
