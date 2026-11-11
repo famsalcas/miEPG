@@ -125,7 +125,7 @@ RunTime Clásicos,RunTimeClasicos
 Space Panregional,Space.ni
 Studio Universal Panregional,StudioUniversal.ni
 Canal.Sundance.TV.(España).sv,SundanceTV
-TCM,TCM.cr
+I681.19246.schedulesdirect.org,TCM.cr
 TNT Centroamérica y Caribe,TNT.ni
 TNT.Mx,TNT.mx
 AYM Sports,AYMSports.mx
@@ -373,19 +373,15 @@ ab6cd6569bf6557a8c5d9798cfce202b,ViX-Novelasdeoro
 0861,AVI-Rewind
 0870,A3Cine
 Cines Verdi TV,CinesVerdi
-I300.10191.schedulesdirect.org,CRAVE_1
-I301.12222.schedulesdirect.org,CRAVE_2
-I302.12223.schedulesdirect.org,CRAVE_3
-I303.21351.schedulesdirect.org,CRAVE_4
 I168.105154.schedulesdirect.org,az-cinema
-Cinemax.HD.us2,CineMAX.us
-ActionMAX.HD.us2,CinemaxAction.us
-5.StarMAX.HD.East.us2,CinemaxClassics.us
-MoreMax.HD.us2,CinemaxHits
+I515.34933.schedulesdirect.org,CineMAX.us
+I519.59948.schedulesdirect.org,CinemaxAction.us
+I520.59961.schedulesdirect.org,CinemaxClassics.us
+I517.59373.schedulesdirect.org,CinemaxHits
 acf637e8292736265712e3be566c0e5a,CinepolisChannel
 400000069,ClassicCinema
-Golden Panregional,Golden.ni,-1
-Golden Edge,GoldenEdge.mx,-3
+Golden Panregional,Golden.ni
+Golden Edge,GoldenEdge.mx
 Golden Plus,GoldenPlus.mx
 Golden Premier,GoldenPremier.mx
 Golden Premier 2,GoldenPremier2.mx
