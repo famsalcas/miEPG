@@ -1,0 +1,169 @@
+id=Tvn14.cr
+nombre=TV Norte 14
+logo=
+offset=-0600
+dias=7
+
+Lunes,00:00,Videos Musicales
+Lunes,06:00,FORO – VOA Rep
+Lunes,06:30,En Forma – DW
+Lunes,07:00,Zambú – ZTV
+Lunes,07:30,1,2 A Moverse
+Lunes,08:00,Clásicos y más.
+Lunes,10:00,Eco Latinoamérica
+Lunes,10:30,Santa Misa
+Lunes,11:30,Todo lo que sé – RTAL
+Lunes,12:00,TVN Noticias
+Lunes,13:00,El Cirujano – China
+Lunes,14:00,Franja Infantil Panda Chino
+Lunes,14:30,Franja Infantil Los Cuentos de Cheski
+Lunes,15:00,Franja Infantil Excursión de Zamba
+Lunes,15:30,SINART – Aprendo en casa Primaria
+Lunes,16:00,Tal como somos – RTAL
+Lunes,17:00,Tardeándola
+Lunes,18:00,TVN Noticias
+Lunes,19:00,Lo Que Suena
+Lunes,20:00,El Andariego + Visión Deportiva
+Lunes,20:30,Palco Norte
+Lunes,22:00,Futbol entre lineas -RTAL
+Lunes,23:00,TVN Noticias (Repetición)
+Martes,00:00,Videos Musicales
+Martes,03:00,UCR-MXI-Rep
+Martes,05:00,Programa
+Martes,06:00,TVN Noticias Rep
+Martes,07:00,Con sello de oro- SINART
+Martes,08:00,Tal como somos – RTAL Rep
+Martes,09:00,Documentales UNED
+Martes,10:00,Tome Nota
+Martes,11:00,Retratos – ZTV
+Martes,12:00,TVN Noticias
+Martes,13:00,Todo Gol – DW
+Martes,13:30,Todo lo que sé – RTAL REP
+Martes,14:00,Franja Infantil Panda Chino
+Martes,14:30,Franja Infantil Los Cuentos de Cheski
+Martes,15:00,SINART – Aprendo en casa Primaria
+Martes,15:30,Buen Sabor con Oky-rep
+Martes,16:00,Programa
+Martes,17:00,Tardeándola
+Martes,18:00,TVN Noticias
+Martes,19:00,Agro Activo-Rep
+Martes,19:30,A viva vos – RTAL-Rep
+Martes,20:00,El Andariego + Visión Deportiva
+Martes,20:30,La Barra Balón
+Martes,21:30,Palomitas Mixtas
+Martes,22:00,Punto y Coma – UNED
+Martes,23:00,Rep. Tardeando
+Miercoles,00:00,Videos Musicales
+Miercoles,06:00,TVN Noticias Rep
+Miercoles,07:00,Vision Futuro – DW
+Miercoles,07:30,Conciencia – UCR -Rep
+Miercoles,09:00,RPM – DW
+Miercoles,09:30,Retratos – ZTV REP
+Miercoles,10:00,Retratos – ZTV REP
+Miercoles,10:30,Santa Misa
+Miercoles,11:30,Recintos de Fe – RTal
+Miercoles,12:00,TVN Noticias
+Miercoles,13:00,El Cirujano – China
+Miercoles,14:30,ABC Mouse
+Miercoles,15:00,SINART – Aprendo en casa Primaria
+Miercoles,16:00,Historia en tránsito – RTAL
+Miercoles,16:30,Flow Importado, Ritmo pegado – RTAL
+Miercoles,17:00,Tardeándola
+Miercoles,18:00,TVN Noticias
+Miercoles,19:00,Pro Rodeo
+Miercoles,20:00,El Andariego + Visión Deportiva
+Miercoles,20:30,Generación X – RTAL -Rep
+Miercoles,21:00,Tertulia de Noche
+Miercoles,22:00,De pueblo en pueblo – Sinart
+Miercoles,23:00,TVN Noticias (Repetición)
+Jueves,00:00,Videos Musicales
+Jueves,06:00,TVN Noticias Rep
+Jueves,07:00,Mujeres de hierro ZTV
+Jueves,07:30,A viva vos – RTAL
+Jueves,08:00,Sobrevivientes – RTAL + Minuto 15- UCR
+Jueves,08:30,Flow Importado, Ritmo pegado – RTAL Rep
+Jueves,09:00,Por el mundo entro a mi casa – RTAL
+Jueves,09:30,Global 3000 – DW – Rep
+Jueves,10:00,Programa
+Jueves,11:00,Ciecia a la carta – RTAL
+Jueves,11:30,Somos Cultura – Sinart
+Jueves,12:00,TVN Noticias
+Jueves,13:00,El Vlog – UCR
+Jueves,13:30,Sentir – RTAL
+Jueves,14:00,Franja Infantil Panda Chino
+Jueves,14:30,Franja Infantil Los Cuentos de Cheski
+Jueves,15:00,SINART – Aprendo en casa Primaria
+Jueves,15:30,Franja Infantil Escurcion de Zamba
+Jueves,16:00,Programa
+Jueves,17:00,Tardeándola
+Jueves,18:00,TVN Noticias
+Jueves,19:00,Relatos Red Tal
+Jueves,20:00,El Andariego + Visión Deportiva
+Jueves,20:30,Estación 14
+Jueves,21:00,Programa
+Jueves,22:00,Palomitas Mixtas-Rep
+Jueves,23:00,TVN Noticias (Repetición)
+Viernes,00:00,VIdeos Musicales
+Viernes,06:00,TVN Noticias Rep
+Viernes,07:00,Zambú – ZTV Rep
+Viernes,07:30,1,2 A MOVERSE REP
+Viernes,08:00,Programa
+Viernes,09:00,Vision Futuro – DW Rep
+Viernes,09:30,Enlaces – Enlaces
+Viernes,10:00,Recintos de Fe – Rtal Rep
+Viernes,10:30,Santa Misa
+Viernes,11:30,Generación X – RTAL
+Viernes,12:00,TVN Noticias
+Viernes,13:00,Con sello de oro- SINART Rep
+Viernes,14:00,Franja Infantil Panda Chino
+Viernes,14:30,Franja Infantil Los Cuentos de Cheski
+Viernes,15:00,SINART – Aprendo en casa Primaria
+Viernes,15:30,Bilingual Explorers
+Viernes,16:00,Programa
+Viernes,17:00,Programa
+Viernes,18:00,TVN Noticias
+Viernes,19:00,Lo que suena
+Viernes,20:00,El Andariego + Visión Deportiva
+Viernes,20:30,Clásicos y más
+Viernes,22:30,Enlaces – DW Rep
+Viernes,23:00,TVN Noticias (Repetición)
+Sabado,00:00,Videos Musicales
+Sabado,05:00,Música Alegre
+Sabado,06:00,TVN Noticias Rep
+Sabado,07:00,En Forma – DW-Rep
+Sabado,07:30,RPM – DW Rep
+Sabado,08:00,Escápate – DW
+Sabado,08:30,ABC mouse REP
+Sabado,09:00,FRANJA INFANTIL REP Lunes
+Sabado,11:00,Tome Nota – Rep Martes
+Sabado,13:00,El Cirujano – China Rep
+Sabado,13:00,Buen Sabor
+Sabado,14:00,Explosión musical
+Sabado,16:00,Estacion 14 – Rep
+Sabado,17:00,Cultura Friki
+Sabado,18:00,TVN Noticias edición sabatina
+Sabado,19:00,LÚDICO Presenta
+Sabado,19:30,Cine del Recuerdo
+Sabado,21:00,Explosión Musical – Rep
+Sabado,23:00,TVN NOTICIAS Sabatino Rep
+Domingo,00:00,Videos Musicales
+Domingo,03:00,Noche de conciertos – UCR
+Domingo,04:30,MXI-UCR
+Domingo,05:30,FORO – VOA
+Domingo,06:00,SESSIONS – TD
+Domingo,07:00,Clásicos y más Viernes Rep
+Domingo,09:00,FRANJA INFANTIL REP Miércoles
+Domingo,10:00,FRANJA INFANTIL REP Jueves
+Domingo,11:00,Tome Nota Rep Jueves
+Domingo,12:00,Agro Activo
+Domingo,12:30,Nexos – UCR
+Domingo,13:00,Futbol entre lineas – RTAL Rep
+Domingo,14:00,Todo Deporte – DW
+Domingo,14:30,Eso que llamamos amor- RTAL
+Domingo,15:00,Eventos del recuerdo TVN
+Domingo,17:00,Aduana 24/7
+Domingo,18:00,Domingo Deportivo
+Domingo,19:00,Tertulia de Noche
+Domingo,20:00,Clásicos y más
+Domingo,21:30,LÚDICO Presenta-Rep
+Domingo,22:09,Cine del Recuerdo-Rep

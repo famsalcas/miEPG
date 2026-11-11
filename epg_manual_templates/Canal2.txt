@@ -1,0 +1,88 @@
+id=Canal2.cr
+nombre=Canal 2 (Costa Rica)
+logo=
+offset=-0600
+dias=7
+
+Lunes,00:00,Playlist
+Lunes,04:00,Playlist
+Lunes,06:00,Noticias Monumental
+Lunes,07:00,Nuestra Voz
+Lunes,09:00,Playlist
+Lunes,11:00,Noticias Monumental
+Lunes,12:00,Playlist
+Lunes,14:00,Videoteca
+Lunes,15:00,Conecta2
+Lunes,16:00,Central Mundo
+Lunes,17:00,Pelando el ojo
+Lunes,19:00,Playlist Retro
+Lunes,20:00,Playlist
+Lunes,22:30,Pelando el ojo
+Martes,00:00,Playlist
+Martes,04:00,Playlist
+Martes,06:00,Noticias Monumental
+Martes,07:00,Nuestra Voz
+Martes,09:00,Playlist
+Martes,11:00,Noticias Monumental
+Martes,14:00,Videoteca
+Martes,15:00,Conecta2
+Martes,17:00,Pelando el ojo
+Martes,19:00,Playlist Retro
+Martes,20:00,Playlist
+Martes,22:30,Pelando el ojo
+Miercoles,00:00,Playlist
+Miercoles,04:00,Playlist
+Miercoles,06:00,Noticias Monumental
+Miercoles,07:00,Nuestra Voz
+Miercoles,09:00,Playlist
+Miercoles,11:00,Noticias Monumental
+Miercoles,13:00,Playlist
+Miercoles,14:00,Videoteca
+Miercoles,15:00,Conecta2
+Miercoles,17:00,Pelando el ojo
+Miercoles,19:00,Playlist Retro
+Miercoles,20:00,Playlist
+Miercoles,22:30,Pelando el ojo
+Jueves,00:00,Playlist
+Jueves,04:00,Playlist
+Jueves,06:00,Noticias Monumental
+Jueves,07:00,Nuestra Voz
+Jueves,09:00,Playlist
+Jueves,11:00,Noticias Monumental
+Jueves,12:00,Playlist
+Jueves,14:00,Videoteca
+Jueves,15:00,Conecta2
+Jueves,17:00,Pelando el ojo
+Jueves,19:00,Playlist Retro
+Jueves,20:00,Playlist
+Jueves,22:30,Pelando el ojo
+Viernes,00:00,Playlist
+Viernes,04:00,Playlist
+Viernes,06:00,Noticias Monumental
+Viernes,07:00,Nuestra Voz
+Viernes,09:00,Playlist
+Viernes,11:00,Noticias Monumental
+Viernes,12:00,Playlist
+Viernes,14:00,Videoteca
+Viernes,15:00,Conecta2
+Viernes,17:00,Pelando el ojo
+Viernes,19:00,Playlist Retro
+Viernes,20:00,Playlist
+Viernes,22:30,Pelando el ojo
+Sabado,00:00,Playlist
+Sabado,04:00,Playlist
+Sabado,08:00,Playlist
+Sabado,12:00,Zeta TV
+Sabado,13:00,Hecho en Costa Rica
+Sabado,14:00,Playlist
+Sabado,17:00,Best TV
+Sabado,19:00,Playlist
+Sabado,22:00,Best TV
+Domingo,00:00,Playlist
+Domingo,04:00,Playlist
+Domingo,07:00,Playlist
+Domingo,10:00,Best TV
+Domingo,12:00,Playlist
+Domingo,15:00,Zeta TV
+Domingo,19:00,Momentos Reloj TV
+Domingo,20:00,Playlist

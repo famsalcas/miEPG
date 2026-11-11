@@ -1,0 +1,113 @@
+id=Tvsur14.cr
+nombre=TV Sur 14
+logo=
+offset=-0600
+dias=7
+
+Lunes,07:00,Santo Rosario
+Lunes,07:30,Videos Cristianos
+Lunes,08:00,Infantiles
+Lunes,09:00,Avance Informativo
+Lunes,09:05,Complacenias
+Lunes,10:00,Videos Musicales
+Lunes,11:00,Avance Informativo
+Lunes,11:05,Caso Cerrado
+Lunes,12:00,TV Sur Noticias
+Lunes,12:30,Caso Cerrado
+Lunes,13:30,Videos Musicales
+Lunes,14:00,Avance Informativo
+Lunes,14:05,Complacencias
+Lunes,15:00,Videos Musicales
+Lunes,15:55,Avance Informativo
+Lunes,16:00,Infantiles
+Lunes,17:00,Programa
+Lunes,17:30,VIdeos Musicales
+Lunes,18:00,TV Sur Noticias Estelar
+Lunes,19:00,Programa
+Lunes,20:00,Programa
+Lunes,21:00,TV Sur Noticias Nocturna
+Lunes,21:30,Videos Musicales
+Martes,07:00,Santo Rosario
+Martes,07:30,Videos Cristianos
+Martes,08:00,Infantiles
+Martes,08:30,Nexos
+Martes,09:00,Avance Informativo
+Martes,09:05,Complacenias
+Martes,10:00,Videos Musicales
+Martes,11:00,Avance Informativo
+Martes,11:05,Caso Cerrado
+Martes,12:00,TV Sur Noticias
+Martes,12:30,Caso Cerrado
+Martes,13:30,Videos Musicales
+Martes,14:00,Avance Informativo
+Martes,14:05,Complacencias
+Martes,15:00,Videos Musicales
+Martes,15:55,Avance Informativo
+Martes,16:00,Infantiles
+Martes,17:00,Programa
+Martes,17:30,VIdeos Musicales
+Martes,18:00,TV Sur Noticias Estelar
+Martes,19:00,Programa
+Martes,20:00,Programa
+Martes,21:00,TV Sur Noticias Nocturna
+Martes,21:30,Videos Musicales
+Miercoles,07:00,Santo Rosario
+Miercoles,07:30,Videos Cristianos
+Miercoles,08:00,Infantiles
+Miercoles,09:00,Avance Informativo
+Miercoles,09:05,Complacenias
+Miercoles,10:00,Videos Musicales
+Miercoles,11:00,Avance Informativo
+Miercoles,11:05,Caso Cerrado
+Miercoles,12:00,TV Sur Noticias
+Miercoles,12:30,Caso Cerrado
+Miercoles,13:30,Videos Musicales
+Miercoles,14:00,Avance Informativo
+Miercoles,14:05,Complacencias
+Miercoles,15:00,Videos Musicales
+Miercoles,15:55,Avance Informativo
+Miercoles,16:00,Infantiles
+Miercoles,17:00,Programa
+Miercoles,17:30,VIdeos Musicales
+Miercoles,18:00,TV Sur Noticias Estelar
+Miercoles,19:00,Documental
+Miercoles,19:30,Economia y Sociedad
+Miercoles,20:00,UNA Mirada
+Miercoles,21:00,TV Sur Noticias Nocturna
+Miercoles,21:30,Videos Musicales
+
+
+Miercoles,00:30,El Octavo Mandamiento
+Miercoles,07:00,Santo Rosario
+Miercoles,07:30,Videos Cristianos
+Miercoles,16:00,Alma de Mujer
+Miercoles,18:00,Central Mundo
+Miercoles,19:00,Esta Pasando
+Miercoles,20:00,Central Noticias
+Miercoles,21:30,El Octavo Mandamiento
+Miercoles,22:30,Charlas
+Miercoles,23:30,Central Noticias
+Jueves,00:30,El Octavo Mandamiento
+Jueves,07:00,Santo Rosario
+Jueves,07:30,Videos Cristianos
+Jueves,16:00,A doble nudo
+Jueves,18:00,Central Mundo
+Jueves,20:00,Central Noticias
+Jueves,21:30,El Octavo Mandamiento
+Jueves,22:30,Charlas
+Jueves,23:30,Central Noticias
+Viernes,00:30,El Octavo Mandamiento
+Viernes,07:00,Santo Rosario
+Viernes,07:30,Videos Cristianos
+Viernes,16:00,Central Mundo
+Viernes,17:00,Programa
+Viernes,18:00,Central Noticias
+Viernes,19:00,Esta Pasando
+Viernes,20:00,El Octavo Mandamiento
+Viernes,21:30,Programa
+Viernes,22:30,Charlas
+Viernes,23:30,Central Noticias
+Sabado,00:30,El Octavo Mandamiento
+Sabado,07:00,Santo Misa
+Sabado,20:00,SIn informacion
+Domingo,20:00,SIn informacion

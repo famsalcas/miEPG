@@ -1,0 +1,223 @@
+id=Quince.cr
+nombre=UCR Canal 15
+logo=
+offset=-0600
+dias=7
+
+Lunes,00:00,Por siempre cine
+Lunes,02:30,Manos a la obra
+Lunes,02:30,Nexos
+Lunes,03:00,Costa Rica en juego
+Lunes,03:30,Palabra de mujer
+Lunes,04:00,Pandemonium
+Lunes,05:00,Música Progresiva
+Lunes,06:00,Imágenes de Iberoamérica
+Lunes,06:30,Visión Futuro
+Lunes,07:00,Desayunos de Radio Universidad
+Lunes,08:00,Libros al aire
+Lunes,08:30,Economía y Sociedad
+Lunes,09:00,Reportes
+Lunes,09:30,Conciencia
+Lunes,10:00,Documental
+Lunes,11:00,Forjadores
+Lunes,11:30,Visión Futuro
+Lunes,12:00,DW Noticias
+Lunes,12:30,RT: Reporta
+Lunes,13:00,Por siempre cine
+Lunes,15:00,Imágenes de Iberoamérica
+Lunes,15:30,Visión Futuro
+Lunes,16:00,Forjadores
+Lunes,16:30,A la gorra ni quien corra
+Lunes,17:00,Documental
+Lunes,18:00,Interferencia
+Lunes,19:00,DW Noticias
+Lunes,19:30,Nexos
+Lunes,20:00,Palabra de mujer
+Lunes,20:30,¿Quién cuida y cómo?
+Lunes,21:00,Pandemonium
+Lunes,22:00,Documental
+Lunes,23:00,Música Progresiva
+Martes,00:00,Por siempre cine
+Martes,02:00,A la gorra ni quien corra
+Martes,02:30,Cultura 21
+Martes,03:00,¿Cómo te afecta?
+Martes,03:30,LIbros al aire
+Martes,04:00,Música Progresiva
+Martes,05:00,Música Progresiva
+Martes,06:00,Imágenes de Iberoamérica
+Martes,06:30,En Forma
+Martes,07:00,Desayunos de Radio Universidad
+Martes,08:00,Forjadores
+Martes,08:30,Nexos
+Martes,09:00,Palabra de mujer
+Martes,09:30,¿Quién cuida y cómo?
+Martes,10:00,Documental
+Martes,11:00,Forjadores
+Martes,11:30,En Forma
+Martes,12:00,DW Noticias
+Martes,12:30,RT: Entrevista
+Martes,13:30,Por siempre cine
+Martes,15:00,Imágenes de Iberoamérica
+Martes,15:30,En Forma
+Martes,16:00,Forjadores
+Martes,16:30,Ala gorra ni quien corra
+Martes,17:00,Documental
+Martes,18:00,Interferencia
+Martes,19:00,DW Noticias
+Martes,19:30,Cultura 21
+Martes,20:00,¿Cómo te afecta?
+Martes,20:30,Libros al aire
+Martes,21:00,Música Progresiva
+Martes,22:00,Documental
+Martes,23:00,Música Progresiva
+Miercoles,00:00,Por siempre cine
+Miercoles,02:00,A la gorra ni quien corra
+Miercoles,02:30,NCC: Noticiero Cientifico y Cultural
+Miercoles,03:00,Centinelas de la salud
+Miercoles,03:30,Conciencia
+Miercoles,04:00,Sexo luego existo
+Miercoles,05:00,Música Progresiva
+Miercoles,05:30,Centinelas de la salud
+Miercoles,06:00,Imágenes de Iberoamérica
+Miercoles,06:30,GlobalES
+Miercoles,07:00,Desayunos de Radio Universidad
+Miercoles,08:00,forjadores
+Miercoles,08:30,Cultura 21
+Miercoles,09:00,¿Cómo te afecta?
+Miercoles,09:30,Libros al aire
+Miercoles,10:00,Documental
+Miercoles,11:00,Forjadores
+Miercoles,11:30,GLobalES
+Miercoles,12:00,DW Noticias
+Miercoles,12:30,RT: El África de Lumumba
+Miercoles,13:00,Por siempre cine
+Miercoles,15:00,Imágenes de Iberoamérica
+Miercoles,15:30,GlobalES
+Miercoles,16:00,Forjadores
+Miercoles,16:30,A la gorra ni quien corra
+Miercoles,17:00,Documental
+Miercoles,18:00,Interferencia
+Miercoles,19:00,DW Noticias
+Miercoles,19:30,NCC: Noticiero Cientifico y Cultural
+Miercoles,20:00,Centinelas de la salud
+Miercoles,20:30,Conciencia
+Miercoles,21:00,Joyas de Guanajuato
+Miercoles,22:00,Documental
+Miercoles,23:00,Música Progresiva
+Jueves,00:00,Por siempre cine
+Jueves,02:00,A la gorra ni quien corra
+Jueves,02:30,Desde la U
+Jueves,03:00,A traves del visor
+Jueves,04:00,EL museo del viento
+Jueves,05:00,Música Progresiva
+Jueves,06:00,Imágenes de Iberoamérica
+Jueves,06:30,Hecho en Alemania
+Jueves,07:00,Desayunos de Radio Universidad
+Jueves,08:00,Forjadores
+Jueves,08:30,NCC: Noticiero Cientifico y Cultural
+Jueves,09:00,Centinelas de la salud
+Jueves,09:00,Conciencia
+Jueves,10:00,Docemental
+Jueves,12:00,DW Noticias
+Jueves,12:00,RT: Entrevista
+Jueves,13:00,Por siempre cine
+Jueves,15:00,Imágenes de Iberoamérica
+Jueves,15:30,Hecho en ALemania
+Jueves,16:00,Forjadores
+Jueves,16:30,A la gorra ni quien corra
+Jueves,17:00,Documental
+Jueves,18:00,Interferencia
+Jueves,19:00,DW Noticias
+Jueves,19:30,Desde la U
+Jueves,20:00,A traves del visor
+Jueves,21:00,El museo del viento
+Jueves,22:00,Documental
+Jueves,22:30,Lo que somos
+Jueves,23:00,Música Progresiva
+Viernes,00:00,Por siempre cine
+Viernes,02:00,A la gorra ni quien corra
+Viernes,02:30,Economía y Sociedad
+Viernes,03:00,UNA Mirada
+Viernes,04:00,Sexo luego existo
+Viernes,05:00,Música Progresiva
+Viernes,06:00,RT: La lista de Erick
+Viernes,06:30,RPM
+Viernes,07:00,Desayunos de Radio Universidad
+Viernes,08:00,Forjadores
+Viernes,08:30,Desde la U
+Viernes,09:00,A traves del visor
+Viernes,10:00,Documental
+Viernes,11:00,Forjadores
+Viernes,11:30,RPM
+Viernes,12:00,DW Noticias
+Viernes,12:30,RT: Reporta
+Viernes,13:00,Por siempre cine
+Viernes,15:00,Imágenes de Iberoamérica
+Viernes,15:30,RPM
+Viernes,16:00,Forjadores
+Viernes,16:30,A la gorra ni quien orra
+Viernes,17:00,Documental
+Viernes,18:00,Interferencia
+Viernes,19:00,DW Noticias
+Viernes,19:30,Economía y Sociedad
+Viernes,20:00,UNA Mirada
+Viernes,21:00,Sexo luego existo
+Viernes,22:00,Documental
+Viernes,23:00,Música Progresiva
+Sabado,00:00,Por siempre cine
+Sabado,02:00,Palco Preferencial
+Sabado,04:00,Música Progresiva
+Sabado,05:00,Pandemonium
+Sabado,06:00,NCC: Noticiero Cientifico y Cultural
+Sabado,06:30,Euromaxx
+Sabado,07:00,Panda Chino
+Sabado,07:30,Clubes son amores
+Sabado,08:00,Bien a gusto
+Sabado,08:30,Economía y Sociedad
+Sabado,09:00,UNA Mirada
+Sabado,10:00,Fuerza Latina
+Sabado,10:30,Euromaxx
+Sabado,11:00,NCC: Noticiero Cientifico y Cultural
+Sabado,11:30,NCC: Noticiero Cientifico y Cultural
+Sabado,12:00,DW Noticias
+Sabado,12:30,RT: La lista de Erick
+Sabado,13:00,Q-Deportes
+Sabado,13:30,BIen a gusto
+Sabado,14:00,JOyas de GUanajuato
+Sabado,15:00,Por siempre cine
+Sabado,17:00,NCC: Noticiero Cientifico y Cultural
+Sabado,17:30,NCC: Noticiero Cientifico y Cultural
+Sabado,18:00,El museo del viento
+Sabado,19:00,Sexo luego existo
+Sabado,20:00,Palco Preferencial
+Sabado,22:00,Música Progresiva
+Sabado,23:00,Pandemonium
+Domingo,00:00,Palco Preferencial
+Domingo,02:00,Por siempre cine
+Domingo,04:00,NCC: Noticiero Cientifico y Cultural
+Domingo,04:30,NCC: Noticiero Cientifico y Cultural
+Domingo,05:00,Sexo luego existo
+Domingo,06:00,Imágenes de Iberoamérica
+Domingo,06:30,NCC: Noticiero Cientifico y Cultural
+Domingo,07:00,Cuentacuentos
+Domingo,07:30,La banda de Andy
+Domingo,08:00,Por siempre cine
+Domingo,10:00,Fuerza Latina
+Domingo,10:30,Q-Deportes
+Domingo,11:00,UNA MIrada
+Domingo,12:00,Palabra de mujer
+Domingo,12:30,¿Quién cuida y cómo?
+Domingo,13:00,A traves del visor
+Domingo,14:00,Desde la U
+Domingo,14:30,Nexos
+Domingo,15:00,Palco Preferencial
+Domingo,17:00,¿Cómo te afecta?
+Domingo,17:30,Libros al aire
+Domingo,18:00,Economía y Sociedad
+Domingo,18:30,Centinelas de la salud
+Domingo,19:00,Cultura 21
+Domingo,19:30,NCC: Noticiero Cientifico y Cultural
+Domingo,20:00,Q-Deportes
+Domingo,20:30,Cociencia
+Domingo,21:00,Por siempre cine
+Domingo,23:00,Sexo luego existo
