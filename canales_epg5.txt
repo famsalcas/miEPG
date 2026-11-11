@@ -525,7 +525,7 @@
 0982,AVI Garage,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0982.jpg
 0983,AVI Music,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0983.jpg
 0984,AVI Concert,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0984.jpg
-ar0001,TV Pública • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/ar0001.jpg
+ar0001,Canal Siete • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/ar0001.jpg
 ar0002,Telefe • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/ar0002.jpg
 ar0003,El Trece • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/ar0003.jpg
 ar0004,El Nueve • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/ar0004.jpg

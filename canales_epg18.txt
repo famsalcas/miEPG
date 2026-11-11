@@ -374,14 +374,14 @@ babyfirst.cl,BabyFirst,https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/BA
 lch3095.ecu,ECU | Oromar,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/150px-Oromar_logo.png
 59mvstr.ec,ECU | Ecuavisa,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/87/8874001_4B9B979A499B0C26.png
 60mvstr.ec,ECU | Ecuavisa Internacional,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/05/7052143_8C00928A47E2EB43.png
-526,ZooMoo,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/321.png
-527,CGTN Español,
+321dtv.cl,ZooMoo,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/321.png
+790dtv.cl,CGTN Español,
 528,Cartoonito (Chile),https://es.wikipedia.org/wiki/Cartoonito_(Latinoam%C3%A9rica)
 529,Cartoon Network MovistarCL,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/304.png
 530,Telemundo Chile,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/40/6404400_715F24BDA274C0D1.png
-531,EnerGeek Retro,https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png
-532,EnerGeek Fan, https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png
-533,EnerGeek Radio,https://cdn.energeek.cl/logos/EG-Radio-2025_brand.png
+energeek1.cl,EnerGeek Retro,https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png
+energeek2.cl,EnerGeek Fan, https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png
+energeekradio.cl,EnerGeek Radio,https://cdn.energeek.cl/logos/EG-Radio-2025_brand.png
 534,FMH Family,https://www.fmh.la/images/team/logo_family.png
 535,FMH Kids,https://www.fmh.la/images/team/logo_kids.png
 536,FMH - Atlas,https://www.fmh.la/images/team/logo_atlas.png
@@ -395,21 +395,21 @@ lch3095.ecu,ECU | Oromar,https://upload.wikimedia.org/wikipedia/commons/thumb/2/
 544,NexoPlay,
 545,CL | Canal 9 Bío Bío,
 546,CL | Bío Bío TV,https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/BIOBIOTV/EXPORTACION_WEB/SS/BIOBIOTV_t-290x163.png
-547,PER | NATIVA TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/75/16752664_7AD4DAFC0E2DBB13.png
-548,Nick2,
+8610mvstr.pe,PER | NATIVA TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/75/16752664_7AD4DAFC0E2DBB13.png
+nick2_hd.cl,Nick2,
 549,CL | T13 en vivo,
 550,TELEVISA | Golden Premier,
 551,Golden Colombia,
-552,ESPN 2 Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/622.png
+espn2.cl,ESPN 2 Chile,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/622.png
 553,Programación Deportiva,
 558,CL | TVO San Vicente,https://www.tvosanvicente.cl/wp-content/themes/tvo2022/img/iconos/favicon-194.png
 559,CL | Lanco Televisión,https://lancotelevision.cl/wp-content/uploads/2023/03/Sin-titulo-250-%C3%97-150-px-1.png
 560,RT en Español,https://cdn.epg-latam.com/logos/560-rtesp/Russia-today-logo.jpg
 561,ADULT SWIM,https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ADULTSWIM/EXPORTACION_WEB/SS/ADULTSWIM_t-290x163.png
-562,CL | FUNBOX,https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/FUNBOX/EXPORTACION_WEB/SS/FUNBOX_t-290x163.png
+505cl0r0x.cl,CL | FUNBOX,https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/FUNBOX/EXPORTACION_WEB/SS/FUNBOX_t-290x163.png
 563,Canal Iberoamericano,https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CANALIBEROAMERICANO/EXPORTACION_WEB/SS/CANALIBEROAMERICANO_t-290x163.png
 564,CL | Concert Channel,https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CONCERTCHANNEL/EXPORTACION_WEB/SS/CONCERTCHANNEL_t-290x163.png
-566,CL | VisiónPlus TV,https://visionplustv.cl/wp-content/uploads/2024/06/VP017.png
+visionplustv.cl,CL | VisiónPlus TV,https://visionplustv.cl/wp-content/uploads/2024/06/VP017.png
 567,MCG | MX Classic,
 568,MCG | MX Series,
 569,MCG | Old,
@@ -456,8 +456,8 @@ lch3095.ecu,ECU | Oromar,https://upload.wikimedia.org/wikipedia/commons/thumb/2/
 611,CL | ZTV 2,https://i.ibb.co/jvHvwrgr/ZTV2.png
 612,Cl | ZTV AVI,https://i.ibb.co/VW63NCMz/AVI.png
 613,BO | ATB Digital,
-614,CL | Suyai TV II,https://radio.suyaitv.cl/wp-content/uploads/2025/03/radio-en-blanco.png
-615,CL | Radio Suyai TV,https://suyaitv.cl/wp-content/uploads/2025/06/radio-en-blanco.png
+suyaitv2.cl,CL | Suyai TV II,https://radio.suyaitv.cl/wp-content/uploads/2025/03/radio-en-blanco.png
+suyairadio.cl,CL | Radio Suyai TV,https://suyaitv.cl/wp-content/uploads/2025/06/radio-en-blanco.png
 619,CL | NinaTV,https://cdn.epg-latam.com/logos/619-nina/ninatv.png
 620,CL | MEGAMEDIA | Megaficción,
 621,CL | MEGAMEDIA | Megatiempo,
@@ -511,3 +511,23 @@ lch3095.ecu,ECU | Oromar,https://upload.wikimedia.org/wikipedia/commons/thumb/2/
 669,CL | ZTV AVI HORIZON,https://i.ibb.co/G4PTcTMC/AVI-HORIZON.png
 670,CL | ZTV AVI JR,http://programacion.zplay.cl/api/watermarks/image/wm_mu7hw4z5_0f6a7b9b.gif
 671,CL | ZTV AVI TOONs,http://programacion.zplay.cl/api/watermarks/image/wm_mt6mtr2u_90d47c97.png
+hemisphere_todocine,Hemisphere Todocine,https://img.platform.wurl.dev/channel/1333/lg/ab4455/LG-Logo-PNG-100x100_v1.png
+33mvstr.pe,TRIVU,http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/04/22048093_FE5367BCFA1B97EF.png
+541mvstr.pe,PE | TVLIBERTA,http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/48/18485395_2113DEE4CBDA1BE9.png
+550mvstr.pe,PE | CONGRESO,http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/53/7532744_A0C177FB70CC9746.png
+42mvstr.pe,PE | RUMBOMINERO,http://media.gvp.telefonica.com/storageArea0/IMAGES/00/24/74/24742820_B3D49AE1C54A8800.png
+bethel.la,BETHEL,http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/81/23812327_59ADD3FB681E8304.png
+startve.es,STAR TVE,http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/15/12150614_475A39F1494F101B.png
+clan.es,CLAN,http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6404297_D3595E14CA66DB9C.png
+dreamworks.la,DREAMWORKS,http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/65/23651308_7416553F7A7EE3B0.png
+681,ENT Channel,
+682,ENT Classic,
+683,ENT Comedy,
+684,ENT Drama,
+685,ENT Extreme,
+686,ENT Family,
+687,ENT Life,
+688,ENT Movies,
+689,ENT Totalmusic,
+690,ENT Totalmusic 2000s,
+691,ENT Totalmusic 80s,

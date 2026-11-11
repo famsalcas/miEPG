@@ -3,9 +3,6 @@
   <channel id="SanJoseTV.cr">
     <display-name>San Jose TV</display-name>
   </channel>
-  <programme start="20261110080000 -0600" stop="20261111080000 -0600" channel="SanJoseTV.cr">
-    <title>Radio Revista Vida y Esperanza</title>
-  </programme>
   <programme start="20261111080000 -0600" stop="20261112000000 -0600" channel="SanJoseTV.cr">
     <title>Radio Revista Vida y Esperanza</title>
   </programme>
@@ -78,7 +75,10 @@
   <programme start="20261116010000 -0600" stop="20261116080000 -0600" channel="SanJoseTV.cr">
     <title>Hermano Salvador Gomez</title>
   </programme>
-  <programme start="20261116080000 -0600" stop="20261116090000 -0600" channel="SanJoseTV.cr">
+  <programme start="20261116080000 -0600" stop="20261117080000 -0600" channel="SanJoseTV.cr">
+    <title>Radio Revista Vida y Esperanza</title>
+  </programme>
+  <programme start="20261117080000 -0600" stop="20261117090000 -0600" channel="SanJoseTV.cr">
     <title>Radio Revista Vida y Esperanza</title>
   </programme>
 </tv>
