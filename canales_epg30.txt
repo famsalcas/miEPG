@@ -1,0 +1,2 @@
+# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Quince.cr.xml
+Quince.cr,UCR Canal 15,

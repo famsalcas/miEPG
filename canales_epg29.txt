@@ -1,0 +1,2 @@
+# Fuente: https://raw.githubusercontent.com/famsalcas/miEPG/refs/heads/main/Tvsur14.cr.xml
+Tvsur14.cr,TV Sur 14,
