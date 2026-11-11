@@ -4,6 +4,7 @@ logo=
 offset=-0600
 dias=7
 
+Lunes,00:00,Videos Musicales
 Lunes,07:00,Santo Rosario
 Lunes,07:30,Videos Cristianos
 Lunes,08:00,Infantiles
@@ -51,6 +52,7 @@ Martes,19:00,Programa
 Martes,20:00,Programa
 Martes,21:00,TV Sur Noticias Nocturna
 Martes,21:30,Videos Musicales
+Miercoles,00:00,Videos Musicales
 Miercoles,07:00,Santo Rosario
 Miercoles,07:30,Videos Cristianos
 Miercoles,08:00,Infantiles
@@ -68,46 +70,79 @@ Miercoles,15:00,Videos Musicales
 Miercoles,15:55,Avance Informativo
 Miercoles,16:00,Infantiles
 Miercoles,17:00,Programa
-Miercoles,17:30,VIdeos Musicales
+Miercoles,17:30,Videos Musicales
 Miercoles,18:00,TV Sur Noticias Estelar
 Miercoles,19:00,Documental
 Miercoles,19:30,Economia y Sociedad
 Miercoles,20:00,UNA Mirada
 Miercoles,21:00,TV Sur Noticias Nocturna
 Miercoles,21:30,Videos Musicales
-
-
-Miercoles,00:30,El Octavo Mandamiento
-Miercoles,07:00,Santo Rosario
-Miercoles,07:30,Videos Cristianos
-Miercoles,16:00,Alma de Mujer
-Miercoles,18:00,Central Mundo
-Miercoles,19:00,Esta Pasando
-Miercoles,20:00,Central Noticias
-Miercoles,21:30,El Octavo Mandamiento
-Miercoles,22:30,Charlas
-Miercoles,23:30,Central Noticias
-Jueves,00:30,El Octavo Mandamiento
+Jueves,00:00,Videos Musicales
 Jueves,07:00,Santo Rosario
 Jueves,07:30,Videos Cristianos
-Jueves,16:00,A doble nudo
-Jueves,18:00,Central Mundo
-Jueves,20:00,Central Noticias
-Jueves,21:30,El Octavo Mandamiento
-Jueves,22:30,Charlas
-Jueves,23:30,Central Noticias
-Viernes,00:30,El Octavo Mandamiento
+Jueves,08:00,Infantiles
+Jueves,09:00,Avance Informativo
+Jueves,09:05,Complacencias
+Jueves,10:00,Videos Musicales
+Jueves,11:00,Avance Informativo
+Jueves,11:05,Caso Cerrado
+Jueves,12:00,TV Sur Noticias
+Jueves,12:30,Caso Cerrado
+Jueves,13:30,Videos Musicales
+Jueves,14:00,Avance Informativo
+Jueves,14:05,Complacencias
+Jueves,15:00,Videos Musicales
+Jueves,15:55,Avance Informativo
+Jueves,16:00,Infantiles
+Jueves,17:00,Programa
+Jueves,17:30,Videos Musicales
+Jueves,18:00,TV Sur Noticias Estelar
+Jueves,19:00,Documental
+Jueves,19:30,Economia y Sociedad
+Jueves,20:00,UNA Mirada
+Jueves,21:00,TV Sur Noticias Nocturna
+Jueves,21:30,Videos Musicales
+Viernes,00:00,Videos Musicales
 Viernes,07:00,Santo Rosario
 Viernes,07:30,Videos Cristianos
-Viernes,16:00,Central Mundo
+Viernes,08:00,Infantiles
+Viernes,09:00,Avance Informativo
+Viernes,09:05,Complacencias
+Viernes,10:00,Videos Musicales
+Viernes,11:00,Avance Informativo
+Viernes,11:05,Caso Cerrado
+Viernes,12:00,TV Sur Noticias
+Viernes,12:30,Caso Cerrado
+Viernes,13:30,Videos Musicales
+Viernes,14:00,Avance Informativo
+Viernes,14:05,Complacencias
+Viernes,15:00,Videos Musicales
+Viernes,15:55,Avance Informativo
+Viernes,16:00,Infantiles
 Viernes,17:00,Programa
-Viernes,18:00,Central Noticias
-Viernes,19:00,Esta Pasando
-Viernes,20:00,El Octavo Mandamiento
-Viernes,21:30,Programa
-Viernes,22:30,Charlas
-Viernes,23:30,Central Noticias
-Sabado,00:30,El Octavo Mandamiento
-Sabado,07:00,Santo Misa
-Sabado,20:00,SIn informacion
-Domingo,20:00,SIn informacion
+Viernes,17:30,Videos Musicales
+Viernes,18:00,TV Sur Noticias Estelar
+Viernes,19:00,Documental
+Viernes,19:30,Economia y Sociedad
+Viernes,20:00,UNA Mirada
+Viernes,21:00,TV Sur Noticias Nocturna
+Viernes,21:30,Videos Musicales
+Sabado,00:00,Videos Musicales
+Sabado,07:00,Santo Rosario
+Sabado,07:30,Videos Cristianos
+Sabado,08:00,Infantiles
+Sabado,09:30,Nexos
+Sabado,10:00,Videos Musicales
+Sabado,12:30,Videos Musicales
+Sabado,15:00,Infantiles
+Sabado,16:00,Videos Musicales
+Sabado,21:00,Videos Musicales
+Domingo,00:00,Videos Musicales
+Domingo,07:00,Santa Misa
+Domingo,08:00,Videos Musicales
+Domingo,10:00,Videos Musicales
+Domingo,13:00,Documental
+Domingo,16:00,Santa Misa
+Domingo,17:00,Coronilla
+Domingo,19:00,Camino de fe
+Domingo,21:00,CLasicos
