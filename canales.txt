@@ -47,6 +47,13 @@ Teleceiba.hn,Teleceiba
 VTV.hon,VTV.hn
 RPC Pa,RPC
 TVMax,TVMax
+plex.tv.FreeTV.Acción.plex,freetv-accion
+plex.tv.FreeTV.Drama.plex,freetv-drama
+plex.tv.FreeTV.Estelar.plex,freetv-estelar
+plex.tv.FreeTV.Familia.plex,freetv-familia
+plex.tv.FreeTV.Sureño.plex,freetv-sureno
+plex.tv.FreeTV.Horror.plex,freetv-terror
+plex.tv.ARTFLIX.-.Movie.Classics.plex,Artflix-Es
 42ee7ce6165d5342be3e509f0afe5048,Canela.Clasicos
 02cdd68d6244543b83ff35d990891463,Canela.HollywoodyMas
 3bc1756db0ef525b9cab86edcd426c55,Canela.NarcoDrama
@@ -168,6 +175,7 @@ Fox Sports Cono Norte,FOXSports.mx
 Fox Sports 2,FOXSports2.mx
 Fox Sports 3,FOXSports3.mx
 FUTV,FUTV
+0648,Garage.ar
 GolPlay.es,GolPlay.es
 Golf Channel,GolfChannel.cr
 5c01df1759ee03633e7b272c,LuchaLibreAAA.pluto
