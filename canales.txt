@@ -54,8 +54,8 @@ b015fcbafb496320954672321e746f8a,Canela.TodoCine
 608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7,Cindie
 5dbf591219b15aa8bb3a7b73b59307f0,CineEstrella
 CINE FAMILIAR HD.py,CineFamiliar
-CINE HISPANO HD.py,CineHispano
-CINE PREMIUM HD.py,CinePremium
+0826,CineHispano
+0827,CinePremium
 Cinelatino,Cinelatino.ni
 Cine Mexicano,CineMexicano.mx
 770c7e1794505869b1ce94c84905ecea,CineRomantico
@@ -66,8 +66,8 @@ Cinema Platino,CinemaPlatino.cr
 Cinemax Panregional,Cinemax.ni
 Cinemax,Cinemax.mx
 643054b1fc3be59477853717-62167144ab2095ca85353ad6,CinePride
-Clarocinema,ClaroCinema
-Clover.cl,CloverChannel
+0858,ClaroCinema
+0831,CloverChannel
 DePeliHD,DePelicula.cr
 DHE,DHE.ni
 Film &amp; Arts,FilmAndArts.ni,-3
@@ -184,15 +184,13 @@ SkySpNews,SkySports24.mx
 Tigo Sports Guatemala,TigoSports.gt
 TNT Sports Premium.cl,TNTSportsPremium.cl
 TUDN Centroamérica,TUDN.cr
-TUDN,TUDNMexico.mx
-TUDN Estados Unidos,TUDN.us
 TyCSports.ar,TyCSports.ar
 TyC Sp,TyCSports.cr
 A&amp;E Panregional,AAndE.ni
 Adrenalina Pura TV,AdrenalinaPuraTV
 0624,EnlaceJuvenil.cr
 I25.90852.schedulesdirect.org,AMC-ni
-I88.17484.schedulesdirect.org,AMCSeries
+0619,AMCSeries
 Atreseries Internacional,Atreseries.ar
 AXN Andes,AXN.ni
 Claro TV.sv,ClaroTV.ni
