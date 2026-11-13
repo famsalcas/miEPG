@@ -6,8 +6,12 @@ dias=7
 
 Lunes,01:00,Hermano Salvador Gomez
 Lunes,08:00,Radio Revista Vida y Esperanza
+Lunes,19:00,Radio Revista Vida y Esperanza
+Lunes,08:00,Radio Revista Vida y Esperanza
 Martes,08:00,Radio Revista Vida y Esperanza
+Martes,19:00,Jueves,08:00,Radio Revista Vida y Esperanza
 Miercoles,08:00,Radio Revista Vida y Esperanza
+Miercoles,19:00,Radio Revista Vida y Esperanza
 Jueves,00:00,Música y Prédicas
 Jueves,04:00,Escuela Para Todos / Música
 Jueves,05:00,El Club de los Madrugones
@@ -16,6 +20,7 @@ Jueves,08:00,Radio Revista Vida y Esperanza
 Jueves,10:30,Soplo de Vida / Formación
 Jueves,10:30,Donde el maestro
 Jueves,12:00,Ángelus y Programas del Mediodía
+Jueves,13:30,¿Dónde está tu hermano?
 Jueves,14:00,Impacto 93.1 / Aló Artur
 Jueves,15:00,Hora Santa y Divina Misericordia
 Jueves,16:00,Caminando en Familia y Especiales
@@ -24,8 +29,13 @@ Jueves,19:30,Franja Pastoral y Familiar
 Jueves,21:00,Mi Descanso Eres Tú
 Jueves,22:30,Santo Trisagio y Música
 Viernes,00:00,Música y Prédicas
+Viernes,01:00,Donde el maestro
+Viernes,00:00,Música Catolica
+Viernes,02:00,¿Dónde está tu hermano?
+Viernes,13:00,El santo del dia
 Viernes,08:00,Radio Revista Vida y Esperanza
 Viernes,17:30,Santo Rosario y Santa Misa
+Viernes,21:00,Mi descanso eres tu
 Sabado,00:00,Música y Prédicas
 Sabado,17:30,Santo Rosario y Santa Misa
 Domingo,00:00,Música y Prédicas
