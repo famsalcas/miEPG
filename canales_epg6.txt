@@ -570,6 +570,12 @@ Fanpop TV,Fanpop TV,https://i.imgur.com/eKGk5FD.jpg
 CCP Radio,CCP Radio,https://i.imgur.com/WzKFh03.png
 Anipop TV,Anipop TV,https://i.imgur.com/PzEK6DI.png
 EnerGeek Radio TV,EnerGeek Radio TV,https://i.imgur.com/GmzkMUQ.jpg
+Canal LMS,Canal LMS,https://i.imgur.com/RUuoMlL.png
+CN City,CN City,
+Magic Kids Tv,Magic Kids Tv,
+Magic Kids,Magic Kids,https://i.imgur.com/Uu8dciU.png
+My Jetix Retro,My Jetix Retro,
+Retro Magico,Retro Magico,https://static-cdn.jtvnw.net/jtv_user_pictures/2b903ff4-40ae-4b68-8726-53095a95cc89-profile_image-70x70.png
 Time Travel Network Tv,Time Travel Network Tv,https://i.imgur.com/jKsmoAn.png
 Ani Retro,Ani Retro,https://imgur.com/KPrD9ev.png
 AnimeStation,AnimeStation,https://i.imgur.com/z780GyN.png
@@ -578,8 +584,6 @@ Big TV,Big TV,https://i.imgur.com/V60dnOp.png
 Boomerang,Boomerang,https://i.imgur.com/V60dnOp.png
 CachiPum Tv,CachiPum Tv,http://cachipumtv.live/assets/img/brand.png
 Canal 5 del Pueblo,Canal 5 del Pueblo,https://imgur.com/KPrD9ev.png
-Canal LMS,Canal LMS,https://i.imgur.com/RUuoMlL.png
-CN City,CN City,
 Cartoon Network Clasico Peru,Cartoon Network Clasico Peru,https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png
 Diti TV,Diti TV,https://radiotv.ar/img/l/dititv.jpg
 Dreiko TV,Dreiko TV,https://i.imgur.com/eaqJWmD.png
@@ -587,13 +591,9 @@ Gen TV,Gen TV,https://i.imgur.com/mXpId1b.jpg
 Gogoplay TV,Gogoplay TV,https://i.imgur.com/tCwRSRr.png
 Radio Ipersonica TV,Radio Ipersonica TV,https://i.imgur.com/8eSqC8L.png
 Loco,Loco,http://locomotiontv.com/locomotion/logo.png
-Magic Kids Tv,Magic Kids Tv,
-Magic Kids,Magic Kids,https://i.imgur.com/Uu8dciU.png
 Mi TV Television Clasica,Mi TV Television Clasica,
-My Jetix Retro,My Jetix Retro,
 Moni TV,Moni TV,https://i.imgur.com/Wct9jsp.png
 PS Television,PS Television,https://i.imgur.com/X0ooVPY.png
-Retro Magico,Retro Magico,https://static-cdn.jtvnw.net/jtv_user_pictures/2b903ff4-40ae-4b68-8726-53095a95cc89-profile_image-70x70.png
 RetroX TV,RetroX TV,https://i.imgur.com/Cghkxbr.png
 TalTal TV,TalTal TV,https://i.imgur.com/4qDvBH9.png
 Teleclasica,Teleclasica,https://i.imgur.com/PCtEVPc.jpg

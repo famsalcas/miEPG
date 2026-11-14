@@ -63,7 +63,6 @@ UtahJazz.nba,NBA - UTAH JAZZ,https://a.espncdn.com/i/teamlogos/nba/500/utah.png
 WashingtonWizards.nba,NBA - WASHINGTON WIZARDS,https://a.espncdn.com/i/teamlogos/nba/500/wsh.png
 AtlantaDream.wnba,WNBA - Atlanta Dream,https://a.espncdn.com/i/teamlogos/wnba/500/atl.png
 ChicagoSky.wnba,WNBA - Chicago Sky,https://a.espncdn.com/i/teamlogos/wnba/500/chi.png
-ConnecticutSun.wnba,WNBA - Connecticut Sun,https://a.espncdn.com/i/teamlogos/wnba/500/con.png
 DallasWings.wnba,WNBA - Dallas Wings,https://a.espncdn.com/i/teamlogos/wnba/500/dal.png
 GoldenStateValkyries.wnba,WNBA - Golden State Valkyries,https://a.espncdn.com/i/teamlogos/wnba/500/gs.png
 IndianaFever.wnba,WNBA - Indiana Fever,https://a.espncdn.com/i/teamlogos/wnba/500/ind.png
@@ -166,6 +165,8 @@ SanJoseEarthquakes.mls,MLS - San Jose Earthquakes,https://a.espncdn.com/i/teamlo
 SeattleSoundersFC.mls,MLS - Seattle Sounders FC,https://a.espncdn.com/i/teamlogos/soccer/500/9726.png
 SportingKansasCity.mls,MLS - Sporting Kansas City,https://a.espncdn.com/i/teamlogos/soccer/500/186.png
 StLouisCITYSC.mls,MLS - St. Louis CITY SC,https://a.espncdn.com/i/teamlogos/soccer/500/21812.png
+TBDAway.mls,MLS - TBD Away,
+TBDHome.mls,MLS - TBD Home,
 TorontoFC.mls,MLS - Toronto FC,https://a.espncdn.com/i/teamlogos/soccer/500/7318.png
 VancouverWhitecaps.mls,MLS - Vancouver Whitecaps,https://a.espncdn.com/i/teamlogos/soccer/500/9727.png
 AFCBournemouth.epl,Premier League - AFC Bournemouth,https://a.espncdn.com/i/teamlogos/soccer/500/349.png
@@ -368,7 +369,6 @@ MississippiStateBulldogs.ncaaf,NCAAF - Mississippi State Bulldogs,https://a.espn
 MissouriTigers.ncaaf,NCAAF - Missouri Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/142.png
 NCStateWolfpack.ncaaf,NCAAF - NC State Wolfpack,https://a.espncdn.com/i/teamlogos/ncaa/500/152.png
 NebraskaCornhuskers.ncaaf,NCAAF - Nebraska Cornhuskers,https://a.espncdn.com/i/teamlogos/ncaa/500/158.png
-NewMexicoLobos.ncaaf,NCAAF - New Mexico Lobos,https://a.espncdn.com/i/teamlogos/ncaa/500/167.png
 NorthCarolinaTarHeels.ncaaf,NCAAF - North Carolina Tar Heels,https://a.espncdn.com/i/teamlogos/ncaa/500/153.png
 NorthwesternWildcats.ncaaf,NCAAF - Northwestern Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/77.png
 NotreDameFightingIrish.ncaaf,NCAAF - Notre Dame Fighting Irish,https://a.espncdn.com/i/teamlogos/ncaa/500/87.png
