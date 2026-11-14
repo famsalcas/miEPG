@@ -10,7 +10,7 @@ Lunes,06:00,Noticias Monumental
 Lunes,07:00,Nuestra Voz
 Lunes,09:00,Playlist
 Lunes,11:00,Noticias Monumental
-Lunes,12:00,Playlist
+Lunes,12:30,Escenario Deportivo
 Lunes,14:00,Videoteca
 Lunes,15:00,Conecta2
 Lunes,16:00,Central Mundo
@@ -24,6 +24,7 @@ Martes,06:00,Noticias Monumental
 Martes,07:00,Nuestra Voz
 Martes,09:00,Playlist
 Martes,11:00,Noticias Monumental
+Martes,12:30,Escenario Deportivo
 Martes,14:00,Videoteca
 Martes,15:00,Conecta2
 Martes,17:00,Pelando el ojo
@@ -36,7 +37,7 @@ Miercoles,06:00,Noticias Monumental
 Miercoles,07:00,Nuestra Voz
 Miercoles,09:00,Playlist
 Miercoles,11:00,Noticias Monumental
-Miercoles,13:00,Playlist
+Miercoles,13:30,Escenario Deportivo
 Miercoles,14:00,Videoteca
 Miercoles,15:00,Conecta2
 Miercoles,17:00,Pelando el ojo
@@ -49,7 +50,7 @@ Jueves,06:00,Noticias Monumental
 Jueves,07:00,Nuestra Voz
 Jueves,09:00,Playlist
 Jueves,11:00,Noticias Monumental
-Jueves,12:00,Playlist
+Jueves,12:30,Escenario Deportivo
 Jueves,14:00,Videoteca
 Jueves,15:00,Conecta2
 Jueves,17:00,Pelando el ojo
@@ -62,12 +63,13 @@ Viernes,06:00,Noticias Monumental
 Viernes,07:00,Nuestra Voz
 Viernes,09:00,Playlist
 Viernes,11:00,Noticias Monumental
-Viernes,12:00,Playlist
+Viernes,13:30,Escenario Deportivo
 Viernes,14:00,Videoteca
 Viernes,15:00,Conecta2
 Viernes,17:00,Pelando el ojo
 Viernes,19:00,Playlist Retro
-Viernes,20:00,Playlist
+Viernes,20:00,Best Slices
+Viernes,21:00,Playlist
 Viernes,22:30,Pelando el ojo
 Sabado,00:00,Playlist
 Sabado,04:00,Playlist
