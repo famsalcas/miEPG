@@ -88,7 +88,7 @@ I326.82892.schedulesdirect.org,GreatAmericanCountry.us
 Hallmark.Channel.HD.us2,HallmarkChannel.us
 Hallmark.Family.us2,HallmarkFamily.us
 Hallmark.Mystery.HD.us2,HallmarkMoviesMysteries.us
-Lifetime Panregional,Lifetime.ni
+I455.90682.schedulesdirect.org,Lifetime.ni
 Lifetime.Mx,Lifetime.mx
 0839,MC
 Multipr,Multipremier
@@ -252,7 +252,8 @@ Hola TV,HolaTV
 673249433a61d400087a51ed,Construcciones-Asombrosas
 Discovery Home &amp; Health Colombia,DiscoveryHomeAndHealth.ni
 Discovery World,DiscoveryWorldLatinoamerica.ni
-E! Entertainment Television Panregional,E_EntertainmentTelevision.ni
+I275.30259.schedulesdirect.org,E_EntertainmentTelevision.ni
+I329.91919.schedulesdirect.org,Food.Network.Lat
 Elgourmet,ElGourmet.mx
 690dd10a37b131228d76d5b1,ElMueble
 USBA3700002JF,ETLive
@@ -425,6 +426,7 @@ MGM+.Drive-In.us2,MGM_DriveIn.us
 MGM+.Hits.HD.us2,MGM_Hits.us
 MGM+.Marquee.HD.us2,MGM_Marquee.us
 Pánico,Panico.cr
+I241.11163.schedulesdirect.org,ParamountNetwork.us
 USAJ26000054W,ParamountMovieChannel
 Universal Cinema,UniversalCinema,-4
 Universal Comedy,UniversalComedy,-4
