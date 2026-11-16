@@ -3,63 +3,6 @@
   <channel id="Tvsur14.cr">
     <display-name>TV Sur 14</display-name>
   </channel>
-  <programme start="20261114000000 -0600" stop="20261114070000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261114070000 -0600" stop="20261114073000 -0600" channel="Tvsur14.cr">
-    <title>Santo Rosario</title>
-  </programme>
-  <programme start="20261114073000 -0600" stop="20261114080000 -0600" channel="Tvsur14.cr">
-    <title>Videos Cristianos</title>
-  </programme>
-  <programme start="20261114080000 -0600" stop="20261114093000 -0600" channel="Tvsur14.cr">
-    <title>Infantiles</title>
-  </programme>
-  <programme start="20261114093000 -0600" stop="20261114100000 -0600" channel="Tvsur14.cr">
-    <title>Nexos</title>
-  </programme>
-  <programme start="20261114100000 -0600" stop="20261114123000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261114123000 -0600" stop="20261114150000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261114150000 -0600" stop="20261114160000 -0600" channel="Tvsur14.cr">
-    <title>Infantiles</title>
-  </programme>
-  <programme start="20261114160000 -0600" stop="20261114210000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261114210000 -0600" stop="20261115000000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261115000000 -0600" stop="20261115070000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261115070000 -0600" stop="20261115080000 -0600" channel="Tvsur14.cr">
-    <title>Santa Misa</title>
-  </programme>
-  <programme start="20261115080000 -0600" stop="20261115100000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261115100000 -0600" stop="20261115130000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261115130000 -0600" stop="20261115160000 -0600" channel="Tvsur14.cr">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261115160000 -0600" stop="20261115170000 -0600" channel="Tvsur14.cr">
-    <title>Santa Misa</title>
-  </programme>
-  <programme start="20261115170000 -0600" stop="20261115190000 -0600" channel="Tvsur14.cr">
-    <title>Coronilla</title>
-  </programme>
-  <programme start="20261115190000 -0600" stop="20261115210000 -0600" channel="Tvsur14.cr">
-    <title>Camino de fe</title>
-  </programme>
-  <programme start="20261115210000 -0600" stop="20261116000000 -0600" channel="Tvsur14.cr">
-    <title>CLasicos</title>
-  </programme>
   <programme start="20261116000000 -0600" stop="20261116070000 -0600" channel="Tvsur14.cr">
     <title>Videos Musicales</title>
   </programme>
@@ -426,7 +369,64 @@
   <programme start="20261120210000 -0600" stop="20261120213000 -0600" channel="Tvsur14.cr">
     <title>TV Sur Noticias Nocturna</title>
   </programme>
-  <programme start="20261120213000 -0600" stop="20261120223000 -0600" channel="Tvsur14.cr">
+  <programme start="20261120213000 -0600" stop="20261121000000 -0600" channel="Tvsur14.cr">
     <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261121000000 -0600" stop="20261121070000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261121070000 -0600" stop="20261121073000 -0600" channel="Tvsur14.cr">
+    <title>Santo Rosario</title>
+  </programme>
+  <programme start="20261121073000 -0600" stop="20261121080000 -0600" channel="Tvsur14.cr">
+    <title>Videos Cristianos</title>
+  </programme>
+  <programme start="20261121080000 -0600" stop="20261121093000 -0600" channel="Tvsur14.cr">
+    <title>Infantiles</title>
+  </programme>
+  <programme start="20261121093000 -0600" stop="20261121100000 -0600" channel="Tvsur14.cr">
+    <title>Nexos</title>
+  </programme>
+  <programme start="20261121100000 -0600" stop="20261121123000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261121123000 -0600" stop="20261121150000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261121150000 -0600" stop="20261121160000 -0600" channel="Tvsur14.cr">
+    <title>Infantiles</title>
+  </programme>
+  <programme start="20261121160000 -0600" stop="20261121210000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261121210000 -0600" stop="20261122000000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261122000000 -0600" stop="20261122070000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261122070000 -0600" stop="20261122080000 -0600" channel="Tvsur14.cr">
+    <title>Santa Misa</title>
+  </programme>
+  <programme start="20261122080000 -0600" stop="20261122100000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261122100000 -0600" stop="20261122130000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261122130000 -0600" stop="20261122160000 -0600" channel="Tvsur14.cr">
+    <title>Documental</title>
+  </programme>
+  <programme start="20261122160000 -0600" stop="20261122170000 -0600" channel="Tvsur14.cr">
+    <title>Santa Misa</title>
+  </programme>
+  <programme start="20261122170000 -0600" stop="20261122190000 -0600" channel="Tvsur14.cr">
+    <title>Coronilla</title>
+  </programme>
+  <programme start="20261122190000 -0600" stop="20261122210000 -0600" channel="Tvsur14.cr">
+    <title>Camino de fe</title>
+  </programme>
+  <programme start="20261122210000 -0600" stop="20261122220000 -0600" channel="Tvsur14.cr">
+    <title>CLasicos</title>
   </programme>
 </tv>

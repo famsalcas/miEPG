@@ -18,6 +18,7 @@
 699f405a0c8827936bd287bf,Cinépolis Channel,https://images.pluto.tv/channels/699f405a0c8827936bd287bf/colorLogoPNG_1774560648913.png
 609059dc63be6e0007b4eca6,Pluto TV Cine Clásico,https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png
 5dd6ddb30a1d8a000908ed4c,Pluto TV Cine Familia,https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1785959252371.png
+5dd6ed41526c77000941411c,Pluto TV Cine Navidad,https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1794848931881.png
 655f62ff954b020008c91ec6,Pluto TV Series de Crimen,https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png
 63eb9255c111bc0008fe6ec4,CSI: Miami,https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png
 63eb947c4e83e70008ab877b,NCIS,https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png
