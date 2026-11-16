@@ -139,6 +139,8 @@ Canal.Sundance.TV.(España).sv,SundanceTV
 TCM,TCM.cr
 TNT Centroamérica y Caribe,TNT.ni
 TNT.Mx,TNT.mx
+I208.16288.schedulesdirect.org,DePelícula.cr
+0442,az-deportes
 AYM Sports,AYMSports.mx
 735c2b7253c551ae9f07b07ea5278b75,Canela.TVDeportes
 CDN Deportes,CDNDeportes
@@ -212,11 +214,15 @@ d93912b4b21158fd95af2ceb8979c586,Dove
 Estrella TV,EstrellaTV.us
 Eurochannel,Eurochannel.pe
 Europa Europa,EuropaEuropa.pe
-BET.HD.us2,Fox.us
+I190.20361.gracenote.com,Fox.us
+I258.70253.schedulesdirect.org,FXM.us
+I259.17927.schedulesdirect.org,FXX.us
+I248.58574.schedulesdirect.org,FX.us
 FX Centro,FX.ni
 0852,FMH-Movies
 0853,FMH-Family
 0854,FMH-Kid
+I388.70113.gracenote.com,Pixl.us
 Las Estrellas,LasEstrellas.mx
 5f6683cf9d615b5cb8b8545307bb86fb,LatinoVibes
 Mi TV Television Clasica,MiTV_Clasica
@@ -303,7 +309,6 @@ Magickids.ar,MagicKids
 Retro Magico,Retromagico
 TalTal TV,TALTAL
 Toonami Tv,Toonami
-Zaz TV,Zaz
 Mezzo,Mezzo
 3ee48530e00e0abe8eb40c71fc819aa0,AstroCiencia
 Animal Planet Panregional,AnimalPlanet.ni,-1
@@ -359,6 +364,7 @@ BBC Series,BBC-Series
 CNN en Español,CNNespanol.us
 0215,CNNInternacional.cr
 I305.40704.schedulesdirect.org,Euronews
+I192.27773.schedulesdirect.org,CNNenEspanol.ni
 ForoTV,FOROtv.mx
 Fox News,FoxNews.ni
 El Toro TV,ElToro
