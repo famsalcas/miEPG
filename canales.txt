@@ -5,7 +5,7 @@ Canal2.cr,Canal2.cr
 7 de Costa Rica Teletica,7_Teletica.cr
 Multimedios Costa Rica,Canal8.cr
 11 de Costa Rica,Canal11.cr
-C13 CR,Canal13.cr
+cr0004,Canal13.cr
 Tvn14.cr,Tvn14.cr
 Tvsur14.cr,Tvsur14.cr
 Quince.cr,Quince.cr
@@ -199,7 +199,7 @@ TyC Sp,TyCSports.cr
 A&amp;E Panregional,AAndE.ni
 Adrenalina Pura TV,AdrenalinaPuraTV
 0624,EnlaceJuvenil.cr
-I25.90852.schedulesdirect.org,AMC-ni
+I26.90653.schedulesdirect.org,AMC-ni
 0619,AMCSeries
 Atreseries Internacional,Atreseries.ar
 AXN Andes,AXN.ni
@@ -445,13 +445,13 @@ M+ Estrenos HD,MovistarEstrenos
 3ABN.Lat,3ABNLatino
 Daystar.Español.us2,DaystarES
 ESNE,ElSembrador
-EWTN,EWTN
+I310.16350.schedulesdirect.org,EWTN
 MariaVision,MariaVision
 America.ar,America.ar
 America TV,America.pe
 ATV.pe,ATV.pe
 13 cl,13 cl
-Caracol TV,Caracol
+I417.39719.schedulesdirect.org,Caracol
 Caracol Internacional,CaracolInternacional.cr
 c5c6a54fbd0328b108453e2537b7eee1,Caracol-Mix
 El Trece,13.ar
@@ -541,3 +541,7 @@ XU321536,Universal-Action
 a133fa81322166df,LG1
 e654e72c6a3f80cb,LG1-plus
 0ba5d5ee8829baaa,LG_Spotlight
+I408.68040.schedulesdirect.org,UniMAS
+I739.84425.schedulesdirect.org,Unicable
+I698.74420.schedulesdirect.org,TLC.ni
+630,Bombi.cl
