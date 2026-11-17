@@ -48,6 +48,7 @@ VTV.hon,VTV.hn
 RPC Pa,RPC
 TVMax,TVMax
 plex.tv.FreeTV.Acción.plex,freetv-accion
+643054b1fc3be59477853717-631bbc79a273cc38add9e5e1,freetv-clasico
 plex.tv.FreeTV.Drama.plex,freetv-drama
 plex.tv.FreeTV.Estelar.plex,freetv-estelar
 plex.tv.FreeTV.Familia.plex,freetv-familia
@@ -67,6 +68,7 @@ Cinelatino,Cinelatino.ni
 Cine Mexicano,CineMexicano.mx
 770c7e1794505869b1ce94c84905ecea,CineRomantico
 Cine Sony,CineSONY.us
+608049aefa2b8ae93c2c3a63-67db3546d66f778a752f7eaa,Pelimex
 Cinecanal Pacífico,Cinecanal.gt
 CineDinHD.Mx,CinemaDinamita
 Cinema Platino,CinemaPlatino.cr
@@ -88,12 +90,13 @@ I326.82892.schedulesdirect.org,GreatAmericanCountry.us
 Hallmark.Channel.HD.us2,HallmarkChannel.us
 Hallmark.Family.us2,HallmarkFamily.us
 Hallmark.Mystery.HD.us2,HallmarkMoviesMysteries.us
-I455.90682.schedulesdirect.org,Lifetime.ni
+I455.90682.schedulesdirect.org,Lifetime.ni,-2
 Lifetime.Mx,Lifetime.mx
 0839,MC
 Multipr,Multipremier
 MyTime Movie Network (Rakuten TV),MyTimeMovieNetwork.es
 ES2800001G7,PlanetadeCine
+608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282,Grjngo.es
 5cf968040ab7d8f181e6a68b,CinePremiere.pluto
 5cf96b1c4f1ca3f0629f4bf0,Cineenespanol.pluto
 64b9671cdac71b0008f371df,CineClasico.pluto
@@ -130,8 +133,11 @@ Thrillers (Rakuten TV),RakutenThrillers.es
 Runtime Comedia,RuntimeComedia.es
 Runtime Romance,RuntimeRomance.es
 Runtime Thriller-Terror,RuntimeTT.es
-Runtime Acción,RuntimeAccion
+Runtime Acción,RuntimeAccion.es
 RunTime Clásicos,RunTimeClasicos
+608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3,RuntimeAccion.lat
+608049aefa2b8ae93c2c3a63-66843849a017b7e51aeb28d7,RuntimeComedia.lat
+608049aefa2b8ae93c2c3a63-668434f6a017b7e51aeb28d3,RuntimeComedia.lat
 349e0f0840cf21b888bff327b41a2413,Scares
 Space Panregional,Space.ni
 Studio Universal Panregional,StudioUniversal.ni
@@ -489,7 +495,7 @@ Frecuencia Musical TV,FrecuenciaMusical
 46eb1feb60da2bc45bee66f313b564de,AztecaNoticias
 a9aae4e62e6fd8e401033cd14ceeaaa2,RCN_Noticias
 eb1dbd690001553eacdf32d7b155b933,SparkTV
-b0d5db7f498f56fcaf1f8289eea6ea4d,SparkTV-ES
+608049aefa2b8ae93c2c3a63-6623c03b28a167c6e5b3079a,SparkTV-ES
 Sony One Shark Tank,SonyOneShark
 Sony One Hits Acción,SonyOneHitsAccion
 Sony One Hits Comedia,SonyOneHitsComedia
