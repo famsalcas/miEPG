@@ -3,48 +3,6 @@
   <channel id="Canal2.cr">
     <display-name>Canal 2 (Costa Rica)</display-name>
   </channel>
-  <programme start="20261116000000 -0600" stop="20261116040000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261116040000 -0600" stop="20261116060000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261116060000 -0600" stop="20261116070000 -0600" channel="Canal2.cr">
-    <title>Noticias Monumental</title>
-  </programme>
-  <programme start="20261116070000 -0600" stop="20261116090000 -0600" channel="Canal2.cr">
-    <title>Nuestra Voz</title>
-  </programme>
-  <programme start="20261116090000 -0600" stop="20261116110000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261116110000 -0600" stop="20261116123000 -0600" channel="Canal2.cr">
-    <title>Noticias Monumental</title>
-  </programme>
-  <programme start="20261116123000 -0600" stop="20261116140000 -0600" channel="Canal2.cr">
-    <title>Escenario Deportivo</title>
-  </programme>
-  <programme start="20261116140000 -0600" stop="20261116150000 -0600" channel="Canal2.cr">
-    <title>Videoteca</title>
-  </programme>
-  <programme start="20261116150000 -0600" stop="20261116160000 -0600" channel="Canal2.cr">
-    <title>Conecta2</title>
-  </programme>
-  <programme start="20261116160000 -0600" stop="20261116170000 -0600" channel="Canal2.cr">
-    <title>Central Mundo</title>
-  </programme>
-  <programme start="20261116170000 -0600" stop="20261116190000 -0600" channel="Canal2.cr">
-    <title>Pelando el ojo</title>
-  </programme>
-  <programme start="20261116190000 -0600" stop="20261116200000 -0600" channel="Canal2.cr">
-    <title>Playlist Retro</title>
-  </programme>
-  <programme start="20261116200000 -0600" stop="20261116223000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261116223000 -0600" stop="20261117000000 -0600" channel="Canal2.cr">
-    <title>Pelando el ojo</title>
-  </programme>
   <programme start="20261117000000 -0600" stop="20261117040000 -0600" channel="Canal2.cr">
     <title>Playlist</title>
   </programme>
@@ -252,7 +210,49 @@
   <programme start="20261122190000 -0600" stop="20261122200000 -0600" channel="Canal2.cr">
     <title>Momentos Reloj TV</title>
   </programme>
-  <programme start="20261122200000 -0600" stop="20261122210000 -0600" channel="Canal2.cr">
+  <programme start="20261122200000 -0600" stop="20261123000000 -0600" channel="Canal2.cr">
     <title>Playlist</title>
+  </programme>
+  <programme start="20261123000000 -0600" stop="20261123040000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261123040000 -0600" stop="20261123060000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261123060000 -0600" stop="20261123070000 -0600" channel="Canal2.cr">
+    <title>Noticias Monumental</title>
+  </programme>
+  <programme start="20261123070000 -0600" stop="20261123090000 -0600" channel="Canal2.cr">
+    <title>Nuestra Voz</title>
+  </programme>
+  <programme start="20261123090000 -0600" stop="20261123110000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261123110000 -0600" stop="20261123123000 -0600" channel="Canal2.cr">
+    <title>Noticias Monumental</title>
+  </programme>
+  <programme start="20261123123000 -0600" stop="20261123140000 -0600" channel="Canal2.cr">
+    <title>Escenario Deportivo</title>
+  </programme>
+  <programme start="20261123140000 -0600" stop="20261123150000 -0600" channel="Canal2.cr">
+    <title>Videoteca</title>
+  </programme>
+  <programme start="20261123150000 -0600" stop="20261123160000 -0600" channel="Canal2.cr">
+    <title>Conecta2</title>
+  </programme>
+  <programme start="20261123160000 -0600" stop="20261123170000 -0600" channel="Canal2.cr">
+    <title>Central Mundo</title>
+  </programme>
+  <programme start="20261123170000 -0600" stop="20261123190000 -0600" channel="Canal2.cr">
+    <title>Pelando el ojo</title>
+  </programme>
+  <programme start="20261123190000 -0600" stop="20261123200000 -0600" channel="Canal2.cr">
+    <title>Playlist Retro</title>
+  </programme>
+  <programme start="20261123200000 -0600" stop="20261123223000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261123223000 -0600" stop="20261123233000 -0600" channel="Canal2.cr">
+    <title>Pelando el ojo</title>
   </programme>
 </tv>

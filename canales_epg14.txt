@@ -254,7 +254,7 @@
 63d025db4e83e700086eaa96,LiveNOW from FOX,https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png
 5dc9b8223687ff000936ed79,CBS News New York,https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png
 5dc9b875e280c80009a8a44a,CBS News Los Angeles,https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png
-62cdc7c2a3e6270007f3f2f3,CBS News Boston,https://images.pluto.tv/channels/62cdc7c2a3e6270007f3f2f3/colorLogoPNG.png
+62cdc8fdb05d2b0007ef5035,CBS News Miami,https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png
 55b179af994403942f3061d6,Newsmax2,https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png
 5d695f7db53adf96b78e7ce3,TODAY All Day,https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png
 5459795fc9f133a519bc0bef,Scripps News,https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png
@@ -305,7 +305,6 @@
 563a970aa1a1f7fe7c9daad7,Pluto TV Science,https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png
 6ad7a1a6887970b5070d3994,How To,https://images.pluto.tv/channels/6ad7a1a6887970b5070d3994/colorLogoPNG_1793382321239.png
 66e0b4866ad04d0008fff4d8,MythBusters,https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png
-6ad7a7be43496b8a1caf7082,The Repair Shop,https://images.pluto.tv/channels/6ad7a7be43496b8a1caf7082/colorLogoPNG_1793382170130.png
 5f21ea08007a49000762d349,Smithsonian Channel Selects,https://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png
 67c62ac2095aea2ec805eb34,The Martha Stewart Channel,https://images.pluto.tv/channels/67c62ac2095aea2ec805eb34/colorLogoPNG.png
 698384cb7230043f21f4a3f4,Property Brothers,https://images.pluto.tv/channels/698384cb7230043f21f4a3f4/colorLogoPNG_1771374915234.png
@@ -318,6 +317,7 @@
 6565430c9d5ac4000822f508,Rustic Retreats,https://images.pluto.tv/channels/6565430c9d5ac4000822f508/colorLogoPNG.png
 601a0342dcf4370007566891,Tiny House Nation,https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG_1775171305009.png
 5dc1cb279c91420009db261d,Home.Made.Nation,https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png
+6ad7a7be43496b8a1caf7082,The Repair Shop,https://images.pluto.tv/channels/6ad7a7be43496b8a1caf7082/colorLogoPNG_1793382170130.png
 636c2b3c55d2e700074105c4,PBS Antiques Roadshow,https://images.pluto.tv/channels/636c2b3c55d2e700074105c4/colorLogoPNG.png
 5ce44810b421747ae467b7cd,Antiques Roadshow UK,https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG_1782832480489.png
 615b8ec39e878900073f419a,Antiques Road Trip,https://images.pluto.tv/channels/615b8ec39e878900073f419a/colorLogoPNG.png
