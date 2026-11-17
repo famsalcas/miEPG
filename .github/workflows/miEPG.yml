@@ -1,37 +1,80 @@
 name: miEPG
 on:
   schedule:
-    - cron: '17 10 * * *' # 4:00 AM hora Costa Rica (UTC-6, todo el año sin cambio de horario)
+    # Hora Costa Rica = UTC-6. Minutos "raros" (no :00 ni :30) para evitar las horas pico de GitHub.
+    - cron: '23 6 * * *'    # 00:23 CR  -> corrida principal
+    - cron: '41 14 * * *'   # 08:41 CR  -> respaldo: solo corre de verdad si la principal no actualizo (ver "Guardia")
   workflow_dispatch:
 permissions:
-   contents: write
+  contents: write
+
+# Nunca dos corridas a la vez (evita choques al hacer push); la segunda espera a la primera.
+concurrency:
+  group: miepg
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     steps:
     - name: Checkout del repositorio
-      uses: actions/checkout@v2
-    - name: Comprobar e Instalar xmllint
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 20
+
+    - name: Guardia (omitir el respaldo si ya hay una actualizacion reciente)
+      id: guardia
       run: |
-        sudo apt-get update && sudo apt-get install -y libxml2-utils
-    - name: Dar permisos de ejecución al script
+        ultimo=$(git log --author="GitHub Actions" -1 --format=%ct || echo 0)
+        edad_h=$(( ( $(date +%s) - ${ultimo:-0} ) / 3600 ))
+        echo "Ultima actualizacion automatica hace ${edad_h} h"
+        if [ "${{ github.event_name }}" = "schedule" ] && [ "$edad_h" -lt 14 ]; then
+          echo "Ya esta actualizado: se omite esta corrida."
+          echo "omitir=true" >> "$GITHUB_OUTPUT"
+        fi
+
+    - name: Comprobar e instalar xmllint (solo si falta)
+      if: steps.guardia.outputs.omitir != 'true'
+      run: |
+        command -v xmllint >/dev/null || { sudo apt-get update && sudo apt-get install -y libxml2-utils; }
+
+    - name: Generar EPGs manuales (fechas siempre frescas)
+      if: steps.guardia.outputs.omitir != 'true'
+      run: python3 generar_epg_manual.py
+
+    - name: Ejecutar script
+      if: steps.guardia.outputs.omitir != 'true'
+      timeout-minutes: 150
       run: |
         chmod +x .github/workflows/EPG_script.sh
-    - name: Generar EPGs manuales (fechas siempre frescas)
-      run: python3 generar_epg_manual.py
-    - name: Ejecutar script
-      run: .github/workflows/EPG_script.sh
+        .github/workflows/EPG_script.sh
+
     - name: Comprimir XML para SSIPTV
-      run: gzip -c miEPG.xml > miEPG.xml.gz
-    - name: Configurar identidad de Git
+      if: steps.guardia.outputs.omitir != 'true'
+      run: gzip -9 -n -c miEPG.xml > miEPG.xml.gz
+
+    - name: Subir archivos (con reintentos y rebase)
+      if: steps.guardia.outputs.omitir != 'true'
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-        
-    - name: Subir archivos 
-      run: |
-        git add .
+
+        # Se suben los archivos generados, pero NO epgs.txt / canales.txt / variables.txt: los edita la
+        # persona, y el script solo les quita lineas vacias (no debe subirse ni bloquear el rebase).
+        git add -A -- . ':!epgs.txt' ':!canales.txt' ':!variables.txt'
+        git checkout -- epgs.txt canales.txt variables.txt 2>/dev/null || true
+
+        if git diff --cached --quiet; then
+          echo "Sin cambios que subir"; exit 0
+        fi
         git commit -m "Nuevo miEPG.xml"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        # Si alguien hizo push mientras corria el job (puede tardar mucho), se rebasa y se reintenta.
+        for intento in 1 2 3 4 5; do
+          if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+            echo "Subido en el intento $intento"; exit 0
+          fi
+          echo "Intento $intento fallo, reintentando..."; sleep $((intento * 10))
+        done
+        echo "No se pudo subir tras 5 intentos"; exit 1
