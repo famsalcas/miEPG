@@ -74,10 +74,10 @@ CineDinHD.Mx,CinemaDinamita
 Cinema Platino,CinemaPlatino.cr
 Cinemax Panregional,Cinemax.ni
 Cinemax,Cinemax.mx
-643054b1fc3be59477853717-62167144ab2095ca85353ad6,CinePride
+608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6,CINEPRIDE
 0858,ClaroCinema
 0831,CloverChannel
-DePeliHD,DePelicula.cr
+I208.16288.schedulesdirect.org,DePelicula.cr
 DHE,DHE.ni
 Film &amp; Arts,FilmAndArts.ni,-3
 FilmandCo.es,FilmandCo
@@ -152,7 +152,7 @@ AYM Sports,AYMSports.mx
 CDN Deportes,CDNDeportes
 I181.72291.schedulesdirect.org,ClaroSports
 0420,ClaroSports2
-Combate,CombaTV
+608049aefa2b8ae93c2c3a63-63f0ca427b78030ed9990309,CombaTV
 0443,ECDF
 DAZN 1,DAZN 1
 0431,DIRECTVSports.pe
@@ -171,7 +171,7 @@ ESPN 7 HD.cl,ESPN7.pe
 ESPN Deportes,ESPNDeportes.us
 ESPN Premium,ESPNPremium.pe
 eurosport 1,eurosport 1,Eurosport4K.es
-FIFA+,FIFAplus
+608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFAplus
 Fox Costa Rica,Fox.cr
 FOX+ Centroamérica,FoxPlus.cr
 Fox Nicaragua,Fox.ni
@@ -180,13 +180,13 @@ FOX SPORTS AR,FOXSportsConoSur.ar
 FOX SPORTS 2 AR,FOXSports2.ar
 FOX SPORTS 3 AR,FOXSports3.ar
 Fox Sports Cono Norte,FOXSports.mx
-Fox Sports 2,FOXSports2.mx
+I341.71328.schedulesdirect.org,FOXSports2.mx
 Fox Sports 3,FOXSports3.mx
 FUTV,FUTV
 0648,Garage.ar
 GolPlay.es,GolPlay.es
 Golf Channel,GolfChannel.cr
-5c01df1759ee03633e7b272c,LuchaLibreAAA.pluto
+608049aefa2b8ae93c2c3a63-67a1a8ef2358ef4dd5c3018e,Lucha-Plus
 MLB.Network.HD.us2,MLBNetwork.us
 Motorvision TV,Motorvision TV
 M DEPORTES.pe,M-Deportes.pe
@@ -251,10 +251,13 @@ USA Network,USANetwork.ni
 USA.Network.HD.(Pacific).us2,USANetwork.us
 Warner TV Panregional,WarnerTV.ni
 Warner TV,WarnerTV.mx
+608049aefa2b8ae93c2c3a63-64e6e46f27a915f9b5184e9a,Cine-en-ES
 Cine Friki,CineFriki.es
+608049aefa2b8ae93c2c3a63-686464b519cc2e163e38d165,CineFriki.mx
 608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f,BuenViaje
 Hola TV,HolaTV
 0635,AZClic
+608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e,Conecta-az
 673249433a61d400087a51ed,Construcciones-Asombrosas
 Discovery Home &amp; Health Colombia,DiscoveryHomeAndHealth.ni
 Discovery World,DiscoveryWorldLatinoamerica.ni
@@ -422,7 +425,7 @@ HBO Mundi,HBOMundi.ni
 HBOPlHD.Mx,HBOPlus.ni 
 HBOPop.Lat,HBOPop.ni
 I407.80120.schedulesdirect.org,HBOSignatureLatinoamerica.ni
-I410.80115.schedulesdirect.org,HBOXtreme.ni
+I409.34887.schedulesdirect.org,HBOXtreme.ni
 MGM.Presents.us2,MGMPresents.us
 MGM.Presents.Action.us2,MGMPresentsAction.us
 MGM.Presents:.Horror.us2,MGMPresentsHorror.us
@@ -431,7 +434,7 @@ MGM+.HD.us2,MGM_Plus.us
 MGM+.Drive-In.us2,MGM_DriveIn.us
 MGM+.Hits.HD.us2,MGM_Hits.us
 MGM+.Marquee.HD.us2,MGM_Marquee.us
-Pánico,Panico.cr
+I532.73535.schedulesdirect.org,Panico.cr
 I241.11163.schedulesdirect.org,ParamountNetwork.us
 USAJ26000054W,ParamountMovieChannel
 Universal Cinema,UniversalCinema,-4
@@ -527,8 +530,9 @@ freemoviesplus_amg02042c1eng_US,freemoviesplus_amg02042c1eng_US
 reuters_reuters_US,Reuters
 foxlivenow_foxlivenow_US,,FoxNow
 us-p1media_americasvoice_1,Real_Americas_Voice
+I1115.97163.gracenote.com,Newsmax.us
 newsmax_nwsmx_US,Newsmax2.us
-itvdeportes_itvdep_US,ITV-Deportes
+608049aefa2b8ae93c2c3a63-688d3402a6fe30698ab42007,ITV-Deportes
 FREQ1209-US,BBC_Adventure
 5b4b59af18ff5686916ef5eb3574de46,FilmRise_PelisGratis
 4010582bb66b58a69151a4f552de0823,FilmRise_SeGratis
