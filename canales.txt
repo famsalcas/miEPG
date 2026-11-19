@@ -66,14 +66,13 @@ CINE FAMILIAR HD.py,CineFamiliar
 0827,CinePremium
 Cinelatino,Cinelatino.ni
 Cine Mexicano,CineMexicano.mx
-770c7e1794505869b1ce94c84905ecea,CineRomantico
+770c7e1794505869b1ce94c84905ecea,CineySeries
+608049aefa2b8ae93c2c3a63-67db0a3892cb453db28ab020,CineRomantico
 Cine Sony,CineSONY.us
 608049aefa2b8ae93c2c3a63-67db3546d66f778a752f7eaa,Pelimex
 Cinecanal Pacífico,Cinecanal.gt
-CineDinHD.Mx,CinemaDinamita
 Cinema Platino,CinemaPlatino.cr
 Cinemax Panregional,Cinemax.ni
-Cinemax,Cinemax.mx
 608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6,CINEPRIDE
 0858,ClaroCinema
 0831,CloverChannel
@@ -232,7 +231,7 @@ I388.70113.gracenote.com,Pixl.us
 Las Estrellas,LasEstrellas.mx
 5f6683cf9d615b5cb8b8545307bb86fb,LatinoVibes
 Mi TV Television Clasica,MiTV_Clasica
-mundoseries,MundoSeries
+Mundo Series,mundoseries
 Sony Centro,Sony.ni
 Sony Chile,Sony.cl
 Sony,Sony.mx
@@ -313,7 +312,6 @@ Anime Visión Classics,AnimeVisionClassics
 AnimeStation,AnimeStation
 BitMe,BitMe.ni
 307b3b9ea321539b9688148fc97a8bfd,Crunchyroll.us
-Kanade Tv,Kanade
 Loco,Locomotion
 Magickids.ar,MagicKids
 Retro Magico,Retromagico
@@ -559,3 +557,8 @@ I698.74420.schedulesdirect.org,TLC.ni
 643054b1fc3be59477853717-621672612c2627c068e73ad6,Watch-it-Kid
 643054b1fc3be59477853717-61d738b5a7b7c7f703418514,Trailers.es
 643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7d,StingrayClassica
+TRT World,TRT.World
+NHK World,NHK-World
+Cines Verdi TV,CinesVerdi.es
+Cine Feel Good Verdi TV,FeelsGood.es
+DW English,DW.us
