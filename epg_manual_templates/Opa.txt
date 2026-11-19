@@ -11,7 +11,8 @@ Lunes,11:00,El Octavo Mandamiento
 Lunes,12:30,Testigo Directo
 Lunes,13:00,Fuera de juego
 Lunes,14:00,Central Ahora
-Lunes,16:00,Central Mundo
+Lunes,16:00,De ride con OPA
+Lunes,16:30,Testigo Directo
 Lunes,17:00,Programa
 Lunes,18:00,Central Noticias
 Lunes,19:00,Está Pasando
@@ -35,7 +36,7 @@ Martes,19:00,Está Pasando
 Martes,20:00,El Octavo Mandamiento
 Martes,21:30,Central Noticias
 Martes,22:30,Podcast Nereo Gabriel
-Martes,23:30,Testigo Directo
+Martes,23:30,Charlas
 Miercoles,00:30,El Octavo Mandamiento
 Miercoles,02:00,Central Ahora
 Miercoles,08:00,Central Noticias
@@ -45,7 +46,8 @@ Miercoles,11:00,El Octavo Mandamiento
 Miercoles,12:30,Testigo Directo
 Miercoles,13:00,Fuera de juego
 Miercoles,14:00,Central Ahora
-Miercoles,16:00,Central Mundo
+Miercoles,16:00,Programa
+Miercoles,16:30,DW Actualidad en analisis
 Miercoles,17:00,Alma de Mujer
 Miercoles,18:00,Central Mundo
 Miercoles,19:00,Está Pasando
