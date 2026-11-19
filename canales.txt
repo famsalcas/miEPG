@@ -555,3 +555,7 @@ I408.68040.schedulesdirect.org,UniMAS
 I739.84425.schedulesdirect.org,Unicable
 I698.74420.schedulesdirect.org,TLC.ni
 630,Bombi.cl
+643054b1fc3be59477853717-66ea174c9502c5778b828d47,Cine-Western
+643054b1fc3be59477853717-621672612c2627c068e73ad6,Watch-it-Kid
+643054b1fc3be59477853717-61d738b5a7b7c7f703418514,Trailers.es
+643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7d,StingrayClassica
