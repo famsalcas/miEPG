@@ -1,11 +1,11 @@
 Canal1.cr,Canal1.cr
 Canal2.cr,Canal2.cr
-4 de Costa Rica,Canal4.cr
+Canal4HD.cr,Canal4.cr
 6 de Costa Rica,Canal6.cr
 7 de Costa Rica Teletica,7_Teletica.cr
 Multimedios Costa Rica,Canal8.cr
 11 de Costa Rica,Canal11.cr
-cr0004,Canal13.cr
+Canal13HD.cr,Canal13.cr
 Tvn14.cr,Tvn14.cr
 Tvsur14.cr,Tvsur14.cr
 Quince.cr,Quince.cr
@@ -181,7 +181,7 @@ FOX SPORTS 3 AR,FOXSports3.ar
 Fox Sports Cono Norte,FOXSports.mx
 I341.71328.schedulesdirect.org,FOXSports2.mx
 Fox Sports 3,FOXSports3.mx
-FUTV,FUTV
+futvHD,FUTV
 0648,Garage.ar
 GolPlay.es,GolPlay.es
 Golf Channel,GolfChannel.cr
