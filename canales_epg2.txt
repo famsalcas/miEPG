@@ -6,21 +6,21 @@ Cuatro,Cuatro,https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor
 Telecinco,Telecinco,https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png
 La Sexta,La Sexta,https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png
 LA SÉPTIMA,LA SÉPTIMA,https://media.tvup.cloud/channels/6ae9c557d63a8a80c5f5ad06logoColor_1793952394758.png
-TV3,TV3,https://media.tvup.cloud/canales/color_lg_5a314e548e26040be8a9f3fd.png
+Aragón TV,Aragón TV,https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png
+TVG,TVG,https://media.tvup.cloud/canales/color_lg_5d777d87a9824d0056b02a67.png
 Canal Sur,Canal Sur,https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png
 ETB2,ETB2,https://media.tvup.cloud/canales/color_lg_5c1762f0a69b842193852d54_1775735609226.png
+Telemadrid,Telemadrid,https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png
 À Punt,À Punt,https://media.tvup.cloud/canales/5cb43c78aada4d004cda83a2logoColor.png
 TPA7,TPA7,https://media.tvup.cloud/canales/color_lg_5c013700b7adda22348eab19.png
-TVG,TVG,https://media.tvup.cloud/canales/color_lg_5d777d87a9824d0056b02a67.png
-7 Región de Murcia,7 Región de Murcia,https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png
-Aragón TV,Aragón TV,https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png
-Telemadrid,Telemadrid,https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png
 Canal Extremadura,Canal Extremadura,https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png
+TV3,TV3,https://media.tvup.cloud/canales/color_lg_5a314e548e26040be8a9f3fd.png
 IB3,IB3,https://media.tvup.cloud/canales/5afeab43d2fc610babd2b87flogoColor.png
+7 Región de Murcia,7 Región de Murcia,https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png
 CMM TV,CMM TV,https://media.tvup.cloud/canales/color_lg_5eb909661a74010063dd01a4.png
 TV Canaria,TV Canaria,https://media.tvup.cloud/canales/color_lg_5f436bcafd67260066323ae5.png
-Super 3-33,Super 3-33,https://media.tvup.cloud/canales/color_lg_5afeb829d2fc610babd2b88f.png
 ETB1,ETB1,https://media.tvup.cloud/canales/color_lg_5c1761caa69b842193852d50_1775735557128.png
+Super 3-33,Super 3-33,https://media.tvup.cloud/canales/color_lg_5afeb829d2fc610babd2b88f.png
 Andalucía TV,Andalucía TV,https://media.tvup.cloud/canales/color_lg_5cbcb460f75662004cbb5040.png
 TPA8,TPA8,https://media.tvup.cloud/canales/color_lg_5efc32cc377b9a00658da210.png
 TVG 2,TVG 2,https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.png
@@ -116,14 +116,16 @@ Nesting TV,Nesting TV,https://media.tvup.cloud/canales/color_lg_6388e7e31cb59100
 1+1 Travel,1+1 Travel,https://media.tvup.cloud/canales/color_lg_67b45f2312c340d44a9a3f59_1740572348048.png
 Teledeporte,Teledeporte,https://media.tvup.cloud/canales/color_lg_5ac5e65403080405b20a4ff1_1777295828963.png
 Betis TV,Betis TV,https://media.tvup.cloud/canales/color_lg_5b1e746bdd713247dee47264.png
+Barça 24H ,Barça 24H ,https://media.tvup.cloud/channels/6ab0e98dd7c5dbdaf187a6cdlogoColor_1795081359930.png
 Esport 3,Esport 3,https://media.tvup.cloud/canales/color_lg_5b04156ab63af22346518c4c.png
-Red Bull TV,Red Bull TV,https://media.tvup.cloud/canales/color_lg_5c4352438c3e78047f57c408.png
+Barça 24H | Català,Barça 24H | Català,https://media.tvup.cloud/channels/6ab0ea8bff519fa8b5d04412logoColor_1795081337099.png
 Motorvision TV,Motorvision TV,https://media.tvup.cloud/canales/color_lg_5e455c96531ee300764b5e5d.png
 MMA TV,MMA TV,https://media.tvup.cloud/canales/color_lg_6294d284c044ca001e71987d.png
 Fuel TV,Fuel TV,https://media.tvup.cloud/canales/color_lg_64e720715bc77dacbbbb6ec8.png
 Trace Sport Stars,Trace Sport Stars,https://media.tvup.cloud/canales/color_lg_6458cdd3462b2c49012785fe.png
 My Padel TV,My Padel TV,https://media.tvup.cloud/canales/color_lg_669e7c664641c24ee2ea8b16.png
 Tennis Channel,Tennis Channel,https://media.tvup.cloud/canales/color_lg_6641c6c0e6e81024bb6171b2_1733130445118.png
+Red Bull TV,Red Bull TV,https://media.tvup.cloud/canales/color_lg_5c4352438c3e78047f57c408.png
 Rugby Spain,Rugby Spain,https://media.tvup.cloud/canales/color_lg_67ea5bd64f9cb1be71461795_1750846676105.png
 Surf Channel TV,Surf Channel TV,https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3_1731408353544.png
 INTROUBLE,INTROUBLE,https://media.tvup.cloud/canales/color_lg_67a0a9927668774da5215303_1739965102633.png
