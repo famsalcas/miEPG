@@ -528,7 +528,7 @@ freemoviesplus_amg02042c1eng_US,freemoviesplus_amg02042c1eng_US
 reuters_reuters_US,Reuters
 foxlivenow_foxlivenow_US,,FoxNow
 us-p1media_americasvoice_1,Real_Americas_Voice
-I1115.97163.gracenote.com,Newsmax.us
+I1115.97163.gracenote.com,NewsmaxTV.us
 newsmax_nwsmx_US,Newsmax2.us
 608049aefa2b8ae93c2c3a63-688d3402a6fe30698ab42007,ITV-Deportes
 FREQ1209-US,BBC_Adventure
