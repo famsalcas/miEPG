@@ -562,3 +562,14 @@ NHK World,NHK-World
 Cines Verdi TV,CinesVerdi.es
 Cine Feel Good Verdi TV,FeelsGood.es
 DW English,DW.us
+ENTMain.40mediaGroup,Ent-Channel
+ENTFamily.40mediaGroup,Ent-Family
+ENTMovies.40mediaGroup,Ent-Movies
+ENTClassic.40mediaGroup,Ent-Classic
+ENTLife.40mediaGroup,Ent-Life
+ENTDrama.40mediaGroup,Ent-Drama
+ENTComedy.40mediaGroup,Ent-Comedy
+ENTExtreme.40mediaGroup,Ent-Extreme
+TMC80s.40mediaGroup,Totalmusic
+TMC80s.40mediaGroup,Totalmusic-80s
+TMC2000s.40mediaGroup,Totalmusic.2000s
