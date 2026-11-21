@@ -573,3 +573,5 @@ ENTExtreme.40mediaGroup,Ent-Extreme
 TMC80s.40mediaGroup,Totalmusic
 TMC80s.40mediaGroup,Totalmusic-80s
 TMC2000s.40mediaGroup,Totalmusic.2000s
+plex.tv.ARTFLIX.-.Movie.Classics.plex,Artflix-Es
+plex.tv.Estrella.News.plex,Estrella.News
