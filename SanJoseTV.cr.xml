@@ -3,30 +3,6 @@
   <channel id="SanJoseTV.cr">
     <display-name>San Jose TV</display-name>
   </channel>
-  <programme start="20261120000000 -0600" stop="20261120010000 -0600" channel="SanJoseTV.cr">
-    <title>Música y Prédicas</title>
-  </programme>
-  <programme start="20261120000000 -0600" stop="20261120010000 -0600" channel="SanJoseTV.cr">
-    <title>Música Catolica</title>
-  </programme>
-  <programme start="20261120010000 -0600" stop="20261120020000 -0600" channel="SanJoseTV.cr">
-    <title>Donde el maestro</title>
-  </programme>
-  <programme start="20261120020000 -0600" stop="20261120080000 -0600" channel="SanJoseTV.cr">
-    <title>¿Dónde está tu hermano?</title>
-  </programme>
-  <programme start="20261120080000 -0600" stop="20261120130000 -0600" channel="SanJoseTV.cr">
-    <title>Radio Revista Vida y Esperanza</title>
-  </programme>
-  <programme start="20261120130000 -0600" stop="20261120173000 -0600" channel="SanJoseTV.cr">
-    <title>El santo del dia</title>
-  </programme>
-  <programme start="20261120173000 -0600" stop="20261120210000 -0600" channel="SanJoseTV.cr">
-    <title>Santo Rosario y Santa Misa</title>
-  </programme>
-  <programme start="20261120210000 -0600" stop="20261121000000 -0600" channel="SanJoseTV.cr">
-    <title>Mi descanso eres tu</title>
-  </programme>
   <programme start="20261121000000 -0600" stop="20261121173000 -0600" channel="SanJoseTV.cr">
     <title>Música y Prédicas</title>
   </programme>
@@ -108,7 +84,31 @@
   <programme start="20261126210000 -0600" stop="20261126223000 -0600" channel="SanJoseTV.cr">
     <title>Mi Descanso Eres Tú</title>
   </programme>
-  <programme start="20261126223000 -0600" stop="20261126233000 -0600" channel="SanJoseTV.cr">
+  <programme start="20261126223000 -0600" stop="20261127000000 -0600" channel="SanJoseTV.cr">
     <title>Santo Trisagio y Música</title>
+  </programme>
+  <programme start="20261127000000 -0600" stop="20261127010000 -0600" channel="SanJoseTV.cr">
+    <title>Música y Prédicas</title>
+  </programme>
+  <programme start="20261127000000 -0600" stop="20261127010000 -0600" channel="SanJoseTV.cr">
+    <title>Música Catolica</title>
+  </programme>
+  <programme start="20261127010000 -0600" stop="20261127020000 -0600" channel="SanJoseTV.cr">
+    <title>Donde el maestro</title>
+  </programme>
+  <programme start="20261127020000 -0600" stop="20261127080000 -0600" channel="SanJoseTV.cr">
+    <title>¿Dónde está tu hermano?</title>
+  </programme>
+  <programme start="20261127080000 -0600" stop="20261127130000 -0600" channel="SanJoseTV.cr">
+    <title>Radio Revista Vida y Esperanza</title>
+  </programme>
+  <programme start="20261127130000 -0600" stop="20261127173000 -0600" channel="SanJoseTV.cr">
+    <title>El santo del dia</title>
+  </programme>
+  <programme start="20261127173000 -0600" stop="20261127210000 -0600" channel="SanJoseTV.cr">
+    <title>Santo Rosario y Santa Misa</title>
+  </programme>
+  <programme start="20261127210000 -0600" stop="20261127220000 -0600" channel="SanJoseTV.cr">
+    <title>Mi descanso eres tu</title>
   </programme>
 </tv>

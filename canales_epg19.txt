@@ -165,8 +165,6 @@ SanJoseEarthquakes.mls,MLS - San Jose Earthquakes,https://a.espncdn.com/i/teamlo
 SeattleSoundersFC.mls,MLS - Seattle Sounders FC,https://a.espncdn.com/i/teamlogos/soccer/500/9726.png
 SportingKansasCity.mls,MLS - Sporting Kansas City,https://a.espncdn.com/i/teamlogos/soccer/500/186.png
 StLouisCITYSC.mls,MLS - St. Louis CITY SC,https://a.espncdn.com/i/teamlogos/soccer/500/21812.png
-TBDAway.mls,MLS - TBD Away,
-TBDHome.mls,MLS - TBD Home,
 TorontoFC.mls,MLS - Toronto FC,https://a.espncdn.com/i/teamlogos/soccer/500/7318.png
 VancouverWhitecaps.mls,MLS - Vancouver Whitecaps,https://a.espncdn.com/i/teamlogos/soccer/500/9727.png
 AFCBournemouth.epl,Premier League - AFC Bournemouth,https://a.espncdn.com/i/teamlogos/soccer/500/349.png

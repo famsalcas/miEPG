@@ -3,96 +3,6 @@
   <channel id="Quince.cr">
     <display-name>UCR Canal 15</display-name>
   </channel>
-  <programme start="20261120000000 -0600" stop="20261120020000 -0600" channel="Quince.cr">
-    <title>Por siempre cine</title>
-  </programme>
-  <programme start="20261120020000 -0600" stop="20261120023000 -0600" channel="Quince.cr">
-    <title>A la gorra ni quien corra</title>
-  </programme>
-  <programme start="20261120023000 -0600" stop="20261120030000 -0600" channel="Quince.cr">
-    <title>Economía y Sociedad</title>
-  </programme>
-  <programme start="20261120030000 -0600" stop="20261120040000 -0600" channel="Quince.cr">
-    <title>UNA Mirada</title>
-  </programme>
-  <programme start="20261120040000 -0600" stop="20261120050000 -0600" channel="Quince.cr">
-    <title>Sexo luego existo</title>
-  </programme>
-  <programme start="20261120050000 -0600" stop="20261120060000 -0600" channel="Quince.cr">
-    <title>Música Progresiva</title>
-  </programme>
-  <programme start="20261120060000 -0600" stop="20261120063000 -0600" channel="Quince.cr">
-    <title>RT: La lista de Erick</title>
-  </programme>
-  <programme start="20261120063000 -0600" stop="20261120070000 -0600" channel="Quince.cr">
-    <title>RPM</title>
-  </programme>
-  <programme start="20261120070000 -0600" stop="20261120080000 -0600" channel="Quince.cr">
-    <title>Desayunos de Radio Universidad</title>
-  </programme>
-  <programme start="20261120080000 -0600" stop="20261120083000 -0600" channel="Quince.cr">
-    <title>Forjadores</title>
-  </programme>
-  <programme start="20261120083000 -0600" stop="20261120090000 -0600" channel="Quince.cr">
-    <title>Desde la U</title>
-  </programme>
-  <programme start="20261120090000 -0600" stop="20261120100000 -0600" channel="Quince.cr">
-    <title>A traves del visor</title>
-  </programme>
-  <programme start="20261120100000 -0600" stop="20261120110000 -0600" channel="Quince.cr">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261120110000 -0600" stop="20261120113000 -0600" channel="Quince.cr">
-    <title>Forjadores</title>
-  </programme>
-  <programme start="20261120113000 -0600" stop="20261120120000 -0600" channel="Quince.cr">
-    <title>RPM</title>
-  </programme>
-  <programme start="20261120120000 -0600" stop="20261120123000 -0600" channel="Quince.cr">
-    <title>DW Noticias</title>
-  </programme>
-  <programme start="20261120123000 -0600" stop="20261120130000 -0600" channel="Quince.cr">
-    <title>RT: Reporta</title>
-  </programme>
-  <programme start="20261120130000 -0600" stop="20261120150000 -0600" channel="Quince.cr">
-    <title>Por siempre cine</title>
-  </programme>
-  <programme start="20261120150000 -0600" stop="20261120153000 -0600" channel="Quince.cr">
-    <title>Imágenes de Iberoamérica</title>
-  </programme>
-  <programme start="20261120153000 -0600" stop="20261120160000 -0600" channel="Quince.cr">
-    <title>RPM</title>
-  </programme>
-  <programme start="20261120160000 -0600" stop="20261120163000 -0600" channel="Quince.cr">
-    <title>Forjadores</title>
-  </programme>
-  <programme start="20261120163000 -0600" stop="20261120170000 -0600" channel="Quince.cr">
-    <title>A la gorra ni quien orra</title>
-  </programme>
-  <programme start="20261120170000 -0600" stop="20261120180000 -0600" channel="Quince.cr">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261120180000 -0600" stop="20261120190000 -0600" channel="Quince.cr">
-    <title>Interferencia</title>
-  </programme>
-  <programme start="20261120190000 -0600" stop="20261120193000 -0600" channel="Quince.cr">
-    <title>DW Noticias</title>
-  </programme>
-  <programme start="20261120193000 -0600" stop="20261120200000 -0600" channel="Quince.cr">
-    <title>Economía y Sociedad</title>
-  </programme>
-  <programme start="20261120200000 -0600" stop="20261120210000 -0600" channel="Quince.cr">
-    <title>UNA Mirada</title>
-  </programme>
-  <programme start="20261120210000 -0600" stop="20261120220000 -0600" channel="Quince.cr">
-    <title>Sexo luego existo</title>
-  </programme>
-  <programme start="20261120220000 -0600" stop="20261120230000 -0600" channel="Quince.cr">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261120230000 -0600" stop="20261121000000 -0600" channel="Quince.cr">
-    <title>Música Progresiva</title>
-  </programme>
   <programme start="20261121000000 -0600" stop="20261121020000 -0600" channel="Quince.cr">
     <title>Por siempre cine</title>
   </programme>
@@ -652,6 +562,96 @@
     <title>Lo que somos</title>
   </programme>
   <programme start="20261126230000 -0600" stop="20261127000000 -0600" channel="Quince.cr">
+    <title>Música Progresiva</title>
+  </programme>
+  <programme start="20261127000000 -0600" stop="20261127020000 -0600" channel="Quince.cr">
+    <title>Por siempre cine</title>
+  </programme>
+  <programme start="20261127020000 -0600" stop="20261127023000 -0600" channel="Quince.cr">
+    <title>A la gorra ni quien corra</title>
+  </programme>
+  <programme start="20261127023000 -0600" stop="20261127030000 -0600" channel="Quince.cr">
+    <title>Economía y Sociedad</title>
+  </programme>
+  <programme start="20261127030000 -0600" stop="20261127040000 -0600" channel="Quince.cr">
+    <title>UNA Mirada</title>
+  </programme>
+  <programme start="20261127040000 -0600" stop="20261127050000 -0600" channel="Quince.cr">
+    <title>Sexo luego existo</title>
+  </programme>
+  <programme start="20261127050000 -0600" stop="20261127060000 -0600" channel="Quince.cr">
+    <title>Música Progresiva</title>
+  </programme>
+  <programme start="20261127060000 -0600" stop="20261127063000 -0600" channel="Quince.cr">
+    <title>RT: La lista de Erick</title>
+  </programme>
+  <programme start="20261127063000 -0600" stop="20261127070000 -0600" channel="Quince.cr">
+    <title>RPM</title>
+  </programme>
+  <programme start="20261127070000 -0600" stop="20261127080000 -0600" channel="Quince.cr">
+    <title>Desayunos de Radio Universidad</title>
+  </programme>
+  <programme start="20261127080000 -0600" stop="20261127083000 -0600" channel="Quince.cr">
+    <title>Forjadores</title>
+  </programme>
+  <programme start="20261127083000 -0600" stop="20261127090000 -0600" channel="Quince.cr">
+    <title>Desde la U</title>
+  </programme>
+  <programme start="20261127090000 -0600" stop="20261127100000 -0600" channel="Quince.cr">
+    <title>A traves del visor</title>
+  </programme>
+  <programme start="20261127100000 -0600" stop="20261127110000 -0600" channel="Quince.cr">
+    <title>Documental</title>
+  </programme>
+  <programme start="20261127110000 -0600" stop="20261127113000 -0600" channel="Quince.cr">
+    <title>Forjadores</title>
+  </programme>
+  <programme start="20261127113000 -0600" stop="20261127120000 -0600" channel="Quince.cr">
+    <title>RPM</title>
+  </programme>
+  <programme start="20261127120000 -0600" stop="20261127123000 -0600" channel="Quince.cr">
+    <title>DW Noticias</title>
+  </programme>
+  <programme start="20261127123000 -0600" stop="20261127130000 -0600" channel="Quince.cr">
+    <title>RT: Reporta</title>
+  </programme>
+  <programme start="20261127130000 -0600" stop="20261127150000 -0600" channel="Quince.cr">
+    <title>Por siempre cine</title>
+  </programme>
+  <programme start="20261127150000 -0600" stop="20261127153000 -0600" channel="Quince.cr">
+    <title>Imágenes de Iberoamérica</title>
+  </programme>
+  <programme start="20261127153000 -0600" stop="20261127160000 -0600" channel="Quince.cr">
+    <title>RPM</title>
+  </programme>
+  <programme start="20261127160000 -0600" stop="20261127163000 -0600" channel="Quince.cr">
+    <title>Forjadores</title>
+  </programme>
+  <programme start="20261127163000 -0600" stop="20261127170000 -0600" channel="Quince.cr">
+    <title>A la gorra ni quien orra</title>
+  </programme>
+  <programme start="20261127170000 -0600" stop="20261127180000 -0600" channel="Quince.cr">
+    <title>Documental</title>
+  </programme>
+  <programme start="20261127180000 -0600" stop="20261127190000 -0600" channel="Quince.cr">
+    <title>Interferencia</title>
+  </programme>
+  <programme start="20261127190000 -0600" stop="20261127193000 -0600" channel="Quince.cr">
+    <title>DW Noticias</title>
+  </programme>
+  <programme start="20261127193000 -0600" stop="20261127200000 -0600" channel="Quince.cr">
+    <title>Economía y Sociedad</title>
+  </programme>
+  <programme start="20261127200000 -0600" stop="20261127210000 -0600" channel="Quince.cr">
+    <title>UNA Mirada</title>
+  </programme>
+  <programme start="20261127210000 -0600" stop="20261127220000 -0600" channel="Quince.cr">
+    <title>Sexo luego existo</title>
+  </programme>
+  <programme start="20261127220000 -0600" stop="20261127230000 -0600" channel="Quince.cr">
+    <title>Documental</title>
+  </programme>
+  <programme start="20261127230000 -0600" stop="20261128000000 -0600" channel="Quince.cr">
     <title>Música Progresiva</title>
   </programme>
 </tv>

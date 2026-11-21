@@ -3,81 +3,6 @@
   <channel id="Tvsur14.cr">
     <display-name>TV Sur 14</display-name>
   </channel>
-  <programme start="20261120000000 -0600" stop="20261120070000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261120070000 -0600" stop="20261120073000 -0600" channel="Tvsur14.cr">
-    <title>Santo Rosario</title>
-  </programme>
-  <programme start="20261120073000 -0600" stop="20261120080000 -0600" channel="Tvsur14.cr">
-    <title>Videos Cristianos</title>
-  </programme>
-  <programme start="20261120080000 -0600" stop="20261120090000 -0600" channel="Tvsur14.cr">
-    <title>Infantiles</title>
-  </programme>
-  <programme start="20261120090000 -0600" stop="20261120090500 -0600" channel="Tvsur14.cr">
-    <title>Avance Informativo</title>
-  </programme>
-  <programme start="20261120090500 -0600" stop="20261120100000 -0600" channel="Tvsur14.cr">
-    <title>Complacencias</title>
-  </programme>
-  <programme start="20261120100000 -0600" stop="20261120110000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261120110000 -0600" stop="20261120110500 -0600" channel="Tvsur14.cr">
-    <title>Avance Informativo</title>
-  </programme>
-  <programme start="20261120110500 -0600" stop="20261120120000 -0600" channel="Tvsur14.cr">
-    <title>Caso Cerrado</title>
-  </programme>
-  <programme start="20261120120000 -0600" stop="20261120123000 -0600" channel="Tvsur14.cr">
-    <title>TV Sur Noticias</title>
-  </programme>
-  <programme start="20261120123000 -0600" stop="20261120133000 -0600" channel="Tvsur14.cr">
-    <title>Caso Cerrado</title>
-  </programme>
-  <programme start="20261120133000 -0600" stop="20261120140000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261120140000 -0600" stop="20261120140500 -0600" channel="Tvsur14.cr">
-    <title>Avance Informativo</title>
-  </programme>
-  <programme start="20261120140500 -0600" stop="20261120150000 -0600" channel="Tvsur14.cr">
-    <title>Complacencias</title>
-  </programme>
-  <programme start="20261120150000 -0600" stop="20261120155500 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261120155500 -0600" stop="20261120160000 -0600" channel="Tvsur14.cr">
-    <title>Avance Informativo</title>
-  </programme>
-  <programme start="20261120160000 -0600" stop="20261120170000 -0600" channel="Tvsur14.cr">
-    <title>Infantiles</title>
-  </programme>
-  <programme start="20261120170000 -0600" stop="20261120173000 -0600" channel="Tvsur14.cr">
-    <title>Programa</title>
-  </programme>
-  <programme start="20261120173000 -0600" stop="20261120180000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261120180000 -0600" stop="20261120190000 -0600" channel="Tvsur14.cr">
-    <title>TV Sur Noticias Estelar</title>
-  </programme>
-  <programme start="20261120190000 -0600" stop="20261120193000 -0600" channel="Tvsur14.cr">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261120193000 -0600" stop="20261120200000 -0600" channel="Tvsur14.cr">
-    <title>Economia y Sociedad</title>
-  </programme>
-  <programme start="20261120200000 -0600" stop="20261120210000 -0600" channel="Tvsur14.cr">
-    <title>UNA Mirada</title>
-  </programme>
-  <programme start="20261120210000 -0600" stop="20261120213000 -0600" channel="Tvsur14.cr">
-    <title>TV Sur Noticias Nocturna</title>
-  </programme>
-  <programme start="20261120213000 -0600" stop="20261121000000 -0600" channel="Tvsur14.cr">
-    <title>Videos Musicales</title>
-  </programme>
   <programme start="20261121000000 -0600" stop="20261121070000 -0600" channel="Tvsur14.cr">
     <title>Videos Musicales</title>
   </programme>
@@ -426,7 +351,82 @@
   <programme start="20261126210000 -0600" stop="20261126213000 -0600" channel="Tvsur14.cr">
     <title>TV Sur Noticias Nocturna</title>
   </programme>
-  <programme start="20261126213000 -0600" stop="20261126223000 -0600" channel="Tvsur14.cr">
+  <programme start="20261126213000 -0600" stop="20261127000000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261127000000 -0600" stop="20261127070000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261127070000 -0600" stop="20261127073000 -0600" channel="Tvsur14.cr">
+    <title>Santo Rosario</title>
+  </programme>
+  <programme start="20261127073000 -0600" stop="20261127080000 -0600" channel="Tvsur14.cr">
+    <title>Videos Cristianos</title>
+  </programme>
+  <programme start="20261127080000 -0600" stop="20261127090000 -0600" channel="Tvsur14.cr">
+    <title>Infantiles</title>
+  </programme>
+  <programme start="20261127090000 -0600" stop="20261127090500 -0600" channel="Tvsur14.cr">
+    <title>Avance Informativo</title>
+  </programme>
+  <programme start="20261127090500 -0600" stop="20261127100000 -0600" channel="Tvsur14.cr">
+    <title>Complacencias</title>
+  </programme>
+  <programme start="20261127100000 -0600" stop="20261127110000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261127110000 -0600" stop="20261127110500 -0600" channel="Tvsur14.cr">
+    <title>Avance Informativo</title>
+  </programme>
+  <programme start="20261127110500 -0600" stop="20261127120000 -0600" channel="Tvsur14.cr">
+    <title>Caso Cerrado</title>
+  </programme>
+  <programme start="20261127120000 -0600" stop="20261127123000 -0600" channel="Tvsur14.cr">
+    <title>TV Sur Noticias</title>
+  </programme>
+  <programme start="20261127123000 -0600" stop="20261127133000 -0600" channel="Tvsur14.cr">
+    <title>Caso Cerrado</title>
+  </programme>
+  <programme start="20261127133000 -0600" stop="20261127140000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261127140000 -0600" stop="20261127140500 -0600" channel="Tvsur14.cr">
+    <title>Avance Informativo</title>
+  </programme>
+  <programme start="20261127140500 -0600" stop="20261127150000 -0600" channel="Tvsur14.cr">
+    <title>Complacencias</title>
+  </programme>
+  <programme start="20261127150000 -0600" stop="20261127155500 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261127155500 -0600" stop="20261127160000 -0600" channel="Tvsur14.cr">
+    <title>Avance Informativo</title>
+  </programme>
+  <programme start="20261127160000 -0600" stop="20261127170000 -0600" channel="Tvsur14.cr">
+    <title>Infantiles</title>
+  </programme>
+  <programme start="20261127170000 -0600" stop="20261127173000 -0600" channel="Tvsur14.cr">
+    <title>Programa</title>
+  </programme>
+  <programme start="20261127173000 -0600" stop="20261127180000 -0600" channel="Tvsur14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261127180000 -0600" stop="20261127190000 -0600" channel="Tvsur14.cr">
+    <title>TV Sur Noticias Estelar</title>
+  </programme>
+  <programme start="20261127190000 -0600" stop="20261127193000 -0600" channel="Tvsur14.cr">
+    <title>Documental</title>
+  </programme>
+  <programme start="20261127193000 -0600" stop="20261127200000 -0600" channel="Tvsur14.cr">
+    <title>Economia y Sociedad</title>
+  </programme>
+  <programme start="20261127200000 -0600" stop="20261127210000 -0600" channel="Tvsur14.cr">
+    <title>UNA Mirada</title>
+  </programme>
+  <programme start="20261127210000 -0600" stop="20261127213000 -0600" channel="Tvsur14.cr">
+    <title>TV Sur Noticias Nocturna</title>
+  </programme>
+  <programme start="20261127213000 -0600" stop="20261127223000 -0600" channel="Tvsur14.cr">
     <title>Videos Musicales</title>
   </programme>
 </tv>
