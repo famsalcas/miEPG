@@ -3,42 +3,6 @@
   <channel id="Xpertv.cr">
     <display-name>XperTV</display-name>
   </channel>
-  <programme start="20261121110000 -0600" stop="20261121130000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261121130000 -0600" stop="20261121140000 -0600" channel="Xpertv.cr">
-    <title>Todo sobre belleza</title>
-  </programme>
-  <programme start="20261121140000 -0600" stop="20261121150000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261121150000 -0600" stop="20261121170000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261121170000 -0600" stop="20261121180000 -0600" channel="Xpertv.cr">
-    <title>Escuela Teletica</title>
-  </programme>
-  <programme start="20261121180000 -0600" stop="20261121183000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261121183000 -0600" stop="20261121193000 -0600" channel="Xpertv.cr">
-    <title>Instinto Viajero</title>
-  </programme>
-  <programme start="20261121193000 -0600" stop="20261121200000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261121200000 -0600" stop="20261121203000 -0600" channel="Xpertv.cr">
-    <title>Biografias con Alvaro Gamboa</title>
-  </programme>
-  <programme start="20261121203000 -0600" stop="20261121213000 -0600" channel="Xpertv.cr">
-    <title>Hacia lo mejor</title>
-  </programme>
-  <programme start="20261121213000 -0600" stop="20261121230000 -0600" channel="Xpertv.cr">
-    <title>Serie</title>
-  </programme>
-  <programme start="20261121230000 -0600" stop="20261122120000 -0600" channel="Xpertv.cr">
-    <title>OFF AIR</title>
-  </programme>
   <programme start="20261122120000 -0600" stop="20261122130000 -0600" channel="Xpertv.cr">
     <title>Instinto Viajero</title>
   </programme>
@@ -198,7 +162,43 @@
   <programme start="20261127220000 -0600" stop="20261127230000 -0600" channel="Xpertv.cr">
     <title>Instinto Viajero</title>
   </programme>
-  <programme start="20261127230000 -0600" stop="20261128000000 -0600" channel="Xpertv.cr">
+  <programme start="20261127230000 -0600" stop="20261128110000 -0600" channel="Xpertv.cr">
+    <title>OFF AIR</title>
+  </programme>
+  <programme start="20261128110000 -0600" stop="20261128130000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261128130000 -0600" stop="20261128140000 -0600" channel="Xpertv.cr">
+    <title>Todo sobre belleza</title>
+  </programme>
+  <programme start="20261128140000 -0600" stop="20261128150000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261128150000 -0600" stop="20261128170000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261128170000 -0600" stop="20261128180000 -0600" channel="Xpertv.cr">
+    <title>Escuela Teletica</title>
+  </programme>
+  <programme start="20261128180000 -0600" stop="20261128183000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261128183000 -0600" stop="20261128193000 -0600" channel="Xpertv.cr">
+    <title>Instinto Viajero</title>
+  </programme>
+  <programme start="20261128193000 -0600" stop="20261128200000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261128200000 -0600" stop="20261128203000 -0600" channel="Xpertv.cr">
+    <title>Biografias con Alvaro Gamboa</title>
+  </programme>
+  <programme start="20261128203000 -0600" stop="20261128213000 -0600" channel="Xpertv.cr">
+    <title>Hacia lo mejor</title>
+  </programme>
+  <programme start="20261128213000 -0600" stop="20261128230000 -0600" channel="Xpertv.cr">
+    <title>Serie</title>
+  </programme>
+  <programme start="20261128230000 -0600" stop="20261129000000 -0600" channel="Xpertv.cr">
     <title>OFF AIR</title>
   </programme>
 </tv>

@@ -3,33 +3,6 @@
   <channel id="Canal2.cr">
     <display-name>Canal 2 (Costa Rica)</display-name>
   </channel>
-  <programme start="20261121000000 -0600" stop="20261121040000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261121040000 -0600" stop="20261121080000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261121080000 -0600" stop="20261121120000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261121120000 -0600" stop="20261121130000 -0600" channel="Canal2.cr">
-    <title>Zeta TV</title>
-  </programme>
-  <programme start="20261121130000 -0600" stop="20261121140000 -0600" channel="Canal2.cr">
-    <title>Hecho en Costa Rica</title>
-  </programme>
-  <programme start="20261121140000 -0600" stop="20261121170000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261121170000 -0600" stop="20261121190000 -0600" channel="Canal2.cr">
-    <title>Best TV</title>
-  </programme>
-  <programme start="20261121190000 -0600" stop="20261121220000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261121220000 -0600" stop="20261122000000 -0600" channel="Canal2.cr">
-    <title>Best TV</title>
-  </programme>
   <programme start="20261122000000 -0600" stop="20261122040000 -0600" channel="Canal2.cr">
     <title>Playlist</title>
   </programme>
@@ -252,7 +225,34 @@
   <programme start="20261127210000 -0600" stop="20261127223000 -0600" channel="Canal2.cr">
     <title>Playlist</title>
   </programme>
-  <programme start="20261127223000 -0600" stop="20261127233000 -0600" channel="Canal2.cr">
+  <programme start="20261127223000 -0600" stop="20261128000000 -0600" channel="Canal2.cr">
     <title>Pelando el ojo</title>
+  </programme>
+  <programme start="20261128000000 -0600" stop="20261128040000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261128040000 -0600" stop="20261128080000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261128080000 -0600" stop="20261128120000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261128120000 -0600" stop="20261128130000 -0600" channel="Canal2.cr">
+    <title>Zeta TV</title>
+  </programme>
+  <programme start="20261128130000 -0600" stop="20261128140000 -0600" channel="Canal2.cr">
+    <title>Hecho en Costa Rica</title>
+  </programme>
+  <programme start="20261128140000 -0600" stop="20261128170000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261128170000 -0600" stop="20261128190000 -0600" channel="Canal2.cr">
+    <title>Best TV</title>
+  </programme>
+  <programme start="20261128190000 -0600" stop="20261128220000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261128220000 -0600" stop="20261128230000 -0600" channel="Canal2.cr">
+    <title>Best TV</title>
   </programme>
 </tv>

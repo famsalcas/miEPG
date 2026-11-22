@@ -3,69 +3,6 @@
   <channel id="Trivision.cr">
     <display-name>Trivisión Canal 36</display-name>
   </channel>
-  <programme start="20261121000000 -0600" stop="20261121013000 -0600" channel="Trivision.cr">
-    <title>La Mujer Maravilla</title>
-  </programme>
-  <programme start="20261121013000 -0600" stop="20261121020000 -0600" channel="Trivision.cr">
-    <title>Música Retro</title>
-  </programme>
-  <programme start="20261121020000 -0600" stop="20261121040000 -0600" channel="Trivision.cr">
-    <title>Rep. Montaderas</title>
-  </programme>
-  <programme start="20261121040000 -0600" stop="20261121050000 -0600" channel="Trivision.cr">
-    <title>Documental: Así Es Etiopía</title>
-  </programme>
-  <programme start="20261121050000 -0600" stop="20261121060000 -0600" channel="Trivision.cr">
-    <title>Documental: Monos De Costa Rica</title>
-  </programme>
-  <programme start="20261121060000 -0600" stop="20261121070000 -0600" channel="Trivision.cr">
-    <title>Música Bailable</title>
-  </programme>
-  <programme start="20261121070000 -0600" stop="20261121080000 -0600" channel="Trivision.cr">
-    <title>Penelope Glamour</title>
-  </programme>
-  <programme start="20261121080000 -0600" stop="20261121090000 -0600" channel="Trivision.cr">
-    <title>Tom Y Jerry Y El Correcaminos</title>
-  </programme>
-  <programme start="20261121090000 -0600" stop="20261121100000 -0600" channel="Trivision.cr">
-    <title>Sakura Card Captor</title>
-  </programme>
-  <programme start="20261121100000 -0600" stop="20261121110000 -0600" channel="Trivision.cr">
-    <title>Los Locos Addams</title>
-  </programme>
-  <programme start="20261121110000 -0600" stop="20261121120000 -0600" channel="Trivision.cr">
-    <title>Yo Amo A Lucy</title>
-  </programme>
-  <programme start="20261121120000 -0600" stop="20261121130000 -0600" channel="Trivision.cr">
-    <title>Semanario Olímpico</title>
-  </programme>
-  <programme start="20261121130000 -0600" stop="20261121140000 -0600" channel="Trivision.cr">
-    <title>Videohits</title>
-  </programme>
-  <programme start="20261121140000 -0600" stop="20261121160000 -0600" channel="Trivision.cr">
-    <title>Película: Junior</title>
-  </programme>
-  <programme start="20261121160000 -0600" stop="20261121170000 -0600" channel="Trivision.cr">
-    <title>Magnum</title>
-  </programme>
-  <programme start="20261121170000 -0600" stop="20261121180000 -0600" channel="Trivision.cr">
-    <title>Viaje Al Fondo Del Mar</title>
-  </programme>
-  <programme start="20261121180000 -0600" stop="20261121190000 -0600" channel="Trivision.cr">
-    <title>Las Calles De San Francisco</title>
-  </programme>
-  <programme start="20261121190000 -0600" stop="20261121200000 -0600" channel="Trivision.cr">
-    <title>Música En Inglés</title>
-  </programme>
-  <programme start="20261121200000 -0600" stop="20261121220000 -0600" channel="Trivision.cr">
-    <title>Montaderas</title>
-  </programme>
-  <programme start="20261121220000 -0600" stop="20261121230000 -0600" channel="Trivision.cr">
-    <title>Música En Español / Película</title>
-  </programme>
-  <programme start="20261121230000 -0600" stop="20261122000000 -0600" channel="Trivision.cr">
-    <title>Programac</title>
-  </programme>
   <programme start="20261122000000 -0600" stop="20261122010000 -0600" channel="Trivision.cr">
     <title>Documental</title>
   </programme>
@@ -347,5 +284,68 @@
   </programme>
   <programme start="20261127230000 -0600" stop="20261128000000 -0600" channel="Trivision.cr">
     <title>Rep. Tardeando</title>
+  </programme>
+  <programme start="20261128000000 -0600" stop="20261128013000 -0600" channel="Trivision.cr">
+    <title>La Mujer Maravilla</title>
+  </programme>
+  <programme start="20261128013000 -0600" stop="20261128020000 -0600" channel="Trivision.cr">
+    <title>Música Retro</title>
+  </programme>
+  <programme start="20261128020000 -0600" stop="20261128040000 -0600" channel="Trivision.cr">
+    <title>Rep. Montaderas</title>
+  </programme>
+  <programme start="20261128040000 -0600" stop="20261128050000 -0600" channel="Trivision.cr">
+    <title>Documental: Así Es Etiopía</title>
+  </programme>
+  <programme start="20261128050000 -0600" stop="20261128060000 -0600" channel="Trivision.cr">
+    <title>Documental: Monos De Costa Rica</title>
+  </programme>
+  <programme start="20261128060000 -0600" stop="20261128070000 -0600" channel="Trivision.cr">
+    <title>Música Bailable</title>
+  </programme>
+  <programme start="20261128070000 -0600" stop="20261128080000 -0600" channel="Trivision.cr">
+    <title>Penelope Glamour</title>
+  </programme>
+  <programme start="20261128080000 -0600" stop="20261128090000 -0600" channel="Trivision.cr">
+    <title>Tom Y Jerry Y El Correcaminos</title>
+  </programme>
+  <programme start="20261128090000 -0600" stop="20261128100000 -0600" channel="Trivision.cr">
+    <title>Sakura Card Captor</title>
+  </programme>
+  <programme start="20261128100000 -0600" stop="20261128110000 -0600" channel="Trivision.cr">
+    <title>Los Locos Addams</title>
+  </programme>
+  <programme start="20261128110000 -0600" stop="20261128120000 -0600" channel="Trivision.cr">
+    <title>Yo Amo A Lucy</title>
+  </programme>
+  <programme start="20261128120000 -0600" stop="20261128130000 -0600" channel="Trivision.cr">
+    <title>Semanario Olímpico</title>
+  </programme>
+  <programme start="20261128130000 -0600" stop="20261128140000 -0600" channel="Trivision.cr">
+    <title>Videohits</title>
+  </programme>
+  <programme start="20261128140000 -0600" stop="20261128160000 -0600" channel="Trivision.cr">
+    <title>Película: Junior</title>
+  </programme>
+  <programme start="20261128160000 -0600" stop="20261128170000 -0600" channel="Trivision.cr">
+    <title>Magnum</title>
+  </programme>
+  <programme start="20261128170000 -0600" stop="20261128180000 -0600" channel="Trivision.cr">
+    <title>Viaje Al Fondo Del Mar</title>
+  </programme>
+  <programme start="20261128180000 -0600" stop="20261128190000 -0600" channel="Trivision.cr">
+    <title>Las Calles De San Francisco</title>
+  </programme>
+  <programme start="20261128190000 -0600" stop="20261128200000 -0600" channel="Trivision.cr">
+    <title>Música En Inglés</title>
+  </programme>
+  <programme start="20261128200000 -0600" stop="20261128220000 -0600" channel="Trivision.cr">
+    <title>Montaderas</title>
+  </programme>
+  <programme start="20261128220000 -0600" stop="20261128230000 -0600" channel="Trivision.cr">
+    <title>Música En Español / Película</title>
+  </programme>
+  <programme start="20261128230000 -0600" stop="20261129000000 -0600" channel="Trivision.cr">
+    <title>Programac</title>
   </programme>
 </tv>
