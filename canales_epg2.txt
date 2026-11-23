@@ -202,7 +202,7 @@ TV3 CAT,TV3 CAT,https://media.tvup.cloud/canales/5c59a481df377c004c5519aalogoCol
 TV3 CAT (dial 280),TV3 CAT (dial 280),https://media.tvup.cloud/canales/color_lg_63ce5d3736bfb800227ada7d.png
 Canal Sur Andalucía,Canal Sur Andalucía,https://media.tvup.cloud/canales/color_lg_5ee9fff71ce1aa005e15903a.png
 TVG Sat,TVG Sat,https://media.tvup.cloud/canales/color_lg_5ee9f9b1b5254100802858a6.png
-Canal Extremadura Sat,Canal Extremadura Sat,https://media.tvup.cloud/canales/color_lg_5eea025168808e0075a18ebf.png
+Canal Extremadura Sat,Canal Extremadura Sat,https://media.tvup.cloud/channels/5eea025168808e0075a18ebflogoColor_1795419889924.png
 Telemadrid Internacional,Telemadrid Internacional,https://media.tvup.cloud/canales/color_lg_5eea1a3668e3f10084d59a2b.png
 ETB 1 ON,ETB 1 ON,https://media.tvup.cloud/canales/color_lg_69e0f790f1d3f99df26ff0ee_1776351120456.png
 ETB 2 ON,ETB 2 ON,https://media.tvup.cloud/canales/color_lg_5ee9fb1628d1e700655d6c44_1775741749679.png

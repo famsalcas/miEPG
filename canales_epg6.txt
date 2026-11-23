@@ -242,25 +242,26 @@
 0517,Mi Música Hits,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0517.png
 0518,Mi Música KPop,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0518.png
 0519,Mi Música Romántica,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0519.png
-0520,Mi Música Popular,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0520.jpg
-0521,Mi Música Reggaetón,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0521.jpg
-0522,Mi Música Salsa,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0522.jpg
-0526,Karavana TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0526.jpg
-0527,Karavana Urbano,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0527.jpg
-0528,OLD Music,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0528.jpg
-0529,KPOP,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0529.jpg
+0520,Mi Música Popular,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0520.png
+0521,Mi Música Reggaetón,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0521.png
+0522,Mi Música Salsa,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0522.png
+0523,Mi Música Regional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0523.png
+0524,Mi Música Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0524.png
+0526,Karavana TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0526.png
+0527,Karavana Urbano,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0527.png
+0528,OLD Music,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0528.png
+0529,KPOP,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0529.png
 0530,Exa TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0530.png
 0531,MTV U,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0531.png
 0532,MTV Classic,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0532.png
 0533,Allegro,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0533.png
 0534,CM El canal de la música,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0534.png
 0535,VM Latino,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0535.png
-0536,Carolina TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0536.jpg
-0537,Carolina TV 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0537.jpg
-0538,Claro Música Sin Límites,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0538.jpg
-0539,OH! Jazz,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0539.jpg
-0540,Rumba TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0540.jpg
-0541,Telenostalgia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0541.jpg
+0536,Carolina TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0536.png
+0538,Claro Música Sin Límites,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0538.png
+0539,OH! Jazz,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0539.png
+0540,Rumba TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0540.png
+0541,Telenostalgia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0541.png
 0542,TierraMia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0542.png
 0543,Music TOP,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0543.png
 0544,Video Rola,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0544.png
@@ -304,29 +305,29 @@
 0624,Enlace Juvenil,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0624.png
 0625,EWTN • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0625.png
 1625,EWTN • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0625.png
-0626,Nuevo Tiempo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0626.jpg
-0627,MaríaVisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0627.jpg
-0628,Bethel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0628.jpg
+0626,Nuevo Tiempo,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0626.png
+0627,MaríaVisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0627.png
+0628,Bethel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0628.png
 0629,Canal Luz,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0629.png
 0630,Azteca Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0630.png
-0631,Az Corazón,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0631.jpg
+0631,Az Corazón,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0631.png
 0632,UCL TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0632.png
-0633,IVC Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0633.jpg
+0633,IVC Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0633.png
 0634,Unicable,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0634.png
-0635,Az Clic,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0635.jpg
+0635,Az Clic,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0635.png
 0636,TVE Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0636.png
 0637,Star TVE,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0637.png
-0638,ESNE TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0638.jpg
+0638,ESNE TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0638.png
 0639,Cristovisión,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0639.png
-0640,Unife,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0640.jpg
+0640,Unife,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0640.png
 0641,Discovery Familia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0641.png
 0642,UniMás • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0642.png
 1642,UniMás • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0642.png
-0643,HispanTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0643.jpg
+0643,HispanTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0643.png
 0644,Novelísima,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0644.png
 0646,Universo • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0646.png
 1646,Universo • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0646.png
-0647,Telemundo Puerto Rico,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0647.jpg
+0647,Telemundo Puerto Rico,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0647.png
 0648,El Garage TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0648.png
 0701,Discovery Channel • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0701.png
 1701,Discovery Channel • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0701.png
@@ -347,7 +348,7 @@
 1708,TLC • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0708.png
 2708,TLC • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0708.png
 3708,TLC • Feed 4,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0708.png
-0709,Atlas,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0709.jpg
+0709,Atlas,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0709.png
 0710,¡Hola! TV • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0710.png
 1710,¡Hola! TV • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0710.png
 0711,Curiosity Stream,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0711.png
@@ -401,8 +402,8 @@
 1823,Golden Edge • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0823.png
 0824,Golden Premier,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0824.png
 1824,Golden Premier 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0824.png
-0825,Cine Familiar,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0825.jpg
-0826,Cine Hispano,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0826.jpg
+0825,Cine Familiar,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0825.png
+0826,Cine Hispano,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0826.png
 0827,Cine Premium,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0827.png
 0828,Cine Latino,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0828.png
 0829,Space • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0829.png
@@ -410,7 +411,7 @@
 3829,Space • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0829.png
 0830,De Película • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0830.png
 1830,De Película • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0830.png
-0831,Clover Channel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0831.jpg
+0831,Clover Channel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0831.png
 0832,Warner Channel • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0832.png
 1832,Warner Channel • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0832.png
 0833,TNT Series • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0833.png
@@ -451,66 +452,62 @@
 1850,Adult Swim • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0850.png
 0851,Film &amp; Arts • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0851.png
 1851,Film &amp; Arts • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0851.png
-0852,FMH Movies,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0852.jpg
-0853,FMH Family,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0853.jpg
-0854,FMH Kids,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0854.jpg
+0852,FMH Movies,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0852.png
+0853,FMH Family,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0853.png
+0854,FMH Kids,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0854.png
 0855,Pánico,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0855.png
 0856,Antena 3 Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0856.png
 0857,Canal Claro,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0857.png
 0858,Claro Cinema,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0858.png
-0859,Mórbido TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0859.jpg
-0863,Five Star Max,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0863.jpg
+0859,Mórbido TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0859.png
+0863,Five Star Max,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0863.png
 0864,Action Max,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0864.png
 0865,More Max,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0865.png
 0866,Daystar en Español,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0866.png
 0867,De Película Clásico,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0867.png
 0868,De Película Plus,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0868.png
-0870,A3 Cine,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0870.jpg
+0870,A3 Cine,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0870.png
 0901,Zapping Channel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0901.png
 0902,KNino TV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0902.png
-0906,TV Globo Brasil • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0906.jpg
-1906,TV Globo Brasil • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0906.jpg
-2906,TV Globo Brasil • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0906.jpg
-0965,TEST TRACE LATINA FEED CL7302,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0965.jpg
-0966,TEST DITU REDBULL,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0966.jpg
-0967,TEST DITU CARACOL KIDS,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0967.jpg
-0968,TEST DITU CARACOL SPORTS,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0968.jpg
-0969,TEST DITU CARACOL MIX,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0969.jpg
-0973,ZTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0973.jpg
-0974,ZTV 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0974.jpg
-0975,ZKids,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0975.jpg
-0976,AVI,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0976.jpg
-0977,AVI Rewind,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0977.jpg
-0978,AVI Kids,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0978.jpg
-0979,AVI Toons,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0979.jpg
-0980,AVI Action,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0980.jpg
-0981,AVI Horizon,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0981.jpg
-0982,AVI Garage,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0982.jpg
-0983,AVI Music,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0983.jpg
-0984,AVI Concert,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0984.jpg
-0985,ENT Channel,https://www.40mediagroup.com/images/channels/ent-channel.png
-0986,ENT Movies,https://www.40mediagroup.com/images/channels/ent-movies.png
-0987,ENT Family,https://www.40mediagroup.com/images/channels/ent-family.png
-0988,ENT Extreme,https://www.40mediagroup.com/images/channels/ent-extreme.png
-0989,ENT Comedy,https://www.40mediagroup.com/images/channels/ent-comedy.png
-0990,ENT Drama,https://www.40mediagroup.com/images/channels/ent-drama.png
-0991,ENT Classic,https://www.40mediagroup.com/images/channels/ent-classic.png
-0992,ENT Life,https://www.40mediagroup.com/images/channels/ent-life.png
-0993,Totalmusic,https://www.40mediagroup.com/images/channels/totalmusic.png
-0994,Totalmusic 80s,https://www.40mediagroup.com/images/channels/totalmusic-80s.png
-0995,Totalmusic 2000s,https://www.40mediagroup.com/images/channels/totalmusic-00s.png
+0906,TV Globo Brasil • Feed 1,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0906.png
+1906,TV Globo Brasil • Feed 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0906.png
+2906,TV Globo Brasil • Feed 3,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0906.png
+0973,ZTV,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0973.png
+0974,ZTV 2,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0974.png
+0975,ZKids,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0975.png
+0976,AVI,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0976.png
+0977,AVI Rewind,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0977.png
+0978,AVI Kids,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0978.png
+0979,AVI Toons,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0979.png
+0980,AVI Action,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0980.png
+0981,AVI Horizon,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0981.png
+0982,AVI Garage,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0982.png
+0983,AVI Music,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0983.png
+0984,AVI Concert,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0984.png
+0985,ENT Channel,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0985.png
+0986,ENT Movies,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0986.png
+0987,ENT Family,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0987.png
+0988,ENT Extreme,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0988.png
+0989,ENT Comedy,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0989.png
+0990,ENT Drama,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0990.png
+0991,ENT Classic,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0991.png
+0992,ENT Life,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0992.png
+0993,Totalmusic,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0993.png
+0994,Totalmusic 80s,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0994.png
+0995,Totalmusic 2000s,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/0995.png
 ar0001,Canal Siete • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 ar0002,Telefe • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0002.png
-ar1002,Telefe • Córdoba, Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0002.png
+ar1002,Telefe • Córdoba, Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar1002.png
 ar2002,Telefe • Rosario, Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0002.png
 ar3002,Telefe • Santa Fe, Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0002.png
-ar4002,Telefe • Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0002.png
+ar4002,Telefe • Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar4002.png
 ar0003,El Trece • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0003.png
 ar0004,El Nueve • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0004.png
-ar0005,América TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
+ar0005,América TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0005.png
 ar0006,Net TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0006.png
-ar0007,Bravo TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0007.png
+ar0007,Bravo TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/ar0007.jpg
 ar0008,Encuentro • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0008.png
+ar0009,Mix TV • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0009.png
 ar0010,Paka Paka • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0010.png
 ar0011,TN • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 ar0012,C5N • Argentina,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/ar0012.png
@@ -548,15 +545,15 @@ bo0007,Cadena A • Bolivia,https://raw.githubusercontent.com/Puticastillo/EPGCL
 bo0008,RTP • Bolivia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 bo0009,F10 • Bolivia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/bo0009.jpg
 bo0010,Gigavisión • Bolivia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/bo0010.jpg
-co0001,Caracol Televisión • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/co0001.jpg
-co1001,Caracol TV • Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/co0001.jpg
-co0002,Canal RCN • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
+co0001,Caracol Televisión • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/co0001.png
+co1001,Caracol TV • Internacional,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/co1001.png
+co0002,Canal RCN • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/co0002.png
 co0003,Canal 1 • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 co0004,Señal Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/co0004.png
 co0005,Canal Institucional • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/co0005.png
 co0006,Teleantioquia • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/co0006.png
 co0007,Telepacífico • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/co0007.png
-co0008,Canal Trece • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/co0008.jpg
+co0008,Canal Trece • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/co0008.png
 co0009,Canal Capital • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/co0009.png
 co0010,Citytv • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/co0010.jpg
 co0011,Cablenoticias • Colombia,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/co0011.png
@@ -624,7 +621,7 @@ pe0008,ATV+ • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/
 pe0009,Willax Televisión • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/pe0009.png
 pe0010,RPP TV • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/pe0010.png
 pe0011,A La Cocina TV • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/pe0011.png
-pe0012,PBO • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/pe0012.jpg
+pe0012,PBO • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/pe0012.png
 pe0013,Telelima • Perú,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/pe0013.jpg
 py0001,SNT (Canal 9) • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 py0002,Telefuturo • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
@@ -636,7 +633,7 @@ py0007,GEN • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/mai
 py0008,C9N • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 py0009,NPY • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 py0010,Unicanal • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
-py0011,Estación 40 • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/py0011.jpg
+py0011,Estación 40 • Paraguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/py0011.png
 sv0001,Canal 2 (TCS) • El Salvador,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 sv0002,Canal 4 (TCS) • El Salvador,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
 sv0003,Canal 6 (TCS) • El Salvador,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/0000.jpg
@@ -649,12 +646,12 @@ uy0003,Teledoce • Uruguay,https://raw.githubusercontent.com/Puticastillo/EPGCL
 uy0004,Canal 4 • Uruguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/uy0004.png
 uy0005,TV Ciudad • Uruguay,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/uy0005.png
 XXX0,Canal para adultos • Portal adultos,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX0.jpg
-XXX1,Playboy TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX1.jpg
-XXX2,Venus • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX2.jpg
-XXX3,Sextreme • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX3.jpg
-XXX4,Hustler TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX4.jpg
-XXX5,Brazzer TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX5.jpg
-XXX6,Juicy • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX6.jpg
-XXX7,Penthouse • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX7.jpg
-XXX8,XTSY • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX8.jpg
-XXX9,Sexy Hot • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/homero/XXX9.jpg
+XXX1,Playboy TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/XXX1.png
+XXX2,Venus • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/XXX2.png
+XXX3,Sextreme • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/XXX3.png
+XXX4,Hustler TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/XXX4.png
+XXX5,Brazzer TV • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/XXX5.png
+XXX6,Juicy • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/XXX6.png
+XXX7,Penthouse • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/XXX7.png
+XXX8,XTSY • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/XXX8.png
+XXX9,Sexy Hot • Adultos Desbloqueado,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/pedro/XXX9.png

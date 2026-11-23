@@ -3,69 +3,6 @@
   <channel id="Tvn14.cr">
     <display-name>TV Norte 14</display-name>
   </channel>
-  <programme start="20261122000000 -0600" stop="20261122030000 -0600" channel="Tvn14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261122030000 -0600" stop="20261122043000 -0600" channel="Tvn14.cr">
-    <title>Noche de conciertos – UCR</title>
-  </programme>
-  <programme start="20261122043000 -0600" stop="20261122053000 -0600" channel="Tvn14.cr">
-    <title>MXI-UCR</title>
-  </programme>
-  <programme start="20261122053000 -0600" stop="20261122060000 -0600" channel="Tvn14.cr">
-    <title>FORO – VOA</title>
-  </programme>
-  <programme start="20261122060000 -0600" stop="20261122070000 -0600" channel="Tvn14.cr">
-    <title>SESSIONS – TD</title>
-  </programme>
-  <programme start="20261122070000 -0600" stop="20261122090000 -0600" channel="Tvn14.cr">
-    <title>Clásicos y más Viernes Rep</title>
-  </programme>
-  <programme start="20261122090000 -0600" stop="20261122100000 -0600" channel="Tvn14.cr">
-    <title>FRANJA INFANTIL REP Miércoles</title>
-  </programme>
-  <programme start="20261122100000 -0600" stop="20261122110000 -0600" channel="Tvn14.cr">
-    <title>FRANJA INFANTIL REP Jueves</title>
-  </programme>
-  <programme start="20261122110000 -0600" stop="20261122120000 -0600" channel="Tvn14.cr">
-    <title>Tome Nota Rep Jueves</title>
-  </programme>
-  <programme start="20261122120000 -0600" stop="20261122123000 -0600" channel="Tvn14.cr">
-    <title>Agro Activo</title>
-  </programme>
-  <programme start="20261122123000 -0600" stop="20261122130000 -0600" channel="Tvn14.cr">
-    <title>Nexos – UCR</title>
-  </programme>
-  <programme start="20261122130000 -0600" stop="20261122140000 -0600" channel="Tvn14.cr">
-    <title>Futbol entre lineas – RTAL Rep</title>
-  </programme>
-  <programme start="20261122140000 -0600" stop="20261122143000 -0600" channel="Tvn14.cr">
-    <title>Todo Deporte – DW</title>
-  </programme>
-  <programme start="20261122143000 -0600" stop="20261122150000 -0600" channel="Tvn14.cr">
-    <title>Eso que llamamos amor- RTAL</title>
-  </programme>
-  <programme start="20261122150000 -0600" stop="20261122170000 -0600" channel="Tvn14.cr">
-    <title>Eventos del recuerdo TVN</title>
-  </programme>
-  <programme start="20261122170000 -0600" stop="20261122180000 -0600" channel="Tvn14.cr">
-    <title>Aduana 24/7</title>
-  </programme>
-  <programme start="20261122180000 -0600" stop="20261122190000 -0600" channel="Tvn14.cr">
-    <title>Domingo Deportivo</title>
-  </programme>
-  <programme start="20261122190000 -0600" stop="20261122200000 -0600" channel="Tvn14.cr">
-    <title>Tertulia de Noche</title>
-  </programme>
-  <programme start="20261122200000 -0600" stop="20261122213000 -0600" channel="Tvn14.cr">
-    <title>Clásicos y más</title>
-  </programme>
-  <programme start="20261122213000 -0600" stop="20261122220900 -0600" channel="Tvn14.cr">
-    <title>LÚDICO Presenta-Rep</title>
-  </programme>
-  <programme start="20261122220900 -0600" stop="20261123000000 -0600" channel="Tvn14.cr">
-    <title>Cine del Recuerdo-Rep</title>
-  </programme>
   <programme start="20261123000000 -0600" stop="20261123060000 -0600" channel="Tvn14.cr">
     <title>Videos Musicales</title>
   </programme>
@@ -491,5 +428,68 @@
   </programme>
   <programme start="20261128230000 -0600" stop="20261129000000 -0600" channel="Tvn14.cr">
     <title>TVN NOTICIAS Sabatino Rep</title>
+  </programme>
+  <programme start="20261129000000 -0600" stop="20261129030000 -0600" channel="Tvn14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261129030000 -0600" stop="20261129043000 -0600" channel="Tvn14.cr">
+    <title>Noche de conciertos – UCR</title>
+  </programme>
+  <programme start="20261129043000 -0600" stop="20261129053000 -0600" channel="Tvn14.cr">
+    <title>MXI-UCR</title>
+  </programme>
+  <programme start="20261129053000 -0600" stop="20261129060000 -0600" channel="Tvn14.cr">
+    <title>FORO – VOA</title>
+  </programme>
+  <programme start="20261129060000 -0600" stop="20261129070000 -0600" channel="Tvn14.cr">
+    <title>SESSIONS – TD</title>
+  </programme>
+  <programme start="20261129070000 -0600" stop="20261129090000 -0600" channel="Tvn14.cr">
+    <title>Clásicos y más Viernes Rep</title>
+  </programme>
+  <programme start="20261129090000 -0600" stop="20261129100000 -0600" channel="Tvn14.cr">
+    <title>FRANJA INFANTIL REP Miércoles</title>
+  </programme>
+  <programme start="20261129100000 -0600" stop="20261129110000 -0600" channel="Tvn14.cr">
+    <title>FRANJA INFANTIL REP Jueves</title>
+  </programme>
+  <programme start="20261129110000 -0600" stop="20261129120000 -0600" channel="Tvn14.cr">
+    <title>Tome Nota Rep Jueves</title>
+  </programme>
+  <programme start="20261129120000 -0600" stop="20261129123000 -0600" channel="Tvn14.cr">
+    <title>Agro Activo</title>
+  </programme>
+  <programme start="20261129123000 -0600" stop="20261129130000 -0600" channel="Tvn14.cr">
+    <title>Nexos – UCR</title>
+  </programme>
+  <programme start="20261129130000 -0600" stop="20261129140000 -0600" channel="Tvn14.cr">
+    <title>Futbol entre lineas – RTAL Rep</title>
+  </programme>
+  <programme start="20261129140000 -0600" stop="20261129143000 -0600" channel="Tvn14.cr">
+    <title>Todo Deporte – DW</title>
+  </programme>
+  <programme start="20261129143000 -0600" stop="20261129150000 -0600" channel="Tvn14.cr">
+    <title>Eso que llamamos amor- RTAL</title>
+  </programme>
+  <programme start="20261129150000 -0600" stop="20261129170000 -0600" channel="Tvn14.cr">
+    <title>Eventos del recuerdo TVN</title>
+  </programme>
+  <programme start="20261129170000 -0600" stop="20261129180000 -0600" channel="Tvn14.cr">
+    <title>Aduana 24/7</title>
+  </programme>
+  <programme start="20261129180000 -0600" stop="20261129190000 -0600" channel="Tvn14.cr">
+    <title>Domingo Deportivo</title>
+  </programme>
+  <programme start="20261129190000 -0600" stop="20261129200000 -0600" channel="Tvn14.cr">
+    <title>Tertulia de Noche</title>
+  </programme>
+  <programme start="20261129200000 -0600" stop="20261129213000 -0600" channel="Tvn14.cr">
+    <title>Clásicos y más</title>
+  </programme>
+  <programme start="20261129213000 -0600" stop="20261129220900 -0600" channel="Tvn14.cr">
+    <title>LÚDICO Presenta-Rep</title>
+  </programme>
+  <programme start="20261129220900 -0600" stop="20261129230900 -0600" channel="Tvn14.cr">
+    <title>Cine del Recuerdo-Rep</title>
   </programme>
 </tv>

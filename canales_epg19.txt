@@ -357,6 +357,7 @@ KansasJayhawks.ncaaf,NCAAF - Kansas Jayhawks,https://a.espncdn.com/i/teamlogos/n
 KansasStateWildcats.ncaaf,NCAAF - Kansas State Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
 KentuckyWildcats.ncaaf,NCAAF - Kentucky Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 LSUTigers.ncaaf,NCAAF - LSU Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/99.png
+LibertyFlames.ncaaf,NCAAF - Liberty Flames,https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
 LouisvilleCardinals.ncaaf,NCAAF - Louisville Cardinals,https://a.espncdn.com/i/teamlogos/ncaa/500/97.png
 MarylandTerrapins.ncaaf,NCAAF - Maryland Terrapins,https://a.espncdn.com/i/teamlogos/ncaa/500/120.png
 MiamiHurricanes.ncaaf,NCAAF - Miami Hurricanes,https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png

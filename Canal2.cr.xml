@@ -3,30 +3,6 @@
   <channel id="Canal2.cr">
     <display-name>Canal 2 (Costa Rica)</display-name>
   </channel>
-  <programme start="20261122000000 -0600" stop="20261122040000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261122040000 -0600" stop="20261122070000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261122070000 -0600" stop="20261122100000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261122100000 -0600" stop="20261122120000 -0600" channel="Canal2.cr">
-    <title>Best TV</title>
-  </programme>
-  <programme start="20261122120000 -0600" stop="20261122150000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
-  <programme start="20261122150000 -0600" stop="20261122190000 -0600" channel="Canal2.cr">
-    <title>Zeta TV</title>
-  </programme>
-  <programme start="20261122190000 -0600" stop="20261122200000 -0600" channel="Canal2.cr">
-    <title>Momentos Reloj TV</title>
-  </programme>
-  <programme start="20261122200000 -0600" stop="20261123000000 -0600" channel="Canal2.cr">
-    <title>Playlist</title>
-  </programme>
   <programme start="20261123000000 -0600" stop="20261123040000 -0600" channel="Canal2.cr">
     <title>Playlist</title>
   </programme>
@@ -252,7 +228,31 @@
   <programme start="20261128190000 -0600" stop="20261128220000 -0600" channel="Canal2.cr">
     <title>Playlist</title>
   </programme>
-  <programme start="20261128220000 -0600" stop="20261128230000 -0600" channel="Canal2.cr">
+  <programme start="20261128220000 -0600" stop="20261129000000 -0600" channel="Canal2.cr">
     <title>Best TV</title>
+  </programme>
+  <programme start="20261129000000 -0600" stop="20261129040000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261129040000 -0600" stop="20261129070000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261129070000 -0600" stop="20261129100000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261129100000 -0600" stop="20261129120000 -0600" channel="Canal2.cr">
+    <title>Best TV</title>
+  </programme>
+  <programme start="20261129120000 -0600" stop="20261129150000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
+  </programme>
+  <programme start="20261129150000 -0600" stop="20261129190000 -0600" channel="Canal2.cr">
+    <title>Zeta TV</title>
+  </programme>
+  <programme start="20261129190000 -0600" stop="20261129200000 -0600" channel="Canal2.cr">
+    <title>Momentos Reloj TV</title>
+  </programme>
+  <programme start="20261129200000 -0600" stop="20261129210000 -0600" channel="Canal2.cr">
+    <title>Playlist</title>
   </programme>
 </tv>
