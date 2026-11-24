@@ -3,75 +3,6 @@
   <channel id="Tvn14.cr">
     <display-name>TV Norte 14</display-name>
   </channel>
-  <programme start="20261123000000 -0600" stop="20261123060000 -0600" channel="Tvn14.cr">
-    <title>Videos Musicales</title>
-  </programme>
-  <programme start="20261123060000 -0600" stop="20261123063000 -0600" channel="Tvn14.cr">
-    <title>FORO – VOA Rep</title>
-  </programme>
-  <programme start="20261123063000 -0600" stop="20261123070000 -0600" channel="Tvn14.cr">
-    <title>En Forma – DW</title>
-  </programme>
-  <programme start="20261123070000 -0600" stop="20261123073000 -0600" channel="Tvn14.cr">
-    <title>Zambú – ZTV</title>
-  </programme>
-  <programme start="20261123073000 -0600" stop="20261123080000 -0600" channel="Tvn14.cr">
-    <title>1,2 A Moverse</title>
-  </programme>
-  <programme start="20261123080000 -0600" stop="20261123100000 -0600" channel="Tvn14.cr">
-    <title>Clásicos y más.</title>
-  </programme>
-  <programme start="20261123100000 -0600" stop="20261123103000 -0600" channel="Tvn14.cr">
-    <title>Eco Latinoamérica</title>
-  </programme>
-  <programme start="20261123103000 -0600" stop="20261123113000 -0600" channel="Tvn14.cr">
-    <title>Santa Misa</title>
-  </programme>
-  <programme start="20261123113000 -0600" stop="20261123120000 -0600" channel="Tvn14.cr">
-    <title>Todo lo que sé – RTAL</title>
-  </programme>
-  <programme start="20261123120000 -0600" stop="20261123130000 -0600" channel="Tvn14.cr">
-    <title>TVN Noticias</title>
-  </programme>
-  <programme start="20261123130000 -0600" stop="20261123140000 -0600" channel="Tvn14.cr">
-    <title>El Cirujano – China</title>
-  </programme>
-  <programme start="20261123140000 -0600" stop="20261123143000 -0600" channel="Tvn14.cr">
-    <title>Franja Infantil Panda Chino</title>
-  </programme>
-  <programme start="20261123143000 -0600" stop="20261123150000 -0600" channel="Tvn14.cr">
-    <title>Franja Infantil Los Cuentos de Cheski</title>
-  </programme>
-  <programme start="20261123150000 -0600" stop="20261123153000 -0600" channel="Tvn14.cr">
-    <title>Franja Infantil Excursión de Zamba</title>
-  </programme>
-  <programme start="20261123153000 -0600" stop="20261123160000 -0600" channel="Tvn14.cr">
-    <title>SINART – Aprendo en casa Primaria</title>
-  </programme>
-  <programme start="20261123160000 -0600" stop="20261123170000 -0600" channel="Tvn14.cr">
-    <title>Tal como somos – RTAL</title>
-  </programme>
-  <programme start="20261123170000 -0600" stop="20261123180000 -0600" channel="Tvn14.cr">
-    <title>Tardeándola</title>
-  </programme>
-  <programme start="20261123180000 -0600" stop="20261123190000 -0600" channel="Tvn14.cr">
-    <title>TVN Noticias</title>
-  </programme>
-  <programme start="20261123190000 -0600" stop="20261123200000 -0600" channel="Tvn14.cr">
-    <title>Lo Que Suena</title>
-  </programme>
-  <programme start="20261123200000 -0600" stop="20261123203000 -0600" channel="Tvn14.cr">
-    <title>El Andariego + Visión Deportiva</title>
-  </programme>
-  <programme start="20261123203000 -0600" stop="20261123220000 -0600" channel="Tvn14.cr">
-    <title>Palco Norte</title>
-  </programme>
-  <programme start="20261123220000 -0600" stop="20261123230000 -0600" channel="Tvn14.cr">
-    <title>Futbol entre lineas -RTAL</title>
-  </programme>
-  <programme start="20261123230000 -0600" stop="20261124000000 -0600" channel="Tvn14.cr">
-    <title>TVN Noticias (Repetición)</title>
-  </programme>
   <programme start="20261124000000 -0600" stop="20261124030000 -0600" channel="Tvn14.cr">
     <title>Videos Musicales</title>
   </programme>
@@ -489,7 +420,76 @@
   <programme start="20261129213000 -0600" stop="20261129220900 -0600" channel="Tvn14.cr">
     <title>LÚDICO Presenta-Rep</title>
   </programme>
-  <programme start="20261129220900 -0600" stop="20261129230900 -0600" channel="Tvn14.cr">
+  <programme start="20261129220900 -0600" stop="20261130000000 -0600" channel="Tvn14.cr">
     <title>Cine del Recuerdo-Rep</title>
+  </programme>
+  <programme start="20261130000000 -0600" stop="20261130060000 -0600" channel="Tvn14.cr">
+    <title>Videos Musicales</title>
+  </programme>
+  <programme start="20261130060000 -0600" stop="20261130063000 -0600" channel="Tvn14.cr">
+    <title>FORO – VOA Rep</title>
+  </programme>
+  <programme start="20261130063000 -0600" stop="20261130070000 -0600" channel="Tvn14.cr">
+    <title>En Forma – DW</title>
+  </programme>
+  <programme start="20261130070000 -0600" stop="20261130073000 -0600" channel="Tvn14.cr">
+    <title>Zambú – ZTV</title>
+  </programme>
+  <programme start="20261130073000 -0600" stop="20261130080000 -0600" channel="Tvn14.cr">
+    <title>1,2 A Moverse</title>
+  </programme>
+  <programme start="20261130080000 -0600" stop="20261130100000 -0600" channel="Tvn14.cr">
+    <title>Clásicos y más.</title>
+  </programme>
+  <programme start="20261130100000 -0600" stop="20261130103000 -0600" channel="Tvn14.cr">
+    <title>Eco Latinoamérica</title>
+  </programme>
+  <programme start="20261130103000 -0600" stop="20261130113000 -0600" channel="Tvn14.cr">
+    <title>Santa Misa</title>
+  </programme>
+  <programme start="20261130113000 -0600" stop="20261130120000 -0600" channel="Tvn14.cr">
+    <title>Todo lo que sé – RTAL</title>
+  </programme>
+  <programme start="20261130120000 -0600" stop="20261130130000 -0600" channel="Tvn14.cr">
+    <title>TVN Noticias</title>
+  </programme>
+  <programme start="20261130130000 -0600" stop="20261130140000 -0600" channel="Tvn14.cr">
+    <title>El Cirujano – China</title>
+  </programme>
+  <programme start="20261130140000 -0600" stop="20261130143000 -0600" channel="Tvn14.cr">
+    <title>Franja Infantil Panda Chino</title>
+  </programme>
+  <programme start="20261130143000 -0600" stop="20261130150000 -0600" channel="Tvn14.cr">
+    <title>Franja Infantil Los Cuentos de Cheski</title>
+  </programme>
+  <programme start="20261130150000 -0600" stop="20261130153000 -0600" channel="Tvn14.cr">
+    <title>Franja Infantil Excursión de Zamba</title>
+  </programme>
+  <programme start="20261130153000 -0600" stop="20261130160000 -0600" channel="Tvn14.cr">
+    <title>SINART – Aprendo en casa Primaria</title>
+  </programme>
+  <programme start="20261130160000 -0600" stop="20261130170000 -0600" channel="Tvn14.cr">
+    <title>Tal como somos – RTAL</title>
+  </programme>
+  <programme start="20261130170000 -0600" stop="20261130180000 -0600" channel="Tvn14.cr">
+    <title>Tardeándola</title>
+  </programme>
+  <programme start="20261130180000 -0600" stop="20261130190000 -0600" channel="Tvn14.cr">
+    <title>TVN Noticias</title>
+  </programme>
+  <programme start="20261130190000 -0600" stop="20261130200000 -0600" channel="Tvn14.cr">
+    <title>Lo Que Suena</title>
+  </programme>
+  <programme start="20261130200000 -0600" stop="20261130203000 -0600" channel="Tvn14.cr">
+    <title>El Andariego + Visión Deportiva</title>
+  </programme>
+  <programme start="20261130203000 -0600" stop="20261130220000 -0600" channel="Tvn14.cr">
+    <title>Palco Norte</title>
+  </programme>
+  <programme start="20261130220000 -0600" stop="20261130230000 -0600" channel="Tvn14.cr">
+    <title>Futbol entre lineas -RTAL</title>
+  </programme>
+  <programme start="20261130230000 -0600" stop="20261201000000 -0600" channel="Tvn14.cr">
+    <title>TVN Noticias (Repetición)</title>
   </programme>
 </tv>

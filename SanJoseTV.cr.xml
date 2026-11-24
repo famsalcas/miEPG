@@ -3,18 +3,6 @@
   <channel id="SanJoseTV.cr">
     <display-name>San Jose TV</display-name>
   </channel>
-  <programme start="20261123010000 -0600" stop="20261123080000 -0600" channel="SanJoseTV.cr">
-    <title>Hermano Salvador Gomez</title>
-  </programme>
-  <programme start="20261123080000 -0600" stop="20261123090000 -0600" channel="SanJoseTV.cr">
-    <title>Radio Revista Vida y Esperanza</title>
-  </programme>
-  <programme start="20261123080000 -0600" stop="20261123190000 -0600" channel="SanJoseTV.cr">
-    <title>Radio Revista Vida y Esperanza</title>
-  </programme>
-  <programme start="20261123190000 -0600" stop="20261124080000 -0600" channel="SanJoseTV.cr">
-    <title>Radio Revista Vida y Esperanza</title>
-  </programme>
   <programme start="20261124080000 -0600" stop="20261124190000 -0600" channel="SanJoseTV.cr">
     <title>Radio Revista Vida y Esperanza</title>
   </programme>
@@ -108,7 +96,19 @@
   <programme start="20261129000000 -0600" stop="20261129173000 -0600" channel="SanJoseTV.cr">
     <title>Música y Prédicas</title>
   </programme>
-  <programme start="20261129173000 -0600" stop="20261129183000 -0600" channel="SanJoseTV.cr">
+  <programme start="20261129173000 -0600" stop="20261130010000 -0600" channel="SanJoseTV.cr">
     <title>Santo Rosario y Santa Misa</title>
+  </programme>
+  <programme start="20261130010000 -0600" stop="20261130080000 -0600" channel="SanJoseTV.cr">
+    <title>Hermano Salvador Gomez</title>
+  </programme>
+  <programme start="20261130080000 -0600" stop="20261130090000 -0600" channel="SanJoseTV.cr">
+    <title>Radio Revista Vida y Esperanza</title>
+  </programme>
+  <programme start="20261130080000 -0600" stop="20261130190000 -0600" channel="SanJoseTV.cr">
+    <title>Radio Revista Vida y Esperanza</title>
+  </programme>
+  <programme start="20261130190000 -0600" stop="20261130200000 -0600" channel="SanJoseTV.cr">
+    <title>Radio Revista Vida y Esperanza</title>
   </programme>
 </tv>

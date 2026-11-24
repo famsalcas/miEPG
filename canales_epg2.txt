@@ -5,22 +5,21 @@ Antena 3,Antena 3,https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb0
 Cuatro,Cuatro,https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png
 Telecinco,Telecinco,https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png
 La Sexta,La Sexta,https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png
-LA SÉPTIMA,LA SÉPTIMA,https://media.tvup.cloud/channels/6ae9c557d63a8a80c5f5ad06logoColor_1793952394758.png
-Aragón TV,Aragón TV,https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png
-TVG,TVG,https://media.tvup.cloud/canales/color_lg_5d777d87a9824d0056b02a67.png
-Canal Sur,Canal Sur,https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png
-ETB2,ETB2,https://media.tvup.cloud/canales/color_lg_5c1762f0a69b842193852d54_1775735609226.png
-Telemadrid,Telemadrid,https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png
-À Punt,À Punt,https://media.tvup.cloud/canales/5cb43c78aada4d004cda83a2logoColor.png
-TPA7,TPA7,https://media.tvup.cloud/canales/color_lg_5c013700b7adda22348eab19.png
 Canal Extremadura,Canal Extremadura,https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png
+Canal Sur,Canal Sur,https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png
 TV3,TV3,https://media.tvup.cloud/canales/color_lg_5a314e548e26040be8a9f3fd.png
+Aragón TV,Aragón TV,https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png
 IB3,IB3,https://media.tvup.cloud/canales/5afeab43d2fc610babd2b87flogoColor.png
+ETB2,ETB2,https://media.tvup.cloud/canales/color_lg_5c1762f0a69b842193852d54_1775735609226.png
+À Punt,À Punt,https://media.tvup.cloud/canales/5cb43c78aada4d004cda83a2logoColor.png
+TVG,TVG,https://media.tvup.cloud/canales/color_lg_5d777d87a9824d0056b02a67.png
+Telemadrid,Telemadrid,https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png
+TPA7,TPA7,https://media.tvup.cloud/canales/color_lg_5c013700b7adda22348eab19.png
 7 Región de Murcia,7 Región de Murcia,https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png
 CMM TV,CMM TV,https://media.tvup.cloud/canales/color_lg_5eb909661a74010063dd01a4.png
 TV Canaria,TV Canaria,https://media.tvup.cloud/canales/color_lg_5f436bcafd67260066323ae5.png
-ETB1,ETB1,https://media.tvup.cloud/canales/color_lg_5c1761caa69b842193852d50_1775735557128.png
 Super 3-33,Super 3-33,https://media.tvup.cloud/canales/color_lg_5afeb829d2fc610babd2b88f.png
+ETB1,ETB1,https://media.tvup.cloud/canales/color_lg_5c1761caa69b842193852d50_1775735557128.png
 Andalucía TV,Andalucía TV,https://media.tvup.cloud/canales/color_lg_5cbcb460f75662004cbb5040.png
 TPA8,TPA8,https://media.tvup.cloud/canales/color_lg_5efc32cc377b9a00658da210.png
 TVG 2,TVG 2,https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.png
@@ -128,6 +127,7 @@ Tennis Channel,Tennis Channel,https://media.tvup.cloud/canales/color_lg_6641c6c0
 Red Bull TV,Red Bull TV,https://media.tvup.cloud/canales/color_lg_5c4352438c3e78047f57c408.png
 Rugby Spain,Rugby Spain,https://media.tvup.cloud/canales/color_lg_67ea5bd64f9cb1be71461795_1750846676105.png
 Surf Channel TV,Surf Channel TV,https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3_1731408353544.png
+Wedo Cars,Wedo Cars,https://media.tvup.cloud/channels/6af430d748d5369301b4baf4logoColor_1795443988616.png
 INTROUBLE,INTROUBLE,https://media.tvup.cloud/canales/color_lg_67a0a9927668774da5215303_1739965102633.png
 Boing,Boing,https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png
 Clan,Clan,https://media.tvup.cloud/canales/color_lg_5af069f7e05c6c75f9537c3d_1777295907627.png
@@ -195,7 +195,6 @@ OAN Plus,OAN Plus,https://media.tvup.cloud/canales/color_lg_62bb0117b1ff2c0026da
 Bloomberg Originals,Bloomberg Originals,https://media.tvup.cloud/canales/color_lg_6731ebee592b6de6d6789d04_1737111214259.png
 BFM TV,BFM TV,https://media.tvup.cloud/canales/color_lg_5f901eb373c9880074cc406f.png
 1+1 News,1+1 News,https://media.tvup.cloud/canales/color_lg_67b4673312c340d44a9a4090_1740572313860.png
-CGTN-E,CGTN-E,https://media.tvup.cloud/channels/6aabd61af0ede66b08878fd2logoColor.png
 Al Jazeera Arabic,Al Jazeera Arabic,https://media.tvup.cloud/canales/5c6d7d27a1759118f52096c6logoColor.png
 TRT Arabi,TRT Arabi,https://media.tvup.cloud/canales/5cb8469bf75662004cbb4481logoColor.png
 TV3 CAT,TV3 CAT,https://media.tvup.cloud/canales/5c59a481df377c004c5519aalogoColor.png
