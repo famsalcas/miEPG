@@ -81,6 +81,7 @@
 608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17,Todo Crimen,https://provider-static.plex.tv/epg/cms/production/1861c959-0e05-4dd7-83c2-91966163cc95/TODO_CRIMEN_white__1_.png
 608049aefa2b8ae93c2c3a63-69a516217c245b3390e8a4d2,Delito,https://provider-static.plex.tv/epg/cms/production/b2a18d55-c1c1-47d9-8bfc-50f002b4c030/DelitoLight_Logo__4__RED_RDX.png
 608049aefa2b8ae93c2c3a63-691d582984325d49bfa06ab2,FreeTV Clásico,https://provider-static.plex.tv/epg/cms/production/48a7973c-64ac-46af-9e9d-6d93b06fbeba/Free-TV_Clasico_1500X1000_dark_and_light.png
+608049aefa2b8ae93c2c3a63-6ad2b88c301d72f12e9d1c05,Tock Tock Movies,https://provider-static.plex.tv/epg/cms/production/6ec2cbdc-9f4f-4708-9000-531e163af8fa/TockTock_logo_dark-bg_1500x1000.png
 608049aefa2b8ae93c2c3a63-6977ff0c5d94f0bdc7bdd994,Historias de Corazón,https://provider-static.plex.tv/epg/cms/production/2e606d88-2546-475c-a410-962c4143fc36/HDC_logo_light_-_Jordan_Warkol.png
 608049aefa2b8ae93c2c3a63-6880001d015fe7e375a1a0a8,Wedotv Amor Piel Salvaje,https://provider-static.plex.tv/epg/cms/production/7aa34d17-de26-4b64-b4cc-628d572de91f/PielLight_Logo__1_.png
 608049aefa2b8ae93c2c3a63-666e1c83d91d13cb4c8cbb71,Mi Casa,https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png
@@ -143,8 +144,8 @@
 608049aefa2b8ae93c2c3a63-6abd4743e1b65dffbc995e44,NEWSMAX,https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png
 608049aefa2b8ae93c2c3a63-6aaa2279083227098739435f,Nomad Travel,https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png
 608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353,Real Emergency,https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png
-608049aefa2b8ae93c2c3a63-6227c215c9f485cc7afe8c41,Surfer TV,https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png
-608049aefa2b8ae93c2c3a63-62280162c9f485cc7afe8c46,Powder TV,https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png
+608049aefa2b8ae93c2c3a63-6227c215c9f485cc7afe8c41,Surfer TV,https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png
+608049aefa2b8ae93c2c3a63-62280162c9f485cc7afe8c46,Powder TV,https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png
 608049aefa2b8ae93c2c3a63-6a9512a7f534d4312a699c22,SWAC TV,https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png
 608049aefa2b8ae93c2c3a63-6a8786c4fa0d0293e2681b7c,GrowthDay Network,https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png
 608049aefa2b8ae93c2c3a63-6a3c2c8c14e447db7984cc3a,Billboard Español TV,https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png
