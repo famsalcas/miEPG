@@ -337,7 +337,6 @@ ArkansasRazorbacks.ncaaf,NCAAF - Arkansas Razorbacks,https://a.espncdn.com/i/tea
 AuburnTigers.ncaaf,NCAAF - Auburn Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/2.png
 BYUCougars.ncaaf,NCAAF - BYU Cougars,https://a.espncdn.com/i/teamlogos/ncaa/500/252.png
 BaylorBears.ncaaf,NCAAF - Baylor Bears,https://a.espncdn.com/i/teamlogos/ncaa/500/239.png
-BoiseStateBroncos.ncaaf,NCAAF - Boise State Broncos,https://a.espncdn.com/i/teamlogos/ncaa/500/68.png
 BostonCollegeEagles.ncaaf,NCAAF - Boston College Eagles,https://a.espncdn.com/i/teamlogos/ncaa/500/103.png
 CaliforniaGoldenBears.ncaaf,NCAAF - California Golden Bears,https://a.espncdn.com/i/teamlogos/ncaa/500/25.png
 CincinnatiBearcats.ncaaf,NCAAF - Cincinnati Bearcats,https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png
@@ -357,7 +356,6 @@ KansasJayhawks.ncaaf,NCAAF - Kansas Jayhawks,https://a.espncdn.com/i/teamlogos/n
 KansasStateWildcats.ncaaf,NCAAF - Kansas State Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png
 KentuckyWildcats.ncaaf,NCAAF - Kentucky Wildcats,https://a.espncdn.com/i/teamlogos/ncaa/500/96.png
 LSUTigers.ncaaf,NCAAF - LSU Tigers,https://a.espncdn.com/i/teamlogos/ncaa/500/99.png
-LibertyFlames.ncaaf,NCAAF - Liberty Flames,https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png
 LouisvilleCardinals.ncaaf,NCAAF - Louisville Cardinals,https://a.espncdn.com/i/teamlogos/ncaa/500/97.png
 MarylandTerrapins.ncaaf,NCAAF - Maryland Terrapins,https://a.espncdn.com/i/teamlogos/ncaa/500/120.png
 MiamiHurricanes.ncaaf,NCAAF - Miami Hurricanes,https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png

@@ -531,3 +531,4 @@ dreamworks.la,DREAMWORKS,http://media.gvp.telefonica.com/storageArea0/IMAGES/00/
 689,ENT Totalmusic,
 690,ENT Totalmusic 2000s,
 691,ENT Totalmusic 80s,
+692,CL | Galactika Media,

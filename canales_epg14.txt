@@ -341,6 +341,7 @@
 5bb1ad55268cae539bcedb08,The Pet Collective,https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png
 664fd48894d5580008e45e7c,Dog Whisperer with Cesar Millan,https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png
 5ca6748a37b88b269472dad9,Nick Jr. Pluto TV,https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png
+6afb376f5db95e3dacdebad9,Paw Patrol Holiday Fireplace,https://images.pluto.tv/channels/6afb376f5db95e3dacdebad9/colorLogoPNG_1794848947116.png
 65e23f340d4561000821540d,Mister Rogers' Neighborhood,https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png
 5d14fb6c84dd37df3b4290c5,Peppa Pig,https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png
 6a70da97a4bf6cded4fdaf53,Dora TV,https://images.pluto.tv/channels/6a70da97a4bf6cded4fdaf53/colorLogoPNG_1786461439766.png

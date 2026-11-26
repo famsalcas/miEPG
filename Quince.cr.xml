@@ -3,108 +3,6 @@
   <channel id="Quince.cr">
     <display-name>UCR Canal 15</display-name>
   </channel>
-  <programme start="20261125000000 -0600" stop="20261125020000 -0600" channel="Quince.cr">
-    <title>Por siempre cine</title>
-  </programme>
-  <programme start="20261125020000 -0600" stop="20261125023000 -0600" channel="Quince.cr">
-    <title>A la gorra ni quien corra</title>
-  </programme>
-  <programme start="20261125023000 -0600" stop="20261125030000 -0600" channel="Quince.cr">
-    <title>NCC: Noticiero Cientifico y Cultural</title>
-  </programme>
-  <programme start="20261125030000 -0600" stop="20261125033000 -0600" channel="Quince.cr">
-    <title>Centinelas de la salud</title>
-  </programme>
-  <programme start="20261125033000 -0600" stop="20261125040000 -0600" channel="Quince.cr">
-    <title>Conciencia</title>
-  </programme>
-  <programme start="20261125040000 -0600" stop="20261125050000 -0600" channel="Quince.cr">
-    <title>Sexo luego existo</title>
-  </programme>
-  <programme start="20261125050000 -0600" stop="20261125053000 -0600" channel="Quince.cr">
-    <title>Música Progresiva</title>
-  </programme>
-  <programme start="20261125053000 -0600" stop="20261125060000 -0600" channel="Quince.cr">
-    <title>Centinelas de la salud</title>
-  </programme>
-  <programme start="20261125060000 -0600" stop="20261125063000 -0600" channel="Quince.cr">
-    <title>Imágenes de Iberoamérica</title>
-  </programme>
-  <programme start="20261125063000 -0600" stop="20261125070000 -0600" channel="Quince.cr">
-    <title>GlobalES</title>
-  </programme>
-  <programme start="20261125070000 -0600" stop="20261125080000 -0600" channel="Quince.cr">
-    <title>Desayunos de Radio Universidad</title>
-  </programme>
-  <programme start="20261125080000 -0600" stop="20261125083000 -0600" channel="Quince.cr">
-    <title>forjadores</title>
-  </programme>
-  <programme start="20261125083000 -0600" stop="20261125090000 -0600" channel="Quince.cr">
-    <title>Cultura 21</title>
-  </programme>
-  <programme start="20261125090000 -0600" stop="20261125093000 -0600" channel="Quince.cr">
-    <title>¿Cómo te afecta?</title>
-  </programme>
-  <programme start="20261125093000 -0600" stop="20261125100000 -0600" channel="Quince.cr">
-    <title>Libros al aire</title>
-  </programme>
-  <programme start="20261125100000 -0600" stop="20261125110000 -0600" channel="Quince.cr">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261125110000 -0600" stop="20261125113000 -0600" channel="Quince.cr">
-    <title>Forjadores</title>
-  </programme>
-  <programme start="20261125113000 -0600" stop="20261125120000 -0600" channel="Quince.cr">
-    <title>GLobalES</title>
-  </programme>
-  <programme start="20261125120000 -0600" stop="20261125123000 -0600" channel="Quince.cr">
-    <title>DW Noticias</title>
-  </programme>
-  <programme start="20261125123000 -0600" stop="20261125130000 -0600" channel="Quince.cr">
-    <title>RT: El África de Lumumba</title>
-  </programme>
-  <programme start="20261125130000 -0600" stop="20261125150000 -0600" channel="Quince.cr">
-    <title>Por siempre cine</title>
-  </programme>
-  <programme start="20261125150000 -0600" stop="20261125153000 -0600" channel="Quince.cr">
-    <title>Imágenes de Iberoamérica</title>
-  </programme>
-  <programme start="20261125153000 -0600" stop="20261125160000 -0600" channel="Quince.cr">
-    <title>GlobalES</title>
-  </programme>
-  <programme start="20261125160000 -0600" stop="20261125163000 -0600" channel="Quince.cr">
-    <title>Forjadores</title>
-  </programme>
-  <programme start="20261125163000 -0600" stop="20261125170000 -0600" channel="Quince.cr">
-    <title>A la gorra ni quien corra</title>
-  </programme>
-  <programme start="20261125170000 -0600" stop="20261125180000 -0600" channel="Quince.cr">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261125180000 -0600" stop="20261125190000 -0600" channel="Quince.cr">
-    <title>Interferencia</title>
-  </programme>
-  <programme start="20261125190000 -0600" stop="20261125193000 -0600" channel="Quince.cr">
-    <title>DW Noticias</title>
-  </programme>
-  <programme start="20261125193000 -0600" stop="20261125200000 -0600" channel="Quince.cr">
-    <title>NCC: Noticiero Cientifico y Cultural</title>
-  </programme>
-  <programme start="20261125200000 -0600" stop="20261125203000 -0600" channel="Quince.cr">
-    <title>Centinelas de la salud</title>
-  </programme>
-  <programme start="20261125203000 -0600" stop="20261125210000 -0600" channel="Quince.cr">
-    <title>Conciencia</title>
-  </programme>
-  <programme start="20261125210000 -0600" stop="20261125220000 -0600" channel="Quince.cr">
-    <title>Joyas de Guanajuato</title>
-  </programme>
-  <programme start="20261125220000 -0600" stop="20261125230000 -0600" channel="Quince.cr">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261125230000 -0600" stop="20261126000000 -0600" channel="Quince.cr">
-    <title>Música Progresiva</title>
-  </programme>
   <programme start="20261126000000 -0600" stop="20261126020000 -0600" channel="Quince.cr">
     <title>Por siempre cine</title>
   </programme>
@@ -652,6 +550,108 @@
     <title>Documental</title>
   </programme>
   <programme start="20261201230000 -0600" stop="20261202000000 -0600" channel="Quince.cr">
+    <title>Música Progresiva</title>
+  </programme>
+  <programme start="20261202000000 -0600" stop="20261202020000 -0600" channel="Quince.cr">
+    <title>Por siempre cine</title>
+  </programme>
+  <programme start="20261202020000 -0600" stop="20261202023000 -0600" channel="Quince.cr">
+    <title>A la gorra ni quien corra</title>
+  </programme>
+  <programme start="20261202023000 -0600" stop="20261202030000 -0600" channel="Quince.cr">
+    <title>NCC: Noticiero Cientifico y Cultural</title>
+  </programme>
+  <programme start="20261202030000 -0600" stop="20261202033000 -0600" channel="Quince.cr">
+    <title>Centinelas de la salud</title>
+  </programme>
+  <programme start="20261202033000 -0600" stop="20261202040000 -0600" channel="Quince.cr">
+    <title>Conciencia</title>
+  </programme>
+  <programme start="20261202040000 -0600" stop="20261202050000 -0600" channel="Quince.cr">
+    <title>Sexo luego existo</title>
+  </programme>
+  <programme start="20261202050000 -0600" stop="20261202053000 -0600" channel="Quince.cr">
+    <title>Música Progresiva</title>
+  </programme>
+  <programme start="20261202053000 -0600" stop="20261202060000 -0600" channel="Quince.cr">
+    <title>Centinelas de la salud</title>
+  </programme>
+  <programme start="20261202060000 -0600" stop="20261202063000 -0600" channel="Quince.cr">
+    <title>Imágenes de Iberoamérica</title>
+  </programme>
+  <programme start="20261202063000 -0600" stop="20261202070000 -0600" channel="Quince.cr">
+    <title>GlobalES</title>
+  </programme>
+  <programme start="20261202070000 -0600" stop="20261202080000 -0600" channel="Quince.cr">
+    <title>Desayunos de Radio Universidad</title>
+  </programme>
+  <programme start="20261202080000 -0600" stop="20261202083000 -0600" channel="Quince.cr">
+    <title>forjadores</title>
+  </programme>
+  <programme start="20261202083000 -0600" stop="20261202090000 -0600" channel="Quince.cr">
+    <title>Cultura 21</title>
+  </programme>
+  <programme start="20261202090000 -0600" stop="20261202093000 -0600" channel="Quince.cr">
+    <title>¿Cómo te afecta?</title>
+  </programme>
+  <programme start="20261202093000 -0600" stop="20261202100000 -0600" channel="Quince.cr">
+    <title>Libros al aire</title>
+  </programme>
+  <programme start="20261202100000 -0600" stop="20261202110000 -0600" channel="Quince.cr">
+    <title>Documental</title>
+  </programme>
+  <programme start="20261202110000 -0600" stop="20261202113000 -0600" channel="Quince.cr">
+    <title>Forjadores</title>
+  </programme>
+  <programme start="20261202113000 -0600" stop="20261202120000 -0600" channel="Quince.cr">
+    <title>GLobalES</title>
+  </programme>
+  <programme start="20261202120000 -0600" stop="20261202123000 -0600" channel="Quince.cr">
+    <title>DW Noticias</title>
+  </programme>
+  <programme start="20261202123000 -0600" stop="20261202130000 -0600" channel="Quince.cr">
+    <title>RT: El África de Lumumba</title>
+  </programme>
+  <programme start="20261202130000 -0600" stop="20261202150000 -0600" channel="Quince.cr">
+    <title>Por siempre cine</title>
+  </programme>
+  <programme start="20261202150000 -0600" stop="20261202153000 -0600" channel="Quince.cr">
+    <title>Imágenes de Iberoamérica</title>
+  </programme>
+  <programme start="20261202153000 -0600" stop="20261202160000 -0600" channel="Quince.cr">
+    <title>GlobalES</title>
+  </programme>
+  <programme start="20261202160000 -0600" stop="20261202163000 -0600" channel="Quince.cr">
+    <title>Forjadores</title>
+  </programme>
+  <programme start="20261202163000 -0600" stop="20261202170000 -0600" channel="Quince.cr">
+    <title>A la gorra ni quien corra</title>
+  </programme>
+  <programme start="20261202170000 -0600" stop="20261202180000 -0600" channel="Quince.cr">
+    <title>Documental</title>
+  </programme>
+  <programme start="20261202180000 -0600" stop="20261202190000 -0600" channel="Quince.cr">
+    <title>Interferencia</title>
+  </programme>
+  <programme start="20261202190000 -0600" stop="20261202193000 -0600" channel="Quince.cr">
+    <title>DW Noticias</title>
+  </programme>
+  <programme start="20261202193000 -0600" stop="20261202200000 -0600" channel="Quince.cr">
+    <title>NCC: Noticiero Cientifico y Cultural</title>
+  </programme>
+  <programme start="20261202200000 -0600" stop="20261202203000 -0600" channel="Quince.cr">
+    <title>Centinelas de la salud</title>
+  </programme>
+  <programme start="20261202203000 -0600" stop="20261202210000 -0600" channel="Quince.cr">
+    <title>Conciencia</title>
+  </programme>
+  <programme start="20261202210000 -0600" stop="20261202220000 -0600" channel="Quince.cr">
+    <title>Joyas de Guanajuato</title>
+  </programme>
+  <programme start="20261202220000 -0600" stop="20261202230000 -0600" channel="Quince.cr">
+    <title>Documental</title>
+  </programme>
+  <programme start="20261202230000 -0600" stop="20261203000000 -0600" channel="Quince.cr">
     <title>Música Progresiva</title>
   </programme>
 </tv>
