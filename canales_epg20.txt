@@ -1,2 +1,2 @@
 # Fuente: https://github.com/apistech/project/raw/refs/heads/main/playlists/tcl_epg.xml
-AM816556,Dog The Bounty Hunter,https://tcl-channel-cdn.ideonow.com/static/channel/AM816556/17488691219420701-Dog_the_Bounty_Hunter_SC_logo_color.jpg
+WU303357,ION,https://tcl-channel-cdn.ideonow.com/static/channel/WU303357/12060283118424366-1721756468165646293-logo_color.png

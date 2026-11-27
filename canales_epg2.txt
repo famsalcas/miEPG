@@ -288,6 +288,7 @@ Cooking Panda,Cooking Panda,https://media.tvup.cloud/canales/color_lg_6294d04cff
 Heritage+,Heritage+,https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png
 Wedo Big Stories,Wedo Big Stories,https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png
 Xtrem Sports,Xtrem Sports,https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png
+Inazuma Eleven,Inazuma Eleven,https://media.tvup.cloud/channels/6b0802b4af94b21595c30f83logoColor_1795703507422.png
 SIC Internacional,SIC Internacional,https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png
 SIC Noticias,SIC Noticias,https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png
 RTPi,RTPi,https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png
